@@ -2,7 +2,7 @@
 
 Overzicht van organisaties, samenwerkingsverbanden, architecturen en standaarden binnen het Nederlandse gemeentelijke ICT-landschap.
 
-![Organisaties en standaarden in gemeenteland](docs/gemeentelijk-landschap.svg)
+![Organisaties en standaarden in gemeenteland](docs/gemeentelijk-landschap.png)
 
 ## Toelichting
 
