@@ -1,0 +1,200 @@
+<title>Common Ground Landschap</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: horizontale lagen (van beleid naar uitvoering) als een plaat; elke laag een rij organisatiekaarten met rol + producten */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --fg:#17212b; --muted:#5a6773; --line:#d6dde3;
+  --accent:#c8790f; --accent-soft:#fbefdc;
+  --l1:#2f4f8a; --l2:#13706b; --l3:#7a4a9a; --l4:#a3442f; --l5:#47602a; --l6:#4b5560;
+  --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161c; --surface:#19212a; --fg:#e6ebf0; --muted:#9aa7b3; --line:#2b3642;
+  --accent:#e9a446; --accent-soft:#3a2c17;
+  --l1:#7f9fe0; --l2:#4fc0b6; --l3:#c099e0; --l4:#ec8b72; --l5:#9fc56f; --l6:#a9b4bf; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161c; --surface:#19212a; --fg:#e6ebf0; --muted:#9aa7b3; --line:#2b3642;
+  --accent:#e9a446; --accent-soft:#3a2c17;
+  --l1:#7f9fe0; --l2:#4fc0b6; --l3:#c099e0; --l4:#ec8b72; --l5:#9fc56f; --l6:#a9b4bf; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:20px;padding-block:28px 48px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:end;gap:16px;margin-bottom:22px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,4vw,42px);line-height:1.05;margin:0;text-wrap:balance}
+.sub{color:var(--muted);max-width:62ch;margin:8px 0 0}
+.stamp{font-family:var(--mono);font-size:12px;color:var(--muted);text-align:right}
+.filter{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 18px;align-items:center}
+.filter span{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-right:4px}
+.filter button{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:4px 11px;cursor:pointer}
+.filter button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#1b1206}
+.filter button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.layer{display:grid;grid-template-columns:170px 1fr;gap:14px;padding-block:14px;border-top:1px solid var(--line)}
+.layer-h{min-width:0}
+.layer-h .tag{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--c)}
+.layer-h h2{font-family:var(--display);font-weight:600;font-size:19px;margin:2px 0 4px;line-height:1.15}
+.layer-h p{margin:0;color:var(--muted);font-size:13px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px;min-width:0}
+.card{background:var(--surface);border:1px solid var(--line);border-top:3px solid var(--c);border-radius:6px;padding:12px 14px;min-width:0;transition:opacity .2s}
+.card h3{margin:0;font-family:var(--display);font-size:17px;font-weight:700;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.card h3 small{font-family:var(--body);font-weight:400;font-size:12.5px;color:var(--muted)}
+.card p{margin:6px 0 8px;font-size:14px}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font-family:var(--mono);font-size:11.5px;padding:2px 7px;border-radius:4px;background:var(--bg);border:1px solid var(--line);color:var(--fg)}
+.card.dim{opacity:.22}
+.card.hit{box-shadow:0 0 0 2px var(--accent)}
+.five{margin-top:26px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px 18px}
+.five h2{font-family:var(--display);font-size:20px;margin:0 0 4px}
+.five > p{margin:0 0 12px;color:var(--muted);font-size:14px}
+.stack{display:grid;gap:6px}
+.row{display:grid;grid-template-columns:150px 1fr;gap:12px;align-items:center;padding:8px 10px;border-radius:5px;background:var(--bg)}
+.row b{font-family:var(--display);font-size:15px}
+.row div{font-size:13.5px;min-width:0}
+.notes{margin-top:22px;font-size:13px;color:var(--muted);max-width:90ch}
+.notes a{color:var(--fg)}
+@media (max-width:720px){
+  .layer{grid-template-columns:1fr}
+  .row{grid-template-columns:1fr;gap:2px}
+  .stamp{text-align:left}
+}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
+</style>
+
+<div class="wrap">
+<header>
+  <div>
+    <h1>Common Ground landschap</h1>
+    <p class="sub">Wie doet wat rond Common Ground: van beleid en standaarden tot bronhouders, gemeentelijke samenwerkingsverbanden en de bouwers van componenten. Klik op een thema om te zien welke organisaties eraan bijdragen.</p>
+  </div>
+  <div class="stamp">Stand: oktober 2026<br>o.b.v. openbare informatie</div>
+</header>
+
+<nav class="filter" aria-label="Filter op thema">
+  <span>Thema</span>
+  <button type="button" id="f-all" data-f="all" aria-pressed="true">Alles</button>
+  <button type="button" id="f-api" data-f="api" aria-pressed="false">API's &amp; standaarden</button>
+  <button type="button" id="f-zgw" data-f="zgw" aria-pressed="false">Zaakgericht werken</button>
+  <button type="button" id="f-data" data-f="data" aria-pressed="false">Data bij de bron</button>
+  <button type="button" id="f-con" data-f="con" aria-pressed="false">Connectiviteit (FSC)</button>
+  <button type="button" id="f-arch" data-f="arch" aria-pressed="false">Architectuur</button>
+  <button type="button" id="f-inkoop" data-f="inkoop" aria-pressed="false">Inkoop &amp; beheer</button>
+</nav>
+
+<section class="layer" style="--c:var(--l1)">
+  <div class="layer-h"><div class="tag">Laag 1</div><h2>Beleid &amp; regie</h2><p>Kaders, financiering, bestuurlijke afspraken.</p></div>
+  <div class="cards">
+    <article class="card" data-t="api data con arch"><h3>BZK <small>Min. Binnenlandse Zaken</small></h3>
+      <p>Stelselverantwoordelijk voor de digitale overheid. Financiert en stuurt rijksbrede bouwstenen en het Federatief Datastelsel.</p>
+      <div class="chips"><span class="chip">Federatief Datastelsel</span><span class="chip">Wet digitale overheid</span><span class="chip">MIDO</span><span class="chip">opdrachtgever Logius</span></div></article>
+    <article class="card" data-t="api zgw data con arch inkoop"><h3>VNG <small>Vereniging van Nederlandse Gemeenten</small></h3>
+      <p>Initiatiefnemer en regisseur van Common Ground. Bundelt gemeenten in de Gezamenlijke Gemeentelijke Uitvoering (GGU), incl. voormalig VNG Realisatie.</p>
+      <div class="chips"><span class="chip">Transitieprogramma CG</span><span class="chip">GGU</span><span class="chip">GEMMA</span><span class="chip">ZGW API's</span><span class="chip">Haal Centraal</span><span class="chip">GGI-Veilig</span><span class="chip">Samen Organiseren</span></div></article>
+    <article class="card" data-t="zgw inkoop"><h3>Gemeenten <small>± 340</small></h3>
+      <p>Opdrachtgever en afnemer. Bepalen zelf hun tempo van adoptie; grote steden (Amsterdam, Utrecht, Den Haag, Rotterdam) trekken veel componenten.</p>
+      <div class="chips"><span class="chip">eigenaar processen</span><span class="chip">co-financiering</span><span class="chip">Signalen (Amsterdam)</span></div></article>
+  </div>
+</section>
+
+<section class="layer" style="--c:var(--l2)">
+  <div class="layer-h"><div class="tag">Laag 2</div><h2>Standaarden &amp; infrastructuur</h2><p>Afspraken en voorzieningen die iedereen hergebruikt.</p></div>
+  <div class="cards">
+    <article class="card" data-t="api con"><h3>Logius <small>Digitale overheid, BZK</small></h3>
+      <p>Beheert generieke voorzieningen en interoperabiliteitsstandaarden voor de hele overheid.</p>
+      <div class="chips"><span class="chip">FSC-standaard</span><span class="chip">Digikoppeling</span><span class="chip">API Design Rules</span><span class="chip">NL GOV OAuth</span><span class="chip">DigiD / eHerkenning</span><span class="chip">MijnOverheid</span></div></article>
+    <article class="card" data-t="api"><h3>Forum Standaardisatie</h3>
+      <p>Adviseert over open standaarden en beheert de ‘pas toe of leg uit’-lijst, waar o.a. REST-API Design Rules op staan.</p>
+      <div class="chips"><span class="chip">pas toe of leg uit</span><span class="chip">open standaarden</span></div></article>
+    <article class="card" data-t="api data"><h3>Geonovum</h3>
+      <p>Standaarden voor geo-informatie; mede-trekker van het Kennisplatform API's.</p>
+      <div class="chips"><span class="chip">Kennisplatform API's</span><span class="chip">OGC API</span><span class="chip">NL-SBB</span></div></article>
+  </div>
+</section>
+
+<section class="layer" style="--c:var(--l3)">
+  <div class="layer-h"><div class="tag">Laag 3</div><h2>Bronhouders</h2><p>Leveren data bij de bron via API's in plaats van kopieën.</p></div>
+  <div class="cards">
+    <article class="card" data-t="data api"><h3>RvIG <small>Rijksdienst voor Identiteitsgegevens</small></h3>
+      <p>Bronhouder van de BRP; biedt bevragen via Haal Centraal-API's.</p>
+      <div class="chips"><span class="chip">BRP API Personen</span><span class="chip">Haal Centraal</span></div></article>
+    <article class="card" data-t="data api"><h3>Kadaster</h3>
+      <p>Bronhouder BRK, beheerder landelijke voorziening BAG en BGT.</p>
+      <div class="chips"><span class="chip">BAG API</span><span class="chip">BRK API</span><span class="chip">PDOK</span></div></article>
+    <article class="card" data-t="data"><h3>KvK &amp; andere basisregistraties</h3>
+      <p>Handelsregister (KvK), RDW, Belastingdienst (WOZ via gemeenten). Samen het stelsel van basisregistraties.</p>
+      <div class="chips"><span class="chip">HR API</span><span class="chip">stelsel basisregistraties</span></div></article>
+  </div>
+</section>
+
+<section class="layer" style="--c:var(--l4)">
+  <div class="layer-h"><div class="tag">Laag 4</div><h2>Gemeentelijke samenwerking</h2><p>Gezamenlijk ontwikkelen, aanbesteden en beheren.</p></div>
+  <div class="cards">
+    <article class="card" data-t="zgw inkoop"><h3>Dimpact <small>coöperatie van gemeenten</small></h3>
+      <p>Ontwikkelt en beheert een Common Ground-platform voor aangesloten gemeenten; stond aan de basis van Open Zaak.</p>
+      <div class="chips"><span class="chip">PodiumD</span><span class="chip">ZAC</span><span class="chip">Open Zaak (mede-initiatief)</span></div></article>
+    <article class="card" data-t="inkoop"><h3>Regionale SSC's &amp; GR'en</h3>
+      <p>Shared service centers en gemeenschappelijke regelingen die componenten samen afnemen en hosten.</p>
+      <div class="chips"><span class="chip">gezamenlijke hosting</span><span class="chip">regionaal beheer</span></div></article>
+    <article class="card" data-t="zgw api inkoop"><h3>Componentcommunities</h3>
+      <p>Gemeenten die per product een gebruikersgroep en roadmap delen, vaak met de VNG als regisseur.</p>
+      <div class="chips"><span class="chip">Open Zaak</span><span class="chip">Open Formulieren</span><span class="chip">Open Klant</span><span class="chip">Signalen</span><span class="chip">Open Inwoner</span></div></article>
+  </div>
+</section>
+
+<section class="layer" style="--c:var(--l5)">
+  <div class="layer-h"><div class="tag">Laag 5</div><h2>Kennis &amp; innovatie</h2><p>Experimenteren, delen, vindbaar maken.</p></div>
+  <div class="cards">
+    <article class="card" data-t="api data con"><h3>ICTU</h3>
+      <p>Uitvoeringsorganisatie voor de overheid; voert o.a. programma's voor BZK uit.</p>
+      <div class="chips"><span class="chip">Digilab</span><span class="chip">developer.overheid.nl</span></div></article>
+    <article class="card" data-t="api data con"><h3>Digilab</h3>
+      <p>Proeftuin van BZK/ICTU voor het Federatief Datastelsel; test o.a. FSC en datadelen in de praktijk.</p>
+      <div class="chips"><span class="chip">FDS-experimenten</span><span class="chip">open source</span></div></article>
+    <article class="card" data-t="api"><h3>Developer Overheid &amp; Kennisplatform API's</h3>
+      <p>Register van overheids-API's en open source, plus het platform waar de API-strategie wordt afgestemd.</p>
+      <div class="chips"><span class="chip">API-register</span><span class="chip">NL API Strategie</span></div></article>
+  </div>
+</section>
+
+<section class="layer" style="--c:var(--l6)">
+  <div class="layer-h"><div class="tag">Laag 6</div><h2>Markt</h2><p>Bouwers, implementatiepartners en leveranciers.</p></div>
+  <div class="cards">
+    <article class="card" data-t="zgw api"><h3>Open-source bouwers</h3>
+      <p>Ontwikkelen en onderhouden Common Ground-componenten in opdracht van gemeenten.</p>
+      <div class="chips"><span class="chip">Maykin</span><span class="chip">Conduction</span><span class="chip">Lifely / INFO</span><span class="chip">Exxellence</span></div></article>
+    <article class="card" data-t="zgw inkoop"><h3>Traditionele leveranciers</h3>
+      <p>Pakketleveranciers die hun suites ontsluiten via ZGW- en Haal Centraal-API's.</p>
+      <div class="chips"><span class="chip">Centric</span><span class="chip">PinkRoccade</span><span class="chip">Visma Roxit</span></div></article>
+    <article class="card" data-t="con inkoop"><h3>Integratie &amp; hosting</h3>
+      <p>Partners voor API-management, FSC-implementatie, cloud- en Kubernetes-hosting.</p>
+      <div class="chips"><span class="chip">integratiepartners</span><span class="chip">SaaS-hosting</span></div></article>
+  </div>
+</section>
+
+<section class="five">
+  <h2>Het vijflagenmodel</h2>
+  <p>De kern van Common Ground: data scheiden van applicaties. Hieronder per laag wie de belangrijkste bijdrage levert.</p>
+  <div class="stack">
+    <div class="row"><b>5 · Interactie</b><div>Open Formulieren, Open Inwoner, MijnOverheid — gemeenten, Maykin, Logius</div></div>
+    <div class="row"><b>4 · Proces</b><div>ZAC, Signalen, procesapplicaties — Dimpact, gemeenten, leveranciers</div></div>
+    <div class="row"><b>3 · Integratie</b><div>FSC, Digikoppeling, API-gateways — Logius, Digilab, integratiepartners</div></div>
+    <div class="row"><b>2 · Services</b><div>ZGW API's, Haal Centraal, Objecten-API — VNG, RvIG, Kadaster</div></div>
+    <div class="row"><b>1 · Data</b><div>Basisregistraties en gemeentelijke bronnen — bronhouders en gemeenten</div></div>
+  </div>
+</section>
+
+<p class="notes">Rollen kunnen verschuiven; de VNG heeft Common Ground sinds 2024 als transitieprogramma onder de GGU gebracht. Controleer actuele details bij de organisaties zelf, bijvoorbeeld via <a href="https://vng.nl/rubrieken/onderwerpen/samen-organiseren">VNG Samen Organiseren</a> en <a href="https://vng.nl/artikelen/common-ground-zonder-samenwerking-redden-we-het-niet">VNG over Common Ground</a>.</p>
+</div>
+
+<script>
+const btns=[...document.querySelectorAll('.filter button')];
+const cards=[...document.querySelectorAll('.card')];
+btns.forEach(b=>b.addEventListener('click',()=>{
+  const f=b.dataset.f;
+  btns.forEach(x=>x.setAttribute('aria-pressed',x===b?'true':'false'));
+  cards.forEach(c=>{
+    const on=f==='all'||c.dataset.t.split(' ').includes(f);
+    c.classList.toggle('dim',!on);
+    c.classList.toggle('hit',on&&f!=='all');
+  });
+}));
+</script>
