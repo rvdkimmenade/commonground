@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:12:05.739Z",
+ "updated": "2026-10-15T18:06:25.062Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -156,6 +156,16 @@
   },
   {
    "source": "Computable",
+   "title": "Azure wordt duurder in Europa: tot 17 procent erbij",
+   "link": "https://www.computable.nl/2026/10/15/azure-wordt-duurder-in-europa-tot-17-procent-erbij/",
+   "date": "2026-10-15T12:01:57.000Z",
+   "desc": "Microsoft verhoogt vanaf 1 februari 2027 de prijzen van geselecteerde virtuele machines en opslagdiensten in zijn cloudplatform Azure. De stijging ligt tussen 8 en 17 procent en geldt voor zeven regio’s.",
+   "cats": [
+    "Cloud & Infrastructure"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Cisco scoort bij PSV, VWS, SZW en NZa huren voor 440 miljoen in (en meer)",
    "link": "https://www.computable.nl/2026/10/15/kort-cisco-scoort-bij-psv-vws-szw-en-nza-huren-voor-440-miljoen-in-en-meer/",
    "date": "2026-10-15T08:38:40.000Z",
@@ -262,36 +272,6 @@
     "Investering",
     "Kort",
     "Sourcing strategy"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kabinet schrijft draaiboek voor cyberaanval op voedselketen",
-   "link": "https://www.computable.nl/2026/10/14/kabinet-schrijft-draaiboek-voor-cyberaanval-op-voedselketen/",
-   "date": "2026-10-14T05:00:00.000Z",
-   "desc": "Aan een landelijk crisisplan voedselzekerheid wordt de laatste hand gelegd. Daarin krijgt ook digitale ontwrichting een plaats. Staatssecretaris Silvio Erkens (Voedselzekerheid) bevestigde dinsdag in de Tweede Kamer dat er voor de voedselketen een draaiboek wordt gemaakt voor cyberincidenten.",
-   "cats": [
-    "Security & Risk",
-    "Application & Data Security",
-    "IT Strategy & Governance",
-    "Network & Endpoint Security",
-    "Overheid",
-    "Cyberaanval",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Voorzichtig herstel bij Ahold Delhaize",
-   "link": "https://www.computable.nl/2026/10/13/voorzichtig-herstel-bij-ahold-delhaize/",
-   "date": "2026-10-13T16:32:34.000Z",
-   "desc": "Ahold Delhaize is voorzichtig begonnen met het weer online brengen van bepaalde it-systemen. De grootgrutter besloot op dinsdagmiddag tot een gecontroleerde herstart. Volgens het supermarktconcern zijn vorderingen gemaakt bij het in kaart brengen en aanpakken van de problemen.",
-   "cats": [
-    "Security & Risk",
-    "Network & Endpoint Security",
-    "hack",
-    "Networking",
-    "Storing"
    ]
   }
  ]
