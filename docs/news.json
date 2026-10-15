@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:34:26.318Z",
+ "updated": "2026-10-15T13:12:05.739Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -156,6 +156,33 @@
   },
   {
    "source": "Computable",
+   "title": "Kort: Cisco scoort bij PSV, VWS, SZW en NZa huren voor 440 miljoen in (en meer)",
+   "link": "https://www.computable.nl/2026/10/15/kort-cisco-scoort-bij-psv-vws-szw-en-nza-huren-voor-440-miljoen-in-en-meer/",
+   "date": "2026-10-15T08:38:40.000Z",
+   "desc": "In dit nieuwsoverzicht: PSV benoemt Cisco tot Official Stadium Innovation Partner, Omron koopt OnLogic, Oracle begint Startup Growth Engine, Source.ag neemt Optimal over en grote inhuurtender VWS, SZW en NZa.",
+   "cats": [
+    "Networking & Connectivity",
+    "AI & Automation",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Industry & OT",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Startups & Scale-ups",
+    "AI",
+    "autonoom",
+    "Hardware",
+    "Industry 4.0",
+    "Inhuur",
+    "Kort",
+    "Overname",
+    "Startups",
+    "Wie gunt wat"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Meer spreiding internet-knooppunten maakt Nederland veiliger",
    "link": "https://www.computable.nl/2026/10/15/meer-spreiding-internet-knooppunten-maakt-nederland-veiliger/",
    "date": "2026-10-15T05:00:00.000Z",
@@ -228,7 +255,13 @@
     "Digital Identity",
     "Identity Governance",
     "Overheid",
-    "Security & Risk"
+    "Security & Risk",
+    "AI",
+    "ai-agent",
+    "Fintech",
+    "Investering",
+    "Kort",
+    "Sourcing strategy"
    ]
   },
   {
@@ -259,22 +292,6 @@
     "hack",
     "Networking",
     "Storing"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kyndryl accepteert verbod op overname van Solvinity",
-   "link": "https://www.computable.nl/2026/10/13/kyndryl-accepteert-verbod-op-overname-van-solvinity/",
-   "date": "2026-10-13T15:15:35.000Z",
-   "desc": "Het kabinet handhaaft het verbod op de voorgenomen overname van Solvinity door het Amerikaanse Kyndryl. De Amsterdamse dienstverlener Solvinity beheert de technische infrastructuur onder DigiD. Kyndryl lijkt definitief af te haken. Dit bedrijf accepteert het besluit.",
-   "cats": [
-    "Overheid",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Soevereiniteit",
-    "DigiD",
-    "Hosting"
    ]
   }
  ]
