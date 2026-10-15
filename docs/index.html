@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gemeentelijk IT-kompas</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: werkplek-startpagina — zoekbalk, nieuwspaneel bovenaan, daaronder linkkolommen per domein */
+:root{
+  --bg:#eef2f1; --surface:#ffffff; --fg:#13201e; --muted:#566663; --line:#d3dcda;
+  --accent:#0f6b5c; --accent-fg:#ffffff; --warm:#b5651d; --chip:#e3ecea;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1615; --surface:#172120; --fg:#e3ecea; --muted:#93a6a2; --line:#273533;
+  --accent:#4cc2ad; --accent-fg:#06201b; --warm:#e7a065; --chip:#1f2c2a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1615; --surface:#172120; --fg:#e3ecea; --muted:#93a6a2; --line:#273533;
+  --accent:#4cc2ad; --accent-fg:#06201b; --warm:#e7a065; --chip:#1f2c2a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45;margin:0}
+a{color:inherit}
+.wrap{max-width:1200px;margin:0 auto;padding-inline:20px;padding-block:24px 48px;display:grid;gap:22px}
+header{display:flex;flex-wrap:wrap;gap:14px 24px;align-items:end;justify-content:space-between}
+.brand .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,4vw,40px);line-height:1.05;margin:4px 0 0;text-wrap:balance}
+.search{flex:1 1 280px;max-width:420px}
+.search label{display:block;font-size:12px;color:var(--muted);margin-bottom:4px}
+.search input{width:100%;font:inherit;padding:9px 12px;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+.search input:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.news{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px 18px}
+.news-h{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:10px}
+.news-h h2{font-family:var(--display);font-size:21px;margin:0}
+.news-h .meta{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+.btn{font:inherit;font-weight:600;font-size:14px;border:0;border-radius:6px;padding:8px 14px;background:var(--accent);color:var(--accent-fg);cursor:pointer}
+.btn[disabled]{opacity:.6;cursor:progress}
+.news ol{list-style:none;margin:0;padding:0;display:grid;gap:2px}
+.news li{display:grid;grid-template-columns:86px 1fr;gap:12px;padding:9px 0;border-top:1px solid var(--line)}
+.news li:first-child{border-top:0}
+.news time{font-family:var(--mono);font-size:12px;color:var(--muted);padding-top:2px}
+.news .t{font-weight:600;text-decoration:none}
+.news .t:hover{text-decoration:underline}
+.news .src{font-family:var(--mono);font-size:11px;color:var(--warm);margin-left:6px}
+.news p{margin:2px 0 0;color:var(--muted);font-size:13.5px}
+.status{font-size:12.5px;color:var(--muted);margin-top:8px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px}
+.col{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;min-width:0}
+.col h2{font-family:var(--display);font-size:18px;margin:0 0 2px}
+.col .sub{font-size:12.5px;color:var(--muted);margin:0 0 8px}
+.col h3{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:12px 0 4px}
+.col ul{list-style:none;margin:0;padding:0}
+.col li{padding:5px 0;border-top:1px dashed var(--line)}
+.col li:first-of-type{border-top:0}
+.col li a{font-weight:600;text-decoration:none}
+.col li a:hover{text-decoration:underline}
+.col li span{display:block;font-size:12.5px;color:var(--muted)}
+.hidden{display:none}
+
+.tips{background:var(--chip);border-radius:8px;padding:14px 18px}
+.tips h2{font-family:var(--display);font-size:18px;margin:0 0 6px}
+.tips ul{margin:0;padding-left:18px;display:grid;gap:4px}
+footer{font-size:12.5px;color:var(--muted)}
+@media (max-width:560px){.news li{grid-template-columns:1fr;gap:2px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">
+    <div class="eyebrow">Startpunt solution architect · gemeenten</div>
+    <h1>Gemeentelijk IT-kompas</h1>
+  </div>
+  <div class="search">
+    <label for="q">Zoek in links</label>
+    <input id="q" type="search" placeholder="bijv. ZGW, FSC, BRP, NL Design System" autocomplete="off">
+  </div>
+</header>
+
+<section class="news" aria-labelledby="news-title">
+  <div class="news-h">
+    <div><h2 id="news-title">Gemeentelijk IT-nieuws</h2><div class="meta" id="news-meta">Top 5 · Digitale Overheid &amp; Computable (overheid)</div></div>
+    <button class="btn" id="refresh" type="button">Nieuws ophalen</button>
+  </div>
+  <ol id="news-list"></ol>
+  <div class="status" id="news-status" role="status"></div>
+</section>
+
+<div class="grid" id="links">
+  <section class="col">
+    <h2>Organisaties</h2><p class="sub">Wie bepaalt, beheert en bouwt.</p>
+    <h3>Beleid &amp; regie</h3>
+    <ul>
+      <li><a href="https://vng.nl/onderwerpen/digitale-infrastructuur">VNG – Digitale infrastructuur</a><span>Gezamenlijke uitvoering, GGU, Common Ground-programma</span></li>
+      <li><a href="https://www.digitaleoverheid.nl">Digitale Overheid (BZK)</a><span>Beleid, NDS, Federatief Datastelsel, nieuws</span></li>
+      <li><a href="https://commonground.nl">Common Ground</a><span>Community, fieldlabs, nieuws en componenten</span></li>
+    </ul>
+    <h3>Uitvoering &amp; standaarden</h3>
+    <ul>
+      <li><a href="https://www.logius.nl">Logius</a><span>DigiD, Digikoppeling, FSC, API-standaarden</span></li>
+      <li><a href="https://www.ictu.nl">ICTU</a><span>Programma's voor de digitale overheid</span></li>
+      <li><a href="https://www.geonovum.nl">Geonovum</a><span>Geo-standaarden, Kennisplatform API's</span></li>
+      <li><a href="https://www.forumstandaardisatie.nl/open-standaarden">Forum Standaardisatie</a><span>Lijst open standaarden, pas toe of leg uit</span></li>
+      <li><a href="https://www.informatiebeveiligingsdienst.nl">IBD</a><span>Informatiebeveiligingsdienst voor gemeenten</span></li>
+    </ul>
+    <h3>Bronhouders &amp; samenwerking</h3>
+    <ul>
+      <li><a href="https://www.rvig.nl">RvIG</a><span>BRP en reisdocumenten</span></li>
+      <li><a href="https://www.kadaster.nl">Kadaster</a><span>BRK, BAG, BGT</span></li>
+      <li><a href="https://developers.kvk.nl">KvK Developer Portal</a><span>Handelsregister-API's</span></li>
+      <li><a href="https://www.dimpact.nl">Dimpact</a><span>Coöperatie van gemeenten, PodiumD</span></li>
+    </ul>
+  </section>
+
+  <section class="col">
+    <h2>Architectuur &amp; standaarden</h2><p class="sub">Referentiekaders en specificaties.</p>
+    <h3>Referentiearchitectuur</h3>
+    <ul>
+      <li><a href="https://www.gemmaonline.nl">GEMMA Online</a><span>Gemeentelijke referentiearchitectuur, ArchiMate-modellen</span></li>
+      <li><a href="https://www.noraonline.nl">NORA Online</a><span>Nederlandse Overheid Referentie Architectuur</span></li>
+      <li><a href="https://www.softwarecatalogus.nl">Softwarecatalogus</a><span>Welke gemeente gebruikt welke applicatie</span></li>
+      <li><a href="https://github.com/Gemeente-Delft/Gemeentelijk-Gegevensmodel">Gemeentelijk Gegevensmodel (GGM)</a><span>Gegevensmodel voor gemeentelijke domeinen</span></li>
+      <li><a href="https://federatief.datastelsel.nl">Federatief Datastelsel</a><span>Afsprakenstelsel voor datadelen</span></li>
+    </ul>
+    <h3>API's &amp; koppelvlakken</h3>
+    <ul>
+      <li><a href="https://vng-realisatie.github.io/gemma-zaken/">ZGW API's</a><span>Zaakgericht werken: Zaken, Documenten, Catalogi, Besluiten</span></li>
+      <li><a href="https://vng-realisatie.github.io/Haal-Centraal/">Haal Centraal</a><span>BRP, BAG, BRK bevragen bij de bron</span></li>
+      <li><a href="https://gitdocumentatie.logius.nl/publicatie/api/adr/">API Design Rules</a><span>Verplichte REST-API-standaard (Logius)</span></li>
+      <li><a href="https://gitdocumentatie.logius.nl/publicatie/fsc/core/">FSC – Federatieve Service Connectiviteit</a><span>Veilige verbindingen tussen organisaties</span></li>
+      <li><a href="https://www.logius.nl/onze-dienstverlening/gegevensuitwisseling/digikoppeling">Digikoppeling</a><span>Gegevensuitwisseling binnen de overheid</span></li>
+    </ul>
+    <h3>Kaders</h3>
+    <ul>
+      <li><a href="https://www.bio-overheid.nl">BIO</a><span>Baseline Informatiebeveiliging Overheid</span></li>
+      <li><a href="https://www.digitoegankelijk.nl">DigiToegankelijk</a><span>Toegankelijkheidseisen (WCAG)</span></li>
+      <li><a href="https://nldesignsystem.nl">NL Design System</a><span>Gedeelde front-end componenten en richtlijnen</span></li>
+    </ul>
+  </section>
+
+  <section class="col">
+    <h2>Development</h2><p class="sub">Code, documentatie en platformen.</p>
+    <h3>Portalen</h3>
+    <ul>
+      <li><a href="https://developer.overheid.nl">developer.overheid.nl</a><span>API-register en open-source-overzicht</span></li>
+      <li><a href="https://opencatalogi.nl">OpenCatalogi</a><span>Catalogus van Common Ground-componenten</span></li>
+      <li><a href="https://haven.commonground.nl">Haven</a><span>Standaard voor Kubernetes-platformen</span></li>
+      <li><a href="https://digilab.overheid.nl">Digilab</a><span>Proeftuin voor het Federatief Datastelsel</span></li>
+    </ul>
+    <h3>Componenten</h3>
+    <ul>
+      <li><a href="https://open-zaak.readthedocs.io">Open Zaak – docs</a><span>Referentie-implementatie ZGW API's</span></li>
+      <li><a href="https://open-forms.readthedocs.io">Open Formulieren – docs</a><span>Formulierenbouwer</span></li>
+      <li><a href="https://github.com/infonl/dimpact-zaakafhandelcomponent">ZAC (Dimpact)</a><span>Zaakafhandelcomponent</span></li>
+      <li><a href="https://github.com/Signalen">Signalen</a><span>Meldingen openbare ruimte</span></li>
+    </ul>
+    <h3>GitHub-organisaties</h3>
+    <ul>
+      <li><a href="https://github.com/VNG-Realisatie">VNG-Realisatie</a><span>Specificaties ZGW, Haal Centraal, GEMMA</span></li>
+      <li><a href="https://github.com/open-zaak">open-zaak</a><span>Open Zaak, Open Notificaties</span></li>
+      <li><a href="https://github.com/BRP-API">BRP-API</a><span>Haal Centraal BRP</span></li>
+      <li><a href="https://github.com/Logius-standaarden">Logius-standaarden</a><span>Bronnen van ADR, FSC, Digikoppeling</span></li>
+      <li><a href="https://github.com/nl-design-system">nl-design-system</a><span>Componenten en tokens</span></li>
+      <li><a href="https://standard.publiccode.net">Standard for Public Code</a><span>Criteria voor herbruikbare overheidscode</span></li>
+    </ul>
+  </section>
+
+  <section class="col">
+    <h2>Nieuws, wet- &amp; regelgeving</h2><p class="sub">Bronnen om bij te blijven.</p>
+    <h3>Nieuwsbronnen</h3>
+    <ul>
+      <li><a href="https://www.digitaleoverheid.nl">Digitale Overheid</a><span>Nieuws over beleid en programma's</span></li>
+      <li><a href="https://ibestuur.nl">iBestuur</a><span>Digitale overheid en informatiebeleid</span></li>
+      <li><a href="https://www.binnenlandsbestuur.nl/digitaal">Binnenlands Bestuur – Digitaal</a><span>Nieuws voor ambtenaren en bestuurders</span></li>
+      <li><a href="https://www.computable.nl">Computable</a><span>IT-nieuws, rubriek Overheid</span></li>
+    </ul>
+    <h3>Wet- &amp; regelgeving</h3>
+    <ul>
+      <li><a href="https://wetten.overheid.nl">wetten.overheid.nl</a><span>Wet digitale overheid, Archiefwet, Woo</span></li>
+      <li><a href="https://open.overheid.nl">open.overheid.nl</a><span>Actief openbaar gemaakte documenten (Woo)</span></li>
+      <li><a href="https://algoritmes.overheid.nl">Algoritmeregister</a><span>Inzet van algoritmes en AI door overheden</span></li>
+    </ul>
+    <h3>Overig</h3>
+    <ul>
+      <li><a href="https://www.tenderned.nl">TenderNed</a><span>Aanbestedingen van gemeenten</span></li>
+      <li><a href="https://www.pdok.nl">PDOK</a><span>Geodata en kaartservices</span></li>
+      <li><a href="https://github.com/rvdkimmenade/commonground">Mijn Common Ground-repo</a><span>Landschapsplaat en skill</span></li>
+    </ul>
+  </section>
+</div>
+
+<section class="tips">
+  <h2>Tips voor de solution architect</h2>
+  <ul>
+    <li>Begin bij de GEMMA-referentiecomponenten en kijk in de Softwarecatalogus wat gemeenten al gebruiken voordat je een nieuwe oplossing schetst.</li>
+    <li>Toets elk koppelvlak aan de API Design Rules en de lijst ‘pas toe of leg uit’; noteer afwijkingen expliciet in je architectuurbesluit.</li>
+    <li>Haal gegevens bij de bron (Haal Centraal) in plaats van te kopiëren, en leg vast welke bronhouder eigenaar is.</li>
+    <li>Plan FSC in voor verbindingen met andere organisaties; Digikoppeling blijft nodig voor bestaande ketens.</li>
+    <li>Check de BIO, DigiToegankelijk en het Algoritmeregister al in de ontwerpfase, niet pas bij oplevering.</li>
+    <li>Houd de Archiefwet 2026 (inwerkingtreding begin 2027) en de Woo in het oog bij informatiehuishouding.</li>
+  </ul>
+</section>
+
+<footer>Links gecontroleerd in oktober 2026. Nieuws wordt live opgehaald waar de browser dat toestaat; anders tonen we de laatst opgeslagen selectie.</footer>
+</div>
+
+<script id="snapshot" type="application/json">{"updated":"2026-10-15T09:00:00Z","items":[{"source":"Computable","title":"Kort: Bedrijven lanceren alternatief voor digitale identiteit, ai-agenten ontwikkelen eigen taal (en meer)","link":"https://www.computable.nl/2026/10/14/kort-bedrijven-lanceren-alternatief-voor-digitale-identiteit-ai-agenten-ontwikkelen-eigen-taal-en-meer/","date":"2026-10-14T10:30:00.000Z","desc":"ABN Amro en KPN willen overheid voor zijn met digitale identiteitsapp, ai-agenten ontwikkelen zelf begrippen om sensordata uit te wisselen en Berenschot automatiseert vierduizend inhuuraanvragen."},{"source":"Digitale Overheid","title":"Ben jij voorbereid op de vernieuwde Archiefwet?","link":"https://www.digitaleoverheid.nl/nieuws/ben-jij-voorbereid-op-de-vernieuwde-archiefwet-2026/","date":"2026-10-09T11:02:30.000Z","desc":"Begin 2027 treedt de Archiefwet 2026 in werking. Weinig of juist veel tijd; het Leerhuis Informatiehuishouding heeft voor iedere professional passende leermiddelen."},{"source":"Digitale Overheid","title":"GBO: ‘Op één manier ontsluiten, meervoudig gebruiken’","link":"https://www.digitaleoverheid.nl/nieuws/gbo-op-een-manier-ontsluiten-meervoudig-gebruiken/","date":"2026-10-08T12:21:20.000Z","desc":"Het programma Gemeenschappelijke Bronontsluiting (GBO) ontwikkelt 1 gestandaardiseerde manier om overheidsgegevens beschikbaar te stellen voor diverse toepassingen."},{"source":"Digitale Overheid","title":"Slimmer data delen in de praktijk","link":"https://www.digitaleoverheid.nl/achtergrondartikelen/slimmer-data-delen-in-de-praktijk/","date":"2026-10-05T08:26:16.000Z","desc":"CBS, VNG en softwareleveranciers delen sinds kort veilig gegevens over armoede en schulden. Ruben Dood legt uit hoe dit precies werkt en welke voordelen dit heeft."},{"source":"Digitale Overheid","title":"Overheid en onderwijs willen meer opensourcewerken","link":"https://www.digitaleoverheid.nl/nieuws/overheid-en-onderwijs-willen-meer-opensourcewerken/","date":"2026-10-02T09:54:02.000Z","desc":"De Rijksoverheid, provincies, gemeenten en SURF hebben afgesproken structureler met open source te werken. Voor meer inzicht in hoe digitale systemen werken."}]}</script>
+<script>
+(function(){
+  const SOURCES=[
+    {name:'Digitale Overheid',url:'https://www.digitaleoverheid.nl/feed/',all:true},
+    {name:'Computable',url:'https://www.computable.nl/feed/',all:false}
+  ];
+  const PROXIES=[u=>u,u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u),u=>'https://corsproxy.io/?url='+encodeURIComponent(u)];
+  const STRONG=/gemeente|gemeentelijk|VNG|Common Ground|GEMMA|ZGW|Haal Centraal|Dimpact|Logius|FSC|bronontsluiting|datadelen|dienstverlening|Archiefwet|Woo\b|open source/i;
+  const WEAK=/overheid|kabinet|BZK|rijks|provincie|waterschap|UWV|digitale|soeverein|cloud|AI|beveilig|cyber/i;
+  const $=id=>document.getElementById(id);
+  const fmt=d=>d.toLocaleDateString('nl-NL',{day:'numeric',month:'short'});
+
+  function score(it){
+    const txt=it.title+' '+it.desc+' '+(it.cats||[]).join(' ');
+    let s=0; if(STRONG.test(txt)) s+=3; if(WEAK.test(txt)) s+=1;
+    if(it.source==='Digitale Overheid') s+=1;
+    if((it.cats||[]).includes('Overheid')) s+=1;
+    return s;
+  }
+  function pick(items){
+    const cutoff=Date.now()-21*864e5;
+    return items.filter(i=>new Date(i.date).getTime()>cutoff)
+      .map(i=>({...i,score:score(i)})).filter(i=>i.score>=2)
+      .sort((a,b)=>b.score-a.score||new Date(b.date)-new Date(a.date)).slice(0,5);
+  }
+  function render(items,label){
+    const ol=$('news-list'); ol.textContent='';
+    if(!items.length){ol.innerHTML='<li><span></span><div>Geen recente items gevonden.</div></li>';}
+    items.forEach(i=>{
+      const li=document.createElement('li');
+      const t=document.createElement('time'); t.dateTime=i.date; t.textContent=fmt(new Date(i.date));
+      const d=document.createElement('div');
+      const a=document.createElement('a'); a.className='t'; a.href=i.link; a.target='_blank'; a.rel='noopener'; a.textContent=i.title;
+      const s=document.createElement('span'); s.className='src'; s.textContent=i.source;
+      const p=document.createElement('p'); p.textContent=i.desc.length>180?i.desc.slice(0,177)+'…':i.desc;
+      d.append(a,s,p); li.append(t,d); ol.append(li);
+    });
+    $('news-status').textContent=label;
+  }
+  async function getText(url){
+    for(const px of PROXIES){
+      const ctl=new AbortController(); const tm=setTimeout(()=>ctl.abort(),8000);
+      try{const r=await fetch(px(url),{signal:ctl.signal,cache:'no-store'}); clearTimeout(tm); if(r.ok){const t=await r.text(); if(t.includes('<item')) return t;}}catch(e){clearTimeout(tm)}
+    }
+    throw new Error('niet bereikbaar');
+  }
+  function parse(xml,src){
+    const doc=new DOMParser().parseFromString(xml,'text/xml');
+    return [...doc.querySelectorAll('item')].map(n=>{
+      const g=k=>(n.querySelector(k)?.textContent||'').trim();
+      const tmp=document.createElement('div'); tmp.innerHTML=g('description');
+      return {source:src.name,title:g('title'),link:g('link'),date:new Date(g('pubDate')).toISOString(),
+        desc:(tmp.textContent||'').replace(/\s+/g,' ').replace(/(The post|Het bericht) .*$/,'').trim(),
+        cats:[...n.querySelectorAll('category')].map(c=>c.textContent.trim())};
+    }).filter(i=>src.all||i.cats.includes('Overheid')||STRONG.test(i.title+' '+i.desc)||WEAK.test(i.title+' '+i.desc));
+  }
+  async function live(){
+    const res=await Promise.allSettled(SOURCES.map(async s=>parse(await getText(s.url),s)));
+    const items=res.filter(r=>r.status==='fulfilled').flatMap(r=>r.value);
+    if(!items.length) throw new Error('geen live bron');
+    return items;
+  }
+  async function stored(){
+    const r=await fetch('news.json',{cache:'no-store'}); if(!r.ok) throw new Error(); return r.json();
+  }
+  async function load(){
+    const btn=$('refresh'); btn.disabled=true; btn.textContent='Ophalen…';
+    $('news-status').textContent='Nieuws ophalen…';
+    const now=new Date().toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'});
+    try{ render(pick(await live()),'Live opgehaald op '+now+'.'); }
+    catch(e){
+      try{ const j=await stored(); render(pick(j.items),'Live ophalen lukte niet; selectie van '+new Date(j.updated).toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'})+'.'); }
+      catch(e2){
+        const s=JSON.parse($('snapshot').textContent);
+        render(s.items.slice(0,5),'Live ophalen is hier niet mogelijk; momentopname van '+new Date(s.updated).toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'})+'. Live nieuws: rvdkimmenade.github.io/commonground');
+      }
+    }
+    btn.disabled=false; btn.textContent='Nieuws ophalen';
+  }
+  $('refresh').addEventListener('click',load);
+
+  // Linkfilter
+  $('q').addEventListener('input',e=>{
+    const q=e.target.value.trim().toLowerCase();
+    document.querySelectorAll('#links li').forEach(li=>li.classList.toggle('hidden',!!q&&!li.textContent.toLowerCase().includes(q)));
+    document.querySelectorAll('#links ul').forEach(ul=>{const any=[...ul.children].some(li=>!li.classList.contains('hidden')); ul.classList.toggle('hidden',!any); const h=ul.previousElementSibling; if(h&&h.tagName==='H3') h.classList.toggle('hidden',!any);});
+  });
+  document.querySelectorAll('#links a').forEach(a=>{a.target='_blank';a.rel='noopener'});
+
+  load();
+})();
+</script>
+</body>
+</html>
