@@ -232,7 +232,8 @@ footer{font-size:12.5px;color:var(--muted)}
     const cutoff=Date.now()-21*864e5;
     return items.filter(i=>new Date(i.date).getTime()>cutoff)
       .map(i=>({...i,score:score(i)})).filter(i=>i.score>=2)
-      .sort((a,b)=>b.score-a.score||new Date(b.date)-new Date(a.date)).slice(0,5);
+      .sort((a,b)=>b.score-a.score||new Date(b.date)-new Date(a.date)).slice(0,5)
+      .sort((a,b)=>new Date(b.date)-new Date(a.date));
   }
   function render(items,label){
     const ol=$('news-list'); ol.textContent='';
@@ -274,18 +275,17 @@ footer{font-size:12.5px;color:var(--muted)}
   async function stored(){
     const r=await fetch('news.json',{cache:'no-store'}); if(!r.ok) throw new Error(); return r.json();
   }
+  const stamp=d=>new Date(d).toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'});
+  async function fallback(){
+    try{ const j=await stored(); render(pick(j.items),'Selectie van '+stamp(j.updated)+' (op werkdagen elke 3 uur bijgewerkt).'); }
+    catch(e){ const s=JSON.parse($('snapshot').textContent); render(s.items.slice(0,5),'Momentopname van '+stamp(s.updated)+'. Live nieuws: rvdkimmenade.github.io/commonground'); }
+  }
   async function load(){
     const btn=$('refresh'); btn.disabled=true; btn.textContent='Ophalen…';
-    $('news-status').textContent='Nieuws ophalen…';
-    const now=new Date().toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'});
-    try{ render(pick(await live()),'Live opgehaald op '+now+'.'); }
-    catch(e){
-      try{ const j=await stored(); render(pick(j.items),'Live ophalen lukte niet; selectie van '+new Date(j.updated).toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'})+'.'); }
-      catch(e2){
-        const s=JSON.parse($('snapshot').textContent);
-        render(s.items.slice(0,5),'Live ophalen is hier niet mogelijk; momentopname van '+new Date(s.updated).toLocaleString('nl-NL',{dateStyle:'medium',timeStyle:'short'})+'. Live nieuws: rvdkimmenade.github.io/commonground');
-      }
-    }
+    if(!$('news-list').children.length) await fallback();
+    $('news-status').textContent+=' Live bijwerken…';
+    try{ render(pick(await live()),'Live opgehaald op '+stamp(Date.now())+'.'); }
+    catch(e){ await fallback(); }
     btn.disabled=false; btn.textContent='Nieuws ophalen';
   }
   $('refresh').addEventListener('click',load);
