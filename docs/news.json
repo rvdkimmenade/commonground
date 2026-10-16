@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:06:25.062Z",
+ "updated": "2026-10-16T09:34:57.786Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -156,6 +156,37 @@
   },
   {
    "source": "Computable",
+   "title": "EP veroordeelt Chinese wet die leger toegang geeft tot bedrijfsdata",
+   "link": "https://www.computable.nl/2026/10/16/ep-veroordeelt-chinese-wet-die-leger-toegang-geeft-tot-bedrijfsdata/",
+   "date": "2026-10-16T05:15:00.000Z",
+   "desc": "Begin deze maand is China’s herziene Nationale Defensie Mobilisatie-wet van kracht geworden. Het Europees Parlement (EP) nam in Straatsburg unaniem een motie van Bart Groothuis (VVD) aan, die deze wet scherp veroordeelt.",
+   "cats": [
+    "Data & AI",
+    "Data & AI Governance",
+    "Insights & BI",
+    "Overheid",
+    "Security & Risk",
+    "China",
+    "geopolitiek"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Ai‑aanbieders verspreiden valse informatie over illegale goksites",
+   "link": "https://www.computable.nl/2026/10/16/ai-aanbieders-verspreiden-valse-informatie-over-illegale-goksites/",
+   "date": "2026-10-16T05:00:00.000Z",
+   "desc": "Aanbieders van generatieve ai-diensten moeten zorgvuldiger omgaan met informatie over vergunningen en online goksites. Daarvoor waarschuwt het Keurmerk Verantwoorde Affiliates (KVA). Na eigen onderzoek blijkt dat populaire ai‑systemen zoals ChatGPT Nederlandse consumenten foutief doorverwijzen.",
+   "cats": [
+    "Data & AI",
+    "AI Governance",
+    "Data & AI Governance",
+    "Data Quality",
+    "Overheid",
+    "AI"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Azure wordt duurder in Europa: tot 17 procent erbij",
    "link": "https://www.computable.nl/2026/10/15/azure-wordt-duurder-in-europa-tot-17-procent-erbij/",
    "date": "2026-10-15T12:01:57.000Z",
@@ -248,30 +279,6 @@
     "kwartaalcijfers",
     "omzet",
     "winst"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Bedrijven lanceren alternatief voor digitale identiteit, ai-agenten ontwikkelen eigen taal (en meer)",
-   "link": "https://www.computable.nl/2026/10/14/kort-bedrijven-lanceren-alternatief-voor-digitale-identiteit-ai-agenten-ontwikkelen-eigen-taal-en-meer/",
-   "date": "2026-10-14T10:30:00.000Z",
-   "desc": "ABN Amro en KPN willen overheid voor zijn met digitale identiteitsapp, ai-agenten ontwikkelen zelf begrippen om sensordata uit te wisselen en Berenschot automatiseert vierduizend inhuuraanvragen.",
-   "cats": [
-    "Financiële dienstverlening",
-    "AI & Automation",
-    "AI Agents",
-    "Artificial Intelligence",
-    "Data & AI",
-    "Digital Identity",
-    "Identity Governance",
-    "Overheid",
-    "Security & Risk",
-    "AI",
-    "ai-agent",
-    "Fintech",
-    "Investering",
-    "Kort",
-    "Sourcing strategy"
    ]
   }
  ]
