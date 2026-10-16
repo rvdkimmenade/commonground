@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-16T09:34:57.786Z",
+ "updated": "2026-10-16T15:18:31.387Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Dutch Design Week 2026: ontwerp de overheid van morgen mee",
+   "link": "https://www.digitaleoverheid.nl/nieuws/dutch-design-week-2026-ontwerp-de-overheid-van-morgen-mee/",
+   "date": "2026-10-16T12:48:40.000Z",
+   "desc": "Van 17 tot en met 25 oktober staat het ministerie van BZK op de Dutch Design Week. Ambtenaren gaan samen met bezoekers op zoek naar de dienstverlening van de toekomst.",
+   "cats": [
+    "Nieuws",
+    "1 overheid",
+    "DDW",
+    "Dienstverlening",
+    "Dutch Design Week",
+    "ontwerpende aanpak",
+    "Staat van Samen"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Digitale weerbaarheid begint buiten de IT-afdeling",
@@ -138,20 +154,85 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "4 routes voor persoonlijke digitale dienstverlening",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/4-routes-voor-persoonlijke-digitale-dienstverlening/",
-   "date": "2026-10-01T10:14:21.000Z",
-   "desc": "Aart Los, opgavemanager Digitale Dienstverlening bij de VNG, vertelt in dit artikel meer over hoe je digitale dienstverlening ontwerpt die meebeweegt met de inwoner.",
+   "source": "Computable",
+   "title": "Zijn onze datacenters voorbereid op een nieuwe werkelijkheid met drone- en raketaanvallen?",
+   "link": "https://www.computable.nl/2026/10/16/zijn-onze-datacenters-voorbereid-op-een-nieuwe-werkelijkheid-met-drone-en-raketaanvallen/",
+   "date": "2026-10-16T15:00:00.000Z",
+   "desc": "Lang draaide de beschikbaarheid van datacenters vooral om het voorkomen van technische storingen, brand, overstromingen en stroomuitval. Maar de dreigingen veranderen. Recente droneaanvallen op datacenters maken duidelijk dat ook fysieke aanvallen onderdeel kunnen worden van het risicoprofiel.",
    "cats": [
-    "Achtergrond",
-    "Dienstverlening",
-    "gemeentelijke dienstverlening",
-    "nieuwsbrief-17-2026",
-    "overheidsbrede dienstverlening",
-    "persoonlijke dienstverlening",
-    "Vereniging Nederlandse Gemeenten",
-    "VNG"
+    "Security & Risk",
+    "Data & AI",
+    "Industry & OT",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Soevereiniteit",
+    "cyberwar",
+    "Datacenter",
+    "Dora",
+    "drones",
+    "geo",
+    "Hybride",
+    "NIS2",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Ai-robotwok Charlie is bij Pad Thai nooit moe",
+   "link": "https://www.computable.nl/2026/10/16/ai-robotwok-charlie-is-bij-pad-thai-nooit-moe/",
+   "date": "2026-10-16T14:00:00.000Z",
+   "desc": "Pad Thai heeft op Utrecht Centraal een nieuwe vestiging geopend waarin tijdens piekmomenten een ai-robotwok wordt ingezet. De zogeheten Charlie helpt het keukenteam van de Thaise horeca-keten bij het bereiden van maaltijden wanneer de vraag in korte tijd sterk toeneemt.",
+   "cats": [
+    "Robotics",
+    "Factory Automation",
+    "Industry & OT",
+    "Industry 4.0",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Smart Production",
+    "AI",
+    "horeca",
+    "Opmerkelijk",
+    "Robotica"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Proximus NXT beheert it provincie Noord-Holland",
+   "link": "https://www.computable.nl/2026/10/16/proximus-nxt-beheert-it-provincie-noord-holland/",
+   "date": "2026-10-16T13:00:00.000Z",
+   "desc": "Provincie Noord-Holland heeft de aanbesteding voor de PNH-Connectdiensten gegund aan Proximus NXT Nederland. De mantelovereenkomst heeft volgens de it-dienstverlener een maximale contractwaarde van 120 miljoen euro.",
+   "cats": [
+    "Outsourcing",
+    "Cloud & Infrastructure",
+    "Digitale werkplek",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Sourcing & Vendor Management",
+    "Aanbesteding",
+    "IT beheer",
+    "Netwerkbeheer",
+    "Wie gunt wat"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: Mollie reserveert 50 miljoen voor ai-platform met agents, Japan investeert fors in chipproductie VS (en meer)",
+   "link": "https://www.computable.nl/2026/10/16/kort-mollie-reserveert-50-miljoen-voor-ai-platform-met-agents-japan-investeert-fors-in-chipproductie-vs-en-meer/",
+   "date": "2026-10-16T10:00:00.000Z",
+   "desc": "Mollie trekt vijftig miljoen euro uit voor ai-agents in financiële dienstverlening, Japan pompt 21 miljard dollar in chipfabrieken op Amerikaanse bodem, Odin Groep versterkt Belgische positie met overname AppSys, en oud-AIVD-technoloog gaat strategie en innovatie leiden bij Dictu.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Cloud & Infrastructure",
+    "Datacenter & Infrastructure",
+    "Financiële dienstverlening",
+    "IT Financial Management",
+    "Overheid",
+    "AI agents",
+    "Chips",
+    "Fintech",
+    "Kort",
+    "Overname"
    ]
   },
   {
@@ -193,92 +274,6 @@
    "desc": "Microsoft verhoogt vanaf 1 februari 2027 de prijzen van geselecteerde virtuele machines en opslagdiensten in zijn cloudplatform Azure. De stijging ligt tussen 8 en 17 procent en geldt voor zeven regio’s.",
    "cats": [
     "Cloud & Infrastructure"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Cisco scoort bij PSV, VWS, SZW en NZa huren voor 440 miljoen in (en meer)",
-   "link": "https://www.computable.nl/2026/10/15/kort-cisco-scoort-bij-psv-vws-szw-en-nza-huren-voor-440-miljoen-in-en-meer/",
-   "date": "2026-10-15T08:38:40.000Z",
-   "desc": "In dit nieuwsoverzicht: PSV benoemt Cisco tot Official Stadium Innovation Partner, Omron koopt OnLogic, Oracle begint Startup Growth Engine, Source.ag neemt Optimal over en grote inhuurtender VWS, SZW en NZa.",
-   "cats": [
-    "Networking & Connectivity",
-    "AI & Automation",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Industry & OT",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Startups & Scale-ups",
-    "AI",
-    "autonoom",
-    "Hardware",
-    "Industry 4.0",
-    "Inhuur",
-    "Kort",
-    "Overname",
-    "Startups",
-    "Wie gunt wat"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Meer spreiding internet-knooppunten maakt Nederland veiliger",
-   "link": "https://www.computable.nl/2026/10/15/meer-spreiding-internet-knooppunten-maakt-nederland-veiliger/",
-   "date": "2026-10-15T05:00:00.000Z",
-   "desc": "De Nederlandse digitale infrastructuur wordt over het algemeen weerbaar geacht, maar de weerbaarheid vraagt blijvende aandacht vanwege een veranderend dreigingsbeeld. Een betere geografische spreiding van internet exchanges behoort tot de mogelijke maatregelen om de weerbaarheid te versterken.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Connected Industry",
-    "Industry & OT",
-    "IT Governance & Control",
-    "IT Industry news",
-    "Overheid",
-    "Soevereiniteit",
-    "Cyberaanval",
-    "geopolitiek",
-    "kabinet-Jetten",
-    "Netwerkbeheer",
-    "ot",
-    "vitale sector",
-    "weerbaarheid",
-    "zeekabel"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Bemiddelingsservice belandt op het kerkhof van UWV-projecten",
-   "link": "https://www.computable.nl/2026/10/14/bemiddelingsservice-belandt-op-het-kerkhof-van-uwv-projecten/",
-   "date": "2026-10-14T16:39:24.000Z",
-   "desc": "UWV (Uitvoeringsinstituut Werknemersverzekeringen) stopt met het in 2021 gestarte miljoenenproject Bemiddelingsservice (BMS) dat adviseurs beter moet ondersteunen bij het koppelen van werkzoekenden aan openstaande vacatures. It-partner 8Vance moet worden afgekocht.",
-   "cats": [
-    "Overheid",
-    "Carrière",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Software & Development",
-    "Matching",
-    "Projectmanagement"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "ASML: klanten plaatsen al bestellingen voor 2029 en 2030",
-   "link": "https://www.computable.nl/2026/10/14/asml-klanten-plaatsen-al-bestellingen-voor-2029-en-2030/",
-   "date": "2026-10-14T15:00:17.000Z",
-   "desc": "Uitbreiding van de productiecapaciteit is de belangrijkste uitdaging waarvoor ASML zich momenteel gesteld voelt. Dagelijks vragen klanten om meer systemen. De chipmachinefabrikant ziet veel orderinstroom voor 2028, maar er is ook grote belangstelling om nu al bestellingen te plaatsen voor 2029.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Chipmachine",
-    "Chips",
-    "EUV",
-    "kwartaalcijfers",
-    "omzet",
-    "winst"
    ]
   }
  ]
