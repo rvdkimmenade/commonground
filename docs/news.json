@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-16T19:50:35.938Z",
+ "updated": "2026-10-19T10:36:03.455Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Rijksbrede Risicoanalyse waarschuwt voor digitale dreigingen",
+   "link": "https://www.digitaleoverheid.nl/nieuws/rijksbrede-risicoanalyse-waarschuwt-voor-digitale-dreigingen/",
+   "date": "2026-10-19T07:53:22.000Z",
+   "desc": "Cyberaanvallen en de afhankelijkheid van grote technologiebedrijven brengen risico’s met zich mee voor Nederland. Dat staat in de Rijksbrede Risicoanalyse 2026.",
+   "cats": [
+    "Nieuws",
+    "cyberveiligheid",
+    "digitale weerbaarheid",
+    "risicoanalyse"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Dutch Design Week 2026: ontwerp de overheid van morgen mee",
@@ -137,20 +150,54 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Markt en overheid in gesprek over Ontwerp soevereine cloud",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/markt-en-overheid-in-gesprek-over-ontwerp-soevereine-cloud/",
-   "date": "2026-10-01T12:11:48.000Z",
-   "desc": "Het NDS Cloudprogramma legde het Ontwerp en de eerste werkende versie van de soevereine overheidscloud voor aan deskundigen van markt en overheid voor hun feedback.",
+   "source": "Computable",
+   "title": "Kort: Cybersector in vijf jaar verviervoudigd, Anne Fleur van Veenstra co-ceo bij SIDN (en meer)",
+   "link": "https://www.computable.nl/2026/10/19/kort-cybersector-in-vijf-jaar-verviervoudigd-anne-fleur-van-veenstra-co-ceo-bij-sidn-en-meer/",
+   "date": "2026-10-19T10:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Aantal cybersecuritybedrijven verviervoudigd, Main voegt Woodwing bij Omnidocs, Nikhef als nieuwe deelnemer NSDC, Co-one neemt Infinity IT over en Anne Fleur van Veenstra volgt bij SIDN Roelof Meijer op.",
    "cats": [
-    "NDS nieuws",
-    "cloud",
-    "cloudsoevereiniteit",
-    "Fieldlab",
-    "het ontwerp",
-    "marktpartijen",
-    "NDS",
-    "Ron Kolkman"
+    "IT Strategy & Governance"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "BZK trekt alle registers open om klokkenluider Van Oordt te ontslaan",
+   "link": "https://www.computable.nl/2026/10/19/bzk-trekt-alle-registers-open-om-klokkenluider-van-oordt-te-ontslaan/",
+   "date": "2026-10-19T06:00:00.000Z",
+   "desc": "Pieter van Oordt, de belangrijkste privacy-adviseur van Logius, moet weg bij deze it-dienstverlener van het Rijk vanwege zijn rol in de ‘kruistocht’ tegen de overname van Solvinity door het Amerikaanse Kyndryl. Hij was al geschorst.",
+   "cats": [
+    "Carrière",
+    "IT Careers",
+    "IT Industry news",
+    "IT Leadership",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Ontslagen & reorganisaties",
+    "Overheid",
+    "DigiD",
+    "Ontslag",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Cyberaanval op cloudprovider grootste digitale veiligheidsrisico voor Nederland",
+   "link": "https://www.computable.nl/2026/10/19/cyberaanval-op-cloudprovider-grootste-digitale-veiligheidsrisico-voor-nederland/",
+   "date": "2026-10-19T05:00:00.000Z",
+   "desc": "Een cyberaanval op een cloudgigant behoort tot de belangrijkste veiligheidsrisico's. Dit is een van de meest waarschijnlijke scenario's met potentieel grote gevolgen voor Nederland, blijkt uit de Rijksbrede Risicoanalyse Nationale Veiligheid 2026.",
+   "cats": [
+    "Security & Risk",
+    "IT Governance",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Soevereiniteit",
+    "Cyberaanval",
+    "cyberwar",
+    "geopolitiek",
+    "hack",
+    "soevereiniteit",
+    "weerbaarheid"
    ]
   },
   {
@@ -249,31 +296,6 @@
     "Security & Risk",
     "China",
     "geopolitiek"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ai‑aanbieders verspreiden valse informatie over illegale goksites",
-   "link": "https://www.computable.nl/2026/10/16/ai-aanbieders-verspreiden-valse-informatie-over-illegale-goksites/",
-   "date": "2026-10-16T05:00:00.000Z",
-   "desc": "Aanbieders van generatieve ai-diensten moeten zorgvuldiger omgaan met informatie over vergunningen en online goksites. Daarvoor waarschuwt het Keurmerk Verantwoorde Affiliates (KVA). Na eigen onderzoek blijkt dat populaire ai‑systemen zoals ChatGPT Nederlandse consumenten foutief doorverwijzen.",
-   "cats": [
-    "Data & AI",
-    "AI Governance",
-    "Data & AI Governance",
-    "Data Quality",
-    "Overheid",
-    "AI"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Azure wordt duurder in Europa: tot 17 procent erbij",
-   "link": "https://www.computable.nl/2026/10/15/azure-wordt-duurder-in-europa-tot-17-procent-erbij/",
-   "date": "2026-10-15T12:01:57.000Z",
-   "desc": "Microsoft verhoogt vanaf 1 februari 2027 de prijzen van geselecteerde virtuele machines en opslagdiensten in zijn cloudplatform Azure. De stijging ligt tussen 8 en 17 procent en geldt voor zeven regio’s.",
-   "cats": [
-    "Cloud & Infrastructure"
    ]
   }
  ]
