@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-19T10:36:03.455Z",
+ "updated": "2026-10-19T17:22:53.188Z",
  "items": [
   {
    "source": "Digitale Overheid",
-   "title": "Rijksbrede Risicoanalyse waarschuwt voor digitale dreigingen",
+   "title": "Risicoanalyse waarschuwt voor digitale dreigingen",
    "link": "https://www.digitaleoverheid.nl/nieuws/rijksbrede-risicoanalyse-waarschuwt-voor-digitale-dreigingen/",
    "date": "2026-10-19T07:53:22.000Z",
    "desc": "Cyberaanvallen en de afhankelijkheid van grote technologiebedrijven brengen risico’s met zich mee voor Nederland. Dat staat in de Rijksbrede Risicoanalyse 2026.",
@@ -151,12 +151,57 @@
   },
   {
    "source": "Computable",
+   "title": "Digitale soevereiniteit kun je gewoon meten",
+   "link": "https://www.computable.nl/2026/10/19/digitale-soevereiniteit-kun-je-gewoon-meten/",
+   "date": "2026-10-19T15:00:00.000Z",
+   "desc": "In de rubriek De Overstap gidst ict‑journalist Robbert Hoeffnagel de ict-pro en -beslisser naar soevereine zakelijke oplossingen. Maar hoe weet je eigenlijk hoe digitaal soeverein je als organisatie bent?",
+   "cats": [
+    "Soevereiniteit",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "De Overstap",
+    "Safari",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Premier Jetten in gesprek met Zuidas-Russen van Nebius over ai",
+   "link": "https://www.computable.nl/2026/10/19/premier-jetten-in-gesprek-met-zuidas-russen-van-nebius-over-ai/",
+   "date": "2026-10-19T14:50:00.000Z",
+   "desc": "Nebius, het uit het Russische Yandex voortgekomen ai-cloudbedrijf met hoofdkantoor in Amsterdam, gaat flink bijdragen aan de ai-ambities van Nederland. Premier Rob Jetten en staatssecretaris Willemijn Aerdts hebben daarover gesproken met Nebius-oprichter en ceo Arkady Volozh.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Datacenter",
+    "Datacenter & Infrastructure",
+    "Overheid",
+    "AI",
+    "ai-fabriek",
+    "geopolitiek"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Cybersector in vijf jaar verviervoudigd, Anne Fleur van Veenstra co-ceo bij SIDN (en meer)",
    "link": "https://www.computable.nl/2026/10/19/kort-cybersector-in-vijf-jaar-verviervoudigd-anne-fleur-van-veenstra-co-ceo-bij-sidn-en-meer/",
    "date": "2026-10-19T10:00:00.000Z",
    "desc": "In dit nieuwsoverzicht: Aantal cybersecuritybedrijven verviervoudigd, Main voegt Woodwing bij Omnidocs, Nikhef als nieuwe deelnemer NSDC, Co-one neemt Infinity IT over en Anne Fleur van Veenstra volgt bij SIDN Roelof Meijer op.",
    "cats": [
-    "IT Strategy & Governance"
+    "IT Strategy & Governance",
+    "Business Applications",
+    "IT Industry news",
+    "Overnames & fusies",
+    "Security & Risk",
+    "Software & Development",
+    "Startups & Scale-ups",
+    "ceo",
+    "Datacenter",
+    "Documentmanagement",
+    "Internet",
+    "Kort",
+    "Overname",
+    "security",
+    "Werkplekbeheer"
    ]
   },
   {
@@ -260,42 +305,6 @@
     "IT beheer",
     "Netwerkbeheer",
     "Wie gunt wat"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Mollie reserveert 50 miljoen voor ai-platform met agents, Japan investeert fors in chipproductie VS (en meer)",
-   "link": "https://www.computable.nl/2026/10/16/kort-mollie-reserveert-50-miljoen-voor-ai-platform-met-agents-japan-investeert-fors-in-chipproductie-vs-en-meer/",
-   "date": "2026-10-16T10:00:00.000Z",
-   "desc": "Mollie trekt vijftig miljoen euro uit voor ai-agents in financiële dienstverlening, Japan pompt 21 miljard dollar in chipfabrieken op Amerikaanse bodem, Odin Groep versterkt Belgische positie met overname AppSys, en oud-AIVD-technoloog gaat strategie en innovatie leiden bij Dictu.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "Financiële dienstverlening",
-    "IT Financial Management",
-    "Overheid",
-    "AI agents",
-    "Chips",
-    "Fintech",
-    "Kort",
-    "Overname"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "EP veroordeelt Chinese wet die leger toegang geeft tot bedrijfsdata",
-   "link": "https://www.computable.nl/2026/10/16/ep-veroordeelt-chinese-wet-die-leger-toegang-geeft-tot-bedrijfsdata/",
-   "date": "2026-10-16T05:15:00.000Z",
-   "desc": "Begin deze maand is China’s herziene Nationale Defensie Mobilisatie-wet van kracht geworden. Het Europees Parlement (EP) nam in Straatsburg unaniem een motie van Bart Groothuis (VVD) aan, die deze wet scherp veroordeelt.",
-   "cats": [
-    "Data & AI",
-    "Data & AI Governance",
-    "Insights & BI",
-    "Overheid",
-    "Security & Risk",
-    "China",
-    "geopolitiek"
    ]
   }
  ]
