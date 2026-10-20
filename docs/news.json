@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-19T17:22:53.188Z",
+ "updated": "2026-10-20T09:53:05.043Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "AI vergroot risico cyberincidenten op de werkvloer",
+   "link": "https://www.digitaleoverheid.nl/nieuws/ai-vergroot-risico-cyberincidenten-op-de-werkvloer/",
+   "date": "2026-10-20T09:19:29.000Z",
+   "desc": "Hoe kunnen organisaties hun werknemers stimuleren om structureel, digitaal veilig gedrag te vertonen? Ze moeten inzetten op het bestrijden van 4 belemmeringen.",
+   "cats": [
+    "Nieuws",
+    "cybersecurity",
+    "digitale weerbaarheid"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Risicoanalyse waarschuwt voor digitale dreigingen",
@@ -137,16 +149,20 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Overheid en onderwijs willen meer opensourcewerken",
-   "link": "https://www.digitaleoverheid.nl/nieuws/overheid-en-onderwijs-willen-meer-opensourcewerken/",
-   "date": "2026-10-02T09:54:02.000Z",
-   "desc": "De Rijksoverheid, provincies, gemeenten en SURF hebben afgesproken structureler met open source te werken. Voor meer inzicht in hoe digitale systemen werken.",
+   "source": "Computable",
+   "title": "Ahold Delhaize erkent hack en doet alsnog aangifte",
+   "link": "https://www.computable.nl/2026/10/19/ahold-delhaize-erkent-hack-en-doet-alsnog-aangifte/",
+   "date": "2026-10-19T18:51:14.000Z",
+   "desc": "Albert Heijn geeft nu eindelijk toe slachtoffer te zijn geworden van een hack. Vandaag heeft moederconcern Ahold Delhaize formeel aangifte gedaan bij de Nederlandse politie; een week nadat hackers in zijn systemen inbraken.",
    "cats": [
-    "Nieuws",
-    "nieuwsbrief-17-2026",
-    "open source",
-    "opensourcewerken"
+    "Security & Risk",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Risk Management",
+    "Cybercrime",
+    "hack"
    ]
   },
   {
