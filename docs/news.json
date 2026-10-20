@@ -1,29 +1,16 @@
 {
- "updated": "2026-10-20T09:53:05.043Z",
+ "updated": "2026-10-20T15:35:31.392Z",
  "items": [
   {
    "source": "Digitale Overheid",
    "title": "AI vergroot risico cyberincidenten op de werkvloer",
    "link": "https://www.digitaleoverheid.nl/nieuws/ai-vergroot-risico-cyberincidenten-op-de-werkvloer/",
    "date": "2026-10-20T09:19:29.000Z",
-   "desc": "Hoe kunnen organisaties hun werknemers stimuleren om structureel, digitaal veilig gedrag te vertonen? Ze moeten inzetten op het bestrijden van 4 belemmeringen.",
+   "desc": "Hoe kunnen organisaties werknemers stimuleren digitaal veilig gedrag te vertonen? Uit onderzoek blijkt: inzetten op het bestrijden van 4 belemmeringen is belangrijk.",
    "cats": [
     "Nieuws",
     "cybersecurity",
     "digitale weerbaarheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Risicoanalyse waarschuwt voor digitale dreigingen",
-   "link": "https://www.digitaleoverheid.nl/nieuws/rijksbrede-risicoanalyse-waarschuwt-voor-digitale-dreigingen/",
-   "date": "2026-10-19T07:53:22.000Z",
-   "desc": "Cyberaanvallen en de afhankelijkheid van grote technologiebedrijven brengen risico’s met zich mee voor Nederland. Dat staat in de Rijksbrede Risicoanalyse 2026.",
-   "cats": [
-    "Nieuws",
-    "cyberveiligheid",
-    "digitale weerbaarheid",
-    "risicoanalyse"
    ]
   },
   {
@@ -93,7 +80,7 @@
    "title": "GBO: ‘Op één manier ontsluiten, meervoudig gebruiken’",
    "link": "https://www.digitaleoverheid.nl/nieuws/gbo-op-een-manier-ontsluiten-meervoudig-gebruiken/",
    "date": "2026-10-08T12:21:20.000Z",
-   "desc": "Het programma Gemeenschappelijke Bronontsluiting (GBO) ontwikkelt 1 gestandaardiseerde manier om overheidsgegevens beschikbaar te stellen voor diverse toepassingen.",
+   "desc": "Het programma Gemeenschappelijke Bronontsluiting (GBO) ontwikkelt één gestandaardiseerde manier om overheidsgegevens beschikbaar te stellen voor diverse toepassingen.",
    "cats": [
     "Nieuws",
     "bronontsluiting",
@@ -146,6 +133,128 @@
     "nieuwsbrief-17-2026",
     "praktijkverhaal",
     "VNG"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Overheid en onderwijs willen meer opensourcewerken",
+   "link": "https://www.digitaleoverheid.nl/nieuws/overheid-en-onderwijs-willen-meer-opensourcewerken/",
+   "date": "2026-10-02T09:54:02.000Z",
+   "desc": "De Rijksoverheid, provincies, gemeenten en SURF hebben afgesproken structureler met open source te werken. Voor meer inzicht in hoe digitale systemen werken.",
+   "cats": [
+    "Nieuws",
+    "nieuwsbrief-17-2026",
+    "open source",
+    "opensourcewerken"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Enschede dichtbij proeffabriek voor fotonische chips",
+   "link": "https://www.computable.nl/2026/10/20/enschede-dichtbij-proeffabriek-voor-fotonische-chips/",
+   "date": "2026-10-20T14:30:00.000Z",
+   "desc": "Bij de oprichting van de New Origin-chipfabriek in Enschede is een doorbraak bereikt. Zowel voor de netcongestie als de waterschaarste zijn oplossingen gevonden. Daardoor staat weinig meer de bouw van een fabriek voor fotonische chips in de weg.",
+   "cats": [
+    "Industry & OT",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "fotonica"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Zonder betrouwbare tijd geen weerbare digitale samenleving",
+   "link": "https://www.computable.nl/2026/10/20/zonder-betrouwbare-tijd-geen-weerbare-digitale-samenleving/",
+   "date": "2026-10-20T13:51:28.000Z",
+   "desc": "De schrikkelseconde verdwijnt. Wat op het eerste gezicht een opmerkelijk besluit van internationale tijdexperts lijkt, vertelt een veel groter verhaal over de kwetsbaarheid van onze digitale samenleving.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Operating Models"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "EU-hof: bank moet phishingschade eerst vergoeden, ook bij grove nalatigheid",
+   "link": "https://www.computable.nl/2026/10/20/eu-hof-bank-moet-phishingschade-eerst-vergoeden-ook-bij-grove-nalatigheid/",
+   "date": "2026-10-20T11:00:00.000Z",
+   "desc": "Een bank mag een slachtoffer van phishing niet direct een vergoeding weigeren met een beroep op grove nalatigheid. Dat heeft het Hof van Justitie van de Europese Unie bepaald in een zaak tussen een Poolse bank en een klant die slachtoffer werd van online-fraude.",
+   "cats": [
+    "Security & Risk",
+    "Application & Data Security",
+    "Financiële dienstverlening",
+    "Overheid",
+    "Fintech",
+    "Phishing",
+    "Rechtszaak",
+    "Schadeclaim"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: Infoplaza kiest voor Nederlandse wolk, let op valse captcha's",
+   "link": "https://www.computable.nl/2026/10/20/kort-infoplaza-kiest-voor-nederlandse-wolk-let-op-valse-captchas/",
+   "date": "2026-10-20T10:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Wolk haalt Infoplaza weg bij Amerikaanse hyperscalers, nieuwe topmannen bij Youforce, Clevr en ECI, inauguratie Michiel van Genuchten, Ai-testcentrum NTT Data in München en veel valse captcha's in omloop.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Carrière",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Datacenter & Infrastructure",
+    "IT Industry news",
+    "Security & Risk",
+    "Software & Development",
+    "ai-fabriek",
+    "Big Tech",
+    "captcha",
+    "ceo",
+    "cloud",
+    "Cyberaanval",
+    "Datacenter",
+    "Kort",
+    "soevereiniteit",
+    "Software"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Tweede Kamer eist uitleg over VS-inbeslagname Autistici-server",
+   "link": "https://www.computable.nl/2026/10/20/tweede-kamer-eist-uitleg-over-vs-inbeslagname-autistici-server/",
+   "date": "2026-10-20T05:15:00.000Z",
+   "desc": "De Tweede Kamer eist opheldering over de inbeslagname van een server van de Italiaanse internet-dienstverlener Autistici/Inventati (A/I). Kamerleden van Pro en D66 zetten grote vraagtekens achter het voornemen van de Amsterdamse politie een kopie van de server naar Amerika te sturen.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Datacenter",
+    "Datacenter & Infrastructure",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Risk Management",
+    "Soevereiniteit",
+    "Data Analytics",
+    "geopolitiek",
+    "Hardware",
+    "Privacy"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Proofpoint neemt Varonis over voor 6,3 miljard dollar",
+   "link": "https://www.computable.nl/2026/10/20/proofpoint-neemt-varonis-over-voor-63-miljard-dollar/",
+   "date": "2026-10-20T05:00:00.000Z",
+   "desc": "Proofpoint neemt Varonis over voor ongeveer 6,3 miljard dollar in contanten. Voor het cybersecbedrijf betekent de deal een versterking van zijn aanbod voor databeveiliging.",
+   "cats": [
+    "IT Strategy & Governance",
+    "IT Industry news",
+    "Overnames & fusies",
+    "Security & Risk",
+    "cybersecurity",
+    "Overname"
    ]
   },
   {
@@ -218,109 +327,6 @@
     "Overname",
     "security",
     "Werkplekbeheer"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "BZK trekt alle registers open om klokkenluider Van Oordt te ontslaan",
-   "link": "https://www.computable.nl/2026/10/19/bzk-trekt-alle-registers-open-om-klokkenluider-van-oordt-te-ontslaan/",
-   "date": "2026-10-19T06:00:00.000Z",
-   "desc": "Pieter van Oordt, de belangrijkste privacy-adviseur van Logius, moet weg bij deze it-dienstverlener van het Rijk vanwege zijn rol in de ‘kruistocht’ tegen de overname van Solvinity door het Amerikaanse Kyndryl. Hij was al geschorst.",
-   "cats": [
-    "Carrière",
-    "IT Careers",
-    "IT Industry news",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Ontslagen & reorganisaties",
-    "Overheid",
-    "DigiD",
-    "Ontslag",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Cyberaanval op cloudprovider grootste digitale veiligheidsrisico voor Nederland",
-   "link": "https://www.computable.nl/2026/10/19/cyberaanval-op-cloudprovider-grootste-digitale-veiligheidsrisico-voor-nederland/",
-   "date": "2026-10-19T05:00:00.000Z",
-   "desc": "Een cyberaanval op een cloudgigant behoort tot de belangrijkste veiligheidsrisico's. Dit is een van de meest waarschijnlijke scenario's met potentieel grote gevolgen voor Nederland, blijkt uit de Rijksbrede Risicoanalyse Nationale Veiligheid 2026.",
-   "cats": [
-    "Security & Risk",
-    "IT Governance",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Soevereiniteit",
-    "Cyberaanval",
-    "cyberwar",
-    "geopolitiek",
-    "hack",
-    "soevereiniteit",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Zijn onze datacenters voorbereid op een nieuwe werkelijkheid met drone- en raketaanvallen?",
-   "link": "https://www.computable.nl/2026/10/16/zijn-onze-datacenters-voorbereid-op-een-nieuwe-werkelijkheid-met-drone-en-raketaanvallen/",
-   "date": "2026-10-16T15:00:00.000Z",
-   "desc": "Lang draaide de beschikbaarheid van datacenters vooral om het voorkomen van technische storingen, brand, overstromingen en stroomuitval. Maar de dreigingen veranderen. Recente droneaanvallen op datacenters maken duidelijk dat ook fysieke aanvallen onderdeel kunnen worden van het risicoprofiel.",
-   "cats": [
-    "Security & Risk",
-    "Data & AI",
-    "Industry & OT",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Soevereiniteit",
-    "cyberwar",
-    "Datacenter",
-    "Dora",
-    "drones",
-    "geo",
-    "Hybride",
-    "NIS2",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ai-robotwok Charlie is bij Pad Thai nooit moe",
-   "link": "https://www.computable.nl/2026/10/16/ai-robotwok-charlie-is-bij-pad-thai-nooit-moe/",
-   "date": "2026-10-16T14:00:00.000Z",
-   "desc": "Pad Thai heeft op Utrecht Centraal een nieuwe vestiging geopend waarin tijdens piekmomenten een ai-robotwok wordt ingezet. De zogeheten Charlie helpt het keukenteam van de Thaise horeca-keten bij het bereiden van maaltijden wanneer de vraag in korte tijd sterk toeneemt.",
-   "cats": [
-    "Robotics",
-    "Factory Automation",
-    "Industry & OT",
-    "Industry 4.0",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Smart Production",
-    "AI",
-    "horeca",
-    "Opmerkelijk",
-    "Robotica"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Proximus NXT beheert it provincie Noord-Holland",
-   "link": "https://www.computable.nl/2026/10/16/proximus-nxt-beheert-it-provincie-noord-holland/",
-   "date": "2026-10-16T13:00:00.000Z",
-   "desc": "Provincie Noord-Holland heeft de aanbesteding voor de PNH-Connectdiensten gegund aan Proximus NXT Nederland. De mantelovereenkomst heeft volgens de it-dienstverlener een maximale contractwaarde van 120 miljoen euro.",
-   "cats": [
-    "Outsourcing",
-    "Cloud & Infrastructure",
-    "Digitale werkplek",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Sourcing & Vendor Management",
-    "Aanbesteding",
-    "IT beheer",
-    "Netwerkbeheer",
-    "Wie gunt wat"
    ]
   }
  ]
