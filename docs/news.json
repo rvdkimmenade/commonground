@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:20:13.951Z",
+ "updated": "2026-10-21T09:54:10.215Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -150,6 +150,53 @@
   },
   {
    "source": "Computable",
+   "title": "Accenture knipt in ai-budget: nog 29 dollar per medewerker voor Claude",
+   "link": "https://www.computable.nl/2026/10/21/accenture-knipt-in-ai-budget-nog-29-dollar-per-medewerker-voor-claude/",
+   "date": "2026-10-21T08:00:00.000Z",
+   "desc": "Adviesbedrijf Accenture betaalt sinds 1 oktober nog maar 29 dollar per medewerker per maand voor Claude. Sommige werknemers verbruikten tot 1.000 dollar per maand. Ook andere techbedrijven leggen de kosten van ai-tokens danig aan banden.",
+   "cats": [
+    "Data & AI",
+    "Data Operations",
+    "IT Governance & Control",
+    "IT Leadership",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Operating Models",
+    "AI",
+    "Ai-model",
+    "Claude"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kabinet staat open voor verbod op drinkwatergebruik door datacenters",
+   "link": "https://www.computable.nl/2026/10/21/kabinet-staat-open-voor-verbod-op-drinkwatergebruik-door-datacenters/",
+   "date": "2026-10-21T05:15:00.000Z",
+   "desc": "Het kabinet steunt strengere Europese regels voor datacenters. Een verbod op het gebruik van drinkwater voor proceskoeling is bespreekbaar. Staatssecretaris Willemijn Aerdts (EZK) heeft geen bezwaar tegen een motie van de kamerleden Ines Kostić en Christine Teunissen (Partij van de Dieren).",
+   "cats": [
+    "Datacenter",
+    "Cloud & Infrastructure",
+    "Datacenter & Infrastructure",
+    "Overheid",
+    "Duurzaamheid"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Anthropic paart extreme groei aan enorme kapitaalhonger",
+   "link": "https://www.computable.nl/2026/10/21/anthropic-paart-extreme-groei-aan-enorme-kapitaalhonger/",
+   "date": "2026-10-21T05:00:00.000Z",
+   "desc": "Anthropic groeit uitzonderlijk snel, maar tegelijkertijd wordt het ai-bedrijf geconfronteerd met enorme kosten, aanzienlijke risico’s en een ongekend grote kapitaalbehoefte. Dit blijkt uit een nieuwe conceptversie van het beursprospectus (S-1) die de Amerikaanse zakenkrant Wall Street Journal zag.",
+   "cats": [
+    "Data & AI",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "AI",
+    "omzet"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Enschede dichtbij proeffabriek voor fotonische chips",
    "link": "https://www.computable.nl/2026/10/20/enschede-dichtbij-proeffabriek-voor-fotonische-chips/",
    "date": "2026-10-20T14:30:00.000Z",
@@ -255,54 +302,6 @@
     "Security & Risk",
     "cybersecurity",
     "Overname"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ahold Delhaize erkent hack en doet alsnog aangifte",
-   "link": "https://www.computable.nl/2026/10/19/ahold-delhaize-erkent-hack-en-doet-alsnog-aangifte/",
-   "date": "2026-10-19T18:51:14.000Z",
-   "desc": "Albert Heijn geeft nu eindelijk toe slachtoffer te zijn geworden van een hack. Vandaag heeft moederconcern Ahold Delhaize formeel aangifte gedaan bij de Nederlandse politie; een week nadat hackers in zijn systemen inbraken.",
-   "cats": [
-    "Security & Risk",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Risk Management",
-    "Cybercrime",
-    "hack"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Digitale soevereiniteit kun je gewoon meten",
-   "link": "https://www.computable.nl/2026/10/19/digitale-soevereiniteit-kun-je-gewoon-meten/",
-   "date": "2026-10-19T15:00:00.000Z",
-   "desc": "In de rubriek De Overstap gidst ict‑journalist Robbert Hoeffnagel de ict-pro en -beslisser naar soevereine zakelijke oplossingen. Maar hoe weet je eigenlijk hoe digitaal soeverein je als organisatie bent?",
-   "cats": [
-    "Soevereiniteit",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "De Overstap",
-    "Safari",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Premier Jetten in gesprek met Zuidas-Russen van Nebius over ai",
-   "link": "https://www.computable.nl/2026/10/19/premier-jetten-in-gesprek-met-zuidas-russen-van-nebius-over-ai/",
-   "date": "2026-10-19T14:50:00.000Z",
-   "desc": "Nebius, het uit het Russische Yandex voortgekomen ai-cloudbedrijf met hoofdkantoor in Amsterdam, gaat flink bijdragen aan de ai-ambities van Nederland. Premier Rob Jetten en staatssecretaris Willemijn Aerdts hebben daarover gesproken met Nebius-oprichter en ceo Arkady Volozh.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Datacenter",
-    "Datacenter & Infrastructure",
-    "Overheid",
-    "AI",
-    "ai-fabriek",
-    "geopolitiek"
    ]
   }
  ]
