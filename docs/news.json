@@ -1,151 +1,28 @@
 {
- "updated": "2026-10-21T09:54:10.215Z",
+ "updated": "2026-10-21T15:52:45.171Z",
  "items": [
   {
-   "source": "Digitale Overheid",
-   "title": "AI vergroot risico cyberincidenten op de werkvloer",
-   "link": "https://www.digitaleoverheid.nl/nieuws/ai-vergroot-risico-cyberincidenten-op-de-werkvloer/",
-   "date": "2026-10-20T09:19:29.000Z",
-   "desc": "Hoe kunnen organisaties werknemers stimuleren digitaal veilig gedrag te vertonen? Uit onderzoek blijkt: inzetten op het bestrijden van 4 belemmeringen is belangrijk.",
+   "source": "Computable",
+   "title": "Kort: HPE stuurt ai naar de maan, Microsoft zet Copilot op kostenmeter (en meer)",
+   "link": "https://www.computable.nl/2026/10/21/kort-hpe-stuurt-ai-naar-de-maan-microsoft-zet-copilot-op-kostenmeter-en-meer/",
+   "date": "2026-10-21T10:30:00.000Z",
+   "desc": "HPE schiet ai-rekenkracht naar de maan, Microsoft verandert Copilot in variabele kostenpost, Doccle schakelt Enable U in voor Nederlandse groei, Dutch trekt miljoenen uit voor 36 zorgsimulaties, en VPRO schetst risico’s van Europese tech-afhankelijkheid.",
    "cats": [
-    "Nieuws",
+    "Data & AI",
+    "AI & Automation",
+    "AI Agents",
+    "Artificial Intelligence",
+    "Digitale werkplek",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Microsoft 365",
+    "Security & Risk",
+    "Soevereiniteit",
+    "Workplace Platforms",
+    "Zorg",
+    "AI",
     "cybersecurity",
-    "digitale weerbaarheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Dutch Design Week 2026: ontwerp de overheid van morgen mee",
-   "link": "https://www.digitaleoverheid.nl/nieuws/dutch-design-week-2026-ontwerp-de-overheid-van-morgen-mee/",
-   "date": "2026-10-16T12:48:40.000Z",
-   "desc": "Van 17 tot en met 25 oktober staat het ministerie van BZK op de Dutch Design Week. Ambtenaren gaan samen met bezoekers op zoek naar de dienstverlening van de toekomst.",
-   "cats": [
-    "Nieuws",
-    "1 overheid",
-    "DDW",
-    "Dienstverlening",
-    "Dutch Design Week",
-    "ontwerpende aanpak",
-    "Staat van Samen"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Digitale weerbaarheid begint buiten de IT-afdeling",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/digitale-weerbaarheid-begint-buiten-de-it-afdeling/",
-   "date": "2026-10-14T07:02:29.000Z",
-   "desc": "\"Om de organisatie echt veiliger te maken en te houden, is bewustzijn van belang\", zegt Keith Farzan, CISO bij Hoogheemraadschap De Stichtse Rijnlanden (HDSR).",
-   "cats": [
-    "Achtergrond",
-    "Chief Information Security Officer",
-    "CISO",
-    "digitale weerbaarheid",
-    "HDSR",
-    "informatiebeveiliging",
-    "waterschappen"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Handreiking helpt bij AI-toevoegingen in software",
-   "link": "https://www.digitaleoverheid.nl/nieuws/handreiking-helpt-bij-ai-toevoegingen-in-software/",
-   "date": "2026-10-13T08:28:54.000Z",
-   "desc": "Een nieuwe handreiking helpt inkopers en functioneel beheerders om risico’s rondom software-updates waarin AI is verwerkt te beoordelen en om afspraken te maken.",
-   "cats": [
-    "Nieuws",
-    "AI"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Ben jij voorbereid op de vernieuwde Archiefwet?",
-   "link": "https://www.digitaleoverheid.nl/nieuws/ben-jij-voorbereid-op-de-vernieuwde-archiefwet-2026/",
-   "date": "2026-10-09T11:02:30.000Z",
-   "desc": "Begin 2027 treedt de Archiefwet 2026 in werking. Weinig of juist veel tijd; het Leerhuis Informatiehuishouding heeft voor iedere professional passende leermiddelen.",
-   "cats": [
-    "Nieuws",
-    "Archiefwet",
-    "archiefwet 2026",
-    "archiveren",
-    "leeraanbod",
-    "Leerhuis Informatiehuishouding",
-    "leren en ontwikkelen",
-    "NA",
-    "nationaal archief",
-    "OCW"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "GBO: ‘Op één manier ontsluiten, meervoudig gebruiken’",
-   "link": "https://www.digitaleoverheid.nl/nieuws/gbo-op-een-manier-ontsluiten-meervoudig-gebruiken/",
-   "date": "2026-10-08T12:21:20.000Z",
-   "desc": "Het programma Gemeenschappelijke Bronontsluiting (GBO) ontwikkelt één gestandaardiseerde manier om overheidsgegevens beschikbaar te stellen voor diverse toepassingen.",
-   "cats": [
-    "Nieuws",
-    "bronontsluiting",
-    "data",
-    "GBO",
-    "gegevens delen",
-    "gegevensdeling",
-    "Gemeenschappelijke Bronontsluiting"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "ABRO: beveiligingseisen voor overheidsopdrachten",
-   "link": "https://www.digitaleoverheid.nl/nieuws/abro-beveiligingseisen-voor-overheidsopdrachten/",
-   "date": "2026-10-07T06:56:49.000Z",
-   "desc": "Bedrijven die voor de Rijksoverheid of politie een opdracht uitvoeren met risico’s voor de nationale veiligheid moeten voldoen aan de uniforme beveiligingseisen.",
-   "cats": [
-    "Nieuws",
-    "ABRO",
-    "Algemene Beveiligingseisen voor Rijksoverheidsopdrachten",
-    "beveiligingsniveaus",
-    "veiligheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe strategie om kinderen online te beschermen",
-   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-presenteert-strategie-om-kinderen-online-te-beschermen/",
-   "date": "2026-10-06T09:41:07.000Z",
-   "desc": "Het kabinet wil onder andere strengere regels voor digitale diensten, een Europese minimumleeftijd voor sociale media en ondersteuning voor ouders en kinderen.",
-   "cats": [
-    "Nieuws",
-    "Digitaal veilig",
-    "kia",
-    "nieuwsbrief-17-2026",
-    "strategie voor online kinderrechten"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Slimmer data delen in de praktijk",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/slimmer-data-delen-in-de-praktijk/",
-   "date": "2026-10-05T08:26:16.000Z",
-   "desc": "CBS, VNG en softwareleveranciers delen sinds kort veilig gegevens over armoede en schulden. Ruben Dood legt uit hoe dit precies werkt en welke voordelen dit heeft.",
-   "cats": [
-    "Achtergrond",
-    "CBS",
-    "datadelen",
-    "Federatief Datastelsel",
-    "nieuwsbrief-17-2026",
-    "praktijkverhaal",
-    "VNG"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Overheid en onderwijs willen meer opensourcewerken",
-   "link": "https://www.digitaleoverheid.nl/nieuws/overheid-en-onderwijs-willen-meer-opensourcewerken/",
-   "date": "2026-10-02T09:54:02.000Z",
-   "desc": "De Rijksoverheid, provincies, gemeenten en SURF hebben afgesproken structureler met open source te werken. Voor meer inzicht in hoe digitale systemen werken.",
-   "cats": [
-    "Nieuws",
-    "nieuwsbrief-17-2026",
-    "open source",
-    "opensourcewerken"
+    "Kort"
    ]
   },
   {
@@ -265,43 +142,6 @@
     "Kort",
     "soevereiniteit",
     "Software"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Tweede Kamer eist uitleg over VS-inbeslagname Autistici-server",
-   "link": "https://www.computable.nl/2026/10/20/tweede-kamer-eist-uitleg-over-vs-inbeslagname-autistici-server/",
-   "date": "2026-10-20T05:15:00.000Z",
-   "desc": "De Tweede Kamer eist opheldering over de inbeslagname van een server van de Italiaanse internet-dienstverlener Autistici/Inventati (A/I). Kamerleden van Pro en D66 zetten grote vraagtekens achter het voornemen van de Amsterdamse politie een kopie van de server naar Amerika te sturen.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Datacenter",
-    "Datacenter & Infrastructure",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Risk Management",
-    "Soevereiniteit",
-    "Data Analytics",
-    "geopolitiek",
-    "Hardware",
-    "Privacy"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Proofpoint neemt Varonis over voor 6,3 miljard dollar",
-   "link": "https://www.computable.nl/2026/10/20/proofpoint-neemt-varonis-over-voor-63-miljard-dollar/",
-   "date": "2026-10-20T05:00:00.000Z",
-   "desc": "Proofpoint neemt Varonis over voor ongeveer 6,3 miljard dollar in contanten. Voor het cybersecbedrijf betekent de deal een versterking van zijn aanbod voor databeveiliging.",
-   "cats": [
-    "IT Strategy & Governance",
-    "IT Industry news",
-    "Overnames & fusies",
-    "Security & Risk",
-    "cybersecurity",
-    "Overname"
    ]
   }
  ]
