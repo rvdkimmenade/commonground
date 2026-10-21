@@ -1,6 +1,177 @@
 {
- "updated": "2026-10-21T15:52:45.171Z",
+ "updated": "2026-10-21T20:29:00.451Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "AI vergroot risico cyberincidenten op de werkvloer",
+   "link": "https://www.digitaleoverheid.nl/nieuws/ai-vergroot-risico-cyberincidenten-op-de-werkvloer/",
+   "date": "2026-10-20T09:19:29.000Z",
+   "desc": "Hoe kunnen organisaties werknemers stimuleren digitaal veilig gedrag te vertonen? Uit onderzoek blijkt: inzetten op het bestrijden van 4 belemmeringen is belangrijk.",
+   "cats": [
+    "Nieuws",
+    "cybersecurity",
+    "digitale weerbaarheid"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Dutch Design Week 2026: ontwerp de overheid van morgen mee",
+   "link": "https://www.digitaleoverheid.nl/nieuws/dutch-design-week-2026-ontwerp-de-overheid-van-morgen-mee/",
+   "date": "2026-10-16T12:48:40.000Z",
+   "desc": "Van 17 tot en met 25 oktober staat het ministerie van BZK op de Dutch Design Week. Ambtenaren gaan samen met bezoekers op zoek naar de dienstverlening van de toekomst.",
+   "cats": [
+    "Nieuws",
+    "1 overheid",
+    "DDW",
+    "Dienstverlening",
+    "Dutch Design Week",
+    "ontwerpende aanpak",
+    "Staat van Samen"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Digitale weerbaarheid begint buiten de IT-afdeling",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/digitale-weerbaarheid-begint-buiten-de-it-afdeling/",
+   "date": "2026-10-14T07:02:29.000Z",
+   "desc": "\"Om de organisatie echt veiliger te maken en te houden, is bewustzijn van belang\", zegt Keith Farzan, CISO bij Hoogheemraadschap De Stichtse Rijnlanden (HDSR).",
+   "cats": [
+    "Achtergrond",
+    "Chief Information Security Officer",
+    "CISO",
+    "digitale weerbaarheid",
+    "HDSR",
+    "informatiebeveiliging",
+    "waterschappen"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Handreiking helpt bij AI-toevoegingen in software",
+   "link": "https://www.digitaleoverheid.nl/nieuws/handreiking-helpt-bij-ai-toevoegingen-in-software/",
+   "date": "2026-10-13T08:28:54.000Z",
+   "desc": "Een nieuwe handreiking helpt inkopers en functioneel beheerders om risico’s rondom software-updates waarin AI is verwerkt te beoordelen en om afspraken te maken.",
+   "cats": [
+    "Nieuws",
+    "AI"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Ben jij voorbereid op de vernieuwde Archiefwet?",
+   "link": "https://www.digitaleoverheid.nl/nieuws/ben-jij-voorbereid-op-de-vernieuwde-archiefwet-2026/",
+   "date": "2026-10-09T11:02:30.000Z",
+   "desc": "Begin 2027 treedt de Archiefwet 2026 in werking. Weinig of juist veel tijd; het Leerhuis Informatiehuishouding heeft voor iedere professional passende leermiddelen.",
+   "cats": [
+    "Nieuws",
+    "Archiefwet",
+    "archiefwet 2026",
+    "archiveren",
+    "leeraanbod",
+    "Leerhuis Informatiehuishouding",
+    "leren en ontwikkelen",
+    "NA",
+    "nationaal archief",
+    "OCW"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "GBO: ‘Op één manier ontsluiten, meervoudig gebruiken’",
+   "link": "https://www.digitaleoverheid.nl/nieuws/gbo-op-een-manier-ontsluiten-meervoudig-gebruiken/",
+   "date": "2026-10-08T12:21:20.000Z",
+   "desc": "Het programma Gemeenschappelijke Bronontsluiting (GBO) ontwikkelt één gestandaardiseerde manier om overheidsgegevens beschikbaar te stellen voor diverse toepassingen.",
+   "cats": [
+    "Nieuws",
+    "bronontsluiting",
+    "data",
+    "GBO",
+    "gegevens delen",
+    "gegevensdeling",
+    "Gemeenschappelijke Bronontsluiting"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "ABRO: beveiligingseisen voor overheidsopdrachten",
+   "link": "https://www.digitaleoverheid.nl/nieuws/abro-beveiligingseisen-voor-overheidsopdrachten/",
+   "date": "2026-10-07T06:56:49.000Z",
+   "desc": "Bedrijven die voor de Rijksoverheid of politie een opdracht uitvoeren met risico’s voor de nationale veiligheid moeten voldoen aan de uniforme beveiligingseisen.",
+   "cats": [
+    "Nieuws",
+    "ABRO",
+    "Algemene Beveiligingseisen voor Rijksoverheidsopdrachten",
+    "beveiligingsniveaus",
+    "veiligheid"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Nieuwe strategie om kinderen online te beschermen",
+   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-presenteert-strategie-om-kinderen-online-te-beschermen/",
+   "date": "2026-10-06T09:41:07.000Z",
+   "desc": "Het kabinet wil onder andere strengere regels voor digitale diensten, een Europese minimumleeftijd voor sociale media en ondersteuning voor ouders en kinderen.",
+   "cats": [
+    "Nieuws",
+    "Digitaal veilig",
+    "kia",
+    "nieuwsbrief-17-2026",
+    "strategie voor online kinderrechten"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Slimmer data delen in de praktijk",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/slimmer-data-delen-in-de-praktijk/",
+   "date": "2026-10-05T08:26:16.000Z",
+   "desc": "CBS, VNG en softwareleveranciers delen sinds kort veilig gegevens over armoede en schulden. Ruben Dood legt uit hoe dit precies werkt en welke voordelen dit heeft.",
+   "cats": [
+    "Achtergrond",
+    "CBS",
+    "datadelen",
+    "Federatief Datastelsel",
+    "nieuwsbrief-17-2026",
+    "praktijkverhaal",
+    "VNG"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Overheid en onderwijs willen meer opensourcewerken",
+   "link": "https://www.digitaleoverheid.nl/nieuws/overheid-en-onderwijs-willen-meer-opensourcewerken/",
+   "date": "2026-10-02T09:54:02.000Z",
+   "desc": "De Rijksoverheid, provincies, gemeenten en SURF hebben afgesproken structureler met open source te werken. Voor meer inzicht in hoe digitale systemen werken.",
+   "cats": [
+    "Nieuws",
+    "nieuwsbrief-17-2026",
+    "open source",
+    "opensourcewerken"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Nieuwe vaardigheid: begrijpen wat een ai-opdracht kost",
+   "link": "https://www.computable.nl/2026/10/21/nieuwe-vaardigheid-begrijpen-wat-een-ai-opdracht-kost/",
+   "date": "2026-10-21T15:00:00.000Z",
+   "desc": "Hoeveel kost al dat geprompt en gechat eigenlijk? Niet alleen in euro’s maar ook in energie? GreenPT maakt ai-gebruik inzichtelijk. 'Kosten en energie zijn bij ai sterk met elkaar verbonden. Wie efficiënter omgaat met tokens en modellen, ziet dat meestal terug in beide,' aldus ceo Robert Keus.",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "Data & AI Governance",
+    "AI"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Spoelstra Spreekt: Vroege 1-aprilgrap",
+   "link": "https://www.computable.nl/2026/10/21/spoelstra-spreekt-vroege-1-aprilgrap/",
+   "date": "2026-10-21T11:00:00.000Z",
+   "desc": "Je hebt weleens van die 1-aprilgrappen waarvan je denkt: wie trapt daar nou in? Nou, de mensen van het UWV dus. Er heeft weer iemand hun wijsgemaakt dat automatiseren bij de overheid een goed idee is. Gevolg: opnieuw wordt daar de stekker uit een groot ict-project getrokken.",
+   "cats": [
+    "Overheid",
+    "automatisering"
+   ]
+  },
   {
    "source": "Computable",
    "title": "Kort: HPE stuurt ai naar de maan, Microsoft zet Copilot op kostenmeter (en meer)",
@@ -98,50 +269,6 @@
     "IT Strategy & Governance",
     "Leadership & organisation",
     "Operating Models"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "EU-hof: bank moet phishingschade eerst vergoeden, ook bij grove nalatigheid",
-   "link": "https://www.computable.nl/2026/10/20/eu-hof-bank-moet-phishingschade-eerst-vergoeden-ook-bij-grove-nalatigheid/",
-   "date": "2026-10-20T11:00:00.000Z",
-   "desc": "Een bank mag een slachtoffer van phishing niet direct een vergoeding weigeren met een beroep op grove nalatigheid. Dat heeft het Hof van Justitie van de Europese Unie bepaald in een zaak tussen een Poolse bank en een klant die slachtoffer werd van online-fraude.",
-   "cats": [
-    "Security & Risk",
-    "Application & Data Security",
-    "Financiële dienstverlening",
-    "Overheid",
-    "Fintech",
-    "Phishing",
-    "Rechtszaak",
-    "Schadeclaim"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Infoplaza kiest voor Nederlandse wolk, let op valse captcha's",
-   "link": "https://www.computable.nl/2026/10/20/kort-infoplaza-kiest-voor-nederlandse-wolk-let-op-valse-captchas/",
-   "date": "2026-10-20T10:00:00.000Z",
-   "desc": "In dit nieuwsoverzicht: Wolk haalt Infoplaza weg bij Amerikaanse hyperscalers, nieuwe topmannen bij Youforce, Clevr en ECI, inauguratie Michiel van Genuchten, Ai-testcentrum NTT Data in München en veel valse captcha's in omloop.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Datacenter & Infrastructure",
-    "IT Industry news",
-    "Security & Risk",
-    "Software & Development",
-    "ai-fabriek",
-    "Big Tech",
-    "captcha",
-    "ceo",
-    "cloud",
-    "Cyberaanval",
-    "Datacenter",
-    "Kort",
-    "soevereiniteit",
-    "Software"
    ]
   }
  ]
