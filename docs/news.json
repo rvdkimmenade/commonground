@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-22T09:54:24.565Z",
+ "updated": "2026-10-22T15:49:26.817Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "“Dienstverlening gaat om de mens, niet om de techniek”",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-gaat-om-de-mens-niet-om-de-techniek/",
+   "date": "2026-10-22T10:58:37.000Z",
+   "desc": "Aldus Aart Los, opgavemanager Digitale Dienstverlening bij de VNG. In dit artikel vertelt hij meer over dienstverlening voor de inwoner, medewerker én de toekomst.",
+   "cats": [
+    "Achtergrond",
+    "Dienstverlening",
+    "overheidsbrede dienstverlening",
+    "Vereniging Nederlandse Gemeenten",
+    "VNG"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "AI vergroot risico cyberincidenten op de werkvloer",
@@ -136,16 +150,80 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Overheid en onderwijs willen meer opensourcewerken",
-   "link": "https://www.digitaleoverheid.nl/nieuws/overheid-en-onderwijs-willen-meer-opensourcewerken/",
-   "date": "2026-10-02T09:54:02.000Z",
-   "desc": "De Rijksoverheid, provincies, gemeenten en SURF hebben afgesproken structureler met open source te werken. Voor meer inzicht in hoe digitale systemen werken.",
+   "source": "Computable",
+   "title": "Ot-beveiliging: spaghetti moet lasagne worden",
+   "link": "https://www.computable.nl/2026/10/22/ot-beveiliging-spaghetti-moet-lasagne-worden/",
+   "date": "2026-10-22T13:17:37.000Z",
+   "desc": "De systemen die onze fabrieken, gebouwen en energievoorzieningen aansturen, zijn steeds vaker digitaal verbonden en daardoor kwetsbaar. Organisaties beveiligen hun it systemen en bedrijfsgegevens, maar operationele technologie krijgt onvoldoende aandacht.",
    "cats": [
-    "Nieuws",
-    "nieuwsbrief-17-2026",
-    "open source",
-    "opensourcewerken"
+    "Industry & OT",
+    "Security & Risk",
+    "OT security"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Cybercriminelen bestoken PHP-servers na publicatie noodpatch",
+   "link": "https://www.computable.nl/2026/10/22/cybercriminelen-bestoken-php-servers-na-publicatie-noodpatch/",
+   "date": "2026-10-22T11:47:41.000Z",
+   "desc": "Cybercriminelen doen momenteel op grote schaal aanvallen op webservers die in de taal PHP zijn geprogrammeerd. Voordat kwetsbaarheden in PHP (PHP2Shell) gisteren publiekelijk werden, constateerde beveiliger Cloudflare al duizenden pogingen om van het lek misbruik te maken.",
+   "cats": [
+    "Patch Management",
+    "Application & Data Security",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Security & Risk",
+    "beveiligingslek",
+    "Cyberaanval",
+    "patch",
+    "PHP",
+    "serverkasten"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Waarom het Nederlandse bedrijfsleven cloudinfrastructuur met soevereiniteit nodig heeft",
+   "link": "https://www.computable.nl/2026/10/22/waarom-het-nederlandse-bedrijfsleven-cloudinfrastructuur-met-soevereiniteit-nodig-heeft/",
+   "date": "2026-10-22T11:45:39.000Z",
+   "desc": "Nederlandse organisaties behoren tot een van de meest digitaal geavanceerde economieën ter wereld. Van multinationals en financiële instellingen tot zorgorganisaties, maakbedrijven en scale-ups: vrijwel iedere sector is afhankelijk van cloudgebaseerde, datagedreven en AI-ondersteunde platformen.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: 7 miljoen voor ot-beveiliger Indurex, 10 miljoen voor Photon Bridge (en meer)",
+   "link": "https://www.computable.nl/2026/10/22/kort-7-miljoen-voor-ot-beveiliger-indurex-10-miljoen-voor-photon-bridge-en-meer/",
+   "date": "2026-10-22T10:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: 7 miljoen voor Indurex, Lantack in Amerikaanse handen, Europese blockchaininfrastructuur EBSI gaat live, samenwerking Itsme en Signicat en 10 miljoen voor Photon Bridge.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Datacenter & Infrastructure",
+    "Digital Identity",
+    "Digitale werkplek",
+    "Industry & OT",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Overnames & fusies",
+    "Security & Risk",
+    "Software & Development",
+    "Startups & Scale-ups",
+    "Authenticatie",
+    "Azure",
+    "Blockchain",
+    "identificatie",
+    "Investering",
+    "Kort",
+    "laser",
+    "optica",
+    "OT security",
+    "Overname",
+    "startup",
+    "Werkplekbeheer"
    ]
   },
   {
@@ -215,77 +293,6 @@
    "cats": [
     "Overheid",
     "automatisering"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: HPE stuurt ai naar de maan, Microsoft zet Copilot op kostenmeter (en meer)",
-   "link": "https://www.computable.nl/2026/10/21/kort-hpe-stuurt-ai-naar-de-maan-microsoft-zet-copilot-op-kostenmeter-en-meer/",
-   "date": "2026-10-21T10:30:00.000Z",
-   "desc": "HPE schiet ai-rekenkracht naar de maan, Microsoft verandert Copilot in variabele kostenpost, Doccle schakelt Enable U in voor Nederlandse groei, Dutch trekt miljoenen uit voor 36 zorgsimulaties, en VPRO schetst risico’s van Europese tech-afhankelijkheid.",
-   "cats": [
-    "Data & AI",
-    "AI & Automation",
-    "AI Agents",
-    "Artificial Intelligence",
-    "Digitale werkplek",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Microsoft 365",
-    "Security & Risk",
-    "Soevereiniteit",
-    "Workplace Platforms",
-    "Zorg",
-    "AI",
-    "cybersecurity",
-    "Kort"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Accenture knipt in ai-budget: nog 29 dollar per medewerker voor Claude",
-   "link": "https://www.computable.nl/2026/10/21/accenture-knipt-in-ai-budget-nog-29-dollar-per-medewerker-voor-claude/",
-   "date": "2026-10-21T08:00:00.000Z",
-   "desc": "Adviesbedrijf Accenture betaalt sinds 1 oktober nog maar 29 dollar per medewerker per maand voor Claude. Sommige werknemers verbruikten tot 1.000 dollar per maand. Ook andere techbedrijven leggen de kosten van ai-tokens danig aan banden.",
-   "cats": [
-    "Data & AI",
-    "Data Operations",
-    "IT Governance & Control",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Operating Models",
-    "AI",
-    "Ai-model",
-    "Claude"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kabinet staat open voor verbod op drinkwatergebruik door datacenters",
-   "link": "https://www.computable.nl/2026/10/21/kabinet-staat-open-voor-verbod-op-drinkwatergebruik-door-datacenters/",
-   "date": "2026-10-21T05:15:00.000Z",
-   "desc": "Het kabinet steunt strengere Europese regels voor datacenters. Een verbod op het gebruik van drinkwater voor proceskoeling is bespreekbaar. Staatssecretaris Willemijn Aerdts (EZK) heeft geen bezwaar tegen een motie van de kamerleden Ines Kostić en Christine Teunissen (Partij van de Dieren).",
-   "cats": [
-    "Datacenter",
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "Overheid",
-    "Duurzaamheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Anthropic paart extreme groei aan enorme kapitaalhonger",
-   "link": "https://www.computable.nl/2026/10/21/anthropic-paart-extreme-groei-aan-enorme-kapitaalhonger/",
-   "date": "2026-10-21T05:00:00.000Z",
-   "desc": "Anthropic groeit uitzonderlijk snel, maar tegelijkertijd wordt het ai-bedrijf geconfronteerd met enorme kosten, aanzienlijke risico’s en een ongekend grote kapitaalbehoefte. Dit blijkt uit een nieuwe conceptversie van het beursprospectus (S-1) die de Amerikaanse zakenkrant Wall Street Journal zag.",
-   "cats": [
-    "Data & AI",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "AI",
-    "omzet"
    ]
   }
  ]
