@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:29:00.451Z",
+ "updated": "2026-10-22T09:54:24.565Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -150,6 +150,51 @@
   },
   {
    "source": "Computable",
+   "title": "Digitale soevereiniteit of digitale autonomie: wat is het verschil?",
+   "link": "https://www.computable.nl/2026/10/22/digitale-soevereiniteit-of-digitale-autonomie-wat-is-het-verschil/",
+   "date": "2026-10-22T08:00:00.000Z",
+   "desc": "Digitale soevereiniteit, digitale autonomie, soevereine cloud: de termen worden vaak door elkaar gebruikt. Maar wat betekenen ze nu echt, en waarom maakt het uit? Begin juli 2026 scherpte het kabinet het cloudbeleid aan en koos het voor een eigen soevereine overheidscloud.",
+   "cats": [
+    "Soevereiniteit",
+    "IT Governance & Control",
+    "IT Strategy & Governance"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Katapull breidt via overname Picqer softwareaanbod voor e-commerce uit",
+   "link": "https://www.computable.nl/2026/10/22/katapull-breidt-via-overname-picqer-softwareaanbod-voor-e-commerce-uit/",
+   "date": "2026-10-22T05:00:00.000Z",
+   "desc": "Katapull neemt Picqer over, leverancier van magazijnsoftware voor e-commercebedrijven. Met de acquisitie breidt het Nederlandse softwarebedrijf zijn Commerce Hub uit met warehousemanagement, orderverwerking en voorraadbeheer. Financiële details van de transactie zijn niet bekendgemaakt.",
+   "cats": [
+    "Software & Development",
+    "Business Applications",
+    "Data & AI",
+    "Data Infrastructure",
+    "Data Warehouse",
+    "ERP",
+    "Overname"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "GTIA lanceert alliantie voor veilige inzet van ai door msp’s",
+   "link": "https://www.computable.nl/2026/10/21/gtia-lanceert-alliantie-voor-veilige-inzet-van-ai-door-msps/",
+   "date": "2026-10-21T16:53:45.000Z",
+   "desc": "Hoewel de regels en werkwijzen ervoor nog volop in ontwikkeling zijn, wordt ai snel een nieuwe dienst die managed service providers kunnen verkopen. De internationale brancheorganisatie GTIA (voorheen bekend als CompTIA) wil het it-kanaal ondersteunen met een wereldwijd ai-kompas: standaarde",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "Artificial Intelligence",
+    "IT Strategy & Governance",
+    "CRM",
+    "ERP",
+    "mkb",
+    "MSP"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Nieuwe vaardigheid: begrijpen wat een ai-opdracht kost",
    "link": "https://www.computable.nl/2026/10/21/nieuwe-vaardigheid-begrijpen-wat-een-ai-opdracht-kost/",
    "date": "2026-10-21T15:00:00.000Z",
@@ -241,34 +286,6 @@
     "IT Strategy & Governance",
     "AI",
     "omzet"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Enschede dichtbij proeffabriek voor fotonische chips",
-   "link": "https://www.computable.nl/2026/10/20/enschede-dichtbij-proeffabriek-voor-fotonische-chips/",
-   "date": "2026-10-20T14:30:00.000Z",
-   "desc": "Bij de oprichting van de New Origin-chipfabriek in Enschede is een doorbraak bereikt. Zowel voor de netcongestie als de waterschaarste zijn oplossingen gevonden. Daardoor staat weinig meer de bouw van een fabriek voor fotonische chips in de weg.",
-   "cats": [
-    "Industry & OT",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "fotonica"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Zonder betrouwbare tijd geen weerbare digitale samenleving",
-   "link": "https://www.computable.nl/2026/10/20/zonder-betrouwbare-tijd-geen-weerbare-digitale-samenleving/",
-   "date": "2026-10-20T13:51:28.000Z",
-   "desc": "De schrikkelseconde verdwijnt. Wat op het eerste gezicht een opmerkelijk besluit van internationale tijdexperts lijkt, vertelt een veel groter verhaal over de kwetsbaarheid van onze digitale samenleving.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Operating Models"
    ]
   }
  ]
