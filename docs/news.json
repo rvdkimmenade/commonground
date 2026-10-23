@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:48:11.295Z",
+ "updated": "2026-10-23T15:40:34.745Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -150,6 +150,68 @@
   },
   {
    "source": "Computable",
+   "title": "Google krijgt wind van voren na kaalslag in Fins bos",
+   "link": "https://www.computable.nl/2026/10/23/google-krijgt-wind-van-voren-na-kaalslag-in-fins-bos/",
+   "date": "2026-10-23T14:00:08.000Z",
+   "desc": "Google heeft in Finland forse kritiek gekregen nadat voor geplande datacenterlocaties op grote schaal bos is gekapt voordat alle milieuprocedures waren afgerond. Finse autoriteiten hebben ingegrepen en het bedrijf opgedragen bepaalde werkzaamheden stil te leggen.",
+   "cats": [
+    "Datacenter & Infrastructure",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Datacenter",
+    "Duurzaamheid"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Ctac in rode cijfers door bankroet Belgische klant",
+   "link": "https://www.computable.nl/2026/10/23/ctac-in-rode-cijfers-door-bankroet-belgische-klant/",
+   "date": "2026-10-23T13:22:30.000Z",
+   "desc": "Ctac in rode cijfers door bankroet Belgische klant Ctac verwacht 2026 af te sluiten met een verlies. Het bedrijf zag de omzet in het derde kwartaal teruglopen en kreeg te maken met een schadepost van naar schatting 3,1 miljoen euro door het faillissement van een Belgische klant.",
+   "cats": [
+    "IT Industry news",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "IT Strategy & Governance",
+    "Marktbewegingen",
+    "Ontslagen & reorganisaties",
+    "Software & Development",
+    "Faillissementen",
+    "kwartaalcijfers",
+    "Reorganisatie"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: Zorgen om verkeerssoftware Rijkswaterstaat, Canon introduceert edr voor printomgeving (en meer)",
+   "link": "https://www.computable.nl/2026/10/23/kort-zorgen-om-verkeerssoftware-rijkswaterstaat-canon-introduceert-edr-voor-printomgeving-en-meer/",
+   "date": "2026-10-23T10:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Alarm om livegang Dynac, kredietlijn van 3,5 miljard voor Nebius, bundeling computingkrachten Fujitsu, Fsas en Schwarz Digits, boete van 25 miljard dollar voor Meta en Canon voegt EDR toe aan kantoorprinters.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "IT Governance & Control",
+    "IT Industry news",
+    "Overheid",
+    "Security & Risk",
+    "Applicaties",
+    "cloud",
+    "Developer",
+    "edr",
+    "Investering",
+    "Kort",
+    "Printers",
+    "Privacy",
+    "Rechtszaak",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Microsoft slaat alarm over ai-cyberaanvallen",
    "link": "https://www.computable.nl/2026/10/23/microsoft-slaat-alarm-over-ai-cyberaanvallen/",
    "date": "2026-10-23T05:15:00.000Z",
@@ -263,64 +325,6 @@
     "Overname",
     "startup",
     "Werkplekbeheer"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Digitale soevereiniteit of digitale autonomie: wat is het verschil?",
-   "link": "https://www.computable.nl/2026/10/22/digitale-soevereiniteit-of-digitale-autonomie-wat-is-het-verschil/",
-   "date": "2026-10-22T08:00:00.000Z",
-   "desc": "Digitale soevereiniteit, digitale autonomie, soevereine cloud: de termen worden vaak door elkaar gebruikt. Maar wat betekenen ze nu echt, en waarom maakt het uit? Begin juli 2026 scherpte het kabinet het cloudbeleid aan en koos het voor een eigen soevereine overheidscloud.",
-   "cats": [
-    "Soevereiniteit",
-    "IT Governance & Control",
-    "IT Strategy & Governance"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Katapull breidt via overname Picqer softwareaanbod voor e-commerce uit",
-   "link": "https://www.computable.nl/2026/10/22/katapull-breidt-via-overname-picqer-softwareaanbod-voor-e-commerce-uit/",
-   "date": "2026-10-22T05:00:00.000Z",
-   "desc": "Katapull neemt Picqer over, leverancier van magazijnsoftware voor e-commercebedrijven. Met de acquisitie breidt het Nederlandse softwarebedrijf zijn Commerce Hub uit met warehousemanagement, orderverwerking en voorraadbeheer. Financiële details van de transactie zijn niet bekendgemaakt.",
-   "cats": [
-    "Software & Development",
-    "Business Applications",
-    "Data & AI",
-    "Data Infrastructure",
-    "Data Warehouse",
-    "ERP",
-    "Overname"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "GTIA lanceert alliantie voor veilige inzet van ai door msp’s",
-   "link": "https://www.computable.nl/2026/10/21/gtia-lanceert-alliantie-voor-veilige-inzet-van-ai-door-msps/",
-   "date": "2026-10-21T16:53:45.000Z",
-   "desc": "Hoewel de regels en werkwijzen ervoor nog volop in ontwikkeling zijn, wordt ai snel een nieuwe dienst die managed service providers kunnen verkopen. De internationale brancheorganisatie GTIA (voorheen bekend als CompTIA) wil het it-kanaal ondersteunen met een wereldwijd ai-kompas: standaarde",
-   "cats": [
-    "Data & AI",
-    "AI & Automation",
-    "Artificial Intelligence",
-    "IT Strategy & Governance",
-    "CRM",
-    "ERP",
-    "mkb",
-    "MSP"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Nieuwe vaardigheid: begrijpen wat een ai-opdracht kost",
-   "link": "https://www.computable.nl/2026/10/21/nieuwe-vaardigheid-begrijpen-wat-een-ai-opdracht-kost/",
-   "date": "2026-10-21T15:00:00.000Z",
-   "desc": "Hoeveel kost al dat geprompt en gechat eigenlijk? Niet alleen in euro’s maar ook in energie? GreenPT maakt ai-gebruik inzichtelijk. 'Kosten en energie zijn bij ai sterk met elkaar verbonden. Wie efficiënter omgaat met tokens en modellen, ziet dat meestal terug in beide,' aldus ceo Robert Keus.",
-   "cats": [
-    "Data & AI",
-    "AI & Automation",
-    "Data & AI Governance",
-    "AI"
    ]
   }
  ]
