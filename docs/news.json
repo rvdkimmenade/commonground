@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-22T20:26:56.415Z",
+ "updated": "2026-10-23T09:48:11.295Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Nieuwe inzichten over het Algoritmekader en -register",
+   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-inzichten-over-het-algoritmekader-en-register/",
+   "date": "2026-10-23T07:04:04.000Z",
+   "desc": "Hoe werken het Algoritmekader en het Algoritmeregister in de praktijk? Nieuwe onderzoeksrapporten van de ADR laten zien wat goed gaat en waar verbeterpunten liggen.",
+   "cats": [
+    "Nieuws",
+    "ADR",
+    "algoritmekader",
+    "algoritmen",
+    "Algoritmeregister",
+    "onderzoek"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "“Dienstverlening gaat om de mens, niet om de techniek”",
@@ -134,19 +149,43 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Slimmer data delen in de praktijk",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/slimmer-data-delen-in-de-praktijk/",
-   "date": "2026-10-05T08:26:16.000Z",
-   "desc": "CBS, VNG en softwareleveranciers delen sinds kort veilig gegevens over armoede en schulden. Ruben Dood legt uit hoe dit precies werkt en welke voordelen dit heeft.",
+   "source": "Computable",
+   "title": "Microsoft slaat alarm over ai-cyberaanvallen",
+   "link": "https://www.computable.nl/2026/10/23/microsoft-slaat-alarm-over-ai-cyberaanvallen/",
+   "date": "2026-10-23T05:15:00.000Z",
+   "desc": "Agentic-ai-platforms maken cyberaanvallen sneller dan ooit: organisaties hebben soms maar drie uur om aanvallers tegen te houden die het op hun cloudomgeving hebben voorzien. Microsoft slaagt hierover alarm tegenover ciso's.",
    "cats": [
-    "Achtergrond",
-    "CBS",
-    "datadelen",
-    "Federatief Datastelsel",
-    "nieuwsbrief-17-2026",
-    "praktijkverhaal",
-    "VNG"
+    "Security & Risk",
+    "Data & AI",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "IT Strategy & Transformation",
+    "AI",
+    "ai-agent",
+    "Ai-model",
+    "Artex",
+    "CISO",
+    "Cyberaanval",
+    "geopolitiek",
+    "hackers",
+    "llm"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Besi overtreft verwachtingen met sterke ordergroei dankzij ai-boom",
+   "link": "https://www.computable.nl/2026/10/23/besi-overtreft-verwachtingen-met-sterke-ordergroei-dankzij-ai-boom/",
+   "date": "2026-10-23T05:00:00.000Z",
+   "desc": "BE Semiconductor Industries (Besi) verwacht dat de vraag naar zijn chipmachines dit kwartaal verder aanzwelt, nu de uitbreiding van ai-capaciteit onverminderd doorgaat. Over het afgelopen kwartaal meldt de chipmachinefabrikant uit Duiven een sterke instroom van nieuwe orders.",
+   "cats": [
+    "Datacenter & Infrastructure",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "AI",
+    "Chipmachine",
+    "Chips"
    ]
   },
   {
@@ -282,17 +321,6 @@
     "AI & Automation",
     "Data & AI Governance",
     "AI"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Spoelstra Spreekt: Vroege 1-aprilgrap",
-   "link": "https://www.computable.nl/2026/10/21/spoelstra-spreekt-vroege-1-aprilgrap/",
-   "date": "2026-10-21T11:00:00.000Z",
-   "desc": "Je hebt weleens van die 1-aprilgrappen waarvan je denkt: wie trapt daar nou in? Nou, de mensen van het UWV dus. Er heeft weer iemand hun wijsgemaakt dat automatiseren bij de overheid een goed idee is. Gevolg: opnieuw wordt daar de stekker uit een groot ict-project getrokken.",
-   "cats": [
-    "Overheid",
-    "automatisering"
    ]
   }
  ]
