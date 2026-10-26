@@ -1,12 +1,29 @@
 {
- "updated": "2026-10-26T10:50:58.254Z",
+ "updated": "2026-10-26T17:11:00.093Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Doe mee met de Denk vooruit-actieweek",
+   "link": "https://www.digitaleoverheid.nl/nieuws/doe-mee-met-de-denk-vooruit-actieweek/",
+   "date": "2026-10-26T12:51:30.000Z",
+   "desc": "Moedig je collega’s aan in gesprek te gaan over weerbaarheid en afspraken rondom noodsituaties. De actieweek sluit aan bij de landelijke campagne 'Denk vooruit'.",
+   "cats": [
+    "Nieuws",
+    "Calamiteit",
+    "Crisis",
+    "Denk vooruit",
+    "digitale weerbaarheid",
+    "noodsituaties",
+    "rijksambtenaren",
+    "weerbaarheid"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Nieuwe inzichten over het Algoritmekader en -register",
    "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-inzichten-over-het-algoritmekader-en-register/",
    "date": "2026-10-23T07:04:04.000Z",
-   "desc": "Hoe werken het Algoritmekader en het Algoritmeregister in de praktijk? Nieuwe onderzoeksrapporten van de ADR laten zien wat goed gaat en waar verbeterpunten liggen.",
+   "desc": "Hoe werken het Algoritmekader en het Algoritmeregister in de praktijk? Onderzoeksrapporten van de Auditdienst Rijk tonen wat goed gaat en waar verbeterpunten liggen.",
    "cats": [
     "Nieuws",
     "ADR",
@@ -135,17 +152,47 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe strategie om kinderen online te beschermen",
-   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-presenteert-strategie-om-kinderen-online-te-beschermen/",
-   "date": "2026-10-06T09:41:07.000Z",
-   "desc": "Het kabinet wil onder andere strengere regels voor digitale diensten, een Europese minimumleeftijd voor sociale media en ondersteuning voor ouders en kinderen.",
+   "source": "Computable",
+   "title": "AWS meldt succesvolle test met eigen soevereine EU-cloud",
+   "link": "https://www.computable.nl/2026/10/26/aws-meldt-succesvolle-test-met-eigen-soevereine-eu-cloud/",
+   "date": "2026-10-26T15:01:59.000Z",
+   "desc": "De Amerikaanse clouddienstverlener AWS heeft met een praktische test aangetoond dat het, naar eigen zeggen, een soevereine Europese cloud kan opzetten. Deze kan volgens het bedrijf volledig zelfstandig functioneren binnen de EU, zonder AWS-infrastructuur van buiten de EU.",
    "cats": [
-    "Nieuws",
-    "Digitaal veilig",
-    "kia",
-    "nieuwsbrief-17-2026",
-    "strategie voor online kinderrechten"
+    "Overheid",
+    "AWS",
+    "Cloud & Infrastructure",
+    "Datacenter & Infrastructure",
+    "Public Cloud",
+    "EU-cloud",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kabinet rekent op ai voor forse bezuiniging op personeel",
+   "link": "https://www.computable.nl/2026/10/26/kabinet-rekent-op-ai-voor-forse-bezuiniging-op-personeel/",
+   "date": "2026-10-26T12:42:21.000Z",
+   "desc": "Technologie moet de overheid slagvaardiger maken. It en digitalisering spelen een belangrijke rol bij de sanering van de rijksoverheid die het kabinet maandagochtend aankondigde. Dit blijkt uit de Voortgangsbrief Slagvaardige Overheid van staatssecretaris Eric van den Burg (BZK).",
+   "cats": [
+    "Overheid",
+    "AI & Automation",
+    "AI Agents",
+    "Artificial Intelligence",
+    "Data & AI",
+    "Generative AI",
+    "BZK"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: ’15 procent NL-organisaties getroffen door PHP-aanval’, Gartner deelt 5 ai-trends voor 2027 (en meer)",
+   "link": "https://www.computable.nl/2026/10/26/kort-15-procent-nl-organisaties-getroffen-door-php-aanval-gartner-deelt-5-ai-trends-voor-2027-en-meer/",
+   "date": "2026-10-26T12:02:25.000Z",
+   "desc": "In dit nieuwsoverzicht: Nederlandse organisaties bovengemiddeld vaak getroffen door php-aanvallen, Gartner waarschuwt voor fors hogere ai-kosten e, Oracle paait partners met 1 miljard dollar, Previder breidt uit naar het VK, en Atos en Fortinet zetten streep door landen-aanpak.",
+   "cats": [
+    "Security & Risk",
+    "Cloud & Infrastructure",
+    "Data & AI"
    ]
   },
   {
@@ -237,72 +284,6 @@
     "Faillissementen",
     "kwartaalcijfers",
     "Reorganisatie"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Zorgen om verkeerssoftware Rijkswaterstaat, Canon introduceert edr voor printomgeving (en meer)",
-   "link": "https://www.computable.nl/2026/10/23/kort-zorgen-om-verkeerssoftware-rijkswaterstaat-canon-introduceert-edr-voor-printomgeving-en-meer/",
-   "date": "2026-10-23T10:00:00.000Z",
-   "desc": "In dit nieuwsoverzicht: Alarm om livegang Dynac, kredietlijn van 3,5 miljard voor Nebius, bundeling computingkrachten Fujitsu, Fsas en Schwarz Digits, boete van 25 miljard dollar voor Meta en Canon voegt EDR toe aan kantoorprinters.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "IT Governance & Control",
-    "IT Industry news",
-    "Overheid",
-    "Security & Risk",
-    "Applicaties",
-    "cloud",
-    "Developer",
-    "edr",
-    "Investering",
-    "Kort",
-    "Printers",
-    "Privacy",
-    "Rechtszaak",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Microsoft slaat alarm over ai-cyberaanvallen",
-   "link": "https://www.computable.nl/2026/10/23/microsoft-slaat-alarm-over-ai-cyberaanvallen/",
-   "date": "2026-10-23T05:15:00.000Z",
-   "desc": "Agentic-ai-platforms maken cyberaanvallen sneller dan ooit: organisaties hebben soms maar drie uur om aanvallers tegen te houden die het op hun cloudomgeving hebben voorzien. Microsoft slaagt hierover alarm tegenover ciso's.",
-   "cats": [
-    "Security & Risk",
-    "Data & AI",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "IT Strategy & Transformation",
-    "AI",
-    "ai-agent",
-    "Ai-model",
-    "Artex",
-    "CISO",
-    "Cyberaanval",
-    "geopolitiek",
-    "hackers",
-    "llm"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Besi overtreft verwachtingen met sterke ordergroei dankzij ai-boom",
-   "link": "https://www.computable.nl/2026/10/23/besi-overtreft-verwachtingen-met-sterke-ordergroei-dankzij-ai-boom/",
-   "date": "2026-10-23T05:00:00.000Z",
-   "desc": "BE Semiconductor Industries (Besi) verwacht dat de vraag naar zijn chipmachines dit kwartaal verder aanzwelt, nu de uitbreiding van ai-capaciteit onverminderd doorgaat. Over het afgelopen kwartaal meldt de chipmachinefabrikant uit Duiven een sterke instroom van nieuwe orders.",
-   "cats": [
-    "Datacenter & Infrastructure",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "AI",
-    "Chipmachine",
-    "Chips"
    ]
   }
  ]
