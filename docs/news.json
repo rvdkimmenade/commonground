@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T20:15:01.753Z",
+ "updated": "2026-10-26T10:50:58.254Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -150,6 +150,61 @@
   },
   {
    "source": "Computable",
+   "title": "Vraagtekens over soevereine SAP-cloud Defensie",
+   "link": "https://www.computable.nl/2026/10/26/vraagtekens-over-soevereine-sap-cloud-defensie/",
+   "date": "2026-10-26T06:15:00.000Z",
+   "desc": "Defensie gaat een extra veilige, eigen cloudomgeving gebruiken voor zijn SAP-software. Dit is een speciaal afgeschermd digitaal systeem dat losstaat van de reguliere, openbare systemen van technologiebedrijf SAP. De eerste reacties zijn echter kritisch.",
+   "cats": [
+    "Soevereiniteit",
+    "Cloud & Infrastructure",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Software & Development",
+    "cloud",
+    "ERP",
+    "innovatie",
+    "Legacy",
+    "migratie",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Ex-ASML-topman pleit voor importheffingen China",
+   "link": "https://www.computable.nl/2026/10/26/ex-asml-topman-pleit-voor-importheffingen-china/",
+   "date": "2026-10-26T06:00:00.000Z",
+   "desc": "Ex-ASML-topman Peter Wennink vindt dat de EU beschermende maatregelen tegen China moet nemen, als dat land niet zelf zijn exportoverschotten beperkt. Hij roept op tot importquota of heffingen wanneer Chinese overcapaciteit leidt tot een stroom goedkope importproducten die EU-bedrijven verdringen.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "China",
+    "Chipmachine",
+    "Chips",
+    "geopolitiek"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Politie start strafrechtelijk onderzoek naar cyberaanval op Albert Heijn",
+   "link": "https://www.computable.nl/2026/10/23/politie-start-strafrechtelijk-onderzoek-naar-cyberaanval-op-albert-heijn/",
+   "date": "2026-10-23T17:40:57.000Z",
+   "desc": "De politie is een strafrechtelijk onderzoek gestart naar de cyberaanval die de afgelopen tijd voor grote problemen zorgde bij Albert Heijn en andere ketens van het winkelconcern Ahold Delhaize.",
+   "cats": [
+    "Security & Risk",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Network & Endpoint Security",
+    "Overheid",
+    "Cybercrime",
+    "hack"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Google krijgt wind van voren na kaalslag in Fins bos",
    "link": "https://www.computable.nl/2026/10/23/google-krijgt-wind-van-voren-na-kaalslag-in-fins-bos/",
    "date": "2026-10-23T14:00:08.000Z",
@@ -248,83 +303,6 @@
     "AI",
     "Chipmachine",
     "Chips"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ot-beveiliging: spaghetti moet lasagne worden",
-   "link": "https://www.computable.nl/2026/10/22/ot-beveiliging-spaghetti-moet-lasagne-worden/",
-   "date": "2026-10-22T13:17:37.000Z",
-   "desc": "De systemen die onze fabrieken, gebouwen en energievoorzieningen aansturen, zijn steeds vaker digitaal verbonden en daardoor kwetsbaar. Organisaties beveiligen hun it systemen en bedrijfsgegevens, maar operationele technologie krijgt onvoldoende aandacht.",
-   "cats": [
-    "Industry & OT",
-    "Security & Risk",
-    "OT security"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Cybercriminelen bestoken PHP-servers na publicatie noodpatch",
-   "link": "https://www.computable.nl/2026/10/22/cybercriminelen-bestoken-php-servers-na-publicatie-noodpatch/",
-   "date": "2026-10-22T11:47:41.000Z",
-   "desc": "Cybercriminelen doen momenteel op grote schaal aanvallen op webservers die in de taal PHP zijn geprogrammeerd. Voordat kwetsbaarheden in PHP (PHP2Shell) gisteren publiekelijk werden, constateerde beveiliger Cloudflare al duizenden pogingen om van het lek misbruik te maken.",
-   "cats": [
-    "Patch Management",
-    "Application & Data Security",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Security & Risk",
-    "beveiligingslek",
-    "Cyberaanval",
-    "patch",
-    "PHP",
-    "serverkasten"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Waarom het Nederlandse bedrijfsleven cloudinfrastructuur met soevereiniteit nodig heeft",
-   "link": "https://www.computable.nl/2026/10/22/waarom-het-nederlandse-bedrijfsleven-cloudinfrastructuur-met-soevereiniteit-nodig-heeft/",
-   "date": "2026-10-22T11:45:39.000Z",
-   "desc": "Nederlandse organisaties behoren tot een van de meest digitaal geavanceerde economieën ter wereld. Van multinationals en financiële instellingen tot zorgorganisaties, maakbedrijven en scale-ups: vrijwel iedere sector is afhankelijk van cloudgebaseerde, datagedreven en AI-ondersteunde platformen.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: 7 miljoen voor ot-beveiliger Indurex, 10 miljoen voor Photon Bridge (en meer)",
-   "link": "https://www.computable.nl/2026/10/22/kort-7-miljoen-voor-ot-beveiliger-indurex-10-miljoen-voor-photon-bridge-en-meer/",
-   "date": "2026-10-22T10:00:00.000Z",
-   "desc": "In dit nieuwsoverzicht: 7 miljoen voor Indurex, Lantack in Amerikaanse handen, Europese blockchaininfrastructuur EBSI gaat live, samenwerking Itsme en Signicat en 10 miljoen voor Photon Bridge.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "Digital Identity",
-    "Digitale werkplek",
-    "Industry & OT",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Overnames & fusies",
-    "Security & Risk",
-    "Software & Development",
-    "Startups & Scale-ups",
-    "Authenticatie",
-    "Azure",
-    "Blockchain",
-    "identificatie",
-    "Investering",
-    "Kort",
-    "laser",
-    "optica",
-    "OT security",
-    "Overname",
-    "startup",
-    "Werkplekbeheer"
    ]
   }
  ]
