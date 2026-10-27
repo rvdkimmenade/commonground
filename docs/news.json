@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T10:16:38.106Z",
+ "updated": "2026-10-27T16:17:20.070Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -13,7 +13,8 @@
     "AI",
     "chatbot",
     "Gem",
-    "NDS"
+    "NDS",
+    "nieuwsbrief-18-2026"
    ]
   },
   {
@@ -28,6 +29,7 @@
     "Crisis",
     "Denk vooruit",
     "digitale weerbaarheid",
+    "nieuwsbrief-18-2026",
     "noodsituaties",
     "rijksambtenaren",
     "weerbaarheid"
@@ -45,6 +47,7 @@
     "algoritmekader",
     "algoritmen",
     "Algoritmeregister",
+    "nieuwsbrief-18-2026",
     "onderzoek"
    ]
   },
@@ -57,6 +60,7 @@
    "cats": [
     "Achtergrond",
     "Dienstverlening",
+    "nieuwsbrief-18-2026",
     "overheidsbrede dienstverlening",
     "Vereniging Nederlandse Gemeenten",
     "VNG"
@@ -71,7 +75,8 @@
    "cats": [
     "Nieuws",
     "cybersecurity",
-    "digitale weerbaarheid"
+    "digitale weerbaarheid",
+    "nieuwsbrief-18-2026"
    ]
   },
   {
@@ -103,6 +108,7 @@
     "digitale weerbaarheid",
     "HDSR",
     "informatiebeveiliging",
+    "nieuwsbrief-18-2026",
     "waterschappen"
    ]
   },
@@ -114,7 +120,13 @@
    "desc": "Een nieuwe handreiking helpt inkopers en functioneel beheerders om risico’s rondom software-updates waarin AI is verwerkt te beoordelen en om afspraken te maken.",
    "cats": [
     "Nieuws",
-    "AI"
+    "AI",
+    "gemeente",
+    "NDS",
+    "nieuwsbrief-18-2026",
+    "provincie",
+    "publieke dienstverlening",
+    "rijk"
    ]
   },
   {
@@ -133,6 +145,7 @@
     "leren en ontwikkelen",
     "NA",
     "nationaal archief",
+    "nieuwsbrief-18-2026",
     "OCW"
    ]
   },
@@ -149,7 +162,58 @@
     "GBO",
     "gegevens delen",
     "gegevensdeling",
-    "Gemeenschappelijke Bronontsluiting"
+    "Gemeenschappelijke Bronontsluiting",
+    "nieuwsbrief-18-2026"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Schneider Electric deelt ontwerp prefab ai-fabriek",
+   "link": "https://www.computable.nl/2026/10/27/schneider-electric-deelt-ontwerp-prefab-ai-fabriek/",
+   "date": "2026-10-27T14:36:46.000Z",
+   "desc": "Schneider Electric heeft een nieuw referentieontwerp onthuld voor modulaire prefab ai-fabrieken. Dat ontwerp met de naam RapidScale Modular Data Center Reference Design biedt een blauwdruk voor de huisvesting en technische installaties voor de ai -infrastructuur rond het Nvidia Vera Rubin-platform.",
+   "cats": [
+    "Architecture",
+    "AI & Automation",
+    "Artificial Intelligence",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Datacenter & Infrastructure",
+    "High Performance Computing",
+    "AI",
+    "ai-fabriek",
+    "Datacenter",
+    "modulair",
+    "prefab"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: KPN vernieuwt e-mail- en opslagdienst, hack bij SC Heerenveen legt ticketfraude bloot (en meer)",
+   "link": "https://www.computable.nl/2026/10/27/kort-kpn-vernieuwt-e-mail-en-opslagdienst-hack-bij-sc-heerenveen-legt-ticketfraude-bloot-en-meer/",
+   "date": "2026-10-27T10:32:53.000Z",
+   "desc": "In dit nieuwsoverzicht: KPN komt met KPN Mail en Cloud, samenwerking Eye Security en HarfangLab, Ferranti neemt Cogenius over, onderzoek naar Booking.com zet hotels op scherp en accountkraak bij Heerenveen leidt naar handel in voetbaltickets.",
+   "cats": [
+    "Security & Risk",
+    "Application & Data Security",
+    "Digital Identity",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Network & Endpoint Security",
+    "Soevereiniteit",
+    "Software & Development",
+    "Vulnerability Management",
+    "Authenticatie",
+    "DSA",
+    "edr",
+    "ERP",
+    "hack",
+    "horeca",
+    "Kort",
+    "mdr",
+    "Overname",
+    "Storage"
    ]
   },
   {
@@ -259,22 +323,6 @@
     "Chipmachine",
     "Chips",
     "geopolitiek"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Politie start strafrechtelijk onderzoek naar cyberaanval op Albert Heijn",
-   "link": "https://www.computable.nl/2026/10/23/politie-start-strafrechtelijk-onderzoek-naar-cyberaanval-op-albert-heijn/",
-   "date": "2026-10-23T17:40:57.000Z",
-   "desc": "De politie is een strafrechtelijk onderzoek gestart naar de cyberaanval die de afgelopen tijd voor grote problemen zorgde bij Albert Heijn en andere ketens van het winkelconcern Ahold Delhaize.",
-   "cats": [
-    "Security & Risk",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Network & Endpoint Security",
-    "Overheid",
-    "Cybercrime",
-    "hack"
    ]
   }
  ]
