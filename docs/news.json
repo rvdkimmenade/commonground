@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-26T17:11:00.093Z",
+ "updated": "2026-10-27T10:16:38.106Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Van gemeentelijke chatbot naar virtuele assistent",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/van-gemeentelijke-chatbot-naar-virtuele-assistent/",
+   "date": "2026-10-27T09:52:14.000Z",
+   "desc": "Gem draait bij 27 gemeenten en beantwoordt veel vragen. Generatieve AI gaat Gem slim genoeg maken voor inzet bij alle gemeenten en uiteindelijk de hele overheid.",
+   "cats": [
+    "Achtergrond",
+    "NDS nieuws",
+    "AI",
+    "chatbot",
+    "Gem",
+    "NDS"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Doe mee met de Denk vooruit-actieweek",
@@ -138,17 +153,20 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "ABRO: beveiligingseisen voor overheidsopdrachten",
-   "link": "https://www.digitaleoverheid.nl/nieuws/abro-beveiligingseisen-voor-overheidsopdrachten/",
-   "date": "2026-10-07T06:56:49.000Z",
-   "desc": "Bedrijven die voor de Rijksoverheid of politie een opdracht uitvoeren met risico’s voor de nationale veiligheid moeten voldoen aan de uniforme beveiligingseisen.",
+   "source": "Computable",
+   "title": "Anthropic waarschuwt voor ai-misbruik in beursprospectus",
+   "link": "https://www.computable.nl/2026/10/27/anthropic-waarschuwt-voor-ai-misbruik-in-beursprospectus/",
+   "date": "2026-10-27T08:15:02.000Z",
+   "desc": "In de aanloop naar de beursgang, de eerste van een groot ai-bedrijf, heeft Anthropic maandag zijn aanvraag voor een beursnotering ingediend. In de prospectus waarschuwt het bedrijf dat er met ai een hoop mis kan gaan.",
    "cats": [
-    "Nieuws",
-    "ABRO",
-    "Algemene Beveiligingseisen voor Rijksoverheidsopdrachten",
-    "beveiligingsniveaus",
-    "veiligheid"
+    "Data & AI",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Marktbewegingen",
+    "Startups & Scale-ups",
+    "AI",
+    "Beursgang",
+    "ethiek"
    ]
   },
   {
@@ -180,7 +198,10 @@
     "Artificial Intelligence",
     "Data & AI",
     "Generative AI",
-    "BZK"
+    "AI",
+    "kabinet-Jetten",
+    "Reorganisatie",
+    "rijks-ict"
    ]
   },
   {
@@ -192,7 +213,13 @@
    "cats": [
     "Security & Risk",
     "Cloud & Infrastructure",
-    "Data & AI"
+    "Data & AI",
+    "AI",
+    "cybersecurity",
+    "Kort",
+    "Overname",
+    "PHP",
+    "trends"
    ]
   },
   {
@@ -248,42 +275,6 @@
     "Overheid",
     "Cybercrime",
     "hack"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Google krijgt wind van voren na kaalslag in Fins bos",
-   "link": "https://www.computable.nl/2026/10/23/google-krijgt-wind-van-voren-na-kaalslag-in-fins-bos/",
-   "date": "2026-10-23T14:00:08.000Z",
-   "desc": "Google heeft in Finland forse kritiek gekregen nadat voor geplande datacenterlocaties op grote schaal bos is gekapt voordat alle milieuprocedures waren afgerond. Finse autoriteiten hebben ingegrepen en het bedrijf opgedragen bepaalde werkzaamheden stil te leggen.",
-   "cats": [
-    "Datacenter & Infrastructure",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Datacenter",
-    "Duurzaamheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ctac in rode cijfers door bankroet Belgische klant",
-   "link": "https://www.computable.nl/2026/10/23/ctac-in-rode-cijfers-door-bankroet-belgische-klant/",
-   "date": "2026-10-23T13:22:30.000Z",
-   "desc": "Ctac in rode cijfers door bankroet Belgische klant Ctac verwacht 2026 af te sluiten met een verlies. Het bedrijf zag de omzet in het derde kwartaal teruglopen en kreeg te maken met een schadepost van naar schatting 3,1 miljoen euro door het faillissement van een Belgische klant.",
-   "cats": [
-    "IT Industry news",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "IT Strategy & Governance",
-    "Marktbewegingen",
-    "Ontslagen & reorganisaties",
-    "Software & Development",
-    "Faillissementen",
-    "kwartaalcijfers",
-    "Reorganisatie"
    ]
   }
  ]
