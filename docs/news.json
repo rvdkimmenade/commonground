@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:08:00.861Z",
+ "updated": "2026-10-28T19:24:11.839Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -169,6 +169,39 @@
   },
   {
    "source": "Computable",
+   "title": "Spoelstra Spreekt: Gaat niet gebeuren",
+   "link": "https://www.computable.nl/2026/10/28/spoelstra-spreekt-gaat-niet-gebeuren/",
+   "date": "2026-10-28T12:00:00.000Z",
+   "desc": "Gaan er ooit minder ambtenaren werken bij de overheid? Als je het mij vraagt, zeg ik: nee, alleen maar meer. Maar ja, niemand vraagt mij.",
+   "cats": [
+    "Overheid"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: Waag lanceert sociale-mediaplatform zonder Big Tech-algoritmes, Wtta-regeling van kracht (en meer)",
+   "link": "https://www.computable.nl/2026/10/28/kort-waag-lanceert-sociale-mediaplatform-zonder-big-tech-algoritmes-wtta-regeling-van-kracht-en-meer/",
+   "date": "2026-10-28T11:38:46.000Z",
+   "desc": "Waag passeert Big Tech met alternatief platform, uitleners moeten zich vóór 2027 aanmelden voor Wtta-overgangsregeling, Proton stelt gebruik van ai als voorwaarde voor baan, NetSuite zet ai-agents in voor automatisering bedrijfsprocessen, en Main Capital koopt Duitse specialist in productdatabeheer.",
+   "cats": [
+    "Security & Risk",
+    "AI & Automation",
+    "AI Agents",
+    "Data & AI",
+    "Data Privacy",
+    "Overheid",
+    "Regulatory Compliance",
+    "AI",
+    "Big Tech",
+    "detacheerders",
+    "ERP",
+    "Kort",
+    "Outsourcing",
+    "Overname"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Politie over hack Ahold Delhaize: er is geen reden om aangifte uit te stellen",
    "link": "https://www.computable.nl/2026/10/28/politie-over-hack-ahold-delhaize-er-is-geen-reden-om-aangifte-uit-te-stellen/",
    "date": "2026-10-28T06:15:00.000Z",
@@ -301,41 +334,6 @@
     "AI",
     "Beursgang",
     "ethiek"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "AWS meldt succesvolle test met eigen soevereine EU-cloud",
-   "link": "https://www.computable.nl/2026/10/26/aws-meldt-succesvolle-test-met-eigen-soevereine-eu-cloud/",
-   "date": "2026-10-26T15:01:59.000Z",
-   "desc": "De Amerikaanse clouddienstverlener AWS heeft met een praktische test aangetoond dat het, naar eigen zeggen, een soevereine Europese cloud kan opzetten. Deze kan volgens het bedrijf volledig zelfstandig functioneren binnen de EU, zonder AWS-infrastructuur van buiten de EU.",
-   "cats": [
-    "Overheid",
-    "AWS",
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "Public Cloud",
-    "EU-cloud",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kabinet rekent op ai voor forse bezuiniging op personeel",
-   "link": "https://www.computable.nl/2026/10/26/kabinet-rekent-op-ai-voor-forse-bezuiniging-op-personeel/",
-   "date": "2026-10-26T12:42:21.000Z",
-   "desc": "Technologie moet de overheid slagvaardiger maken. It en digitalisering spelen een belangrijke rol bij de sanering van de rijksoverheid die het kabinet maandagochtend aankondigde. Dit blijkt uit de Voortgangsbrief Slagvaardige Overheid van staatssecretaris Eric van den Burg (BZK).",
-   "cats": [
-    "Overheid",
-    "AI & Automation",
-    "AI Agents",
-    "Artificial Intelligence",
-    "Data & AI",
-    "Generative AI",
-    "AI",
-    "kabinet-Jetten",
-    "Reorganisatie",
-    "rijks-ict"
    ]
   }
  ]
