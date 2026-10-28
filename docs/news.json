@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-27T21:09:11.277Z",
+ "updated": "2026-10-28T11:08:00.861Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Onderzoek: goed informatiegedrag vraagt meer dan kennis",
+   "link": "https://www.digitaleoverheid.nl/nieuws/onderzoek-goed-informatiegedrag-vraagt-meer-dan-kennis/",
+   "date": "2026-10-28T07:53:43.000Z",
+   "desc": "Uit onderzoek onder bijna 1.800 rijksmedewerkers blijkt dat kennis alleen niet genoeg is voor goed informatiegedrag. Gewoontes en werkdruk spelen een grote rol.",
+   "cats": [
+    "Nieuws",
+    "Behavior Change Group",
+    "gedragsverandering",
+    "informatiegedrag",
+    "informatiehuishouding",
+    "Leerhuis Informatiehuishouding",
+    "onderzoek",
+    "open overheid",
+    "overheidsinformatie"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Van gemeentelijke chatbot naar virtuele assistent",
@@ -150,20 +168,72 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "GBO: ‘Op één manier ontsluiten, meervoudig gebruiken’",
-   "link": "https://www.digitaleoverheid.nl/nieuws/gbo-op-een-manier-ontsluiten-meervoudig-gebruiken/",
-   "date": "2026-10-08T12:21:20.000Z",
-   "desc": "Het programma Gemeenschappelijke Bronontsluiting (GBO) ontwikkelt één gestandaardiseerde manier om overheidsgegevens beschikbaar te stellen voor diverse toepassingen.",
+   "source": "Computable",
+   "title": "Politie over hack Ahold Delhaize: er is geen reden om aangifte uit te stellen",
+   "link": "https://www.computable.nl/2026/10/28/politie-over-hack-ahold-delhaize-er-is-geen-reden-om-aangifte-uit-te-stellen/",
+   "date": "2026-10-28T06:15:00.000Z",
+   "desc": "De Nederlandse politie weerspreekt het argument van Ahold Delhaize dat snelle aangifte van de cyberaanval die het concern onlangs trof, ten koste zou gaan van de verdediging tegen dit incident.",
    "cats": [
-    "Nieuws",
-    "bronontsluiting",
-    "data",
-    "GBO",
-    "gegevens delen",
-    "gegevensdeling",
-    "Gemeenschappelijke Bronontsluiting",
-    "nieuwsbrief-18-2026"
+    "Security & Risk",
+    "Application & Data Security",
+    "IT Governance",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Network & Endpoint Security",
+    "Cyberaanval",
+    "cybersecurity",
+    "hack",
+    "retail"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Nederlandse leger vervangt over twee jaar Palantir",
+   "link": "https://www.computable.nl/2026/10/28/nederlandse-leger-vervangt-over-twee-jaar-palantir/",
+   "date": "2026-10-28T06:00:00.000Z",
+   "desc": "De Nederlandse strijdmacht wordt minder afhankelijk van Palantir, de Amerikaanse leverancier van software voor informatieverwerking en operationele aansturing. Staatssecretaris Derk Boswijk (Defensie) denkt voor eind 2028 te kunnen beschikken over een Europees alternatief.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Carrière",
+    "Datacenter & Infrastructure",
+    "Digital Identity",
+    "Identity Governance",
+    "IT Governance & Control",
+    "IT Leadership",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Networking & Connectivity",
+    "Overheid",
+    "Regulatory Compliance",
+    "Security & Risk",
+    "Software & Development",
+    "Datacenter",
+    "Hardware",
+    "kabinet-Jetten",
+    "soevereiniteit",
+    "Spyware",
+    "surveillance"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Noord-Koreaanse it’ers doen zich voor als Europese thuiswerkers",
+   "link": "https://www.computable.nl/2026/10/27/noord-koreaanse-iters-doen-zich-voor-als-europese-thuiswerkers/",
+   "date": "2026-10-27T17:08:34.000Z",
+   "desc": "Noord-Koreaanse cybercriminelen vormen een steeds grotere bedreiging voor Nederland. Ze dringen bedrijven binnen via it-vacatures. De aanvallers spelen daarbij handig in op de schaarste aan it-professionals. It’ers uit Noord-Korea doen zich voor als Europeanen die vanuit huis werken.",
+   "cats": [
+    "Security & Risk",
+    "Carrière",
+    "Digital Identity",
+    "IT Governance",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Risk Management",
+    "Cybercrime",
+    "cyberoorlog"
    ]
   },
   {
@@ -266,63 +336,6 @@
     "kabinet-Jetten",
     "Reorganisatie",
     "rijks-ict"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: ’15 procent NL-organisaties getroffen door PHP-aanval’, Gartner deelt 5 ai-trends voor 2027 (en meer)",
-   "link": "https://www.computable.nl/2026/10/26/kort-15-procent-nl-organisaties-getroffen-door-php-aanval-gartner-deelt-5-ai-trends-voor-2027-en-meer/",
-   "date": "2026-10-26T12:02:25.000Z",
-   "desc": "In dit nieuwsoverzicht: Nederlandse organisaties bovengemiddeld vaak getroffen door php-aanvallen, Gartner waarschuwt voor fors hogere ai-kosten e, Oracle paait partners met 1 miljard dollar, Previder breidt uit naar het VK, en Atos en Fortinet zetten streep door landen-aanpak.",
-   "cats": [
-    "Security & Risk",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "AI",
-    "cybersecurity",
-    "Kort",
-    "Overname",
-    "PHP",
-    "trends"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Vraagtekens over soevereine SAP-cloud Defensie",
-   "link": "https://www.computable.nl/2026/10/26/vraagtekens-over-soevereine-sap-cloud-defensie/",
-   "date": "2026-10-26T06:15:00.000Z",
-   "desc": "Defensie gaat een extra veilige, eigen cloudomgeving gebruiken voor zijn SAP-software. Dit is een speciaal afgeschermd digitaal systeem dat losstaat van de reguliere, openbare systemen van technologiebedrijf SAP. De eerste reacties zijn echter kritisch.",
-   "cats": [
-    "Soevereiniteit",
-    "Cloud & Infrastructure",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Software & Development",
-    "cloud",
-    "ERP",
-    "innovatie",
-    "Legacy",
-    "migratie",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ex-ASML-topman pleit voor importheffingen China",
-   "link": "https://www.computable.nl/2026/10/26/ex-asml-topman-pleit-voor-importheffingen-china/",
-   "date": "2026-10-26T06:00:00.000Z",
-   "desc": "Ex-ASML-topman Peter Wennink vindt dat de EU beschermende maatregelen tegen China moet nemen, als dat land niet zelf zijn exportoverschotten beperkt. Hij roept op tot importquota of heffingen wanneer Chinese overcapaciteit leidt tot een stroom goedkope importproducten die EU-bedrijven verdringen.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "China",
-    "Chipmachine",
-    "Chips",
-    "geopolitiek"
    ]
   }
  ]
