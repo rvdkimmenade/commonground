@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-29T11:22:20.681Z",
+ "updated": "2026-10-29T19:27:46.440Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Nieuwe handreiking gebruik IAMA en Model DPIA Rijksdienst",
+   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-handreiking-gebruik-iama-en-model-dpia-rijksdienst/",
+   "date": "2026-10-29T12:35:53.000Z",
+   "desc": "Deze handreiking is gepubliceerd voor het gezamenlijk gebruik van het Impact Assessment Mensenrechten en Algoritmen (IAMA) en Data Protect Impact Assessment (DPIA).",
+   "cats": [
+    "Nieuws",
+    "Data Protection Impact Assessments",
+    "DPIA",
+    "IAMA",
+    "impactvolle algoritmes",
+    "mensenrechten",
+    "Privacy"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Onderzoek: goed informatiegedrag vraagt meer dan kennis",
@@ -148,23 +164,62 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Ben jij voorbereid op de vernieuwde Archiefwet?",
-   "link": "https://www.digitaleoverheid.nl/nieuws/ben-jij-voorbereid-op-de-vernieuwde-archiefwet-2026/",
-   "date": "2026-10-09T11:02:30.000Z",
-   "desc": "Begin 2027 treedt de Archiefwet 2026 in werking. Weinig of juist veel tijd; het Leerhuis Informatiehuishouding heeft voor iedere professional passende leermiddelen.",
+   "source": "Computable",
+   "title": "AI-app Erasmus MC helpt patiënten en familie om moeilijke gesprekken beter te begrijpen",
+   "link": "https://www.computable.nl/2026/10/29/ai-app-erasmus-mc-helpt-patienten-en-familie-om-moeilijke-gesprekken-beter-te-begrijpen/",
+   "date": "2026-10-29T15:20:06.000Z",
+   "desc": "Wie in het ziekenhuis slecht nieuws krijgt over zijn gezondheid, onthoudt vaak maar een deel van wat de arts vertelt. Angst en onzekerheid maken het lastig om alle informatie te verwerken. Het Erasmus MC ontwikkelt daarom een AI-app die gesprekken opneemt en betrouwbaar samenvat.",
    "cats": [
-    "Nieuws",
-    "Archiefwet",
-    "archiefwet 2026",
-    "archiveren",
-    "leeraanbod",
-    "Leerhuis Informatiehuishouding",
-    "leren en ontwikkelen",
-    "NA",
-    "nationaal archief",
-    "nieuwsbrief-18-2026",
-    "OCW"
+    "Data & AI",
+    "Zorg"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Meer technologie leidt niet altijd tot betere cyberweerbaarheid",
+   "link": "https://www.computable.nl/2026/10/29/meer-technologie-leidt-niet-altijd-tot-betere-cyberweerbaarheid/",
+   "date": "2026-10-29T15:00:00.000Z",
+   "desc": "Cybersecurity wordt nog vaak benaderd als puur technologisch vraagstuk. Wanneer de dreiging toeneemt, reageren organisaties vaak door extra technologie toe te voegen. Meer technologie leidt echter niet automatisch tot een verbetering van de weerbaarheid.",
+   "cats": [
+    "Security & Risk",
+    "cybersecurity",
+    "resilience"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "‘Agentic ai? De meeste socs draaien nog op plakwerk van medewerkers’",
+   "link": "https://www.computable.nl/2026/10/29/agentic-ai-de-meeste-socs-draaien-nog-op-plakwerk-van-medewerkers/",
+   "date": "2026-10-29T14:00:00.000Z",
+   "desc": "Hoewel marketeers anders doen geloven, is de inzet van agentic ai in het security operations center (soc) nog geen realiteit. En het is ook afhankelijk van de definitie van agentic ai hoe zich dat de komende jaren zal ontwikkelen. Dat zegt Nick Maeckelberghe van Crimson7.",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "AI Agents",
+    "Artificial Intelligence",
+    "Security & Risk",
+    "Security Operations",
+    "Threat Detection",
+    "agentic",
+    "AI",
+    "security",
+    "soc"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Alphabet ziet kasgeld opdrogen door ai-race",
+   "link": "https://www.computable.nl/2026/10/29/alphabet-ziet-kasgeld-opdrogen-door-ai-race/",
+   "date": "2026-10-29T13:00:32.000Z",
+   "desc": "Alphabet doet zulke gigantische investeringen in ai-infrastructuur en ai-chips dat de vrije kasstroom in de afgelopen twee kwartalen voor het eerst sinds haar beursgang 22 jaar geleden negatief was.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "IT Industry news",
+    "IT Leadership",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "kwartaalcijfers"
    ]
   },
   {
@@ -193,88 +248,6 @@
     "ai-agent",
     "chatbot",
     "cybersecurity"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Spoelstra Spreekt: Gaat niet gebeuren",
-   "link": "https://www.computable.nl/2026/10/28/spoelstra-spreekt-gaat-niet-gebeuren/",
-   "date": "2026-10-28T12:00:00.000Z",
-   "desc": "Gaan er ooit minder ambtenaren werken bij de overheid? Als je het mij vraagt, zeg ik: nee, alleen maar meer. Maar ja, niemand vraagt mij.",
-   "cats": [
-    "Overheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Waag lanceert sociale-mediaplatform zonder Big Tech-algoritmes, Wtta-regeling van kracht (en meer)",
-   "link": "https://www.computable.nl/2026/10/28/kort-waag-lanceert-sociale-mediaplatform-zonder-big-tech-algoritmes-wtta-regeling-van-kracht-en-meer/",
-   "date": "2026-10-28T11:38:46.000Z",
-   "desc": "Waag passeert Big Tech met alternatief platform, uitleners moeten zich vóór 2027 aanmelden voor Wtta-overgangsregeling, Proton stelt gebruik van ai als voorwaarde voor baan, NetSuite zet ai-agents in voor automatisering bedrijfsprocessen, en Main Capital koopt Duitse specialist in productdatabeheer.",
-   "cats": [
-    "Security & Risk",
-    "AI & Automation",
-    "AI Agents",
-    "Data & AI",
-    "Data Privacy",
-    "Overheid",
-    "Regulatory Compliance",
-    "AI",
-    "Big Tech",
-    "detacheerders",
-    "ERP",
-    "Kort",
-    "Outsourcing",
-    "Overname"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Politie over hack Ahold Delhaize: er is geen reden om aangifte uit te stellen",
-   "link": "https://www.computable.nl/2026/10/28/politie-over-hack-ahold-delhaize-er-is-geen-reden-om-aangifte-uit-te-stellen/",
-   "date": "2026-10-28T06:15:00.000Z",
-   "desc": "De Nederlandse politie weerspreekt het argument van Ahold Delhaize dat snelle aangifte van de cyberaanval die het concern onlangs trof, ten koste zou gaan van de verdediging tegen dit incident.",
-   "cats": [
-    "Security & Risk",
-    "Application & Data Security",
-    "IT Governance",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Network & Endpoint Security",
-    "Cyberaanval",
-    "cybersecurity",
-    "hack",
-    "retail"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Nederlandse leger vervangt over twee jaar Palantir",
-   "link": "https://www.computable.nl/2026/10/28/nederlandse-leger-vervangt-over-twee-jaar-palantir/",
-   "date": "2026-10-28T06:00:00.000Z",
-   "desc": "De Nederlandse strijdmacht wordt minder afhankelijk van Palantir, de Amerikaanse leverancier van software voor informatieverwerking en operationele aansturing. Staatssecretaris Derk Boswijk (Defensie) denkt voor eind 2028 te kunnen beschikken over een Europees alternatief.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Carrière",
-    "Datacenter & Infrastructure",
-    "Digital Identity",
-    "Identity Governance",
-    "IT Governance & Control",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Networking & Connectivity",
-    "Overheid",
-    "Regulatory Compliance",
-    "Security & Risk",
-    "Software & Development",
-    "Datacenter",
-    "Hardware",
-    "kabinet-Jetten",
-    "soevereiniteit",
-    "Spyware",
-    "surveillance"
    ]
   }
  ]
