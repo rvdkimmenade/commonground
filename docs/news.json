@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:24:11.839Z",
+ "updated": "2026-10-29T11:22:20.681Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -169,6 +169,34 @@
   },
   {
    "source": "Computable",
+   "title": "Emily Glastra, T-Systems: “Juist voor Europese cloudaanbieders als T-Systems is het belangrijk keuzevrijheid te bieden”",
+   "link": "https://www.computable.nl/2026/10/29/emily-glastra-t-systems-juist-voor-europese-cloudaanbieders-als-t-systems-is-het-belangrijk-keuzevrijheid-te-bieden/",
+   "date": "2026-10-29T09:28:14.000Z",
+   "desc": "Digitale soevereiniteit staat hoog op de agenda van Nederlandse overheden en bedrijven. Maar voor grote organisaties is afscheid nemen van Amerikaanse hyperscalers niet altijd nodig of realistisch. Cruciaal is keuzevrijheid op basis van een risicoanalyse.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "De agent doet precies wat hij mag",
+   "link": "https://www.computable.nl/2026/10/28/de-agent-doet-precies-wat-hij-mag/",
+   "date": "2026-10-28T17:00:00.000Z",
+   "desc": "Een chatbot die zich laat misleiden, geeft een verkeerd antwoord. Een ai-agent die zich laat misleiden, kan vervolgens zelf systemen benaderen, tools inzetten en nieuwe acties plannen. Juist die combinatie van autonomie en herhaling maakt agentic ai tot een nieuw cybersecurityvraagstuk.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Data & AI",
+    "IT Industry news",
+    "ai-agent",
+    "chatbot",
+    "cybersecurity"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Spoelstra Spreekt: Gaat niet gebeuren",
    "link": "https://www.computable.nl/2026/10/28/spoelstra-spreekt-gaat-niet-gebeuren/",
    "date": "2026-10-28T12:00:00.000Z",
@@ -247,93 +275,6 @@
     "soevereiniteit",
     "Spyware",
     "surveillance"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Noord-Koreaanse it’ers doen zich voor als Europese thuiswerkers",
-   "link": "https://www.computable.nl/2026/10/27/noord-koreaanse-iters-doen-zich-voor-als-europese-thuiswerkers/",
-   "date": "2026-10-27T17:08:34.000Z",
-   "desc": "Noord-Koreaanse cybercriminelen vormen een steeds grotere bedreiging voor Nederland. Ze dringen bedrijven binnen via it-vacatures. De aanvallers spelen daarbij handig in op de schaarste aan it-professionals. It’ers uit Noord-Korea doen zich voor als Europeanen die vanuit huis werken.",
-   "cats": [
-    "Security & Risk",
-    "Carrière",
-    "Digital Identity",
-    "IT Governance",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Risk Management",
-    "Cybercrime",
-    "cyberoorlog"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Schneider Electric deelt ontwerp prefab ai-fabriek",
-   "link": "https://www.computable.nl/2026/10/27/schneider-electric-deelt-ontwerp-prefab-ai-fabriek/",
-   "date": "2026-10-27T14:36:46.000Z",
-   "desc": "Schneider Electric heeft een nieuw referentieontwerp onthuld voor modulaire prefab ai-fabrieken. Dat ontwerp met de naam RapidScale Modular Data Center Reference Design biedt een blauwdruk voor de huisvesting en technische installaties voor de ai -infrastructuur rond het Nvidia Vera Rubin-platform.",
-   "cats": [
-    "Architecture",
-    "AI & Automation",
-    "Artificial Intelligence",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Datacenter & Infrastructure",
-    "High Performance Computing",
-    "AI",
-    "ai-fabriek",
-    "Datacenter",
-    "modulair",
-    "prefab"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: KPN vernieuwt e-mail- en opslagdienst, hack bij SC Heerenveen legt ticketfraude bloot (en meer)",
-   "link": "https://www.computable.nl/2026/10/27/kort-kpn-vernieuwt-e-mail-en-opslagdienst-hack-bij-sc-heerenveen-legt-ticketfraude-bloot-en-meer/",
-   "date": "2026-10-27T10:32:53.000Z",
-   "desc": "In dit nieuwsoverzicht: KPN komt met KPN Mail en Cloud, samenwerking Eye Security en HarfangLab, Ferranti neemt Cogenius over, onderzoek naar Booking.com zet hotels op scherp en accountkraak bij Heerenveen leidt naar handel in voetbaltickets.",
-   "cats": [
-    "Security & Risk",
-    "Application & Data Security",
-    "Digital Identity",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Network & Endpoint Security",
-    "Soevereiniteit",
-    "Software & Development",
-    "Vulnerability Management",
-    "Authenticatie",
-    "DSA",
-    "edr",
-    "ERP",
-    "hack",
-    "horeca",
-    "Kort",
-    "mdr",
-    "Overname",
-    "Storage"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Anthropic waarschuwt voor ai-misbruik in beursprospectus",
-   "link": "https://www.computable.nl/2026/10/27/anthropic-waarschuwt-voor-ai-misbruik-in-beursprospectus/",
-   "date": "2026-10-27T08:15:02.000Z",
-   "desc": "In de aanloop naar de beursgang, de eerste van een groot ai-bedrijf, heeft Anthropic maandag zijn aanvraag voor een beursnotering ingediend. In de prospectus waarschuwt het bedrijf dat er met ai een hoop mis kan gaan.",
-   "cats": [
-    "Data & AI",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Marktbewegingen",
-    "Startups & Scale-ups",
-    "AI",
-    "Beursgang",
-    "ethiek"
    ]
   }
  ]
