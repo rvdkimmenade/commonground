@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T11:14:40.635Z",
+ "updated": "2026-10-30T19:04:04.312Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -165,6 +165,28 @@
   },
   {
    "source": "Computable",
+   "title": "Europa wil minder Amerikaanse tech, maar blijft afhankelijk",
+   "link": "https://www.computable.nl/2026/10/30/europa-wil-minder-amerikaanse-tech-maar-blijft-afhankelijk/",
+   "date": "2026-10-30T17:00:00.000Z",
+   "desc": "Europa wil meer controle over zijn digitale toekomst. Maar volledig afscheid nemen van Amerikaanse technologie is voorlopig geen optie. Volgens onderzoeksbureau Forrester wordt 2027 daarom het jaar van de selectieve digitale onafhankelijkheid.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Data & AI Governance",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Soevereiniteit",
+    "Sourcing & Vendor Management",
+    "Vendor Management",
+    "AI",
+    "Big Tech",
+    "hyperscaler",
+    "innovatie",
+    "soevereiniteit"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Grootste cryptodiefstal ooit treft Binance, Wolters Kluwer vangt 40 miljoen voor Steuertipps (en meer)",
    "link": "https://www.computable.nl/2026/10/30/kort-grootste-cryptodiefstal-ooit-treft-binance-wolters-kluwer-vangt-40-miljoen-voor-steuertipps-en-meer/",
    "date": "2026-10-30T11:00:00.000Z",
@@ -264,35 +286,6 @@
     "AI",
     "security",
     "soc"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Alphabet ziet kasgeld opdrogen door ai-race",
-   "link": "https://www.computable.nl/2026/10/29/alphabet-ziet-kasgeld-opdrogen-door-ai-race/",
-   "date": "2026-10-29T13:00:32.000Z",
-   "desc": "Alphabet doet zulke gigantische investeringen in ai-infrastructuur en ai-chips dat de vrije kasstroom in de afgelopen twee kwartalen voor het eerst sinds haar beursgang 22 jaar geleden negatief was.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "IT Industry news",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "kwartaalcijfers"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Emily Glastra, T-Systems: “Juist voor Europese cloudaanbieders als T-Systems is het belangrijk keuzevrijheid te bieden”",
-   "link": "https://www.computable.nl/2026/10/29/emily-glastra-t-systems-juist-voor-europese-cloudaanbieders-als-t-systems-is-het-belangrijk-keuzevrijheid-te-bieden/",
-   "date": "2026-10-29T09:28:14.000Z",
-   "desc": "Digitale soevereiniteit staat hoog op de agenda van Nederlandse overheden en bedrijven. Maar voor grote organisaties is afscheid nemen van Amerikaanse hyperscalers niet altijd nodig of realistisch. Cruciaal is keuzevrijheid op basis van een risicoanalyse.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Soevereiniteit"
    ]
   }
  ]
