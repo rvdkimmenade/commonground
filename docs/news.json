@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:27:46.440Z",
+ "updated": "2026-10-30T11:14:40.635Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -165,6 +165,66 @@
   },
   {
    "source": "Computable",
+   "title": "Kort: Grootste cryptodiefstal ooit treft Binance, Wolters Kluwer vangt 40 miljoen voor Steuertipps (en meer)",
+   "link": "https://www.computable.nl/2026/10/30/kort-grootste-cryptodiefstal-ooit-treft-binance-wolters-kluwer-vangt-40-miljoen-voor-steuertipps-en-meer/",
+   "date": "2026-10-30T11:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Digitale kraak kost Binance miljarden, KPN koopt Xelion, ASML-medewerker Omar Elshal nog steeds vast, HPE lanceert ai-gestuurd beheerplatform en Wolters Kluwer verkoopt Duitse belastingtak aan Buhl.",
+   "cats": [
+    "IT Industry news",
+    "Business Applications",
+    "Carrière",
+    "Cloud & Infrastructure",
+    "Enterprise Software",
+    "Financiële dienstverlening",
+    "IT Strategy & Governance",
+    "Networking & Connectivity",
+    "Software & Development",
+    "Bitcoin",
+    "crypto",
+    "Cybercrime",
+    "ERP",
+    "hack",
+    "Kort",
+    "Overname",
+    "Rechtszaak",
+    "Software",
+    "Telecom",
+    "Universal Communications"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Tweede Kamer wil verbod op ChatGPT en ai op basisscholen",
+   "link": "https://www.computable.nl/2026/10/30/tweede-kamer-wil-verbod-op-chatgpt-en-ai-op-basisscholen/",
+   "date": "2026-10-30T07:00:00.000Z",
+   "desc": "Een meerderheid in de Tweede Kamer wil een verbod op het gebruik van generatieve ai door leerlingen in het primair onderwijs. CDA, Pro, D66, JA21 en vijf kleinere fracties steunen daartoe een motie van Laurens Dassen (Volt). Zij vinden dat leerlingen niet te vroeg ChatGPT moeten gaan gebruiken.",
+   "cats": [
+    "Data & AI",
+    "Onderwijs",
+    "Overheid",
+    "AI",
+    "ChatGPT",
+    "kabinet-Jetten",
+    "llm",
+    "onderwijs"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Jonge techmiljardair Pim de Witte wil vooral grip houden op ai",
+   "link": "https://www.computable.nl/2026/10/30/jonge-techmiljardair-pim-de-witte-wil-vooral-grip-houden-op-ai/",
+   "date": "2026-10-30T06:15:00.000Z",
+   "desc": "Misschien had je nog nooit van hem gehoord: Pim de Witte (31) is de jongste Nederlandse miljardair in de Quote 500-lijst. In die ranglijst van rijke Nederlanders prijkt hij op de 49ste plaats met een vermogen 1,1 miljard euro.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Carrière",
+    "Data & AI",
+    "AI",
+    "miljardair"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "AI-app Erasmus MC helpt patiënten en familie om moeilijke gesprekken beter te begrijpen",
    "link": "https://www.computable.nl/2026/10/29/ai-app-erasmus-mc-helpt-patienten-en-familie-om-moeilijke-gesprekken-beter-te-begrijpen/",
    "date": "2026-10-29T15:20:06.000Z",
@@ -233,21 +293,6 @@
     "IT Governance & Control",
     "IT Strategy & Governance",
     "Soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "De agent doet precies wat hij mag",
-   "link": "https://www.computable.nl/2026/10/28/de-agent-doet-precies-wat-hij-mag/",
-   "date": "2026-10-28T17:00:00.000Z",
-   "desc": "Een chatbot die zich laat misleiden, geeft een verkeerd antwoord. Een ai-agent die zich laat misleiden, kan vervolgens zelf systemen benaderen, tools inzetten en nieuwe acties plannen. Juist die combinatie van autonomie en herhaling maakt agentic ai tot een nieuw cybersecurityvraagstuk.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Data & AI",
-    "IT Industry news",
-    "ai-agent",
-    "chatbot",
-    "cybersecurity"
    ]
   }
  ]
