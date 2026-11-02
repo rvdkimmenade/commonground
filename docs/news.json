@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:15:50.699Z",
+ "updated": "2026-11-02T22:39:39.720Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -162,6 +162,45 @@
   },
   {
    "source": "Computable",
+   "title": "Robot achter de frituur",
+   "link": "https://www.computable.nl/2026/11/02/robot-achter-de-frituur/",
+   "date": "2026-11-02T16:00:00.000Z",
+   "desc": "Gastvrijheid bieden in de toeristische industrie is a hell of a job. De sector leunt zwaar op handmatige en repetitieve taken. Maar menselijk contact is heilig en digitale innovatie stuit op koudwatervrees. Het project Embrace IT zoekt de sleutel.",
+   "cats": [
+    "Onderwijs",
+    "AI & Automation",
+    "Data & AI",
+    "Digitale werkplek",
+    "Augmented reality",
+    "Diensten",
+    "onderwijs"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Diepe verdeeldheid over generatieve ai in de wetenschap",
+   "link": "https://www.computable.nl/2026/11/02/diepe-verdeeldheid-over-generatieve-ai-in-de-wetenschap/",
+   "date": "2026-11-02T14:23:19.000Z",
+   "desc": "Nederlandse experts zijn sterk verdeeld over welke rol generatieve ai zoals ChatGPT moet spelen in de toekomst van de wetenschap. Dat blijkt uit het rapport 'Regie over ai in de wetenschap' van het Rathenau Instituut. De onderzoekers roepen betrokkenen op om snel met elkaar keuzes te maken.",
+   "cats": [
+    "Data & AI",
+    "AI Governance",
+    "Data & AI Governance",
+    "Data Infrastructure",
+    "Data Operations",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "IT Strategy & Transformation",
+    "Onderwijs",
+    "AI",
+    "AI agents",
+    "onderzoek",
+    "universiteit"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Ziggo scheurt door Amsterdam en Utrecht, Duitse Plancraft actief in de bouw (en meer)",
    "link": "https://www.computable.nl/2026/11/02/kort-ziggo-scheurt-door-amsterdam-en-utrecht-duitse-plancraft-actief-in-de-bouw-en-meer/",
    "date": "2026-11-02T11:00:00.000Z",
@@ -249,37 +288,6 @@
     "Software",
     "Telecom",
     "Universal Communications"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Tweede Kamer wil verbod op ChatGPT en ai op basisscholen",
-   "link": "https://www.computable.nl/2026/10/30/tweede-kamer-wil-verbod-op-chatgpt-en-ai-op-basisscholen/",
-   "date": "2026-10-30T07:00:00.000Z",
-   "desc": "Een meerderheid in de Tweede Kamer wil een verbod op het gebruik van generatieve ai door leerlingen in het primair onderwijs. CDA, Pro, D66, JA21 en vijf kleinere fracties steunen daartoe een motie van Laurens Dassen (Volt). Zij vinden dat leerlingen niet te vroeg ChatGPT moeten gaan gebruiken.",
-   "cats": [
-    "Data & AI",
-    "Onderwijs",
-    "Overheid",
-    "AI",
-    "ChatGPT",
-    "kabinet-Jetten",
-    "llm",
-    "onderwijs"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Jonge techmiljardair Pim de Witte wil vooral grip houden op ai",
-   "link": "https://www.computable.nl/2026/10/30/jonge-techmiljardair-pim-de-witte-wil-vooral-grip-houden-op-ai/",
-   "date": "2026-10-30T06:15:00.000Z",
-   "desc": "Misschien had je nog nooit van hem gehoord: Pim de Witte (31) is de jongste Nederlandse miljardair in de Quote 500-lijst. In die ranglijst van rijke Nederlanders prijkt hij op de 49ste plaats met een vermogen 1,1 miljard euro.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Carrière",
-    "Data & AI",
-    "AI",
-    "miljardair"
    ]
   }
  ]
