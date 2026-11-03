@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T22:39:39.720Z",
+ "updated": "2026-11-03T12:40:36.141Z",
  "items": [
+  {
+   "source": "Digitale Overheid",
+   "title": "Brede Welvaart Scan helpt gemeenten verder kijken",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/brede-welvaart-scan-helpt-gemeenten-verder-kijken/",
+   "date": "2026-11-03T10:15:00.000Z",
+   "desc": "Wat betekent een beleidskeuze voor de leefbaarheid, gezondheid of veiligheid van inwoners? Met de Brede Welvaart Scan brengt de gemeente Amsterdam effecten in beeld.",
+   "cats": [
+    "Achtergrond",
+    "innovatiebudget"
+   ]
+  },
   {
    "source": "Digitale Overheid",
    "title": "Wees weerbaar tegen dreigingen van binnenuit",
@@ -144,20 +155,55 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Digitale weerbaarheid begint buiten de IT-afdeling",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/digitale-weerbaarheid-begint-buiten-de-it-afdeling/",
-   "date": "2026-10-14T07:02:29.000Z",
-   "desc": "\"Om de organisatie echt veiliger te maken en te houden, is bewustzijn van belang\", zegt Keith Farzan, CISO bij Hoogheemraadschap De Stichtse Rijnlanden (HDSR).",
+   "source": "Computable",
+   "title": "Kort: Ai-chatbots negeren AFM, recordcijfers Apple, nieuwe HSO-ceo (en meer)",
+   "link": "https://www.computable.nl/2026/11/03/kort-ai-chatbots-negeren-afm-recordcijfers-apple-nieuwe-hso-ceo-en-meer/",
+   "date": "2026-11-03T11:25:28.000Z",
+   "desc": "Ai-chatbots handelen in strijd met AFM-regels, nieuwe ceo bij HSO, Main stapt in afval-erp, ict-krachtenbundeling in de Achterhoek en Apple boekt recordcijfers ondanks chipschaarste",
    "cats": [
-    "Achtergrond",
-    "Chief Information Security Officer",
-    "CISO",
-    "digitale weerbaarheid",
-    "HDSR",
-    "informatiebeveiliging",
-    "nieuwsbrief-18-2026",
-    "waterschappen"
+    "Data & AI",
+    "AI & Automation",
+    "AI Agents",
+    "Carrière",
+    "Software & Development",
+    "ERP",
+    "Jaarcijfers",
+    "Kort",
+    "Overname"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Mega-overname markt fotonica en optische connectiviteit",
+   "link": "https://www.computable.nl/2026/11/03/mega-overname-markt-fotonica-en-optische-connectiviteit/",
+   "date": "2026-11-03T10:00:00.000Z",
+   "desc": "Marvell, een Amerikaans bedrijf dat ai-chips maakt, neemt Lumentum over. Met de transactie is 115 miljard dollar gemoeid, aldus Reuters. Marvell biedt tachtig miljard dollar aan aandelen en neemt voor 35 miljard dollar aan schulden over. De deal behoort tot de grootste dit jaar in de techsector.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Data & AI",
+    "IT Industry news",
+    "Marktbewegingen",
+    "Overnames & fusies",
+    "fotonica",
+    "optica",
+    "Overname"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Hack op koel­in­stal­la­ties legt zwakke plek in ot-beveiliging bloot",
+   "link": "https://www.computable.nl/2026/11/03/hack-op-koelinstallaties-legt-zwakke-plek-in-ot-beveiliging-bloot/",
+   "date": "2026-11-03T06:15:00.000Z",
+   "desc": "Een cyberaanval heeft voor verstoringen gezorgd bij supermarkten in België, Nederland en Zweden. Bij ketens als Delhaize, Carrefour en ICA werden koelsystemen gemanipuleerd, waardoor temperaturen in koel- en vriesinstallaties plotseling opliepen.",
+   "cats": [
+    "Security & Risk",
+    "Factory Automation",
+    "Industry & OT",
+    "Network & Endpoint Security",
+    "OT Networks",
+    "hack",
+    "OT security",
+    "retail"
    ]
   },
   {
@@ -237,57 +283,6 @@
     "Bitcoin",
     "crypto",
     "hack"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Europa wil minder Amerikaanse tech, maar blijft afhankelijk",
-   "link": "https://www.computable.nl/2026/10/30/europa-wil-minder-amerikaanse-tech-maar-blijft-afhankelijk/",
-   "date": "2026-10-30T17:00:00.000Z",
-   "desc": "Europa wil meer controle over zijn digitale toekomst. Maar volledig afscheid nemen van Amerikaanse technologie is voorlopig geen optie. Volgens onderzoeksbureau Forrester wordt 2027 daarom het jaar van de selectieve digitale onafhankelijkheid.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Data & AI Governance",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Soevereiniteit",
-    "Sourcing & Vendor Management",
-    "Vendor Management",
-    "AI",
-    "Big Tech",
-    "hyperscaler",
-    "innovatie",
-    "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Grootste cryptodiefstal ooit treft Binance, Wolters Kluwer vangt 40 miljoen voor Steuertipps (en meer)",
-   "link": "https://www.computable.nl/2026/10/30/kort-grootste-cryptodiefstal-ooit-treft-binance-wolters-kluwer-vangt-40-miljoen-voor-steuertipps-en-meer/",
-   "date": "2026-10-30T11:00:00.000Z",
-   "desc": "In dit nieuwsoverzicht: Digitale kraak kost Binance miljarden, KPN koopt Xelion, ASML-medewerker Omar Elshal nog steeds vast, HPE lanceert ai-gestuurd beheerplatform en Wolters Kluwer verkoopt Duitse belastingtak aan Buhl.",
-   "cats": [
-    "IT Industry news",
-    "Business Applications",
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Enterprise Software",
-    "Financiële dienstverlening",
-    "IT Strategy & Governance",
-    "Networking & Connectivity",
-    "Software & Development",
-    "Bitcoin",
-    "crypto",
-    "Cybercrime",
-    "ERP",
-    "hack",
-    "Kort",
-    "Overname",
-    "Rechtszaak",
-    "Software",
-    "Telecom",
-    "Universal Communications"
    ]
   }
  ]
