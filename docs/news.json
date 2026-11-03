@@ -1,157 +1,41 @@
 {
- "updated": "2026-11-03T12:40:36.141Z",
+ "updated": "2026-11-03T20:26:51.347Z",
  "items": [
   {
-   "source": "Digitale Overheid",
-   "title": "Brede Welvaart Scan helpt gemeenten verder kijken",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/brede-welvaart-scan-helpt-gemeenten-verder-kijken/",
-   "date": "2026-11-03T10:15:00.000Z",
-   "desc": "Wat betekent een beleidskeuze voor de leefbaarheid, gezondheid of veiligheid van inwoners? Met de Brede Welvaart Scan brengt de gemeente Amsterdam effecten in beeld.",
+   "source": "Computable",
+   "title": "Ai zorgt voor de grote comeback van de it-afdeling. Maar is dat wel goed nieuws?",
+   "link": "https://www.computable.nl/2026/11/03/ai-zorgt-voor-de-grote-comeback-van-de-it-afdeling-maar-is-dat-wel-goed-nieuws/",
+   "date": "2026-11-03T17:00:00.000Z",
+   "desc": "OPINIE - De opmars van ai bezorgt de it-afdeling grotere budgetten en meer invloed. Goed nieuws voor cio’s en cto’s? Niet noodzakelijk, waarschuwt Pieter Janssens, ceo van iO.",
    "cats": [
-    "Achtergrond",
-    "innovatiebudget"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Wees weerbaar tegen dreigingen van binnenuit",
-   "link": "https://www.digitaleoverheid.nl/nieuws/wees-weerbaar-tegen-dreigingen-van-binnenuit/",
-   "date": "2026-11-02T11:58:08.000Z",
-   "desc": "De AIVD adviseert aandacht te besteden aan risico's van binnenuit. In de nieuwe publicatie Weerbaar tegen dreigingen van binnenuit staan tips die daarbij helpen.",
-   "cats": [
-    "Nieuws",
-    "AIVD",
-    "digitale weerbaarheid",
-    "insider treats",
-    "publicatie"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe handreiking gebruik IAMA en Model DPIA Rijksdienst",
-   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-handreiking-gebruik-iama-en-model-dpia-rijksdienst/",
-   "date": "2026-10-29T12:35:53.000Z",
-   "desc": "Deze handreiking is gepubliceerd voor het gezamenlijk gebruik van het Impact Assessment Mensenrechten en Algoritmen (IAMA) en Data Protect Impact Assessment (DPIA).",
-   "cats": [
-    "Nieuws",
-    "Data Protection Impact Assessments",
-    "DPIA",
-    "IAMA",
-    "impactvolle algoritmes",
-    "mensenrechten",
-    "Privacy"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Onderzoek: goed informatiegedrag vraagt meer dan kennis",
-   "link": "https://www.digitaleoverheid.nl/nieuws/onderzoek-goed-informatiegedrag-vraagt-meer-dan-kennis/",
-   "date": "2026-10-28T07:53:43.000Z",
-   "desc": "Uit onderzoek onder bijna 1.800 rijksmedewerkers blijkt dat kennis alleen niet genoeg is voor goed informatiegedrag. Gewoontes en werkdruk spelen een grote rol.",
-   "cats": [
-    "Nieuws",
-    "Behavior Change Group",
-    "gedragsverandering",
-    "informatiegedrag",
-    "informatiehuishouding",
-    "Leerhuis Informatiehuishouding",
-    "onderzoek",
-    "open overheid",
-    "overheidsinformatie"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Van gemeentelijke chatbot naar virtuele assistent",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/van-gemeentelijke-chatbot-naar-virtuele-assistent/",
-   "date": "2026-10-27T09:52:14.000Z",
-   "desc": "Gem draait bij 27 gemeenten en beantwoordt veel vragen. Generatieve AI gaat Gem slim genoeg maken voor inzet bij alle gemeenten en uiteindelijk de hele overheid.",
-   "cats": [
-    "Achtergrond",
-    "NDS nieuws",
+    "IT Leadership",
+    "Carrière",
+    "Data & AI",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
     "AI",
-    "chatbot",
-    "Gem",
-    "NDS",
-    "nieuwsbrief-18-2026"
+    "ceo",
+    "CIO"
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Doe mee met de Denk vooruit-actieweek",
-   "link": "https://www.digitaleoverheid.nl/nieuws/doe-mee-met-de-denk-vooruit-actieweek/",
-   "date": "2026-10-26T12:51:30.000Z",
-   "desc": "Moedig je collega’s aan in gesprek te gaan over weerbaarheid en afspraken rondom noodsituaties. De actieweek sluit aan bij de landelijke campagne 'Denk vooruit'.",
+   "source": "Computable",
+   "title": "Ai in Nederland: DNB schetst voorwaarden voor hogere productiviteit",
+   "link": "https://www.computable.nl/2026/11/03/ai-in-nederland-dnb-schetst-voorwaarden-voor-hogere-productiviteit/",
+   "date": "2026-11-03T13:14:43.000Z",
+   "desc": "Nederland kan economisch flink profiteren van kunstmatige intelligentie (ai). Dat stelt De Nederlandsche Bank (DNB). Maar het is cruciaal dat succesvolle innovaties de ruimte krijgen om te groeien.",
    "cats": [
-    "Nieuws",
-    "Calamiteit",
-    "Crisis",
-    "Denk vooruit",
-    "digitale weerbaarheid",
-    "nieuwsbrief-18-2026",
-    "noodsituaties",
-    "rijksambtenaren",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe inzichten over het Algoritmekader en -register",
-   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-inzichten-over-het-algoritmekader-en-register/",
-   "date": "2026-10-23T07:04:04.000Z",
-   "desc": "Hoe werken het Algoritmekader en het Algoritmeregister in de praktijk? Onderzoeksrapporten van de Auditdienst Rijk tonen wat goed gaat en waar verbeterpunten liggen.",
-   "cats": [
-    "Nieuws",
-    "ADR",
-    "algoritmekader",
-    "algoritmen",
-    "Algoritmeregister",
-    "nieuwsbrief-18-2026",
-    "onderzoek"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "“Dienstverlening gaat om de mens, niet om de techniek”",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-gaat-om-de-mens-niet-om-de-techniek/",
-   "date": "2026-10-22T10:58:37.000Z",
-   "desc": "Aldus Aart Los, opgavemanager Digitale Dienstverlening bij de VNG. In dit artikel vertelt hij meer over dienstverlening voor de inwoner, medewerker én de toekomst.",
-   "cats": [
-    "Achtergrond",
-    "Dienstverlening",
-    "nieuwsbrief-18-2026",
-    "overheidsbrede dienstverlening",
-    "Vereniging Nederlandse Gemeenten",
-    "VNG"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "AI vergroot risico cyberincidenten op de werkvloer",
-   "link": "https://www.digitaleoverheid.nl/nieuws/ai-vergroot-risico-cyberincidenten-op-de-werkvloer/",
-   "date": "2026-10-20T09:19:29.000Z",
-   "desc": "Hoe kunnen organisaties werknemers stimuleren digitaal veilig gedrag te vertonen? Uit onderzoek blijkt: inzetten op het bestrijden van 4 belemmeringen is belangrijk.",
-   "cats": [
-    "Nieuws",
-    "cybersecurity",
-    "digitale weerbaarheid",
-    "nieuwsbrief-18-2026"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Dutch Design Week 2026: ontwerp de overheid van morgen mee",
-   "link": "https://www.digitaleoverheid.nl/nieuws/dutch-design-week-2026-ontwerp-de-overheid-van-morgen-mee/",
-   "date": "2026-10-16T12:48:40.000Z",
-   "desc": "Van 17 tot en met 25 oktober staat het ministerie van BZK op de Dutch Design Week. Ambtenaren gaan samen met bezoekers op zoek naar de dienstverlening van de toekomst.",
-   "cats": [
-    "Nieuws",
-    "1 overheid",
-    "DDW",
-    "Dienstverlening",
-    "Dutch Design Week",
-    "ontwerpende aanpak",
-    "Staat van Samen"
+    "IT Strategy & Governance",
+    "Data & AI",
+    "Data & AI Governance",
+    "Data Operations",
+    "IT Industry news",
+    "IT Leadership",
+    "Leadership & organisation",
+    "Overheid",
+    "AI",
+    "Ai-model",
+    "Economie"
    ]
   },
   {
@@ -241,7 +125,7 @@
     "Onderwijs",
     "AI",
     "AI agents",
-    "onderzoek",
+    "Onderzoek",
     "universiteit"
    ]
   },
@@ -267,22 +151,6 @@
     "Overname",
     "ret",
     "Telecom"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Geen verliezen voor Binance-gebruikers",
-   "link": "https://www.computable.nl/2026/11/02/geen-verliezen-voor-binance-gebruikers/",
-   "date": "2026-11-02T06:15:00.000Z",
-   "desc": "Binance, slachtoffer van de grootste roof van digitale tegoeden uit de geschiedenis, zal de mega-verliezen niet afwentelen op zijn gebruikers. De cryptobeurs had zondagavond al 95 procent van de gestolen 6,3 miljard dollar aan activa gedekt.",
-   "cats": [
-    "Financiële dienstverlening",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Security & Risk",
-    "Bitcoin",
-    "crypto",
-    "hack"
    ]
   }
  ]
