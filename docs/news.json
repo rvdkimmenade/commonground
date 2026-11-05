@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:58:42.992Z",
+ "updated": "2026-11-05T20:57:56.129Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -156,6 +156,38 @@
   },
   {
    "source": "Computable",
+   "title": "Fujitsu ziet toekomst in dynamische samenwerking tussen mens, ai en robots",
+   "link": "https://www.computable.nl/2026/11/05/fujitsu-ziet-toekomst-in-dynamische-samenwerking-tussen-mens-ai-en-robots/",
+   "date": "2026-11-05T16:00:00.000Z",
+   "desc": "Fujitsu verwacht dat ai en robots steeds meer taken overnemen én samen met mensen bedrijfsprocessen aansturen. Tijdens Fujitsu Tech Open House in Madrid presenteerde de Japanse ict-groep zijn visie op deze ‘dynamic transformation’.",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "AI Agents",
+    "Factory Automation",
+    "Industry & OT",
+    "Robotics",
+    "AI",
+    "automatisering",
+    "robots",
+    "transformatie"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Wolters Kluwer versnelt ai-innovatie",
+   "link": "https://www.computable.nl/2026/11/05/wolters-kluwer-versnelt-ai-innovatie/",
+   "date": "2026-11-05T13:15:14.000Z",
+   "desc": "Wolters Kluwer boekt solide resultaten en stevent recht af op het behalen van de jaardoelen voor 2026. Met een organische groei van 6 procent (zonder het effect van overnames) in de eerste negen maanden ligt het databedrijf op koers. De operationele winst steeg 10 procent in constante valuta.",
+   "cats": [
+    "Data & AI",
+    "Software & Development",
+    "ERP",
+    "kwartaalcijfers"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Nieuwe verkeerssoftware strandt na vijf dagen, Chinese liefdesrobots lonken naar Europa (en meer)",
    "link": "https://www.computable.nl/2026/11/05/kort-nieuwe-verkeerssoftware-strandt-na-vijf-dagen-chinese-liefdesrobots-lonken-naar-europa-en-meer/",
    "date": "2026-11-05T10:30:00.000Z",
@@ -271,40 +303,6 @@
     "Leadership & organisation",
     "AI",
     "Personeel"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "HCC eist volledige openheid overheid na mislukt UWV‑project",
-   "link": "https://www.computable.nl/2026/11/04/hcc-eist-volledige-openheid-overheid-na-mislukt-uwv-project/",
-   "date": "2026-11-04T06:00:00.000Z",
-   "desc": "Met het mislukken van het ict‑project BMS bij het UWV is de maat vol. De vereniging van computergebruikers HCC wil dat de Tweede Kamer harde eisen stelt aan openheid en verantwoording nu opnieuw tientallen miljoenen belastinggeld zijn uitgegeven zonder resultaat.",
-   "cats": [
-    "Overheid",
-    "Business Applications",
-    "Enterprise Software",
-    "ERP",
-    "Software & Development",
-    "Software Development",
-    "Software Engineering",
-    "Projectmanagement"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ai zorgt voor de grote comeback van de it-afdeling. Maar is dat wel goed nieuws?",
-   "link": "https://www.computable.nl/2026/11/03/ai-zorgt-voor-de-grote-comeback-van-de-it-afdeling-maar-is-dat-wel-goed-nieuws/",
-   "date": "2026-11-03T17:00:00.000Z",
-   "desc": "OPINIE - De opmars van ai bezorgt de it-afdeling grotere budgetten en meer invloed. Goed nieuws voor cio’s en cto’s? Niet noodzakelijk, waarschuwt Pieter Janssens, ceo van iO.",
-   "cats": [
-    "IT Leadership",
-    "Carrière",
-    "Data & AI",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "AI",
-    "ceo",
-    "CIO"
    ]
   }
  ]
