@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:42:22.855Z",
+ "updated": "2026-11-05T12:58:42.992Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -156,6 +156,83 @@
   },
   {
    "source": "Computable",
+   "title": "Kort: Nieuwe verkeerssoftware strandt na vijf dagen, Chinese liefdesrobots lonken naar Europa (en meer)",
+   "link": "https://www.computable.nl/2026/11/05/kort-nieuwe-verkeerssoftware-strandt-na-vijf-dagen-chinese-liefdesrobots-lonken-naar-europa-en-meer/",
+   "date": "2026-11-05T10:30:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Rijkswaterstaat draait Dynac terug, Martijn Gribnau directeur AI-fabriek, Noors Lexit zet voet aan de grond in Benelux, Tom Martin wederom topman van Kinly en Chinese robotpartners op weg naar Europa.",
+   "cats": [
+    "Carrière",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Logistiek",
+    "Overheid",
+    "ai-fabriek",
+    "audiovisueel",
+    "ceo",
+    "China",
+    "Kort",
+    "Overname",
+    "Robotica"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Accenture beschuldigd van publicatie rapport vol ai-hallucinaties",
+   "link": "https://www.computable.nl/2026/11/05/accenture-beschuldigd-van-publicatie-van-rapport-vol-ai-hallucinaties/",
+   "date": "2026-11-05T09:00:00.000Z",
+   "desc": "Accenture wordt ervan beschuldigd mee te hebben gewerkt aan een rapport dat vol fouten zou staan die wijzen op ai-hallucinaties. De adviesreus bevestigt vol dat dit onderzoek over het potentieel van ai-landbouw in Afrika gaat om menselijke fouten, zo bericht de Financial Times.",
+   "cats": [
+    "IT Strategy & Governance",
+    "IT Governance",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Leadership",
+    "Leadership & organisation",
+    "Overheid",
+    "Risk Management",
+    "AI",
+    "ai-fabriek",
+    "Hallucinatie"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Anthropic plant Europees ai-ad­vies­be­drijf",
+   "link": "https://www.computable.nl/2026/11/05/anthropic-plant-europees-ai-adviesbedrijf/",
+   "date": "2026-11-05T06:15:00.000Z",
+   "desc": "Anthropic zou samen met de Londense private-equitygroep Hg een onafhankelijk adviesbedrijf oprichten dat ai-consultants en -ingenieurs bij Europese organisaties inzet. De ambitie van beide partijen is duidelijk: een miljardenbedrijf uitbouwen.",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "Data & AI Governance",
+    "Data Infrastructure",
+    "Data Operations",
+    "AI"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "SAP zet in op Joule: van assistent naar uitvoerder van be­drijfs­pro­ces­sen",
+   "link": "https://www.computable.nl/2026/11/05/sap-zet-in-op-joule-van-assistent-naar-uitvoerder-van-bedrijfsprocessen/",
+   "date": "2026-11-05T06:00:00.000Z",
+   "desc": "Softwarebedrijf SAP wil dat Joule de centrale plek wordt waar medewerkers hun dagelijkse werk aansturen. Op ontwikkelaarsconferentie TechEd maakte het softwarebedrijf duidelijk dat zijn ai-oplossing niet langer een losse assistent is, maar een intelligente laag.",
+   "cats": [
+    "Data & AI",
+    "Collaboration & Productivity",
+    "Data Operations",
+    "Digitale werkplek",
+    "Flexible Work",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Software & Development",
+    "Workplace AI",
+    "AI",
+    "ai-agent",
+    "autonoom"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Aanval kost Ahold Delhaize 250 miljoen, datalek bij leverancier voor rekening van bedrijf (en meer)",
    "link": "https://www.computable.nl/2026/11/04/kort-aanval-kost-ahold-delhaize-250-miljoen-datalek-bij-leverancier-voor-rekening-van-bedrijf-en-meer/",
    "date": "2026-11-04T11:30:00.000Z",
@@ -228,78 +305,6 @@
     "AI",
     "ceo",
     "CIO"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Ai in Nederland: DNB schetst voorwaarden voor hogere productiviteit",
-   "link": "https://www.computable.nl/2026/11/03/ai-in-nederland-dnb-schetst-voorwaarden-voor-hogere-productiviteit/",
-   "date": "2026-11-03T13:14:43.000Z",
-   "desc": "Nederland kan economisch flink profiteren van kunstmatige intelligentie (ai). Dat stelt De Nederlandsche Bank (DNB). Maar het is cruciaal dat succesvolle innovaties de ruimte krijgen om te groeien.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Data & AI",
-    "Data & AI Governance",
-    "Data Operations",
-    "IT Industry news",
-    "IT Leadership",
-    "Leadership & organisation",
-    "Overheid",
-    "AI",
-    "Ai-model",
-    "Economie"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Ai-chatbots negeren AFM, recordcijfers Apple, nieuwe HSO-ceo (en meer)",
-   "link": "https://www.computable.nl/2026/11/03/kort-ai-chatbots-negeren-afm-recordcijfers-apple-nieuwe-hso-ceo-en-meer/",
-   "date": "2026-11-03T11:25:28.000Z",
-   "desc": "Ai-chatbots handelen in strijd met AFM-regels, nieuwe ceo bij HSO, Main stapt in afval-erp, ict-krachtenbundeling in de Achterhoek en Apple boekt recordcijfers ondanks chipschaarste",
-   "cats": [
-    "Data & AI",
-    "AI & Automation",
-    "AI Agents",
-    "Carrière",
-    "Software & Development",
-    "ERP",
-    "Jaarcijfers",
-    "Kort",
-    "Overname"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Mega-overname markt fotonica en optische connectiviteit",
-   "link": "https://www.computable.nl/2026/11/03/mega-overname-markt-fotonica-en-optische-connectiviteit/",
-   "date": "2026-11-03T10:00:00.000Z",
-   "desc": "Marvell, een Amerikaans bedrijf dat ai-chips maakt, neemt Lumentum over. Met de transactie is 115 miljard dollar gemoeid, aldus Reuters. Marvell biedt tachtig miljard dollar aan aandelen en neemt voor 35 miljard dollar aan schulden over. De deal behoort tot de grootste dit jaar in de techsector.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Data & AI",
-    "IT Industry news",
-    "Marktbewegingen",
-    "Overnames & fusies",
-    "fotonica",
-    "optica",
-    "Overname"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Hack op koel­in­stal­la­ties legt zwakke plek in ot-beveiliging bloot",
-   "link": "https://www.computable.nl/2026/11/03/hack-op-koelinstallaties-legt-zwakke-plek-in-ot-beveiliging-bloot/",
-   "date": "2026-11-03T06:15:00.000Z",
-   "desc": "Een cyberaanval heeft voor verstoringen gezorgd bij supermarkten in België, Nederland en Zweden. Bij ketens als Delhaize, Carrefour en ICA werden koelsystemen gemanipuleerd, waardoor temperaturen in koel- en vriesinstallaties plotseling opliepen.",
-   "cats": [
-    "Security & Risk",
-    "Factory Automation",
-    "Industry & OT",
-    "Network & Endpoint Security",
-    "OT Networks",
-    "hack",
-    "OT security",
-    "retail"
    ]
   }
  ]
