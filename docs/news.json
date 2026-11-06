@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:57:56.129Z",
+ "updated": "2026-11-06T12:46:16.402Z",
  "items": [
   {
    "source": "Digitale Overheid",
@@ -156,6 +156,73 @@
   },
   {
    "source": "Computable",
+   "title": "Kort: EU schakelt Capgemini in voor studie naar ai-cyberrisico’s, VodafoneZiggo groeit weer (en meer)",
+   "link": "https://www.computable.nl/2026/11/06/kort-eu-schakelt-capgemini-in-voor-studie-naar-ai-cyberrisicos-vodafoneziggo-groeit-weer-en-meer/",
+   "date": "2026-11-06T11:30:00.000Z",
+   "desc": "Capgemini leidt EU-consortium voor beoordeling ai-veiligheid, VodafoneZiggo boekt voor het eerst in twee jaar omzetgroei, Speer IT wil Europa veroveren, onderwijsbedrijven bundelen krachten voor digitale soevereiniteit, en TOPdesk haalt Cegeka binnen als reseller.",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "Cloud & Infrastructure",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Onderwijs",
+    "Overheid",
+    "Security & Risk",
+    "Security Operations",
+    "Soevereiniteit",
+    "Threat Detection",
+    "AI",
+    "Investering",
+    "Kort",
+    "Mobiele telefoon",
+    "omzet",
+    "Telecom"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Zwolse ambtenaren krijgen ai‑agenten als collega",
+   "link": "https://www.computable.nl/2026/11/06/zwolse-ambtenaren-krijgen-ai-agent-als-collega/",
+   "date": "2026-11-06T06:15:00.000Z",
+   "desc": "Waarschijnlijk krijgen Zwolse ambtenaren nog voor de jaarwisseling een ai-agent als collega. Dat vertelt de gemeente tijdens een Wortell-evenement.",
+   "cats": [
+    "Data & AI",
+    "AI Governance",
+    "Application & Data Security",
+    "Data & AI Governance",
+    "Data Governance",
+    "Data Protection",
+    "Overheid",
+    "Security & Risk",
+    "AI",
+    "ai-agent",
+    "Copilot",
+    "rpa"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Loopgravenoorlog tussen Nexperia en China verdiept zich",
+   "link": "https://www.computable.nl/2026/11/06/loopgravenoorlog-tussen-nexperia-en-china-verdiept-zich/",
+   "date": "2026-11-06T06:00:00.000Z",
+   "desc": "De strijd rond Nexperia wordt dieper en ingewikkelder. Meerdere rechtszaken in Nederland en China maken het gevecht om de macht over de chipmaker tot een ware juridische loopgravenoorlog.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Carrière",
+    "IT Industry news",
+    "IT Leadership",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Overheid",
+    "China",
+    "Chip",
+    "Ondernemingskamer",
+    "Rechtszaak"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Fujitsu ziet toekomst in dynamische samenwerking tussen mens, ai en robots",
    "link": "https://www.computable.nl/2026/11/05/fujitsu-ziet-toekomst-in-dynamische-samenwerking-tussen-mens-ai-en-robots/",
    "date": "2026-11-05T16:00:00.000Z",
@@ -261,48 +328,6 @@
     "AI",
     "ai-agent",
     "autonoom"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Aanval kost Ahold Delhaize 250 miljoen, datalek bij leverancier voor rekening van bedrijf (en meer)",
-   "link": "https://www.computable.nl/2026/11/04/kort-aanval-kost-ahold-delhaize-250-miljoen-datalek-bij-leverancier-voor-rekening-van-bedrijf-en-meer/",
-   "date": "2026-11-04T11:30:00.000Z",
-   "desc": "Cyberaanval raakt Ahold Delhaize voor maximaal kwart miljard, consument legt verantwoordelijkheid voor datalek bij uitbestede it bij bedrijven, NLdigital biedt it-bedrijven gedragscode voor AVG, Delft gastheer voor festival over kunst en robotica, en NorthC wil datacentercapaciteit uitbreiden.",
-   "cats": [
-    "Security & Risk",
-    "AI & Automation",
-    "AVG",
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Datacenter",
-    "Datacenter & Infrastructure",
-    "Factory Automation",
-    "Industry & OT",
-    "Regulatory Compliance",
-    "Robotics",
-    "Datalek",
-    "Kort",
-    "robots"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "It-teams groeien ondanks opmars van ai",
-   "link": "https://www.computable.nl/2026/11/04/it-teams-groeien-ondanks-opmars-van-ai/",
-   "date": "2026-11-04T06:15:00.000Z",
-   "desc": "Artificiële intelligentie zorgt niet voor minder, maar voor meer vraag naar it-talent. Volgens onderzoek van Randstad breiden bijna negen op tien werkgevers wereldwijd het it-team uit. ‘Ai zal it-talent niet vervangen’, zo klinkt het.",
-   "cats": [
-    "Carrière",
-    "Data & AI",
-    "IT Careers",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "IT Talent",
-    "Leadership & organisation",
-    "AI",
-    "Personeel"
    ]
   }
  ]
