@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:41:50.095Z",
+ "updated": "2026-11-09T23:19:31.837Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -2261,6 +2261,26 @@
   },
   {
    "source": "Computable",
+   "title": "Kosten van ai-tokens mogelijk aftrekbaar via WBSO",
+   "link": "https://www.computable.nl/2026/11/09/kosten-van-ai-tokens-mogelijk-aftrekbaar-via-wbso/",
+   "date": "2026-11-09T16:00:00.000Z",
+   "desc": "De kosten van verbruikte ai-tokens komen mogelijk in aanmerking voor de fiscale WBSO-regeling (Wet bevordering speur- en ontwikkelingswerk). De nieuwe handleiding van de Rijksdienst voor Ondernemend Nederland (RVO) beschrijft voor het eerst expliciet hoe ai in het ontwikkelproces wordt beoordeeld.",
+   "cats": [
+    "Data & AI",
+    "AI & Automation",
+    "Overheid",
+    "Software & Development",
+    "Software Development",
+    "Software Engineering",
+    "innovatie",
+    "Onderzoek",
+    "Software",
+    "subsidie",
+    "WBSO"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Kort: Nieuwe ict-crisis Amsterdam, Europese protesten tegen datacenters (en meer)",
    "link": "https://www.computable.nl/2026/11/09/kort-nieuwe-ict-crisis-amsterdam-europese-protesten-tegen-datacenters-en-meer/",
    "date": "2026-11-09T11:30:00.000Z",
@@ -2424,32 +2444,6 @@
    ]
   },
   {
-   "source": "Computable",
-   "title": "Kort: EU schakelt Capgemini in voor studie naar ai-cyberrisico’s, VodafoneZiggo groeit weer (en meer)",
-   "link": "https://www.computable.nl/2026/11/06/kort-eu-schakelt-capgemini-in-voor-studie-naar-ai-cyberrisicos-vodafoneziggo-groeit-weer-en-meer/",
-   "date": "2026-11-06T11:30:00.000Z",
-   "desc": "Capgemini leidt EU-consortium voor beoordeling ai-veiligheid, VodafoneZiggo boekt voor het eerst in twee jaar omzetgroei, Speer IT wil Europa veroveren, onderwijsbedrijven bundelen krachten voor digitale soevereiniteit, en TOPdesk haalt Cegeka binnen als reseller.",
-   "cats": [
-    "Data & AI",
-    "AI & Automation",
-    "Cloud & Infrastructure",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Onderwijs",
-    "Overheid",
-    "Security & Risk",
-    "Security Operations",
-    "Soevereiniteit",
-    "Threat Detection",
-    "AI",
-    "Investering",
-    "Kort",
-    "Mobiele telefoon",
-    "omzet",
-    "Telecom"
-   ]
-  },
-  {
    "source": "AG Connect",
    "title": "Stammenstrijd tussen gemeenten bedreigt digitale onafhankelijkheid",
    "link": "https://www.agconnect.nl/maatschappij/overheid/stammenstrijd-bedreigt-digitale-onafhankelijkheid",
@@ -2565,17 +2559,6 @@
    "link": "https://www.agconnect.nl/maatschappij/overheid/gemeenten-betaalden-euro185-miljoen-voor-microsoftproducten",
    "date": "2026-09-29T09:24:25.000Z",
    "desc": "Hoewel het kabinet al jarenlang pleit voor meer soevereiniteit, was niet bekend hoeveel er precies werd uitgegeven aan Microsoft.",
-   "cats": [
-    "Maatschappij",
-    "Overheid"
-   ]
-  },
-  {
-   "source": "AG Connect",
-   "title": "Nederland ondertekent oproep tot meer controle op grensverleggende AI",
-   "link": "https://www.agconnect.nl/maatschappij/overheid/nederland-ondertekent-oproep-tot-meer-controle-op-ai",
-   "date": "2026-09-22T12:53:37.000Z",
-   "desc": "Regeringsleiders pleiten voor transparante veiligheidsprotocollen, o.a. verplichte tests vóór ingebruikname en onafhankelijke evaluaties.",
    "cats": [
     "Maatschappij",
     "Overheid"
