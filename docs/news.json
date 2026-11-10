@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:19:36.709Z",
+ "updated": "2026-11-10T20:43:56.732Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,28 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Gezichtsscanner rukt op aan de gemeentebalie, maar cijfers over omvang fraude ontbreken",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/gezichtsscanner-rukt-op-omvang-fraude-onbekend",
+   "date": "2026-11-10T14:11:29.000Z",
+   "desc": "Cijfers over hoe vaak identiteits- en documentfraude aan de gemeentebalie voorkomt, ontbreken.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Hoe werkt EDIC voor open source en digitale gemeenschapsgoederen?",
+   "link": "https://ibestuur.nl/digitale-toekomst-eu/projecten/hoe-werkt-edic-voor-open-source",
+   "date": "2026-11-10T13:25:59.000Z",
+   "desc": "Het consortium moet onder meer toegang tot financiering vergemakkelijken en de ontwikkeling en opschaling van projecten ondersteunen.",
+   "cats": [
+    "Digitale Toekomst EU",
+    "Projecten"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Toenemend gemor in Kamer over gebrekkige digitale regie",
@@ -1639,33 +1661,11 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "EU-cyberaanpak schiet tekort door gebrekkige informatie-uitwisseling",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/eu-cyberaanpak-kent-gebrekkige-informatie-uitwisseling",
-   "date": "2026-09-22T08:48:26.000Z",
-   "desc": "Het Europees waarschuwingssysteem voor cyberbeveiliging moet zo snel mogelijk operationeel worden, vindt de Europese Rekenkamer.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Kabinet steekt 18 miljoen in zeekabel naar Japan",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/kabinet-steekt-18-miljoen-in-zeekabel-naar-japan",
-   "date": "2026-09-22T07:08:20.000Z",
-   "desc": "'Een belangrijk deel van de bestaande zeekabelinfrastructuur veroudert, terwijl andere landen volop investeren in nieuwe verbindingen.'",
-   "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
    "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
    "date": "2026-11-10T07:43:08.000Z",
-   "desc": "Het Kabinet kiest voor een visie op AI die bijdraagt aan een sterke economie, goede publieke dienstverlening en oplossingen voor maatschappelijke uitdagingen.",
+   "desc": "Het kabinet kiest voor een visie op AI die bijdraagt aan een sterke economie, goede publieke dienstverlening en oplossingen voor maatschappelijke uitdagingen.",
    "cats": [
     "Nieuws",
     "AI",
@@ -1674,10 +1674,10 @@
   },
   {
    "source": "Digitale Overheid",
-   "title": "Kabinet steunt EU KIDS Act, maar heeft zorgen over privacy",
-   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-steunt-eu-kids-act-maar-heeft-zorgen-over-privacy/",
+   "title": "Steun voor EU KIDS Act, maar ook zorgen over privacy",
+   "link": "https://www.digitaleoverheid.nl/nieuws/steun-voor-eu-kids-act-maar-ook-zorgen-over-privacy/",
    "date": "2026-11-09T09:01:35.000Z",
-   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet vraagt extra aandacht voor grondrechten en privacy.",
+   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet vraagt daarbij extra aandacht voor grondrechten en privacy.",
    "cats": [
     "Nieuws",
     "EU KIDS Act",
@@ -1735,7 +1735,7 @@
    "title": "Nieuwe handreiking gebruik IAMA en Model DPIA Rijksdienst",
    "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-handreiking-gebruik-iama-en-model-dpia-rijksdienst/",
    "date": "2026-10-29T12:35:53.000Z",
-   "desc": "Deze handreiking is gepubliceerd voor het gezamenlijk gebruik van het Impact Assessment Mensenrechten en Algoritmen (IAMA) en Data Protect Impact Assessment (DPIA).",
+   "desc": "Dit hulpmiddel helpt je het Impact Assessment Mensenrechten en Algoritmen (IAMA) en Data Protect Impact Assessment (DPIA) tegelijk in te vullen, en dat scheelt tijd.",
    "cats": [
     "Nieuws",
     "Data Protection Impact Assessments",
@@ -1814,6 +1814,17 @@
     "Algoritmeregister",
     "nieuwsbrief-18-2026",
     "onderzoek"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Gezichtsscanner rukt op, maar cijfers over omvang fraude ontbreken",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/gezichtsscanner-rukt-op-omvang-fraude-onbekend",
+   "date": "2026-11-10T13:47:53.000Z",
+   "desc": "Het kabinet werkt aan een wettelijke grondslag voor de inzet van gezichtsscanners bij aanvragen van een reisdocument of identiteitskaart. Meer dan de helft van de gemeenten zet op eigen initiatief al automatische gezichtsvergelijking in bij de identiteitsvaststelling. Maar hoe groot het probleem van fraude met paspoortaanvragen aan de gemeentebalie werkelijk is, weet niemand.",
+   "cats": [
+    "digitaal",
+    "kunstmatige intelligentie"
    ]
   },
   {
@@ -2334,20 +2345,6 @@
     "AI",
     "fraude",
     "identificatie"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Nationale database voor dronevluchten",
-   "link": "https://www.computable.nl/2026/11/09/nationale-database-voor-dronevluchten/",
-   "date": "2026-11-09T06:00:00.000Z",
-   "desc": "Het kabinet werkt aan een nationale database voor dronevluchten in Nederland. Het initiatief volgt op een reeks incidenten in 2025 met ongeautoriseerde drones bij onder andere Eindhoven Airport en Defensie-vliegbases. Doel is het samenbrengen van nu nog versnipperde data.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Overheid",
-    "Databases",
-    "Drone",
-    "kabinet-Jetten"
    ]
   },
   {
