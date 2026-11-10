@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:19:31.837Z",
+ "updated": "2026-11-10T13:19:36.709Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,28 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Toenemend gemor in Kamer over gebrekkige digitale regie",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/toenemend-gemor-in-kamer-over-gebrekkige-digitale-regie",
+   "date": "2026-11-10T09:59:36.000Z",
+   "desc": "Van links tot rechts proberen Kamerleden grip te krijgen op digitale regie, maar het kabinet hult zich veelal in nevelen.",
+   "cats": [
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "EU sleept IT-reuzen voor rechter om vertraagd grenssysteem",
+   "link": "https://ibestuur.nl/digitale-toekomst-eu/projecten/eu-sleept-it-reuzen-voor-rechter-om-vertraagd-grenssysteem",
+   "date": "2026-11-10T09:15:41.000Z",
+   "desc": "Het EES had oorspronkelijk in 2022 operationeel moeten zijn, maar werd pas in oktober 2025 gefaseerd ingevoerd.",
+   "cats": [
+    "Digitale Toekomst EU",
+    "Projecten"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Meer datacenters maken Europa niet vanzelf onafhankelijker",
@@ -1639,25 +1661,15 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Bureau Forum Standaardisatie wordt onderdeel van Nederlandse Digitale Dienst",
-   "link": "https://ibestuur.nl/overheid-in-transitie/standaardisering/bureau-forum-standaardisatie-onderdeel-van-digitale-dienst",
-   "date": "2026-09-21T12:40:54.000Z",
-   "desc": "Gerdine Keijzer Baldé: Overheid moet zich gaan richten op open source en open standaarden.",
+   "source": "Digitale Overheid",
+   "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
+   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
+   "date": "2026-11-10T07:43:08.000Z",
+   "desc": "Het Kabinet kiest voor een visie op AI die bijdraagt aan een sterke economie, goede publieke dienstverlening en oplossingen voor maatschappelijke uitdagingen.",
    "cats": [
-    "Overheid in Transitie",
-    "Standaardisering"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Nederlandse Digitale Dienst krijgt vorm",
-   "link": "https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/nederlandse-digitale-dienst-krijgt-vorm",
-   "date": "2026-09-21T12:03:11.000Z",
-   "desc": "Digilab, Forum Standaardisatie en Bureau Architectuur komen samen in de Nederlandse Digitale Dienst (NLDD).",
-   "cats": [
-    "Overheid in Transitie",
-    "Management en bedrijfsvoering"
+    "Nieuws",
+    "AI",
+    "nieuwsbrief-19-2026"
    ]
   },
   {
@@ -1669,6 +1681,7 @@
    "cats": [
     "Nieuws",
     "EU KIDS Act",
+    "nieuwsbrief-19-2026",
     "Online kinderrechten",
     "wetsvoorstel"
    ]
@@ -1686,6 +1699,7 @@
     "cybersecurity",
     "desinformatie",
     "digitale weerbaarheid",
+    "nieuwsbrief-19-2026",
     "overheidsbrede Cyberoefening"
    ]
   },
@@ -1697,7 +1711,8 @@
    "desc": "Wat betekent een beleidskeuze voor de leefbaarheid, gezondheid of veiligheid van inwoners? Met de Brede Welvaart Scan brengt de gemeente Amsterdam effecten in beeld.",
    "cats": [
     "Achtergrond",
-    "innovatiebudget"
+    "innovatiebudget",
+    "nieuwsbrief-19-2026"
    ]
   },
   {
@@ -1711,6 +1726,7 @@
     "AIVD",
     "digitale weerbaarheid",
     "insider treats",
+    "nieuwsbrief-19-2026",
     "publicatie"
    ]
   },
@@ -1727,6 +1743,7 @@
     "IAMA",
     "impactvolle algoritmes",
     "mensenrechten",
+    "nieuwsbrief-19-2026",
     "Privacy"
    ]
   },
@@ -1743,6 +1760,7 @@
     "informatiegedrag",
     "informatiehuishouding",
     "Leerhuis Informatiehuishouding",
+    "nieuwsbrief-19-2026",
     "onderzoek",
     "open overheid",
     "overheidsinformatie"
@@ -1799,18 +1817,25 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "“Dienstverlening gaat om de mens, niet om de techniek”",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-gaat-om-de-mens-niet-om-de-techniek/",
-   "date": "2026-10-22T10:58:37.000Z",
-   "desc": "Aldus Aart Los, opgavemanager Digitale Dienstverlening bij de VNG. In dit artikel vertelt hij meer over dienstverlening voor de inwoner, medewerker én de toekomst.",
+   "source": "Binnenlands Bestuur",
+   "title": "Toenemend gemor in Kamer over gebrekkige digitale regie",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/toenemend-gemor-in-kamer-over-gebrekkige-digitale-regie",
+   "date": "2026-11-10T09:57:31.000Z",
+   "desc": "Kamerbreed is er veel behoefte aan coördinatie en regie op digitaal gebied, vooral bij cyberweerbaarheid. Een passage over AI-camerabrillen was exemplarisch voor de versnippering, zo bleek tijdens het uitgebreide wetgevingsdebat.",
    "cats": [
-    "Achtergrond",
-    "Dienstverlening",
-    "nieuwsbrief-18-2026",
-    "overheidsbrede dienstverlening",
-    "Vereniging Nederlandse Gemeenten",
-    "VNG"
+    "digitaal",
+    "kunstmatige intelligentie"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Computer says no en de ambtenaar knikt (niet meer)",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/computer-says-no-en-de-ambtenaar-knikt-niet-meer",
+   "date": "2026-11-10T09:34:39.000Z",
+   "desc": "In het debat over de toepassing van AI in beleids- en beoordelingsprocessen wordt nog weleens vergeten dat het menselijk oordeel niet de veilige standaard is, maar net zo feilbaar is als een AI-oordeel. AI wordt dan in de verdachte en onbetrouwbare hoek gezet, terwijl AI en de mens niet verschillen in de vraag óf ze falen. Ze verschillen enkel in de manier waarop ze falen.",
+   "cats": [
+    "digitaal",
+    "kunstmatige intelligentie"
    ]
   },
   {
@@ -2111,25 +2136,40 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Tientallen gemeentelijke websites nog kwetsbaar na groot PHP-lek",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/tientallen-gemeentelijke-websites-nog-kwetsbaar",
-   "date": "2026-10-23T09:20:22.000Z",
-   "desc": "Meer dan vijftig gemeentelijke websites zijn mogelijk nog kwetsbaar voor cyberaanvallen vanwege verouderde PHP-software. Dat blijkt uit onderzoek van BNR, dat ruim negenhonderd gemeentelijke websites heeft gecontroleerd. Ook websites van ministeries en provincies lopen mogelijk nog risico, ondanks de beveiligingsupdates die woensdag beschikbaar kwamen.",
+   "source": "Gemeente.nu",
+   "title": "Samen met gemeenten passende en actuele trainingen maken",
+   "link": "https://www.gemeente.nu/loopbaan/samen-met-gemeenten-passende-en-actuele-trainingen-maken/",
+   "date": "2026-11-10T10:55:32.000Z",
+   "desc": "Segment verzorgt al enige tijd trainingen bij 1Stroom, het ambtelijk samenwerkingsverband van gemeenten Westervoort en Duiven. 1Stroom heeft nu een opleidingsstrategie ontwikkeld, waarbij voortaan thematisch wordt gewerkt. ‘Samen met Segment kijken we per thema naar passende trainingen, zowel maatwerk als bestaand aanbod’, aldus Annemieke Tijmstra van 1Stroom. 1Stroom is gestart in 2018 en is volg",
    "cats": [
-    "digitaal",
-    "cyberveiligheid"
+    "Leiderschap",
+    "Loopbaan",
+    "Ontwikkeling"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Eén prompt van een medewerker kan reputatie van bestuurder beschadigen",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/een-prompt-kan-reputatie-van-bestuurder-beschadigen",
-   "date": "2026-10-22T12:29:59.000Z",
-   "desc": "Recent onderzoek van Nieuwsuur wijst erop dat ministers AI gebruiken voor hun toespraken en socialemediaberichten. Sindsdien wordt er gediscussieerd over wat ministers wel en niet met AI zouden mogen doen. Maar wat doen hun ambtenaren eigenlijk met AI? Gebruiken die AI ook bij het schrijven van beleid, wetten, rapporten en Kamerbrieven? En zo ja, hoe weten ministers dan of de documenten die zij on",
+   "source": "Gemeente.nu",
+   "title": "Kabinet gaat door met voorbereiding eigen bijdrage jeugdhulp",
+   "link": "https://www.gemeente.nu/sociaal/jeugdzorg/kabinet-gaat-door-met-voorbereiding-eigen-bijdrage-jeugdhulp/",
+   "date": "2026-11-10T07:51:12.000Z",
+   "desc": "Het kabinet gaat door met de voorbereiding van een eigen bijdrage voor jeugdhulp vanaf 2028. Hoe de regeling er precies uit gaat zien, staat nog niet vast. Onder meer de gevolgen voor kinderen, ouders, gemeenten en uitvoeringsorganisaties worden eerst onderzocht.",
    "cats": [
-    "digitaal",
-    "ethiek"
+    "Jeugdzorg",
+    "eigen bijdrage",
+    "jeugdhulp",
+    "jeugdzorg"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Rechter zet streep door hogere heffing voor Amsterdamse rondvaartboten",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/belastingen/rechter-zet-streep-door-hogere-heffing-voor-amsterdamse-rondvaartboten/",
+   "date": "2026-11-10T07:24:04.000Z",
+   "desc": "De gemeente Amsterdam mocht de heffing voor rondvaartboten niet verhogen van 1,50 naar 2,50 euro per passagier. Volgens de rechtbank is onvoldoende aangetoond dat het extra geld werd gebruikt voor voorzieningen waarvan rondvaartbedrijven profiteren. Voor de betrokken rederij blijft daarom het oude tarief van 1,50 euro gelden. Dat heeft de rechtbank Amsterdam bepaald in een ... lees verder",
+   "cats": [
+    "Belastingen",
+    "Amsterdam",
+    "belastingen"
    ]
   },
   {
@@ -2216,47 +2256,6 @@
     "huurwoning",
     "Wet goed verhuurderschap",
     "woondiscriminatie"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Huurder moet sociale huurwoning verlaten na verboden onderverhuur",
-   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/huurder-moet-sociale-huurwoning-verlaten-na-verboden-onderverhuur/",
-   "date": "2026-11-05T06:46:32.000Z",
-   "desc": "De rechtbank Amsterdam ontbindt de huurovereenkomst van een sociale huurwoning omdat de huurder de woning zonder toestemming heeft onderverhuurd en er zelf niet zijn hoofdverblijf had. De huurder moet de woning verlaten en de winst die hij met de onderverhuur heeft gemaakt aan woningcorporatie Stadgenoot betalen.",
-   "cats": [
-    "Wonen",
-    "huurwoning",
-    "onderverhuur"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Opinie Je laatste Rolo",
-   "link": "https://www.gemeente.nu/blog/je-laatste-rolo/",
-   "date": "2026-11-05T04:47:00.000Z",
-   "desc": "Inwoners, ambtenaren, bestuurders en raadsleden hebben iets gemeen: ze ervaren allemaal te weinig grip. En ze versterken dat bij elkaar. Dit blog gaat over een spiraal die steeds dieper gaat en over de weg terug.",
-   "cats": [
-    "Bestuur",
-    "Blog",
-    "Opinie",
-    "bestuur"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Woningbouw vanaf juli 2027 mogelijk vrij van stikstofvergunning",
-   "link": "https://www.gemeente.nu/ruimte-milieu/woningbouw-vanaf-juli-2027-mogelijk-vrij-van-stikstofvergunning/",
-   "date": "2026-11-04T13:44:33.000Z",
-   "desc": "Woningbouwprojecten met weinig stikstofuitstoot hebben vanaf 1 juli 2027 mogelijk geen natuurvergunning meer nodig. Dat staat in de Kamerbrief over het ontwerpprogramma Landbouw, Natuur en Stikstof die minister Van Essen op 3 november naar de Tweede Kamer stuurde. De VNG steunt de aanpak, maar vindt dat de plannen ook voor gemeenten uitvoerbaar moeten zijn.",
-   "cats": [
-    "Leefomgeving",
-    "Ruimte & Milieu",
-    "natuurherstel",
-    "rekenkundige ondergrens",
-    "stikstofaanpak",
-    "vergunningverlening",
-    "woningbouw"
    ]
   },
   {
@@ -2349,98 +2348,6 @@
     "Databases",
     "Drone",
     "kabinet-Jetten"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Cybersecurity is eindelijk chefsache",
-   "link": "https://www.computable.nl/2026/11/07/cybersecurity-is-eindelijk-chefsache/",
-   "date": "2026-11-07T08:00:00.000Z",
-   "desc": "Cybersecurity gaat allang niet meer alleen over firewalls, monitoring en compliance. Dat werd tijdens de twee dagen van Cybersec Netherlands 2026 in de Jaarbeurs in Utrecht overduidelijk. Cybersecurity begint nu eindelijk chefsache te worden.",
-   "cats": [
-    "Security & Risk",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Overheid",
-    "cybersecurity",
-    "geopolitiek",
-    "hack",
-    "NIS2",
-    "soevereiniteit",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Cybersecuritybeeld Nederland 2026: ‘Ga ervan uit dat de aanvaller al binnen is’",
-   "link": "https://www.computable.nl/2026/11/06/cybersecuritybeeld-nederland-2026-ga-ervan-uit-dat-de-aanvaller-al-binnen-is/",
-   "date": "2026-11-06T21:35:14.000Z",
-   "desc": "De uitdaging voor cyberbeveiligers is niet alleen om een digitale aanval te voorkomen, maar ook om indringers zo snel mogelijk op te sporen en te stoppen. Volgens het Cybersecuritybeeld Nederland 2026 houden overheden en bedrijven te weinig rekening met de kans dat cybercriminelen al toegang hebben.",
-   "cats": [
-    "Security & Risk",
-    "Overheid",
-    "Cyberaanval",
-    "cyberoorlog",
-    "geopolitiek",
-    "hack",
-    "spionage",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kabinet wil ai-ontwikkeling meer sturen",
-   "link": "https://www.computable.nl/2026/11/06/kabinet-wil-ai-ontwikkeling-meer-sturen/",
-   "date": "2026-11-06T18:00:00.000Z",
-   "desc": "Kabinet wil ai-ontwikkeling meer sturen Het kabinet wil de ontwikkeling van ai niet afwachten, maar er zelf richting aan geven. Gekozen wordt voor een sterke Nederlandse en Europese positie in ai, meer ruimte voor ontwikkeling en toepassing en meer grip op de gevolgen voor mensen en de samenleving.",
-   "cats": [
-    "Data & AI",
-    "Overheid",
-    "AI",
-    "ai-fabriek",
-    "ethiek",
-    "kabinet-Jetten"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Brits NCSC waarschuwt: ai legt oude beveiligingsproblemen bloot",
-   "link": "https://www.computable.nl/2026/11/06/brits-ncsc-waarschuwt-ai-legt-oude-beveiligingsproblemen-bloot/",
-   "date": "2026-11-06T16:00:00.000Z",
-   "desc": "Niet de nieuwste aanvalstechniek, maar achterstallig onderhoud vormt de grootste uitdaging voor cyberveiligheid. Met die waarschuwing komt het Britse National Cyber Security Centre (NCSC) in zijn jaaroverzicht 2026, getiteld ‘The State of the Cyber Nation’.",
-   "cats": [
-    "Overheid",
-    "Data & AI",
-    "Security & Risk",
-    "Security Operations",
-    "Threat Detection",
-    "cybersecurity",
-    "Phishing",
-    "social engineering"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Snelle start Nationaal Instituut voor Defensie Technologie",
-   "link": "https://www.computable.nl/2026/11/06/snelle-start-nationaal-instituut-voor-defensie-technologie/",
-   "date": "2026-11-06T13:43:18.000Z",
-   "desc": "Er komt een Nationaal Instituut voor Defensie Technologie (NIDT). Met de oprichting ervan wil Defensie de innovatiesnelheid verhogen en de productiecapaciteit van defensiematerieel in eigen land versterken.",
-   "cats": [
-    "Data & AI",
-    "Cloud & Infrastructure",
-    "Overheid",
-    "Security & Risk",
-    "autonoom",
-    "cyberoorlog",
-    "drones",
-    "geopolitiek",
-    "innovatie",
-    "Onderzoek",
-    "scale-ups",
-    "sensor",
-    "soevereiniteit",
-    "startup"
    ]
   },
   {
