@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:43:56.732Z",
+ "updated": "2026-11-11T12:31:35.299Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,39 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Amsterdam opnieuw in de ICT-problemen",
+   "link": "https://ibestuur.nl/markt-en-overheid/ict-projecten/spoeddebat-over-amsterdams-erfpachtsysteem",
+   "date": "2026-11-11T11:33:49.000Z",
+   "desc": "Spoeddebat in de Amsterdamse raad over problemen met het oude én het nieuwe systeem voor het beheer van erfpachtrechten.",
+   "cats": [
+    "Markt en Overheid",
+    "ICT-projecten"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "MijnBureau uitgebreid met nieuwe features",
+   "link": "https://ibestuur.nl/overheid-in-transitie/ict-projecten/mijnbureau-uitgebreid-met-nieuwe-features",
+   "date": "2026-11-11T11:21:34.000Z",
+   "desc": "De nieuwste installatie van MijnBureau staat live op een prototype van NDS-cloud.",
+   "cats": [
+    "Overheid in Transitie",
+    "ICT-projecten"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Digitale autonomie begint bij het ondernemersklimaat",
+   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/digitale-autonomie-begint-bij-het-ondernemersklimaat",
+   "date": "2026-11-11T08:00:00.000Z",
+   "desc": "Het kabinet wil Europees inkopen, maar waar blijven de maatregelen die Europese bedrijven groot maken?",
+   "cats": [
+    "Markt en Overheid",
+    "Inkoop en aanbesteding"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Gezichtsscanner rukt op aan de gemeentebalie, maar cijfers over omvang fraude ontbreken",
@@ -1628,39 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Nederland ondertekent oproep tot meer controle op grensverleggende AI",
-   "link": "https://ibestuur.nl/data-en-ai/economie/nederland-ondertekent-oproep-tot-meer-controle-op-ai",
-   "date": "2026-09-22T12:10:25.000Z",
-   "desc": "Regeringsleiders pleiten voor transparante veiligheidsprotocollen, o.a. verplichte tests vóór ingebruikname en onafhankelijke evaluaties.",
-   "cats": [
-    "Data en AI",
-    "Economie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Openheid Bluesky legt volgersfabriek bloot",
-   "link": "https://ibestuur.nl/digitalisering-en-democratie/desinformatie/openheid-bluesky-legt-volgersfabriek-bloot",
-   "date": "2026-09-22T10:15:00.000Z",
-   "desc": "Post-X Society wijst erop dat zelfstandig onderzoek doen op X, Facebook, Instagram en TikTok veel moeilijker is.",
-   "cats": [
-    "Digitalisering en Democratie",
-    "Desinformatie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Aerdts moet ambities NDS bijstellen",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/aerdts-moet-ambities-nds-bijstellen",
-   "date": "2026-09-22T08:52:25.000Z",
-   "desc": "Zonder extra middelen zijn de ambities uit de Nederlandse Digitaliseringsstrategie (NDS) niet te verwezenlijken.",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
    "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
@@ -1674,8 +1674,8 @@
   },
   {
    "source": "Digitale Overheid",
-   "title": "Steun voor EU KIDS Act, maar ook zorgen over privacy",
-   "link": "https://www.digitaleoverheid.nl/nieuws/steun-voor-eu-kids-act-maar-ook-zorgen-over-privacy/",
+   "title": "Steun voor EU KIDS Act, met extra aandacht voor privacy",
+   "link": "https://www.digitaleoverheid.nl/nieuws/ssteun-voor-eu-kids-act-met-extra-aandacht-voor-privacy/",
    "date": "2026-11-09T09:01:35.000Z",
    "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet vraagt daarbij extra aandacht voor grondrechten en privacy.",
    "cats": [
@@ -1708,7 +1708,7 @@
    "title": "Brede Welvaart Scan helpt gemeenten verder kijken",
    "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/brede-welvaart-scan-helpt-gemeenten-verder-kijken/",
    "date": "2026-11-03T10:15:00.000Z",
-   "desc": "Wat betekent een beleidskeuze voor de leefbaarheid, gezondheid of veiligheid van inwoners? Met de Brede Welvaart Scan brengt de gemeente Amsterdam effecten in beeld.",
+   "desc": "Wat betekent een beleidskeuze voor de leefbaarheid, gezondheid of veiligheid van inwoners? Met de digitale Brede Welvaart Scan brengt de gemeente Amsterdam effecten in beeld.",
    "cats": [
     "Achtergrond",
     "innovatiebudget",
@@ -1814,6 +1814,28 @@
     "Algoritmeregister",
     "nieuwsbrief-18-2026",
     "onderzoek"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Storing sites Rijksoverheid kwam door menselijke fout",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/storing-sites-rijksoverheid-kwam-door-menselijke-fout",
+   "date": "2026-11-11T12:26:17.000Z",
+   "desc": "Woensdagochtend waren diverse sites van de overheid gedurende een half uur uit de lucht. De uitval trof niet alleen rijksoverheid.nl, maar bijvoorbeeld ook de sites van het Openbaar Ministerie (om.nl) en het Koninklijk Huis (koninklijkhuis.nl). Ook diensten als de Rijksinspectie Digitale Infrastructuur (rdi.nl), de Rijksdienst voor het Cultureel Erfgoed (cultureelerfgoed.nl), het Sociaal en Cultur",
+   "cats": [
+    "digitaal",
+    "cyberveiligheid"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Amsterdam opnieuw in de ICT-problemen",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/spoeddebat-over-amsterdams-erfpachtsysteem",
+   "date": "2026-11-11T12:00:00.000Z",
+   "desc": "Woensdag vindt in de Amsterdamse gemeenteraad een spoeddebat plaats over de problemen met de computersystemen die de erfpachtrechten van Amsterdammers beheren. Het is de tweede keer in korte tijd dat een ICT-project flink fout loopt in de hoofdstad.&nbsp;",
+   "cats": [
+    "digitaal",
+    "informatiehuishouding"
    ]
   },
   {
@@ -2136,14 +2158,39 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Cynthia Liem: ‘AI is een vaag containerbegrip’",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/cynthia-liem-ai-is-een-vaag-containerbegrip",
-   "date": "2026-10-24T04:00:00.000Z",
-   "desc": "De discussie over digitalisering gaat te veel alleen over technologie. Dat schrikt mensen af die je juist graag bij de discussie wil betrekken, waarschuwt Cynthia Liem, lector Responsible Digital Society bij Hogeschool Inholland. Bijvoorbeeld de mensen die de systemen uiteindelijk moeten gebruiken.",
+   "source": "Gemeente.nu",
+   "title": "Gemeente Utrecht onderzoekt verbod op camerabrillen",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/privacy/gemeente-utrecht-onderzoekt-verbod-op-camerabrillen/",
+   "date": "2026-11-11T07:45:08.000Z",
+   "desc": "Utrecht onderzoekt of het gebruik van camerabrillen in gemeentelijke gebouwen kan worden verboden. De gemeente wil daarmee voorkomen dat mensen ongemerkt worden gefilmd, bijvoorbeeld in zwembaden en kleedruimtes. Utrecht zou de eerste Nederlandse gemeente zijn die een dergelijk verbod onderzoekt, meldt het AD. Aanleiding voor het onderzoek zijn vragen van gemeenteraadslid Leon Boelens van de ... l",
    "cats": [
-    "digitaal",
-    "inclusie"
+    "Privacy",
+    "privacy",
+    "smartglasses"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Meer dan helft gemeenten gebruikt gezichtsscans bij vaststellen identiteit",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/burgerzaken/meer-dan-helft-gemeenten-gebruikt-gezichtsscans-bij-vaststellen-identiteit/",
+   "date": "2026-11-11T07:33:01.000Z",
+   "desc": "Meer dan de helft van de gemeenten gebruikt al automatische gezichtsvergelijking bij het vaststellen van de identiteit van burgers. Het kabinet wil deze technologie wettelijk verankeren, maar heeft geen overzicht van welke gemeenten de privacyregels naleven.",
+   "cats": [
+    "Burgerzaken",
+    "burgerzaken",
+    "identiteitspapieren"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Gemeente hoeft niet op te treden tegen houtkachel zonder bewijs van ernstige overlast",
+   "link": "https://www.gemeente.nu/ruimte-milieu/leefomgeving/gemeente-hoeft-niet-op-te-treden-tegen-houtkachel-zonder-bewijs-van-ernstige-overlast/",
+   "date": "2026-11-11T05:52:00.000Z",
+   "desc": "Een inwoner van Lage Mierde die klaagde over rook- en stankoverlast door de houtkachel van zijn buren, krijgt geen gelijk van de Raad van State. Er is onvoldoende aangetoond dat sprake is van ernstige overlast die ingrijpen door de gemeente rechtvaardigt. De inwoner ondervindt naar eigen zeggen veel hinder van een houtkachel in de tuinkamer ... lees verder",
+   "cats": [
+    "Leefomgeving",
+    "houtkachel",
+    "houtstook"
    ]
   },
   {
@@ -2231,120 +2278,6 @@
     "Burgerzaken",
     "achternaam",
     "burgerzaken"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Negen omgevingsdiensten voldoen nog niet aan eisen",
-   "link": "https://www.gemeente.nu/ruimte-milieu/negen-omgevingsdiensten-voldoen-nog-niet-aan-eisen/",
-   "date": "2026-11-06T08:46:08.000Z",
-   "desc": "Van de 26 Nederlandse omgevingsdiensten voldeden er op 1 april 2026 zeventien aan de afgesproken robuustheidscriteria en negen nog niet. Staatssecretaris Bertram van Infrastructuur en Waterstaat wil dat zij uiterlijk 1 juli 2027 alsnog aan de eisen voldoen, of duidelijk maken hoe en wanneer zij dat gaan bereiken.",
-   "cats": [
-    "Ruimte & Milieu",
-    "omgevingsdienst"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Wie werkt krijgt meer tijd om in te burgeren",
-   "link": "https://www.gemeente.nu/sociaal/wie-werkt-krijgt-meer-tijd-om-in-te-burgeren/",
-   "date": "2026-11-06T08:11:26.000Z",
-   "desc": "Werken moet de norm worden tijdens de inburgering. Nu heeft het overgrote deel van de inburgeraars geen baan en ontvangt het een bijstandsuitkering. Minister Aartsen wil daar verandering in brengen door werken naast de inburgering aantrekkelijker te maken. Statushouders die minimaal 28 uur per week werken, kunnen daarom tot drie jaar extra de tijd krijgen om aan hun inburgeringsplicht te voldoen.",
-   "cats": [
-    "Sociaal",
-    "Inburgeringstraject",
-    "statushouders"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Discriminatie op huurmarkt blijft hardnekkig probleem",
-   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/discriminatie-op-huurmarkt-blijft-hardnekkig-probleem/",
-   "date": "2026-11-05T07:23:52.000Z",
-   "desc": "Woningzoekenden met een Marokkaans klinkende naam hebben nog altijd minder kans om te worden uitgenodigd voor een bezichtiging. Tegelijkertijd herkennen verhuurbemiddelaars discriminatie steeds beter, maar weigeren zij discriminerende verzoeken van verhuurders lang niet altijd.",
-   "cats": [
-    "Wonen",
-    "huurwoning",
-    "Wet goed verhuurderschap",
-    "woondiscriminatie"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kosten van ai-tokens mogelijk aftrekbaar via WBSO",
-   "link": "https://www.computable.nl/2026/11/09/kosten-van-ai-tokens-mogelijk-aftrekbaar-via-wbso/",
-   "date": "2026-11-09T16:00:00.000Z",
-   "desc": "De kosten van verbruikte ai-tokens komen mogelijk in aanmerking voor de fiscale WBSO-regeling (Wet bevordering speur- en ontwikkelingswerk). De nieuwe handleiding van de Rijksdienst voor Ondernemend Nederland (RVO) beschrijft voor het eerst expliciet hoe ai in het ontwikkelproces wordt beoordeeld.",
-   "cats": [
-    "Data & AI",
-    "AI & Automation",
-    "Overheid",
-    "Software & Development",
-    "Software Development",
-    "Software Engineering",
-    "innovatie",
-    "Onderzoek",
-    "Software",
-    "subsidie",
-    "WBSO"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Nieuwe ict-crisis Amsterdam, Europese protesten tegen datacenters (en meer)",
-   "link": "https://www.computable.nl/2026/11/09/kort-nieuwe-ict-crisis-amsterdam-europese-protesten-tegen-datacenters-en-meer/",
-   "date": "2026-11-09T11:30:00.000Z",
-   "desc": "In dit nieuwsoverzicht: vernieuwing erfpachtsysteem Amsterdam vertraagd, Schuberg Philis pikt DetACT-divisie op bij DataExpert, nieuwe inspecteur-generaal RDI, ai schrijft mee bij consulten in Maasstad Ziekenhuis en protesten tegen datacenters nemen toe.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Business Applications",
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "IT Industry news",
-    "Overheid",
-    "Software & Development",
-    "Zorg",
-    "ceo",
-    "Datacenter",
-    "digitale zorg",
-    "Fintech",
-    "fraude",
-    "Kort",
-    "Overname",
-    "Software"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Nvidia onderzoekt relatie van topman met Chinese Mata Hari",
-   "link": "https://www.computable.nl/2026/11/09/nvidia-onderzoekt-relatie-van-topman-met-chinese-mata-hari/",
-   "date": "2026-11-09T10:49:46.000Z",
-   "desc": "De raad van bestuur van Nvidia start een onafhankelijk onderzoek naar aanleiding van recente berichtgeving dat oprichter en ceo Jensen Huang het doelwit is geweest van een inlichtingen-operatie vanuit China. De Nvidia-topman had een romantische relatie met een Chinese vrouw.",
-   "cats": [
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Overheid",
-    "China",
-    "Chips",
-    "geopolitiek",
-    "spionage"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "‘Ai vormt de grootste bedreiging voor grens­be­vei­li­ging’",
-   "link": "https://www.computable.nl/2026/11/09/ai-vormt-de-grootste-bedreiging-voor-grensbeveiliging/",
-   "date": "2026-11-09T06:15:00.000Z",
-   "desc": "Artificiële intelligentie vormt de grootste bedreiging voor grensbeveiliging. Dat is de belangrijkste conclusie van de top van de Global Identity Trust Association. Identiteit kan dankzij ai beter vervalst worden, terwijl er aan de grens gemiddeld slechts 12 seconden tijd is voor een controle.",
-   "cats": [
-    "Data & AI",
-    "Digital Identity",
-    "Overheid",
-    "Security & Risk",
-    "AI",
-    "fraude",
-    "identificatie"
    ]
   },
   {
@@ -2467,6 +2400,22 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Ernstige kwetsbaarheden in Microsoft Windows",
+   "link": "https://www.ncsc.nl/alerts/ernstige-kwetsbaarheden-in-microsoft-windows",
+   "date": "2026-11-11T12:28:17.000Z",
+   "desc": "Er zijn meerdere ernstige kwetsbaarheden gevonden in Microsoft Windows met een CVSS-score van 9.0 of hoger. Deze kwetsbaarheden kunnen ervoor zorgen dat er schadelijke acties op je systeem uitgevoerd worden. De kans op misbruik is gemiddeld, maar de mogelijke schade is groot. Het advies is om de beschikbare updates van Microsoft Windows zo snel mogelijk te installeren.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Recente cyberkwetsbaarheden benadrukken urgentie van cybersubsidie MCZ",
+   "link": "https://www.ncsc.nl/nieuws/recente-cyberkwetsbaarheden-benadrukken-urgentie-van-cybersubsidie-mcz",
+   "date": "2026-11-11T12:05:20.000Z",
+   "desc": "Recente cyberincidenten, zoals aanvallen op koelinstallaties in Europa en de kwetsbaarheden in de programmeertaal PHP, onderstrepen hoe belangrijk het is dat bedrijven hun digitale beveiliging op orde hebben. Toch nemen kleine bedrijven nog relatief weinig maatregelen om zich te beschermen tegen digitale dreigingen. Via de subsidieregeling ‘Mijn Cyberweerbare Zaak’ kunnen zelfstandig ondernemers e",
+   "cats": []
   },
   {
    "source": "NCSC",
