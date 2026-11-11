@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:31:35.299Z",
+ "updated": "2026-11-11T21:07:54.469Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,39 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "De AI-rekening komt binnen. En het onderwijs betaalt.",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/de-ai-rekening-komt-binnen-en-het-onderwijs-betaalt",
+   "date": "2026-11-11T16:59:07.000Z",
+   "desc": "Het gratis pakket voor leerlingen verdwijnt, net als het voordeel waarmee leerlingen gratis kunnen meeliftten op de licenties van docenten.",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Wie bewaakt de digitale rechtsstaat?",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/wie-bewaakt-de-digitale-rechtsstaat",
+   "date": "2026-11-11T15:43:27.000Z",
+   "desc": "Onze volksvertegenwoordigers moeten kunnen beoordelen of het bestuur digitale risico's voldoende beheerst.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Utrecht onderzoekt verbod op gluurbrillen, VNG zag eerder geen noodzaak",
+   "link": "https://ibestuur.nl/overheid-in-transitie/wetgeving/utrecht-onderzoekt-verbod-op-gluurbrillen",
+   "date": "2026-11-11T13:03:44.000Z",
+   "desc": "Er wordt niet alleen gekeken naar een verbod in gemeentelijke gebouwen, maar ook naar een mogelijk verbod op heimelijk filmen via de APV.",
+   "cats": [
+    "Overheid in Transitie",
+    "Wetgeving"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Amsterdam opnieuw in de ICT-problemen",
@@ -1628,39 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Strategische inzet digitalisering: wat staat er de komende tijd op de rol?",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/strategische-inzet-digitalisering-planning",
-   "date": "2026-09-23T09:13:43.000Z",
-   "desc": "In de Kamerbrief van staatssecretaris Aerdts staan veel voornemens, verwachtingen, maar nog weinig harde toezeggingen aan de Kamer.",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "NADI gaat met Duitsland werken aan nieuwe AI-chips",
-   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/nadi-gaat-met-duitsland-werken-aan-nieuwe-ai-chips",
-   "date": "2026-09-23T07:09:14.000Z",
-   "desc": "Het initiatief moet bijdragen aan minder Europese afhankelijkheid van Amerikaanse chipkennis en -technologie.",
-   "cats": [
-    "Markt en Overheid",
-    "Innovatie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "'Ik kan wel met een rode kaart gaan zwaaien, maar zo verander je niets'",
-   "link": "https://ibestuur.nl/overheid-in-transitie/dienstverlening/met-een-rode-kaart-verander-je-niets",
-   "date": "2026-09-22T12:46:10.000Z",
-   "desc": "Sofie Bustraan Bustraan bedacht het Openbaarheidscentrum Amsterdam. Voor haar gaat openbaarheid over ‘bereikbaar zijn voor mensen’.",
-   "cats": [
-    "Overheid in Transitie",
-    "Dienstverlening"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
    "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
@@ -1814,6 +1814,28 @@
     "Algoritmeregister",
     "nieuwsbrief-18-2026",
     "onderzoek"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Hoogleraar legt kwetsbaarheid van digitale gebouwinstallaties bloot",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/kwetsbaarheid-digitale-gebouwinstallaties-blootgelegd",
+   "date": "2026-11-11T15:00:00.000Z",
+   "desc": "Een klimaatinstallatie van een basisschool die met standaardinloggegevens toegankelijk is en een koelinstallatie van een supermarkt die onbeveiligd aan het internet hangt. Hoogleraar informatica Chris Verhoef laat in twee blogs bij AG Connect zien hoe kwetsbaar de digitale aansturing van gebouwen kan zijn. Hij waarschuwt dat hackers niet alleen temperaturen kunnen manipuleren, maar in het ergste g",
+   "cats": [
+    "digitaal",
+    "cyberveiligheid"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Utrecht onderzoekt verbod op gluurbrillen, VNG zag eerder geen noodzaak",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/utrecht-onderzoekt-verbod-op-gluurbrillen",
+   "date": "2026-11-11T13:00:00.000Z",
+   "desc": "De gemeente Utrecht onderzoekt of slimme brillen met ingebouwde camera's kunnen worden verboden in gemeentelijke gebouwen. Ook bekijkt de gemeente of heimelijk filmen via de Algemene Plaatselijke Verordening (APV) aan banden kan worden gelegd. Daarmee kiest Utrecht voor een actievere aanpak dan de Vereniging van Nederlandse Gemeenten (VNG), die eerder nog geen noodzaak zag voor specifieke regels.",
+   "cats": [
+    "digitaal",
+    "ethiek"
    ]
   },
   {
@@ -2281,6 +2303,21 @@
    ]
   },
   {
+   "source": "Computable",
+   "title": "Belastingdienst blijft privacywetgeving schenden",
+   "link": "https://www.computable.nl/2026/11/11/belastingdienst-blijft-privacywetgeving-schenden/",
+   "date": "2026-11-11T15:45:00.000Z",
+   "desc": "De Belastingdienst houdt zich op veel belangrijke terreinen nog niet aan de privacywetgeving. Ondanks herhaaldelijke waarschuwingen van de Autoriteit Persoonsgegevens (AP) die hebben geleid tot continu verscherpt toezicht, gaat er nog veel mis. Op liefst tien van de twaalf belangrijkste onderwerpen",
+   "cats": [
+    "Overheid",
+    "IT Governance",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "data",
+    "Privacy"
+   ]
+  },
+  {
    "source": "AG Connect",
    "title": "Stammenstrijd tussen gemeenten bedreigt digitale onafhankelijkheid",
    "link": "https://www.agconnect.nl/maatschappij/overheid/stammenstrijd-bedreigt-digitale-onafhankelijkheid",
@@ -2400,6 +2437,30 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheid in GitLab Community- en Enterprise Edition met risico op crash",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-gitlab-community-en-enterprise-edition-met-risico-op-crash",
+   "date": "2026-11-11T15:07:36.000Z",
+   "desc": "Er is een kwetsbaarheid gevonden in GitLab Community Edition (CE) en Enterprise Edition (EE). Deze kwetsbaarheid kan ervoor zorgen dat de software crasht tijdens bepaalde bewerkingen. De kans op misbruik is gemiddeld en de mogelijke schade wordt als hoog beoordeeld. Het advies is om de beveiligingsupdates zo snel mogelijk te installeren.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in Adobe Photoshop Desktop",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-adobe-photoshop-desktop",
+   "date": "2026-11-11T15:05:39.000Z",
+   "desc": "Er zijn meerdere kwetsbaarheden gevonden in Adobe Photoshop. Deze kwetsbaarheden zijn beoordeeld met een gemiddelde kans op misbruik en hoge mate van mogelijke schade. Het Nationaal Cyber Security Centrum (NCSC) adviseert om de beschikbare beveiligingsupdates zo snel mogelijk te installeren om risicos te beperken.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Ernstige kwetsbaarheden in Microsoft Office",
+   "link": "https://www.ncsc.nl/alerts/ernstige-kwetsbaarheden-in-microsoft-office",
+   "date": "2026-11-11T12:31:21.000Z",
+   "desc": "Er zijn meerdere ernstige kwetsbaarheden gevonden in Microsoft Office, met name in SharePoint, waarin drie kwetsbaarheden zitten met een CVSS-score van 9.0 en hoger. De kans op misbruik is gemiddeld, maar de mogelijke gevolgen zijn groot. Het advies is om de beschikbare beveiligingsupdates van Microsoft Office zo snel mogelijk te installeren.",
+   "cats": []
   },
   {
    "source": "NCSC",
