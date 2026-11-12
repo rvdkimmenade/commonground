@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:36:22.056Z",
+ "updated": "2026-11-12T21:22:29.537Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -1677,7 +1677,7 @@
    "title": "Steun voor EU KIDS Act, met extra aandacht voor privacy",
    "link": "https://www.digitaleoverheid.nl/nieuws/ssteun-voor-eu-kids-act-met-extra-aandacht-voor-privacy/",
    "date": "2026-11-09T09:01:35.000Z",
-   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet vraagt daarbij extra aandacht voor grondrechten en privacy.",
+   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet is positief en vraagt daarbij extra aandacht voor grondrechten en privacy.",
    "cats": [
     "Nieuws",
     "EU KIDS Act",
@@ -2158,17 +2158,6 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Kabinet bereidt mogelijke inperking Woo voor, ondanks lopende evaluatie",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/kabinet-bereidt-mogelijke-inperking-woo-voor",
-   "date": "2026-10-27T10:31:00.000Z",
-   "desc": "Het kabinet begint met de voorbereiding van wetswijzigingen om de Wet open overheid (Woo) goedkoper en eenvoudiger uitvoerbaar te maken. Dat gebeurt terwijl de officiële evaluatie van de wet nog loopt. Tijdens de kabinetsformatie werden al verschillende mogelijkheden genoemd om de toegang tot overheidsinformatie te beperken, waaronder het uitzonderen van interne e-mails en ambtelijke adviezen.",
-   "cats": [
-    "digitaal",
-    "open overheid"
-   ]
-  },
-  {
    "source": "Gemeente.nu",
    "title": "Brabantse gemeenten worstelen met Omgevingswet-instrumenten",
    "link": "https://www.gemeente.nu/ruimte-milieu/omgevingswet/brabantse-gemeenten-worstelen-met-omgevingswet-instrumenten/",
@@ -2456,6 +2445,22 @@
   },
   {
    "source": "NCSC",
+   "title": "Kwetsbaarheid in Apache HTTP Server-modules mod_http2 en mod_h2",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-apache-http-server-modhttp2-en-modh2",
+   "date": "2026-11-12T14:22:36.000Z",
+   "desc": "Er is een ernstige kwetsbaarheid gevonden in Apache HTTP Server, specifiek in de modules mod_http2 en mod_h2. Deze kwetsbaarheid heeft het nummer CVE-2026-119618 en een CVSS-score van 9.8. De kans op misbruik is gemiddeld, maar de mogelijke schade is groot. Het advies is om de beschikbare updates van Apache te installeren.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in Barracuda Email Security Gateway en andere producten: update nu",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-barracuda-email-security-gateway-en-andere-producten-update-nu",
+   "date": "2026-11-12T14:13:14.000Z",
+   "desc": "Er zijn 2 kwetsbaarheden gevonden in verschillende Barracuda-producten, waaronder de Email Security Gateway. Deze kwetsbaarheden hebben de kenmerken CVE-2026-116606 met een risicoscore van 9.3 en CVE-2026-111560 met een risicoscore van 8.6. De kans op misbruik is middelgroot en de mogelijke schade wordt als hoog beoordeeld.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
    "title": "Kwetsbaarheid in GitLab Community- en Enterprise Edition met risico op crash",
    "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-gitlab-community-en-enterprise-edition-met-risico-op-crash",
    "date": "2026-11-12T09:30:00.000Z",
@@ -2532,14 +2537,6 @@
    "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-wordpress-core-met-actief-misbruik-update-nu",
    "date": "2026-11-04T13:52:27.000Z",
    "desc": "Er is een kwetsbaarheid gevonden in WordPress Core, met het nummer CVE-2026-119977 en een risicoscore van 8.1. Deze kwetsbaarheid zit in WordPress versies 4.7 tot en met 7.1.3. Het Nationaal Cyber Security Centrum (NCSC) beoordeelt de kans op misbruik als laag, maar de mogelijke schade als hoog. Er is bekend dat deze kwetsbaarheid al actief wordt misbruikt, daarom is het belangrijk om snel een upd",
-   "cats": []
-  },
-  {
-   "source": "NCSC",
-   "title": "Kwetsbaarheden in Barracuda Email Security Gateway en andere producten: update nu",
-   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-barracuda-email-security-gateway-en-andere-producten-update-nu",
-   "date": "2026-11-04T13:49:20.000Z",
-   "desc": "Er zijn 2 kwetsbaarheden gevonden in verschillende Barracuda-producten, waaronder de Email Security Gateway. Deze kwetsbaarheden hebben de kenmerken CVE-2026-116606 met een risicoscore van 9.3 en CVE-2026-111560 met een risicoscore van 8.6. De kans op misbruik is middelgroot en de mogelijke schade wordt als hoog beoordeeld.",
    "cats": []
   },
   {
