@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:07:54.469Z",
+ "updated": "2026-11-12T13:36:22.056Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,50 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Suzie Kewal: ‘Kijk naar de fundamentele vragen achter de AI-technologie’",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/suzie-kewal-kijk-naar-de-fundamentele-vragen-achter-de-ai",
+   "date": "2026-11-12T10:33:02.000Z",
+   "desc": "Derde conferentie AI & Overheid zet bewustwording en samenwerking tussen overheid, wetenschap en bedrijven in de schijnwerpers.",
+   "cats": [
+    "Data en AI",
+    "Ethiek"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Hoogleraar legt kwetsbaarheid van digitale gebouwinstallaties bloot",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/kwetsbaarheid-digitale-gebouwinstallaties-blootgelegd",
+   "date": "2026-11-12T09:09:08.000Z",
+   "desc": "Een aanvaller kan beveiligingsmechanismen uitschakelen en een verwarming zo ver opvoeren dat er brand ontstaat in een ketelhuis.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "‘Het mag niet van de AVG’: privacybescherming of bestuurlijke smoes?",
+   "link": "https://ibestuur.nl/data-en-ai/datagedreven-werken/het-mag-niet-van-de-avg",
+   "date": "2026-11-12T09:00:00.000Z",
+   "desc": "De overheid maak zich hard voor proactieve dienstverlening. Waarom is gegevens delen daarvoor zo moeilijk?",
+   "cats": [
+    "Data en AI",
+    "Datagedreven werken"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Cyberdreiging neemt volgens NCTV toe, minister houdt vast aan bestaande aanpak",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/minister-houdt-vast-aan-bestaande-aanpak-cyberdreiging",
+   "date": "2026-11-12T08:48:44.000Z",
+   "desc": "Na aandringen is minister Herbert bereid om in gesprek te gaan met bedrijven over hun cyberweerbaarheid en zo de urgentie over te brengen.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "De AI-rekening komt binnen. En het onderwijs betaalt.",
@@ -1617,50 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "'Bestuurder, neem je verantwoordelijkheid voor cybersecurity!'",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/bestuurder-neem-je-verantwoordelijkheid-voor-cybersecurity",
-   "date": "2026-09-24T09:53:04.000Z",
-   "desc": "Inlichtingen- en Veiligheidsdiensten en CIO Rijk waarschuwen in gezamenlijk statement voor de dreiging van cyberaanvallen.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Digitalisering moet helpen woningbouw te versnellen",
-   "link": "https://ibestuur.nl/overheid-in-transitie/standaardisering/digitalisering-moet-helpen-woningbouw-te-versnellen",
-   "date": "2026-09-24T08:48:33.000Z",
-   "desc": "IT moet de vertraging in ontwerp-, plan- en vergunningprocessen helpen terugdringen.",
-   "cats": [
-    "Overheid in Transitie",
-    "Standaardisering"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Een algoritmeregister vul je niet met beleid",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/een-algoritmeregister-vul-je-niet-met-beleid",
-   "date": "2026-09-24T07:33:52.000Z",
-   "desc": "Nieuwe onderzoek laat zien dat de organisatiecultuur de bepalende factor is of gemeenten daadwerkelijk inzicht geven in hun algoritmes.",
-   "cats": [
-    "Data en AI",
-    "Ethiek"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "EU werkt aan duurzaamheidslabels voor datacenters",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/eu-werkt-aan-duurzaamheidslabels-voor-datacenters",
-   "date": "2026-09-23T11:30:01.000Z",
-   "desc": "Grote datacenters worden verplicht te rapporteren over hun energie- en waterverbruik en de bijdrage aan een duurzamer elektriciteitssysteem.",
-   "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
    "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
@@ -1814,6 +1814,28 @@
     "Algoritmeregister",
     "nieuwsbrief-18-2026",
     "onderzoek"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Den Haag wil in 2035 volledig overgestapt zijn op open source",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/den-haag-wil-in-2035-overgestapt-zijn-op-open-source",
+   "date": "2026-11-12T12:00:00.000Z",
+   "desc": "Gemeente Den Haag wil uiterlijk in 2035 volledig zijn overgestapt op opensourcesoftware. Een nieuwe strategie moet de weg vrijmaken voor een gefaseerde overgang naar opensource waarbij de afhankelijkheid van Microsoft en Oracle wordt teruggedrongen.",
+   "cats": [
+    "digitaal",
+    "autonomie"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Cyberdreiging neemt volgens NCTV toe, minister houdt vast aan aanpak",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/minister-houdt-vast-aan-bestaande-aanpak-cyberdreiging",
+   "date": "2026-11-12T10:20:10.000Z",
+   "desc": "Waar andere Kamerleden het vooral over strategische autonomie, de bescherming van de defensie-industrie en mkb-bedrijven, kritieke grondstoffen en elektrische bussen uit China hadden, stelde D66-Kamerlid Ouafa Oualhadj de cyberweerbaarheid van het bedrijfsleven centraal.",
+   "cats": [
+    "digitaal",
+    "cyberveiligheid"
    ]
   },
   {
@@ -2147,36 +2169,28 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Meer ondersteuning nodig bij invulling Algoritmeregister",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/meer-ondersteuning-nodig-bij-invulling-algoritmeregister",
-   "date": "2026-10-26T16:00:00.000Z",
-   "desc": "Het Algoritmeregister, waarin overheden hun algoritmes inzichtelijk maken, bestaat inmiddels ruim drie jaar. Met enige regelmaat verschijnt er een update van de hoeveelheid opgenomen algoritmes en het aantal deelnemers aan het register. Maar hoe staat het eigenlijk met de inhoud? Tijd voor een evaluatie, dachten ze bij CIO Rijk.",
+   "source": "Gemeente.nu",
+   "title": "Brabantse gemeenten worstelen met Omgevingswet-instrumenten",
+   "link": "https://www.gemeente.nu/ruimte-milieu/omgevingswet/brabantse-gemeenten-worstelen-met-omgevingswet-instrumenten/",
+   "date": "2026-11-12T07:40:55.000Z",
+   "desc": "Gemeenten passen dan wel gestaag het instrumentarium van de Omgevingswet toe. Brabantse gemeenten laten zien dat er in de complexe fase van beleidskeuzes en de juridische doorvertaling nog maar weinig progressie zit.",
    "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
+    "Omgevingswet",
+    "brabant",
+    "omgevingsdienst"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Bijna helft onderzochte PHP-applicaties draait op verouderde of getroffen versie",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/tienduizenden-php-applicaties-draaien-op-getroffen-versie",
-   "date": "2026-10-26T14:00:00.000Z",
-   "desc": "Tienduizenden webapplicaties die door medewerkers van Nederlandse organisaties worden gebruikt, draaien nog altijd op een verouderde of door recente beveiligingslekken getroffen versie van PHP. Dat blijkt uit onderzoek van cybersecuritybedrijf MindYourPass, twee dagen nadat kritieke kwetsbaarheden in de programmeertaal ertoe leidden dat tal van overheidswebsites tijdelijk offline gingen.",
+   "source": "Gemeente.nu",
+   "title": "Nieuwe wet moet langdurig schoolverzuim terugdringen",
+   "link": "https://www.gemeente.nu/sociaal/onderwijs/nieuwe-wet-moet-langdurig-schoolverzuim-terugdringen/",
+   "date": "2026-11-12T06:04:00.000Z",
+   "desc": "De wet Terugdringen Schoolverzuim is aangenomen door de Eerste Kamer. Scholen, gemeenten en andere betrokkenen zijn nu samen aan zet om uitval te voorkomen en kinderen weer naar school te laten gaan. ‘Verbetering is hard nodig’, aldus staatssecretaris Tielen van Onderwijs en Participatie. Scholen kunnen onder de nieuwe wet van Tielen aan de slag om ... lees verder",
    "cats": [
-    "digitaal",
-    "cyberveiligheid"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Staatssecretaris Eric van der Burg: ‘Eerst investeren, dan kan de overheid besparen’",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/eric-van-der-burg-eerst-investeren-dan-besparen",
-   "date": "2026-10-26T13:47:40.000Z",
-   "desc": "Je kunt veel zeggen van staatssecretaris Eric van der Burg (Koninkrijksrelaties en Slagvaardige Overheid, VVD), maar niet dat hij vaak voor de makkelijkste weg kiest. Na de Spreidingswet buigt hij zich tegenwoordig over de slagvaardige overheid, waarbij slagvaardigheid neerkomt op meer doen met minder mensen, minder inhuur en minder geld. ‘Geef mij maar weer zo’n klus die niemand hebben wil’, zei ",
-   "cats": [
-    "digitaal",
-    "IT-personeel"
+    "Onderwijs",
+    "Sociaal",
+    "schoolverzuim",
+    "wet Terugdringen Schoolverzuim"
    ]
   },
   {
@@ -2278,28 +2292,41 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Einde aan dakloosheid in 2030 niet meer haalbaar",
-   "link": "https://www.gemeente.nu/sociaal/einde-aan-dakloosheid-in-2030-niet-meer-haalbaar/",
-   "date": "2026-11-09T08:13:10.000Z",
-   "desc": "Het kabinet verwacht niet langer dat dakloosheid in Nederland in 2030 kan worden beëindigd. De ambitie blijft wel overeind en het kabinet wil de stijgende trend keren door sneller passende woonplekken beschikbaar te krijgen en gemeenten intensiever te ondersteunen bij de beweging van opvang naar wonen. Nederland gaf met het Nationaal Actieplan Dakloosheid: Eerst een ... lees verder",
+   "source": "Computable",
+   "title": "Tweede Kamer wil actie en daadkracht bij digitale autonomie",
+   "link": "https://www.computable.nl/2026/11/12/tweede-kamer-wil-actie-en-daadkracht-bij-digitale-autonomie/",
+   "date": "2026-11-12T06:15:00.000Z",
+   "desc": "Veel mooie woorden, goede bedoelingen en een stroom aan rapporten en Kamerbrieven. Zo kenmerkt zich het Nederlandse digitaliseringsbeleid. Het begint de Tweede Kamer steeds meer te ergeren dat dit kabinet, maar ook het vorige kabinet en het kabinet daarvoor, verzuimt echte actie te ondernemen.",
    "cats": [
-    "Sociaal",
-    "dakloos",
-    "dakloosheid",
-    "Nationaal Actieplan Dakloosheid"
+    "Overheid",
+    "IT Governance",
+    "IT Governance & Control",
+    "IT Strategy",
+    "IT Strategy & Governance",
+    "IT Strategy & Transformation",
+    "Soevereiniteit",
+    "autonomie",
+    "Legacy",
+    "Projectmanagement",
+    "soevereiniteit",
+    "weerbaarheid"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Ouders krijgen gelijkwaardige positie bij keuze achternaam kind",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/burgerzaken/ouders-krijgen-gelijkwaardige-positie-bij-keuze-achternaam-kind/",
-   "date": "2026-11-06T16:46:36.000Z",
-   "desc": "Het kabinet wil de regels voor de achternaam van kinderen veranderen. Als ouders geen gezamenlijke keuze maken, krijgt een kind voortaan niet automatisch de naam van één van de ouders, maar een gecombineerde achternaam in alfabetische volgorde. Het wetsvoorstel moet ouders een gelijkwaardigere positie geven en de keuze voor een achternaam eenvoudiger maken.",
+   "source": "Computable",
+   "title": "Sharedservicecenters leveren zelden efficiencywinst op",
+   "link": "https://www.computable.nl/2026/11/12/sharedservicecenters-leveren-zelden-efficiencywinst-op/",
+   "date": "2026-11-12T06:00:00.000Z",
+   "desc": "Sharedservicecenters (SSC’s) bij bedrijven en overheidsorganisaties leveren in de praktijk vaak niet de beloofde efficiency- en kwaliteitswinst op. Sterker nog, ze kunnen organisaties juist duurder en bureaucratischer maken.",
    "cats": [
-    "Burgerzaken",
-    "achternaam",
-    "burgerzaken"
+    "Overheid",
+    "IT Strategy",
+    "IT Strategy & Governance",
+    "IT Strategy & Transformation",
+    "Leadership & organisation",
+    "Networking & Connectivity",
+    "gemeente",
+    "Shared Service Centers"
    ]
   },
   {
@@ -2428,21 +2455,10 @@
    ]
   },
   {
-   "source": "AG Connect",
-   "title": "Gemeenten betaalden vorig jaar €185 miljoen voor Microsoftproducten",
-   "link": "https://www.agconnect.nl/maatschappij/overheid/gemeenten-betaalden-euro185-miljoen-voor-microsoftproducten",
-   "date": "2026-09-29T09:24:25.000Z",
-   "desc": "Hoewel het kabinet al jarenlang pleit voor meer soevereiniteit, was niet bekend hoeveel er precies werd uitgegeven aan Microsoft.",
-   "cats": [
-    "Maatschappij",
-    "Overheid"
-   ]
-  },
-  {
    "source": "NCSC",
    "title": "Kwetsbaarheid in GitLab Community- en Enterprise Edition met risico op crash",
    "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-gitlab-community-en-enterprise-edition-met-risico-op-crash",
-   "date": "2026-11-11T15:07:36.000Z",
+   "date": "2026-11-12T09:30:00.000Z",
    "desc": "Er is een kwetsbaarheid gevonden in GitLab Community Edition (CE) en Enterprise Edition (EE). Deze kwetsbaarheid kan ervoor zorgen dat de software crasht tijdens bepaalde bewerkingen. De kans op misbruik is gemiddeld en de mogelijke schade wordt als hoog beoordeeld. Het advies is om de beveiligingsupdates zo snel mogelijk te installeren.",
    "cats": []
   },
