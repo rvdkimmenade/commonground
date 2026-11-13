@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:22:29.537Z",
+ "updated": "2026-11-13T12:55:18.432Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,28 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Wereldwijde storing bij Microsoft: ‘Stappen we dan nu af van digitale monocultuur?’",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/wereldwijde-storing-bij-microsoft",
+   "date": "2026-11-13T10:30:37.000Z",
+   "desc": "Een grote storing in Microsoft 365-diensten doet de roep om meer digitale onafhankelijkheid oplaaien.",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Gemeenten, stap net als Den Haag over op open source",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/gemeenten-stap-net-als-den-haag-over-op-open-source",
+   "date": "2026-11-13T08:53:09.000Z",
+   "desc": "Voor nerds is het belang van open source evident, maar politiek staat het nog nauwelijks op de agenda, terwijl er veel te halen valt",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Suzie Kewal: ‘Kijk naar de fundamentele vragen achter de AI-technologie’",
@@ -1639,28 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "‘Het lijkt wel of de overheid de strijd met toegankelijkheid opgeeft’",
-   "link": "https://ibestuur.nl/digitalisering-en-democratie/digitale-inclusie/het-lijkt-wel-of-de-overheid-de-strijd-opgeeft",
-   "date": "2026-09-24T12:17:53.000Z",
-   "desc": "Toezeggingen over centraal toezicht zijn nog altijd niet waargemaakt, intussen lukt het andere sectoren wél.",
-   "cats": [
-    "Digitalisering en Democratie",
-    "Digitale inclusie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Nieuw platform om vragen aan Kamerleden te stellen",
-   "link": "https://ibestuur.nl/digitalisering-en-democratie/burgerparticipatie/nieuw-platform-om-vragen-aan-kamerleden-te-stellen",
-   "date": "2026-09-24T11:57:27.000Z",
-   "desc": "Open State Foundation lanceert platform ‘VraagHetZe’ om de afstand tussen burgers en politiek te verkleinen.",
-   "cats": [
-    "Digitalisering en Democratie",
-    "Burgerparticipatie"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
    "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
@@ -1814,6 +1814,28 @@
     "Algoritmeregister",
     "nieuwsbrief-18-2026",
     "onderzoek"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Wereldwijde storing bij Microsoft: ‘Stappen we dan nu af van digitale monocultuur?’",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/wereldwijde-storing-bij-microsoft",
+   "date": "2026-11-13T10:41:58.000Z",
+   "desc": "Een storing in Microsoft 365 zorgt wereldwijd voor problemen. Onder meer e-maildienst Outlook en vergaderapp Teams werken niet naar behoren. Het is koren op de molen van pleitbezorgers van digitale diversiteit.",
+   "cats": [
+    "digitaal",
+    "autonomie"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Gemeenten, stap net als Den Haag over op open source",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/gemeenten-stap-net-als-den-haag-over-op-open-source",
+   "date": "2026-11-13T08:00:00.000Z",
+   "desc": "De rijksoverheid werkt al jaren volgens het principe ‘open source, tenzij’. In de rest van het huis van Thorbecke is die werkwijze nog nauwelijks ingedaald en in de praktijk zitten veel organisaties vast in de licentiehoudgreep van techreuzen. In de gemeente Den Haag gaat via de mantelovereenkomst met Software One 24 miljoen euro naar partijen als Microsoft en Oracle. Met de inkoop van andere geli",
+   "cats": [
+    "digitaal",
+    "autonomie"
    ]
   },
   {
@@ -2159,6 +2181,16 @@
   },
   {
    "source": "Gemeente.nu",
+   "title": "Begeleiding op de B1-route: bespreek de voortgang per examenonderdeel",
+   "link": "https://www.gemeente.nu/sociaal/begeleiding-op-de-b1-route-bespreek-de-voortgang-per-examenonderdeel/",
+   "date": "2026-11-13T05:41:00.000Z",
+   "desc": "Begeleid de B1-route onder de Wet inburgering 2021 vanuit het persoonlijk plan inburgering en participatie (PIP). Bespreek met de inburgeraar en de taalschool gemaakte opdrachten per examenonderdeel. Controleer de examenonderdelen in het PIP en de termijn bij DUO Na de brede intake legt de gemeente de leerroute en begeleiding vast in het PIP. Die intake ... lees verder",
+   "cats": [
+    "Sociaal"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
    "title": "Brabantse gemeenten worstelen met Omgevingswet-instrumenten",
    "link": "https://www.gemeente.nu/ruimte-milieu/omgevingswet/brabantse-gemeenten-worstelen-met-omgevingswet-instrumenten/",
    "date": "2026-11-12T07:40:55.000Z",
@@ -2268,16 +2300,15 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Nieuwe beleidsagenda moet inzet energieopslag versnellen",
-   "link": "https://www.gemeente.nu/ruimte-milieu/energie/nieuwe-beleidsagenda-moet-inzet-energieopslag-versnellen/",
-   "date": "2026-11-09T10:11:31.000Z",
-   "desc": "Het Rijk, netbeheerders, marktpartijen en decentrale overheden willen de ontwikkeling van energieopslag versnellen. De nieuwe Beleidsagenda Energieopslag bevat maatregelen voor onder meer netcongestie, vergunningverlening en ruimtelijke inpassing van batterijen.",
+   "source": "Computable",
+   "title": "Bedrijven moeten hr-systemen al inrichten op transparantie",
+   "link": "https://www.computable.nl/2026/11/12/bedrijven-moeten-hr-systemen-al-inrichten-op-transparantie/",
+   "date": "2026-11-12T16:00:00.000Z",
+   "desc": "Veel grote bedrijven zijn klaar voor de nieuwe Wet loontransparantie, zegt Floris Visser, arbeidsrechtjurist bij NLdigital, de Nederlandse branchevereniging voor de digitale sector. Mkb’ers hebben volgens hem nog wel wat werk te verzetten. ‘Maar iedereen is ermee bezig.’",
    "cats": [
-    "Energie",
-    "energie",
-    "energieopslag",
-    "netcongestie"
+    "Carrière",
+    "Overheid",
+    "salaris"
    ]
   },
   {
@@ -2316,21 +2347,6 @@
     "Networking & Connectivity",
     "gemeente",
     "Shared Service Centers"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Belastingdienst blijft privacywetgeving schenden",
-   "link": "https://www.computable.nl/2026/11/11/belastingdienst-blijft-privacywetgeving-schenden/",
-   "date": "2026-11-11T15:45:00.000Z",
-   "desc": "De Belastingdienst houdt zich op veel belangrijke terreinen nog niet aan de privacywetgeving. Ondanks herhaaldelijke waarschuwingen van de Autoriteit Persoonsgegevens (AP) die hebben geleid tot continu verscherpt toezicht, gaat er nog veel mis. Op liefst tien van de twaalf belangrijkste onderwerpen",
-   "cats": [
-    "Overheid",
-    "IT Governance",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "data",
-    "Privacy"
    ]
   },
   {
