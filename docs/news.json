@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:55:18.432Z",
+ "updated": "2026-11-13T20:47:59.132Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -1662,6 +1662,20 @@
   },
   {
    "source": "Digitale Overheid",
+   "title": "Handreiking 'Digitaal overbrengen' aangevuld",
+   "link": "https://www.digitaleoverheid.nl/nieuws/handreiking-digitaal-overbrengen-in-de-praktijk-aangevuld/",
+   "date": "2026-11-13T13:47:48.000Z",
+   "desc": "De handreiking 'Digitaal overbrengen in de praktijk' geeft je handvatten bij het digitaal overbrengen van overheidsinformatie. Afgestemd op de vernieuwde Archiefwet.",
+   "cats": [
+    "Nieuws",
+    "Archiefwet",
+    "archiefwet 2026",
+    "informatiehuishouding",
+    "nationaal archief"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
    "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
    "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
    "date": "2026-11-10T07:43:08.000Z",
@@ -1798,22 +1812,6 @@
     "noodsituaties",
     "rijksambtenaren",
     "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe inzichten over het Algoritmekader en -register",
-   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-inzichten-over-het-algoritmekader-en-register/",
-   "date": "2026-10-23T07:04:04.000Z",
-   "desc": "Hoe werken het Algoritmekader en het Algoritmeregister in de praktijk? Onderzoeksrapporten van de Auditdienst Rijk tonen wat goed gaat en waar verbeterpunten liggen.",
-   "cats": [
-    "Nieuws",
-    "ADR",
-    "algoritmekader",
-    "algoritmen",
-    "Algoritmeregister",
-    "nieuwsbrief-18-2026",
-    "onderzoek"
    ]
   },
   {
@@ -2158,28 +2156,6 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Nieuwe handreiking moet gemeenten helpen AI-toepassingen op te schalen",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/handreiking-moet-gemeenten-helpen-met-ai-toepassingen",
-   "date": "2026-10-28T12:00:00.000Z",
-   "desc": "Gemeenten en andere overheden moeten succesvolle AI-toepassingen gemakkelijker gezamenlijk kunnen inzetten. Een&nbsp;nieuwe handreiking&nbsp;moet voorkomen dat iedere overheidsorganisatie opnieuw het wiel moet uitvinden. Het document biedt een stappenplan voor het opschalen van AI-toepassingen en beschrijft welke belemmeringen daarbij komen kijken.",
-   "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Gemeenten blokkeren ChatGPT zonder dat zelf te weten",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/gemeenten-blokkeren-chatgpt-zonder-dat-zelf-te-weten",
-   "date": "2026-10-28T09:08:23.000Z",
-   "desc": "Tientallen Nederlandse gemeenten hebben AI-assistenten als ChatGPT en Perplexity onbedoeld de toegang tot hun websites ontzegd. Dat blijkt uit onderzoek van AI-Checker.nl onder alle 342 gemeenten. De blokkades waren veelal het gevolg van beveiligingsinstellingen bij websiteleveranciers, zonder dat gemeenten zich daarvan bewust waren.",
-   "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
-   ]
-  },
-  {
    "source": "Gemeente.nu",
    "title": "Begeleiding op de B1-route: bespreek de voortgang per examenonderdeel",
    "link": "https://www.gemeente.nu/sociaal/begeleiding-op-de-b1-route-bespreek-de-voortgang-per-examenonderdeel/",
@@ -2301,6 +2277,23 @@
   },
   {
    "source": "Computable",
+   "title": "China moet stoppen met frustreren van Nexperia Nijmegen",
+   "link": "https://www.computable.nl/2026/11/13/china-moet-stoppen-met-frustreren-van-nexperia-nijmegen/",
+   "date": "2026-11-13T17:00:00.000Z",
+   "desc": "De bij Nexperia geschorste bestuurder Zhang Xuezheng (alias mr. Wing), zijn bedrijf Wingtech en de afvallige dochter Nexperia China mogen de leiding van de chipmaker met hoofdkantoor in Nijmegen niet meer frustreren. Dat heeft de Ondernemingskamer geoordeeld.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "China",
+    "Chips",
+    "Ondernemingskamer",
+    "Rechtszaak"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Bedrijven moeten hr-systemen al inrichten op transparantie",
    "link": "https://www.computable.nl/2026/11/12/bedrijven-moeten-hr-systemen-al-inrichten-op-transparantie/",
    "date": "2026-11-12T16:00:00.000Z",
@@ -2309,44 +2302,6 @@
     "Carrière",
     "Overheid",
     "salaris"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Tweede Kamer wil actie en daadkracht bij digitale autonomie",
-   "link": "https://www.computable.nl/2026/11/12/tweede-kamer-wil-actie-en-daadkracht-bij-digitale-autonomie/",
-   "date": "2026-11-12T06:15:00.000Z",
-   "desc": "Veel mooie woorden, goede bedoelingen en een stroom aan rapporten en Kamerbrieven. Zo kenmerkt zich het Nederlandse digitaliseringsbeleid. Het begint de Tweede Kamer steeds meer te ergeren dat dit kabinet, maar ook het vorige kabinet en het kabinet daarvoor, verzuimt echte actie te ondernemen.",
-   "cats": [
-    "Overheid",
-    "IT Governance",
-    "IT Governance & Control",
-    "IT Strategy",
-    "IT Strategy & Governance",
-    "IT Strategy & Transformation",
-    "Soevereiniteit",
-    "autonomie",
-    "Legacy",
-    "Projectmanagement",
-    "soevereiniteit",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Sharedservicecenters leveren zelden efficiencywinst op",
-   "link": "https://www.computable.nl/2026/11/12/sharedservicecenters-leveren-zelden-efficiencywinst-op/",
-   "date": "2026-11-12T06:00:00.000Z",
-   "desc": "Sharedservicecenters (SSC’s) bij bedrijven en overheidsorganisaties leveren in de praktijk vaak niet de beloofde efficiency- en kwaliteitswinst op. Sterker nog, ze kunnen organisaties juist duurder en bureaucratischer maken.",
-   "cats": [
-    "Overheid",
-    "IT Strategy",
-    "IT Strategy & Governance",
-    "IT Strategy & Transformation",
-    "Leadership & organisation",
-    "Networking & Connectivity",
-    "gemeente",
-    "Shared Service Centers"
    ]
   },
   {
@@ -2458,6 +2413,22 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "In het nieuws: storing Microsoft Exchange Online",
+   "link": "https://www.ncsc.nl/nieuws/in-het-nieuws-storing-microsoft-exchange-online",
+   "date": "2026-11-13T14:55:33.000Z",
+   "desc": "Sinds de namiddag van 12 november 2026 zijn wereldwijd storingen bij een groot aantal diensten van Microsoft. Microsoft geeft op hun Service Health Status pagina een overzicht van alle getroffen diensten en benadrukt dat het geen aanwijzingen heeft te veronderstellen dat de storingen door een hack zijn veroorzaakt. Het NCSC staat in contact met Microsoft en wordt op de hoogte gehouden.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in Zoom Workplace voor Windows: update nu",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-zoom-workplace-voor-windows-update-nu",
+   "date": "2026-11-13T14:49:01.000Z",
+   "desc": "Er zijn twee kwetsbaarheden gevonden in Zoom Workplace voor Windows met CVE-nummers CVE-2026-108186 (CVSS-score van 9,6) en CVE-2026-108187 (CVSS-score van 8,1). De kans op misbruik wordt beoordeeld op ‘medium’ en de kans op schade als ‘hoog.’ Het NCSC beoordeelt deze kwetsbaarheden als ernstig omdat een aanvaller zonder account verhoogde rechten kan krijgen. Het advies is om de beschikbare update",
+   "cats": []
   },
   {
    "source": "NCSC",
