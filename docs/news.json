@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:26:41.826Z",
+ "updated": "2026-11-16T23:15:51.215Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,28 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "‘Door transparant te zijn investeer je in betrouwbaarheid’",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/door-transparant-te-zijn-investeer-je-in-betrouwbaarheid",
+   "date": "2026-11-16T14:59:02.000Z",
+   "desc": "Burgemeester Michiel Grauss, wethouder Remco Tijssen en griffier Hans Rijs zien openheid als een investering in vertrouwen.",
+   "cats": [
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Informatieafhankelijkheid kost publieke sector 28 tot 52 miljard per jaar, schat Martijn Aslander",
+   "link": "https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/informatieafhankelijkheid-kost-overheid-28-52-miljard",
+   "date": "2026-11-16T14:13:50.000Z",
+   "desc": "Nederland heeft een eigendomsprobleem. Organisaties kunnen hun eigen informatie niet meer vrij opslaan, doorzoeken, exporteren of koppelen.",
+   "cats": [
+    "Overheid in Transitie",
+    "Management en bedrijfsvoering"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Digitale weerbaarheid vraagt om centralisatie, maar hoe doe je dat in een polderland?",
@@ -1639,28 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Privacyclaimstichting gaat Europees verder als Data Justice Europe",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/europese-politiek-en-beleid/privacyclaimstichting-gaat-verder-als-data-justice-europe",
-   "date": "2026-09-28T12:23:23.000Z",
-   "desc": "'Big tech opereert niet per land, dus wij ook niet meer. Vanaf nu kunnen wij namens Europeanen procederen', aldus voorzitter Anouk Ruhaak.",
-   "cats": [
-    "Digitale Toekomst EU",
-    "Europese politiek en beleid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Cyberburgemeesters willen boter bij de vis zien",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/cyberburgemeesters-willen-boter-bij-de-vis-zien",
-   "date": "2026-09-28T10:00:00.000Z",
-   "desc": "Vier jaar geleden sloten het Rijk en de gemeenten een convenant over digitale veiligheid. Concrete afspraken zijn er nog steeds niet.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "1 digitale overheid? Alleen als we onze deskundigheid delen",
    "link": "https://www.digitaleoverheid.nl/nieuws-nds/1-digitale-overheid-alleen-als-we-onze-deskundigheid-delen/",
@@ -2362,6 +2362,17 @@
     "Chips",
     "Ondernemingskamer",
     "Rechtszaak"
+   ]
+  },
+  {
+   "source": "AG Connect",
+   "title": "‘Stop met het wiel uitvinden: gebruik wat er al is’",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/ciso-bas-stevens-gebruik-de-producten-die-er-zijn",
+   "date": "2026-11-16T13:43:29.000Z",
+   "desc": "CISO Bas Stevens: ‘Kennis en producten die er al zijn, moeten we met elkaar delen, zeker omdat ze met belastinggeld zijn gefinancierd.’",
+   "cats": [
+    "Maatschappij",
+    "Overheid"
    ]
   },
   {
