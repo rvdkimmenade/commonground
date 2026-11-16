@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:47:59.132Z",
+ "updated": "2026-11-16T13:26:41.826Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,50 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Digitale weerbaarheid vraagt om centralisatie, maar hoe doe je dat in een polderland?",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/digitale-weerbaarheid-vraagt-om-centralisatie",
+   "date": "2026-11-16T11:11:31.000Z",
+   "desc": "Leidse CIO en CISO: ‘We zijn geen China of India’: op zoek naar een Nederlands model voor digitale weerbaarheid.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "CISO Bas Stevens: ‘Stop met het wiel uitvinden: gebruik wat er al is’",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/ciso-bas-stevens-gebruik-de-producten-die-er-zijn",
+   "date": "2026-11-16T11:00:00.000Z",
+   "desc": "‘Kennis en producten die er al zijn, moeten we openlijk en actief met elkaar delen, zeker omdat ze met belastinggeld zijn gefinancierd.’",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Kabinet houdt vast aan dure inlogplannen ondanks kritiek ICT-waakhond",
+   "link": "https://ibestuur.nl/markt-en-overheid/ict-projecten/kabinet-houdt-vast-aan-dure-inlogplannen",
+   "date": "2026-11-16T10:34:42.000Z",
+   "desc": "Ondertussen dreigt Nederland volgens het Adviescollege achterop te raken bij de invoering van de Europese digitale identiteit.",
+   "cats": [
+    "Markt en Overheid",
+    "ICT-projecten"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Inspectie vreest overtredingen Archiefwet door gebrekkige digitale archivering",
+   "link": "https://ibestuur.nl/overheid-in-transitie/informatiehuishouding/inspectie-vreest-overtredingen-archiefwet",
+   "date": "2026-11-16T09:48:32.000Z",
+   "desc": "Maar liefst 91 procent van de onderzochte organisaties heeft nog nooit een digitaal archief overgebracht naar een openbare archiefdienst.",
+   "cats": [
+    "Overheid in Transitie",
+    "Informatiehuishouding"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Wereldwijde storing bij Microsoft: ‘Stappen we dan nu af van digitale monocultuur?’",
@@ -1617,47 +1661,43 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "SVB trekt grote aanbesteding IT-infrastructuur in",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/svb-trekt-grote-aanbesteding-it-infrastructuur-in",
-   "date": "2026-09-28T08:46:11.000Z",
-   "desc": "Aanleiding zijn onder meer de ‘politieke onrust in de wereld’ en nieuwe Europese en nieuwe nationale regels voor de inkoop van ICT.",
+   "source": "Digitale Overheid",
+   "title": "1 digitale overheid? Alleen als we onze deskundigheid delen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/1-digitale-overheid-alleen-als-we-onze-deskundigheid-delen/",
+   "date": "2026-11-16T13:12:31.000Z",
+   "desc": "\"Als iedere overheidsorganisatie zich ontfermt over 1 onderdeel van de digitale leefomgeving, komen we echt tot 1 digitale overheid\". Een interview met Bert Jan Geveke.",
    "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
+    "NDS nieuws",
+    "1 overheid",
+    "Architectuur",
+    "Architectuurraad",
+    "NDS",
+    "Nederlandse Digitaliseringsstrategie"
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "‘NLdigital spreekt eigen lid Meta aan na verwijderen satire’",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/nldigital-spreekt-eigen-lid-meta-aan-na-verwijderen-satire",
-   "date": "2026-09-25T12:44:43.000Z",
-   "desc": "NLdigital benoemt expliciet dat Meta zelf bij de vereniging is aangesloten. ‘Dat betekent niet dat we het altijd eens zijn.",
+   "source": "Digitale Overheid",
+   "title": "Van digitale mogelijkheden naar concrete tijdwinst",
+   "link": "https://www.digitaleoverheid.nl/cio-rijk/van-digitale-mogelijkheden-naar-concrete-tijdwinst/",
+   "date": "2026-11-16T12:06:15.000Z",
+   "desc": "Hoe vertaal je de mogelijkheden van tijdbesparende technologie naar verbeteringen in de dagelijkse praktijk? Ontdek het op 26 november tijdens het nieuwe CIO-café.",
    "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
+    "CIO Rijk",
+    "CIO-café",
+    "tijdbesparende technologie"
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Functionarissen Gegevensbescherming ervaren minder steun in de organisatie",
-   "link": "https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/fgs-ervaren-minder-steun-in-de-organisatie",
-   "date": "2026-09-25T09:22:02.000Z",
-   "desc": "FG-enquête 2026: Een groeiende groep FG’s heeft onvoldoende tijd en budget om hun rol goed te kunnen uitvoeren.",
+   "source": "Digitale Overheid",
+   "title": "Overheidsinformatie vraagt om beter archiefbeheer",
+   "link": "https://www.digitaleoverheid.nl/nieuws/overheidsinformatie-vraagt-om-beter-archiefbeheer/",
+   "date": "2026-11-16T07:48:20.000Z",
+   "desc": "De Inspectie Overheidsinformatie en Erfgoed roept op tot beter archiefbeheer bij overheidsorganisaties. Zo moet informatie ook in de toekomst toegankelijk blijven.",
    "cats": [
-    "Overheid in Transitie",
-    "Management en bedrijfsvoering"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Gemeenten willen buitenlandse hardware kunnen weren bij aanbesteding",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/gemeenten-willen-buitenlandse-hardware-kunnen-weren",
-   "date": "2026-09-25T09:21:23.000Z",
-   "desc": "De VNG speelt bij de nieuwe hardwarecontracten nadrukkelijk in op de groeiende roep om meer digitale autonomie.",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
+    "Nieuws",
+    "digitaal archiveren",
+    "informatiehuishouding",
+    "Inspectie Overheidsinformatie en Erfgoed"
    ]
   },
   {
@@ -1672,6 +1712,22 @@
     "archiefwet 2026",
     "informatiehuishouding",
     "nationaal archief"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Positie van gemeenten en provincies rondom CADA",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/positie-van-gemeenten-en-provincies-rondom-cada/",
+   "date": "2026-11-11T13:07:21.000Z",
+   "desc": "Gemeenten en provincies steunen Europese plannen voor meer digitale autonomie, en zien ruimte om het wetsvoorstel voor de Cloud and AI Development Act te versterken.",
+   "cats": [
+    "NDS nieuws",
+    "AI",
+    "CADA",
+    "cloud",
+    "gemeenten",
+    "NDS",
+    "provincies"
    ]
   },
   {
@@ -1745,73 +1801,36 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe handreiking gebruik IAMA en Model DPIA Rijksdienst",
-   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-handreiking-gebruik-iama-en-model-dpia-rijksdienst/",
-   "date": "2026-10-29T12:35:53.000Z",
-   "desc": "Dit hulpmiddel helpt je het Impact Assessment Mensenrechten en Algoritmen (IAMA) en Data Protect Impact Assessment (DPIA) tegelijk in te vullen, en dat scheelt tijd.",
+   "source": "Binnenlands Bestuur",
+   "title": "Nieuwe surveillancewet bedreigt de ruimte voor democratisch debat",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/nieuwe-surveillancewet-bedreigt-ruimte-democratisch-debat",
+   "date": "2026-11-16T13:09:03.000Z",
+   "desc": "Binnenkort gaat het wetsvoorstel Gegevensvergaring openbare orde naar de Tweede Kamer. Van gemeenten en politie wordt verwacht dat zij met deze bevoegdheden in staat zullen zijn om openbare ordeverstoringen te voorkomen. Het is maar zeer de vraag of dit mogelijk is, betoogt Vera Prins.",
    "cats": [
-    "Nieuws",
-    "Data Protection Impact Assessments",
-    "DPIA",
-    "IAMA",
-    "impactvolle algoritmes",
-    "mensenrechten",
-    "nieuwsbrief-19-2026",
-    "Privacy"
+    "digitaal",
+    "privacy"
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Onderzoek: goed informatiegedrag vraagt meer dan kennis",
-   "link": "https://www.digitaleoverheid.nl/nieuws/onderzoek-goed-informatiegedrag-vraagt-meer-dan-kennis/",
-   "date": "2026-10-28T07:53:43.000Z",
-   "desc": "Uit onderzoek onder bijna 1.800 rijksmedewerkers blijkt dat kennis alleen niet genoeg is voor goed informatiegedrag. Gewoontes en werkdruk spelen een grote rol.",
+   "source": "Binnenlands Bestuur",
+   "title": "Kabinet houdt vast aan dure inlogplannen ondanks kritiek ICT-waakhond",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/kabinet-houdt-vast-aan-dure-inlogplannen",
+   "date": "2026-11-16T12:39:12.000Z",
+   "desc": "Het kabinet houdt vast aan de ontwikkeling van nieuwe private inlogmiddelen voor overheidsdiensten, ondanks stevige kritiek van het Adviescollege ICT-toetsing. Volgens het college maakt de overheid digitaal inloggen daarmee onnodig duur en ingewikkeld. Het programma Stelsel Toegang heeft bovendien na een uitgave van ruim 43 miljoen euro nog weinig concrete resultaten opgeleverd.",
    "cats": [
-    "Nieuws",
-    "Behavior Change Group",
-    "gedragsverandering",
-    "informatiegedrag",
-    "informatiehuishouding",
-    "Leerhuis Informatiehuishouding",
-    "nieuwsbrief-19-2026",
-    "onderzoek",
-    "open overheid",
-    "overheidsinformatie"
+    "digitaal",
+    "autonomie"
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Van gemeentelijke chatbot naar virtuele assistent",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/van-gemeentelijke-chatbot-naar-virtuele-assistent/",
-   "date": "2026-10-27T09:52:14.000Z",
-   "desc": "Gem draait bij 27 gemeenten en beantwoordt veel vragen. Generatieve AI gaat Gem slim genoeg maken voor inzet bij alle gemeenten en uiteindelijk de hele overheid.",
+   "source": "Binnenlands Bestuur",
+   "title": "Door AI hebben we de afdeling communicatie niet meer nodig",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/door-ai-hebben-we-de-afdeling-communicatie-niet-meer-nodig",
+   "date": "2026-11-16T05:00:00.000Z",
+   "desc": "Wat heerlijk! Iedereen kan nu perfect communiceren met behulp van AI, lees ik. Dan is de afdeling communicatie dus niet meer nodig. Ik probeer me even voor te stellen hoe dat er in de praktijk uitziet door in de schoenen van een beleidsambtenaar te gaan staan.",
    "cats": [
-    "Achtergrond",
-    "NDS nieuws",
-    "AI",
-    "chatbot",
-    "Gem",
-    "NDS",
-    "nieuwsbrief-18-2026"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Doe mee met de Denk vooruit-actieweek",
-   "link": "https://www.digitaleoverheid.nl/nieuws/doe-mee-met-de-denk-vooruit-actieweek/",
-   "date": "2026-10-26T12:51:30.000Z",
-   "desc": "Moedig je collega’s aan in gesprek te gaan over weerbaarheid en afspraken rondom noodsituaties. De actieweek sluit aan bij de landelijke campagne 'Denk vooruit'.",
-   "cats": [
-    "Nieuws",
-    "Calamiteit",
-    "Crisis",
-    "Denk vooruit",
-    "digitale weerbaarheid",
-    "nieuwsbrief-18-2026",
-    "noodsituaties",
-    "rijksambtenaren",
-    "weerbaarheid"
+    "digitaal",
+    "kunstmatige intelligentie"
    ]
   },
   {
@@ -2145,14 +2164,106 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Rijk wil met inkoop digitale afhankelijkheden terugdringen",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/rijk-wil-met-inkoop-digitale-afhankelijkheden-terugdringen",
-   "date": "2026-10-28T14:00:00.000Z",
-   "desc": "Het rijk wil zijn inkoopkracht nadrukkelijker inzetten voor digitale autonomie en de continuïteit van publieke dienstverlening. Gezamenlijke ICT-inkoop, meer ruimte voor Europese aanbieders en betere exitconstructies moeten de afhankelijkheid van een beperkt aantal technologiebedrijven verminderen. Tegelijk moet de inkooporganisatie eenvoudiger en goedkoper werken.",
+   "source": "Gemeente.nu",
+   "title": "Geadopteerden kunnen vijf jaar lang gratis hun naam laten wijzigen",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/burgerzaken/geadopteerden-kunnen-vijf-jaar-lang-gratis-hun-naam-laten-wijzigen/",
+   "date": "2026-11-16T12:52:37.000Z",
+   "desc": "Binnenlands en buitenlands geadopteerden krijgen de mogelijkheid om kosteloos hun voor- of achternaam te veranderen. Het kabinet wil daarvoor een tijdelijke regeling invoeren die in beginsel vijf jaar geldt. Daarmee erkent de overheid dat de huidige naam van geadopteerden verbonden kan zijn aan een pijnlijk verleden waarin de Nederlandse staat een rol heeft gespeeld.",
    "cats": [
-    "digitaal",
-    "informatiehuishouding"
+    "Burgerzaken",
+    "naamswijziging"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Aanpak overlastgevende asielzoekers aan: meer toezicht, snellere procedures en inzet op terugkeer",
+   "link": "https://www.gemeente.nu/veiligheid/aanpak-overlastgevende-asielzoekers-aan-meer-toezicht-snellere-procedures-en-inzet-op-terugkeer/",
+   "date": "2026-11-16T12:20:09.000Z",
+   "desc": "Het kabinet wil harder optreden tegen asielzoekers die overlast veroorzaken of strafbare feiten plegen. Er komt meer verscherpt toezicht, de samenwerking tussen politie en migratiediensten wordt geïntensiveerd en de mogelijkheden om overlastgevers sneller uit te zetten worden uitgebreid.",
+   "cats": [
+    "Veiligheid",
+    "overlastgevende asielzoekers",
+    "veiligheid"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Basiscursus Wet open overheid (Woo) online cursus",
+   "link": "https://www.gemeente.nu/agenda/basiscursus-wet-open-overheid-woo-online-cursus-2/",
+   "date": "2026-11-16T11:31:56.000Z",
+   "desc": "In 3 uur op de hoogte van de belangrijkste aspecten van de Woo! Wil jij als advocaat, overheidsjurist of bedrijfsjurist beschikken over basiskennis van de Wet open overheid (Woo), omdat je in jouw werk hiermee te maken hebt? Volg dan de nieuwe basiscursus Woo. In deze cursus komen alle voor de praktijk belangrijke onderwerpen, aan ... lees verder",
+   "cats": [
+    "Agenda",
+    "Bestuurs(proces)recht"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Basiscursus Algemene wet bestuursrecht",
+   "link": "https://www.gemeente.nu/agenda/basiscursus-algemene-wet-bestuursrecht-3/",
+   "date": "2026-11-16T11:28:05.000Z",
+   "desc": "Introductie in de belangrijkste aspecten van het bestuurs(proces)recht De Algemene wet bestuursrecht (Awb) vormtal meer dan25 jaar het fundament onder het totale bestuursrecht in Nederland en geldt daarom als de belangrijkste basiswet voor het overheidshandelen. Wil jij als beginnend advocaat, overheidsjurist of bedrijfsjurist beschikken over basiskennis van de Awb, omdat je in jouw werk hiermee .",
+   "cats": [
+    "Agenda",
+    "Bestuurs(proces)recht"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Overheidsaansprakelijkheid",
+   "link": "https://www.gemeente.nu/agenda/aansprakelijkheid-agenda/overheidsaansprakelijkheid-4/",
+   "date": "2026-11-16T11:22:07.000Z",
+   "desc": "Praktijkgerichte cursus over onrechtmatige overheidsbesluiten en aansprakelijkheid van de overheid uit onrechtmatige daad De overheid wordt steeds vaker aansprakelijk gesteld voor schade die het gevolg is van haar handelen. Dit handelen heeft allerlei verschillende verschijningsvormen, zoals onrechtmatige besluitvorming, onjuiste informatieverstrekking of het niet nakomen van toezeggingen. Ook het",
+   "cats": [
+    "Aansprakelijkheid",
+    "Agenda"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Verduurzaming woningen moet drie tot zes keer sneller",
+   "link": "https://www.gemeente.nu/ruimte-milieu/duurzaamheid/verduurzaming-woningen-moet-drie-tot-zes-keer-sneller/",
+   "date": "2026-11-16T10:58:49.000Z",
+   "desc": "De verduurzaming van de Nederlandse woningvoorraad verloopt veel te traag om de klimaatdoelen voor 2050 te halen. Het Rijk moet daarom meer regie nemen, strengere normen invoeren en langdurige financiële zekerheid bieden.",
+   "cats": [
+    "Duurzaamheid",
+    "verduurzamen woningen"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Nota Ruimte: tien extra grote woningbouwlocaties",
+   "link": "https://www.gemeente.nu/ruimte-milieu/nota-ruimte-tien-extra-grote-woningbouwlocaties/",
+   "date": "2026-11-16T10:04:30.000Z",
+   "desc": "Het kabinet wil steviger bepalen hoe Nederland de komende decennia wordt ingericht. In de nieuwe Nota Ruimte, die minister Elanor Boekholt-O’Sullivan naar de Tweede Kamer heeft gestuurd, staan woningbouw, economische ontwikkeling, natuur en klimaatadaptatie centraal. Tien nieuwe grootschalige woningbouwlocaties moeten helpen de woningnood terug te dringen. Maar niet alles kan overal: het kabinet w",
+   "cats": [
+    "Ruimte & Milieu",
+    "Nota Ruimte",
+    "woningbouw"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Helmplicht voor jongeren op fatbikes en andere e-bikes naar Tweede Kamer",
+   "link": "https://www.gemeente.nu/verkeer/helmplicht-voor-jongeren-op-fatbikes-en-andere-e-bikes-naar-tweede-kamer/",
+   "date": "2026-11-16T07:30:39.000Z",
+   "desc": "Jongeren onder de 18 jaar moeten vanaf 1 september 2027 naar verwachting verplicht een helm dragen op een elektrische fiets. De maatregel geldt niet alleen voor fatbikes, maar ook voor andere e-bikes en lichte elektrische voertuigen. Het kabinet wil hiermee het aantal jongeren met ernstig hersenletsel als gevolg van fietsongevallen terugdringen.",
+   "cats": [
+    "Verkeer",
+    "fiets",
+    "helmplicht"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Amsterdam had moeite om nieuwe gemeentesecretaris te vinden",
+   "link": "https://www.gemeente.nu/bestuur/amsterdam-had-moeite-om-nieuwe-gemeentesecretaris-te-vinden/",
+   "date": "2026-11-16T05:34:00.000Z",
+   "desc": "Meerdere topambtenaren zagen vorig jaar af van een sollicitatie naar de functie van Amsterdamse gemeentesecretaris. Het afbreukrisico, de constructie met kwartiermaker Tijs van Lieshout en het salaris schrikten potentiële kandidaten af, blijkt uit Woo-stukken (Wet open overheid), zo schrijft Het Parool.",
+   "cats": [
+    "Bestuur",
+    "Amsterdam",
+    "gemeentesecretaris"
    ]
   },
   {
@@ -2166,113 +2277,74 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Brabantse gemeenten worstelen met Omgevingswet-instrumenten",
-   "link": "https://www.gemeente.nu/ruimte-milieu/omgevingswet/brabantse-gemeenten-worstelen-met-omgevingswet-instrumenten/",
-   "date": "2026-11-12T07:40:55.000Z",
-   "desc": "Gemeenten passen dan wel gestaag het instrumentarium van de Omgevingswet toe. Brabantse gemeenten laten zien dat er in de complexe fase van beleidskeuzes en de juridische doorvertaling nog maar weinig progressie zit.",
+   "source": "Computable",
+   "title": "Hoe Russische hackers Navo- en EU-mails wilden on­der­schep­pen",
+   "link": "https://www.computable.nl/2026/11/16/hoe-russische-hackers-navo-en-eu-mails-wilden-onderscheppen/",
+   "date": "2026-11-16T12:00:00.000Z",
+   "desc": "De aan Rusland gelinkte hackersgroep Turla zou een nieuwe spionagetool inzetten om mails van overheden mee te lezen, waaronder berichten van of naar de Navo en de EU. Dat meldt beveiligingsbedrijf Eset, dat de toolset Cereal doopte. Turla wordt beschouwd als onderdeel van de Russische inlichtingendi",
    "cats": [
-    "Omgevingswet",
-    "brabant",
-    "omgevingsdienst"
+    "Security & Risk",
+    "Overheid",
+    "Cyberaanval",
+    "E-mailmanagement",
+    "geopolitiek",
+    "hack",
+    "spionage"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Nieuwe wet moet langdurig schoolverzuim terugdringen",
-   "link": "https://www.gemeente.nu/sociaal/onderwijs/nieuwe-wet-moet-langdurig-schoolverzuim-terugdringen/",
-   "date": "2026-11-12T06:04:00.000Z",
-   "desc": "De wet Terugdringen Schoolverzuim is aangenomen door de Eerste Kamer. Scholen, gemeenten en andere betrokkenen zijn nu samen aan zet om uitval te voorkomen en kinderen weer naar school te laten gaan. ‘Verbetering is hard nodig’, aldus staatssecretaris Tielen van Onderwijs en Participatie. Scholen kunnen onder de nieuwe wet van Tielen aan de slag om ... lees verder",
+   "source": "Computable",
+   "title": "Kort: VS trekt 50 miljard uit na ict-chaos luchtvaart, gps-jamming raakt Nederlands vliegverkeer (en meer)",
+   "link": "https://www.computable.nl/2026/11/16/kort-vs-trekt-50-miljard-uit-na-ict-chaos-luchtvaart-gps-jamming-raakt-nederlands-vliegverkeer-en-meer/",
+   "date": "2026-11-16T10:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: FAA krijgt miljarden voor modernisering vliegverkeer, onderzoek naar Russische gps-storing bij Schiphol, Wolters Kluwer ontfermt zich over ai-specialist AgileMD, Noord-Europees consortium wil netwerk van ai-datacenters en telecomaffaire kost Surinaamse minister de kop.",
    "cats": [
-    "Onderwijs",
-    "Sociaal",
-    "schoolverzuim",
-    "wet Terugdringen Schoolverzuim"
+    "Backup & Recovery",
+    "Carrière",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Data Infrastructure",
+    "Datacenter & Infrastructure",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Security & Risk",
+    "Software & Development",
+    "Zorg",
+    "ai-fabriek",
+    "E health platforms",
+    "GPS",
+    "Kort",
+    "Legacy",
+    "Luchtvaart",
+    "minister",
+    "Nokia",
+    "Overname",
+    "radar",
+    "Storing",
+    "Telecom"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Gemeente Utrecht onderzoekt verbod op camerabrillen",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/privacy/gemeente-utrecht-onderzoekt-verbod-op-camerabrillen/",
-   "date": "2026-11-11T07:45:08.000Z",
-   "desc": "Utrecht onderzoekt of het gebruik van camerabrillen in gemeentelijke gebouwen kan worden verboden. De gemeente wil daarmee voorkomen dat mensen ongemerkt worden gefilmd, bijvoorbeeld in zwembaden en kleedruimtes. Utrecht zou de eerste Nederlandse gemeente zijn die een dergelijk verbod onderzoekt, meldt het AD. Aanleiding voor het onderzoek zijn vragen van gemeenteraadslid Leon Boelens van de ... l",
+   "source": "Computable",
+   "title": "Megastoring Microsoft voorbij, bedrijf wacht enorme nasleep",
+   "link": "https://www.computable.nl/2026/11/14/megastoring-microsoft-voorbij-bedrijf-wacht-enorme-nasleep/",
+   "date": "2026-11-14T15:04:40.000Z",
+   "desc": "Microsoft heeft de wereldwijde storing die sinds afgelopen donderdag miljoenen gebruikers trof inmiddels opgelost. Met het technische herstel is de rekening echter nog niet vereffend. Het bedrijf wacht mogelijk voor miljarden dollars aan claims van klanten.",
    "cats": [
-    "Privacy",
-    "privacy",
-    "smartglasses"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Meer dan helft gemeenten gebruikt gezichtsscans bij vaststellen identiteit",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/burgerzaken/meer-dan-helft-gemeenten-gebruikt-gezichtsscans-bij-vaststellen-identiteit/",
-   "date": "2026-11-11T07:33:01.000Z",
-   "desc": "Meer dan de helft van de gemeenten gebruikt al automatische gezichtsvergelijking bij het vaststellen van de identiteit van burgers. Het kabinet wil deze technologie wettelijk verankeren, maar heeft geen overzicht van welke gemeenten de privacyregels naleven.",
-   "cats": [
-    "Burgerzaken",
-    "burgerzaken",
-    "identiteitspapieren"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Gemeente hoeft niet op te treden tegen houtkachel zonder bewijs van ernstige overlast",
-   "link": "https://www.gemeente.nu/ruimte-milieu/leefomgeving/gemeente-hoeft-niet-op-te-treden-tegen-houtkachel-zonder-bewijs-van-ernstige-overlast/",
-   "date": "2026-11-11T05:52:00.000Z",
-   "desc": "Een inwoner van Lage Mierde die klaagde over rook- en stankoverlast door de houtkachel van zijn buren, krijgt geen gelijk van de Raad van State. Er is onvoldoende aangetoond dat sprake is van ernstige overlast die ingrijpen door de gemeente rechtvaardigt. De inwoner ondervindt naar eigen zeggen veel hinder van een houtkachel in de tuinkamer ... lees verder",
-   "cats": [
-    "Leefomgeving",
-    "houtkachel",
-    "houtstook"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Samen met gemeenten passende en actuele trainingen maken",
-   "link": "https://www.gemeente.nu/loopbaan/samen-met-gemeenten-passende-en-actuele-trainingen-maken/",
-   "date": "2026-11-10T10:55:32.000Z",
-   "desc": "Segment verzorgt al enige tijd trainingen bij 1Stroom, het ambtelijk samenwerkingsverband van gemeenten Westervoort en Duiven. 1Stroom heeft nu een opleidingsstrategie ontwikkeld, waarbij voortaan thematisch wordt gewerkt. ‘Samen met Segment kijken we per thema naar passende trainingen, zowel maatwerk als bestaand aanbod’, aldus Annemieke Tijmstra van 1Stroom. 1Stroom is gestart in 2018 en is volg",
-   "cats": [
-    "Leiderschap",
-    "Loopbaan",
-    "Ontwikkeling"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Kabinet gaat door met voorbereiding eigen bijdrage jeugdhulp",
-   "link": "https://www.gemeente.nu/sociaal/jeugdzorg/kabinet-gaat-door-met-voorbereiding-eigen-bijdrage-jeugdhulp/",
-   "date": "2026-11-10T07:51:12.000Z",
-   "desc": "Het kabinet gaat door met de voorbereiding van een eigen bijdrage voor jeugdhulp vanaf 2028. Hoe de regeling er precies uit gaat zien, staat nog niet vast. Onder meer de gevolgen voor kinderen, ouders, gemeenten en uitvoeringsorganisaties worden eerst onderzocht.",
-   "cats": [
-    "Jeugdzorg",
-    "eigen bijdrage",
-    "jeugdhulp",
-    "jeugdzorg"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Rechter zet streep door hogere heffing voor Amsterdamse rondvaartboten",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/belastingen/rechter-zet-streep-door-hogere-heffing-voor-amsterdamse-rondvaartboten/",
-   "date": "2026-11-10T07:24:04.000Z",
-   "desc": "De gemeente Amsterdam mocht de heffing voor rondvaartboten niet verhogen van 1,50 naar 2,50 euro per passagier. Volgens de rechtbank is onvoldoende aangetoond dat het extra geld werd gebruikt voor voorzieningen waarvan rondvaartbedrijven profiteren. Voor de betrokken rederij blijft daarom het oude tarief van 1,50 euro gelden. Dat heeft de rechtbank Amsterdam bepaald in een ... lees verder",
-   "cats": [
-    "Belastingen",
-    "Amsterdam",
-    "belastingen"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Informeel overleg helpt ambtenaren omgaan met risico’s",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/informeel-overleg-helpt-ambtenaren-omgaan-met-risicos/",
-   "date": "2026-11-09T11:29:03.000Z",
-   "desc": "Ambtenaren die in de publieke dienstverlening beslissingen moeten nemen, vertrouwen vooral op informeel overleg met collega’s om risico’s en onzekerheden af te wegen. Onderzoek van de Erasmus Universiteit Rotterdam laat zien dat goede samenwerking en kennisdeling steeds belangrijker worden nu publieke dienstverlening meer ruimte biedt voor maatwerk.",
-   "cats": [
-    "Bedrijfsvoering",
-    "bedrijfsvoering",
-    "kennisdeling"
+    "Cloud & Infrastructure",
+    "Backup & Recovery",
+    "Data & AI",
+    "Disaster Recovery",
+    "Overheid",
+    "Public Cloud",
+    "Copilot",
+    "OneDrive",
+    "Outlook",
+    "Schadeclaim",
+    "SharePoint",
+    "Storing",
+    "Teams"
    ]
   },
   {
@@ -2290,18 +2362,6 @@
     "Chips",
     "Ondernemingskamer",
     "Rechtszaak"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Bedrijven moeten hr-systemen al inrichten op transparantie",
-   "link": "https://www.computable.nl/2026/11/12/bedrijven-moeten-hr-systemen-al-inrichten-op-transparantie/",
-   "date": "2026-11-12T16:00:00.000Z",
-   "desc": "Veel grote bedrijven zijn klaar voor de nieuwe Wet loontransparantie, zegt Floris Visser, arbeidsrechtjurist bij NLdigital, de Nederlandse branchevereniging voor de digitale sector. Mkb’ers hebben volgens hem nog wel wat werk te verzetten. ‘Maar iedereen is ermee bezig.’",
-   "cats": [
-    "Carrière",
-    "Overheid",
-    "salaris"
    ]
   },
   {
