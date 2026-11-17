@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:12:24.374Z",
+ "updated": "2026-11-17T23:47:32.858Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,17 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Kamer wijst voorstel voor nieuw ministerie van Digitale Zaken af",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/kamer-wijst-voorstel-voor-ministerie-van-digitale-zaken-af",
+   "date": "2026-11-17T14:43:17.000Z",
+   "desc": "Tweede Kamer spreekt zich wel uit voor meer verplichtende afspraken over het cloudgebruik binnen de rijksoverheid.",
+   "cats": [
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Nepaccounts Nederlandse verkiezingen duiken op bij buitenlandse stembusgangen",
@@ -1650,17 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Topje van de ijsberg",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/topje-van-de-ijsberg",
-   "date": "2026-09-29T08:15:12.000Z",
-   "desc": "Uit onderzoek blijkt dat 185 miljoen euro naar Microsoft gaat. Het echte probleem is dat veel gemeenten niet weten wat ze aan IT uitgeven.",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Samen werken aan een visie op digitaal vakmanschap",
    "link": "https://www.digitaleoverheid.nl/nieuws-nds/samen-werken-aan-een-visie-op-digitaal-vakmanschap/",
@@ -1796,6 +1796,17 @@
     "Achtergrond",
     "innovatiebudget",
     "nieuwsbrief-19-2026"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Nepaccounts Nederlandse verkiezingen duiken op bij buitenlandse stembusgangen",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/x-nepaccounts-verkiezingen-duiken-over-de-grens-op",
+   "date": "2026-11-17T16:00:00.000Z",
+   "desc": "Tijdens de Nederlandse Tweede Kamerverkiezingen van oktober 2025 ontdekten RTL Nieuws en onderzoeksbureau Trollrensics meer dan 550 nepaccounts op X. Minstens 225 daarvan waren te herleiden tot Nigeria. Gezamenlijk verspreidden de accounts ruim 23.000 berichten die radicaal-rechtse partijen versterkten.",
+   "cats": [
+    "digitaal",
+    "ethiek"
    ]
   },
   {
@@ -2185,6 +2196,19 @@
   },
   {
    "source": "Gemeente.nu",
+   "title": "Minister onderzoekt aanpassing nauwelijks gebruikte baatbelasting",
+   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/minister-onderzoekt-aanpassing-nauwelijks-gebruikte-baatbelasting/",
+   "date": "2026-11-17T14:45:10.000Z",
+   "desc": "De opbrengsten uit de onroerendezaakbelasting (ozb) zijn onvoldoende om de gemeentelijke kosten van gebiedsontwikkeling te financieren. Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijke Ordening benadrukt daarom het belang van kostenverhaal en de Woningbouwimpuls. Ook onderzoekt zij aanpassingen van de baatbelasting, die door juridische en uitvoeringstechnische problemen nauwelijks ",
+   "cats": [
+    "Belastingen",
+    "Wonen",
+    "baatbelasting",
+    "woningbouw"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
    "title": "Al 75 gemeenten geholpen door ondersteuningsteam asiel",
    "link": "https://www.gemeente.nu/sociaal/al-75-gemeenten-geholpen-door-ondersteuningsteam-asiel/",
    "date": "2026-11-17T09:07:17.000Z",
@@ -2285,15 +2309,37 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Helmplicht voor jongeren op fatbikes en andere e-bikes naar Tweede Kamer",
-   "link": "https://www.gemeente.nu/verkeer/helmplicht-voor-jongeren-op-fatbikes-en-andere-e-bikes-naar-tweede-kamer/",
-   "date": "2026-11-16T07:30:39.000Z",
-   "desc": "Jongeren onder de 18 jaar moeten vanaf 1 september 2027 naar verwachting verplicht een helm dragen op een elektrische fiets. De maatregel geldt niet alleen voor fatbikes, maar ook voor andere e-bikes en lichte elektrische voertuigen. Het kabinet wil hiermee het aantal jongeren met ernstig hersenletsel als gevolg van fietsongevallen terugdringen.",
+   "source": "Computable",
+   "title": "Dit zijn de winnaars van de Computable Awards 2026",
+   "link": "https://www.computable.nl/2026/11/17/dit-zijn-de-winnaars-van-de-computable-awards-2026/",
+   "date": "2026-11-17T22:15:27.000Z",
+   "desc": "De winnaars van de Computable Awards 2026 zijn bekend. Tijdens een feestelijke gala-avond in Utrecht zijn op 17 november zeventien awards uitgereikt aan bedrijven, organisaties en ict-professionals die zich onderscheiden met innovatieve projecten en bijzondere prestaties. Dit zijn de winnaars.",
    "cats": [
-    "Verkeer",
-    "fiets",
-    "helmplicht"
+    "IT Strategy & Governance",
+    "Carrière",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Industry & OT",
+    "Onderwijs",
+    "Overheid",
+    "Zorg",
+    "Computable Awards"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Zo hebben jury en publiek gestemd bij de Computable Awards 2026",
+   "link": "https://www.computable.nl/2026/11/17/zo-hebben-jury-en-publiek-gestemd-bij-de-computable-awards-2026/",
+   "date": "2026-11-17T22:14:17.000Z",
+   "desc": "Bij de Computable Awards 2026 waren jury en publiek het in vijf categorieën eens over de winnaar. In tien categorieën liepen hun voorkeuren uiteen en gaf de beoordeling van een van beide groepen de doorslag.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Industry & OT",
+    "Overheid",
+    "Zorg",
+    "Computable Awards"
    ]
   },
   {
@@ -2396,28 +2442,6 @@
     "radar",
     "Storing",
     "Telecom"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Megastoring Microsoft voorbij, bedrijf wacht enorme nasleep",
-   "link": "https://www.computable.nl/2026/11/14/megastoring-microsoft-voorbij-bedrijf-wacht-enorme-nasleep/",
-   "date": "2026-11-14T15:04:40.000Z",
-   "desc": "Microsoft heeft de wereldwijde storing die sinds afgelopen donderdag miljoenen gebruikers trof inmiddels opgelost. Met het technische herstel is de rekening echter nog niet vereffend. Het bedrijf wacht mogelijk voor miljarden dollars aan claims van klanten.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Backup & Recovery",
-    "Data & AI",
-    "Disaster Recovery",
-    "Overheid",
-    "Public Cloud",
-    "Copilot",
-    "OneDrive",
-    "Outlook",
-    "Schadeclaim",
-    "SharePoint",
-    "Storing",
-    "Teams"
    ]
   },
   {
@@ -2551,6 +2575,22 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Webinar terugkijken: Recente aanvallen met AI - Lessons learned en wat te doen",
+   "link": "https://www.ncsc.nl/nieuws/webinar-terugkijken-recente-aanvallen-met-ai-lessons-learned-en-wat-te-doen",
+   "date": "2026-11-17T14:47:28.000Z",
+   "desc": "Cyberaanvallers zetten AI steeds vaker in om sneller en op grotere schaal aanvallen uit te voeren. Wat betekent dit voor organisaties en hoe kunnen zij zich hiertegen beschermen? Die vragen stonden centraal tijdens het webinar ‘Recente aanvallen met AI: Lessons learned en wat te doen’, dat we op 16 november samen met Eye Security en het Dutch Institute for Vulnerability Disclosure (DIVD) organisee",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "‘Goede cyberhygiëne is voor elke ondernemer belangrijk’",
+   "link": "https://www.ncsc.nl/interviews/goede-cyberhygiene-is-voor-elke-ondernemer-belangrijk",
+   "date": "2026-11-17T14:13:15.000Z",
+   "desc": "Kleine ondernemers kunnen tot en met 30 november 2026 gebruikmaken van de subsidieregeling ‘Mijn Cyberweerbare Zaak’. Hiermee kunnen mkb’ers en zzp’ers 50% van de kosten van een cybermaatregel vergoed krijgen, tot een maximum van 1.250 euro. Sander Bauer is zelfstandig professional natuurinclusieve stadsontwikkeling en helpt ook andere ondernemers met informatiebeveiliging. “Slechte beveiliging ka",
+   "cats": []
   },
   {
    "source": "NCSC",
