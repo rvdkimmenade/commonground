@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:15:51.215Z",
+ "updated": "2026-11-17T14:12:24.374Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,50 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Nepaccounts Nederlandse verkiezingen duiken op bij buitenlandse stembusgangen",
+   "link": "https://ibestuur.nl/digitalisering-en-democratie/desinformatie/x-nepaccounts-verkiezingen-duiken-over-de-grens-op",
+   "date": "2026-11-17T14:10:22.000Z",
+   "desc": "Voor een overstap naar een ander land zijn weinig aanpassingen nodig. Een nieuwe gebruikersnaam, profielfoto en biografie volstaan.",
+   "cats": [
+    "Digitalisering en Democratie",
+    "Desinformatie"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "UvA-juristen: Europese cloudwet laat afhankelijkheid van Big Tech grotendeels intact",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/cloud-and-ai-development-act-kritiek-op-soevereiniteit",
+   "date": "2026-11-17T13:46:17.000Z",
+   "desc": "Volgens het Instituut voor Informatierecht (UvA) pakt de Cloud and AI Development Act de afhankelijkheid van Big Tech nauwelijks aan.",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Europa wil verdrievoudiging van datacenters, maar wat kost dat aan CO₂?",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/uitbreiding-datacenters-maar-wat-kost-dat-aan-co",
+   "date": "2026-11-17T10:54:08.000Z",
+   "desc": "Harvard-onderzoekers berekenden dat de grootste Amerikaanse datacenters evenveel CO₂ uitstoten als Denemarken.",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Vernieuwde handreiking voor het overbrengen van digitale archieven",
+   "link": "https://ibestuur.nl/overheid-in-transitie/informatiehuishouding/vernieuwde-handreiking-voor-overbrengen-digitale-archieven",
+   "date": "2026-11-17T09:21:33.000Z",
+   "desc": "Voor de meeste overheidsorganisaties is het nog nieuw, maar in de komende jaren moeten ze bezig met het overbrengen van digitale archieven.",
+   "cats": [
+    "Overheid in Transitie",
+    "Informatiehuishouding"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "‘Door transparant te zijn investeer je in betrouwbaarheid’",
@@ -1617,47 +1661,16 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "VNG: gemeenten moeten afhankelijkheid van grote techleveranciers afbouwen",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/vng-gemeenten-moeten-grote-techleveranciers-afbouwen",
-   "date": "2026-09-29T05:00:00.000Z",
-   "desc": "Een grotere rol voor het Rijk om ICT-uitgaven structureel inzichtelijk te maken, ziet de VNG niet zitten.",
+   "source": "Digitale Overheid",
+   "title": "Samen werken aan een visie op digitaal vakmanschap",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/samen-werken-aan-een-visie-op-digitaal-vakmanschap/",
+   "date": "2026-11-17T13:00:36.000Z",
+   "desc": "Begin december verschijnt de gezamenlijke visie op digitaal vakmanschap binnen de NDS. Hoe werkten Rijk, gemeenten, waterschappen en publieke dienstverleners samen?",
    "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Onderzoek: zoveel betalen gemeenten jaarlijks aan Microsoft",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/financieel/onderzoek-zoveel-betalen-gemeenten-jaarlijks-aan-microsoft",
-   "date": "2026-09-29T04:00:00.000Z",
-   "desc": "Voor het eerst is per gemeente in kaart gebracht hoeveel publiek geld naar de Amerikaanse techgigant stroomt.",
-   "cats": [
-    "Digitale Toekomst EU",
-    "Financieel"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Duurzame digitalisering moet de norm worden",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/duurzame-digitalisering-moet-de-norm-worden",
-   "date": "2026-09-28T13:52:05.000Z",
-   "desc": "Nationale Coalitie Duurzame Digitalisering (NCDD) lanceert vernieuwd Manifest Duurzame Digitalisering 2027-2030.",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Kabinet: niet-Europese AI weren bij overheid gaat te ver",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/kabinet-niet-europese-ai-weren-bij-overheid-gaat-te-ver",
-   "date": "2026-09-28T12:36:43.000Z",
-   "desc": "Het uitsluiten van niet-Europese aanbieders kan volgens het kabinet bovendien risico’s opleveren voor de cyberveiligheid.",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
+    "NDS nieuws",
+    "achtergrond",
+    "digitaal vakmanschap",
+    "NDS"
    ]
   },
   {
@@ -1786,18 +1799,25 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Wees weerbaar tegen dreigingen van binnenuit",
-   "link": "https://www.digitaleoverheid.nl/nieuws/wees-weerbaar-tegen-dreigingen-van-binnenuit/",
-   "date": "2026-11-02T11:58:08.000Z",
-   "desc": "De AIVD adviseert aandacht te besteden aan risico's die vanuit je organisatie komen. In de nieuwe publicatie 'Weerbaar tegen dreigingen van binnenuit' vind je tips.",
+   "source": "Binnenlands Bestuur",
+   "title": "CISO Bas Stevens: ‘Stop met het wiel uitvinden: gebruik wat er al is’",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/ciso-bas-stevens-gebruik-de-producten-die-er-zijn",
+   "date": "2026-11-17T10:00:00.000Z",
+   "desc": "Gemeenten, waterschappen en ministeries schrijven allemaal hun eigen beveiligingsbeleid, procedures en AI-beleid, terwijl de vraagstukken grotendeels hetzelfde zijn. Bas Stevens, vertrekkend CISO van de gemeenten Leiden, Leiderdorp, Oegstgeest en Zoeterwoude, roept zijn vakgenoten op daarmee te stoppen. ‘Gebruik wat er al is. Doe dat samen en open, dus niet achter allerlei inlogs en in isolatie.’",
    "cats": [
-    "Nieuws",
-    "AIVD",
-    "digitale weerbaarheid",
-    "insider treats",
-    "nieuwsbrief-19-2026",
-    "publicatie"
+    "digitaal",
+    "cyberveiligheid"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Vernieuwde handreiking voor het overbrengen van digitale archieven",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/vernieuwde-handreiking-voor-overbrengen-digitale-archieven",
+   "date": "2026-11-17T09:00:00.000Z",
+   "desc": "In januari 2027 gaat de vernieuwde Archiefwet in. Reden voor het Nationaal Archief om handreiking ‘Digitaal overbrengen in de praktijk’ van een update te voorzien. Veel overheidsorganisaties hebben nog niet veel ervaring met digitaal overbrengen. Zeg maar gerust: geen ervaring.",
+   "cats": [
+    "digitaal",
+    "informatiehuishouding"
    ]
   },
   {
@@ -2165,6 +2185,28 @@
   },
   {
    "source": "Gemeente.nu",
+   "title": "Al 75 gemeenten geholpen door ondersteuningsteam asiel",
+   "link": "https://www.gemeente.nu/sociaal/al-75-gemeenten-geholpen-door-ondersteuningsteam-asiel/",
+   "date": "2026-11-17T09:07:17.000Z",
+   "desc": "Het ondersteuningsteam asiel (OTA) voorziet in een concrete behoefte en externe adviseurs worden uitsluitend aanvullend ingezet wanneer dat nodig is. De VNG wil de pilot graag verlengen.",
+   "cats": [
+    "Sociaal",
+    "asielopvang",
+    "asielopvang; spreidingswet"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Kabinet brengt gemeentelijke en provinciale taken in kaart om financiële knelpunten zichtbaar te maken",
+   "link": "https://www.gemeente.nu/bestuur/kabinet-brengt-gemeentelijke-en-provinciale-taken-in-kaart-om-financiele-knelpunten-zichtbaar-te-maken/",
+   "date": "2026-11-17T07:00:39.000Z",
+   "desc": "Het kabinet wil beter inzicht krijgen in de verhouding tussen de wettelijke taken van gemeenten en provincies en de financiële middelen die zij daarvoor ontvangen. Een eerste inventarisatie van het takenpakket is inmiddels afgerond. Begin 2027 volgt een uitgebreider onderzoek naar de beleidsvrijheid en uitvoeringsmogelijkheden van medeoverheden.",
+   "cats": [
+    "Bestuur"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
    "title": "Geadopteerden kunnen vijf jaar lang gratis hun naam laten wijzigen",
    "link": "https://www.gemeente.nu/bedrijfsvoering/burgerzaken/geadopteerden-kunnen-vijf-jaar-lang-gratis-hun-naam-laten-wijzigen/",
    "date": "2026-11-16T12:52:37.000Z",
@@ -2255,25 +2297,56 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Amsterdam had moeite om nieuwe gemeentesecretaris te vinden",
-   "link": "https://www.gemeente.nu/bestuur/amsterdam-had-moeite-om-nieuwe-gemeentesecretaris-te-vinden/",
-   "date": "2026-11-16T05:34:00.000Z",
-   "desc": "Meerdere topambtenaren zagen vorig jaar af van een sollicitatie naar de functie van Amsterdamse gemeentesecretaris. Het afbreukrisico, de constructie met kwartiermaker Tijs van Lieshout en het salaris schrikten potentiële kandidaten af, blijkt uit Woo-stukken (Wet open overheid), zo schrijft Het Parool.",
+   "source": "Computable",
+   "title": "Kort: Google breidt ‘soevereine EU-cloud’ uit, topambtenaar Amsterdam taait af ondanks ict-crisis (en meer)",
+   "link": "https://www.computable.nl/2026/11/17/kort-google-breidt-soevereine-eu-cloud-uit-topambtenaar-amsterdam-taait-af-ondanks-ict-crisis-en-meer/",
+   "date": "2026-11-17T12:30:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Google Cloud kondigt nieuwe, soevereine clouddiensten aan, Techleap: Nederland mist deeptech-ambitie, PharmaPartners benoemt nieuwe directieleden, Vlaamse ai-agents van Nabu komen naar Nederland en Amsterdam ziet topambtenaar vertrekken tijdens ict-crisis.",
    "cats": [
-    "Bestuur",
-    "Amsterdam",
-    "gemeentesecretaris"
+    "Cloud & Infrastructure",
+    "Carrière",
+    "Data & AI",
+    "Financiële dienstverlening",
+    "IT Careers",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Leadership",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Overheid",
+    "Soevereiniteit",
+    "Zorg",
+    "ceo",
+    "cloud",
+    "EU-cloud",
+    "Fintech",
+    "innovatie",
+    "Investering",
+    "Kort",
+    "Projectmanagement",
+    "soevereiniteit",
+    "Startups"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Begeleiding op de B1-route: bespreek de voortgang per examenonderdeel",
-   "link": "https://www.gemeente.nu/sociaal/begeleiding-op-de-b1-route-bespreek-de-voortgang-per-examenonderdeel/",
-   "date": "2026-11-13T05:41:00.000Z",
-   "desc": "Begeleid de B1-route onder de Wet inburgering 2021 vanuit het persoonlijk plan inburgering en participatie (PIP). Bespreek met de inburgeraar en de taalschool gemaakte opdrachten per examenonderdeel. Controleer de examenonderdelen in het PIP en de termijn bij DUO Na de brede intake legt de gemeente de leerroute en begeleiding vast in het PIP. Die intake ... lees verder",
+   "source": "Computable",
+   "title": "UvA-onderzoekers kritisch op EU-voorstel digitale autonomie",
+   "link": "https://www.computable.nl/2026/11/17/uva-onderzoekers-kritisch-op-eu-voorstel-digitale-autonomie/",
+   "date": "2026-11-17T06:15:00.000Z",
+   "desc": "Het Europese voorstel voor een Cloud and AI Development Act (Cada) is niet ambitieus genoeg om de digitale autonomie van Europa te vergroten. De onderzoekers van het Instituut voor Informatierecht (IViR) van de Universiteit van Amsterdam stellen dat na een analyse van de Cada.",
    "cats": [
-    "Sociaal"
+    "Cloud & Infrastructure",
+    "Datacenter",
+    "Datacenter & Infrastructure",
+    "IT Governance & Control",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Soevereiniteit",
+    "AI",
+    "Cada",
+    "cloud",
+    "Onderzoek",
+    "soevereiniteit"
    ]
   },
   {
@@ -2348,20 +2421,14 @@
    ]
   },
   {
-   "source": "Computable",
-   "title": "China moet stoppen met frustreren van Nexperia Nijmegen",
-   "link": "https://www.computable.nl/2026/11/13/china-moet-stoppen-met-frustreren-van-nexperia-nijmegen/",
-   "date": "2026-11-13T17:00:00.000Z",
-   "desc": "De bij Nexperia geschorste bestuurder Zhang Xuezheng (alias mr. Wing), zijn bedrijf Wingtech en de afvallige dochter Nexperia China mogen de leiding van de chipmaker met hoofdkantoor in Nijmegen niet meer frustreren. Dat heeft de Ondernemingskamer geoordeeld.",
+   "source": "AG Connect",
+   "title": "De overheid moet van X af, zegt stichting The Big Swing",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/de-overheid-moet-van-x-af-zegt-stichting-the-big-swing",
+   "date": "2026-11-17T12:19:49.000Z",
+   "desc": "De campagne ‘Weg van X’ roept politici op om te switchen naar andere social media.",
    "cats": [
-    "Cloud & Infrastructure",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "China",
-    "Chips",
-    "Ondernemingskamer",
-    "Rechtszaak"
+    "Maatschappij",
+    "Overheid"
    ]
   },
   {
