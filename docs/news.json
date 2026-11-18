@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:47:32.858Z",
+ "updated": "2026-11-18T13:43:17.322Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,50 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Trots op Nederlandse digitale voorzieningen",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/trots-op-nederlandse-digitale-voorzieningen",
+   "date": "2026-11-18T13:36:00.000Z",
+   "desc": "Waarom geen Google, Facebook of Microsoft account om in te loggen? Om redenen van zeggenschap, eigenaarschap en verantwoordelijkheid nemen.",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "CIP-handreiking Gegevensverwerking in complexe ketens: zet de maatschappelijke opgave centraal",
+   "link": "https://ibestuur.nl/data-en-ai/datagedreven-werken/cip-handreiking-gegevensverwerking-in-complexe-ketens",
+   "date": "2026-11-18T11:13:48.000Z",
+   "desc": "Het gaat niet om zoveel mogelijk gegevens, maar om de juiste informatie op het juiste moment en in de juiste context.",
+   "cats": [
+    "Data en AI",
+    "Datagedreven werken"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Ineke van Gent (ACOI): ‘Woo niet aanpassen, maar beter uitvoeren’",
+   "link": "https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/woo-niet-aanpassen-maar-beter-uitvoeren",
+   "date": "2026-11-18T09:46:12.000Z",
+   "desc": "Het probleem ligt niet bij de wet, maar bij de informatiehuishouding en de manier waarop overheden verzoeken afhandelen.",
+   "cats": [
+    "Overheid in Transitie",
+    "Management en bedrijfsvoering"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "In Doesburg neemt AI de telefoon op",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/in-doesburg-neemt-ai-de-telefoon-op",
+   "date": "2026-11-18T08:45:30.000Z",
+   "desc": "Met 1,5 FTE voor het KCC en de receptie is kunstmatige intelligentie een uitkomst voor de gemeente.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Kamer wijst voorstel voor nieuw ministerie van Digitale Zaken af",
@@ -1617,47 +1661,37 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Amnesty roept Heerlen op te stoppen met AI-project",
-   "link": "https://ibestuur.nl/data-en-ai/datagedreven-werken/amnesty-roept-heerlen-op-te-stoppen-met-ai-project",
-   "date": "2026-09-29T14:32:39.000Z",
-   "desc": "Heerlen probeert de veiligheid te vergroten met behulp van een Social Digital Twin.",
+   "source": "Digitale Overheid",
+   "title": "Nieuwe techniek voor veiliger dataonderzoek",
+   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-techniek-voor-veiliger-dataonderzoek/",
+   "date": "2026-11-18T12:15:05.000Z",
+   "desc": "Het CBS, RIVM en Roseman Labs testten een methode om versleutelde gegevens te analyseren. De pilot laat zien hoe organisaties veilig kunnen samenwerken met data.",
    "cats": [
-    "Data en AI",
-    "Datagedreven werken"
+    "Nieuws",
+    "CBS",
+    "data",
+    "data delen",
+    "MPC",
+    "privacybescherming",
+    "RIVM",
+    "samenwerking",
+    "Secure Multi-Party Computation",
+    "verantwoordelijk"
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Laten we eerlijk zijn",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/laten-we-eerlijk-zijn",
-   "date": "2026-09-29T13:00:00.000Z",
-   "desc": "Premier Jetten gebruikt AI voor zijn sociale mediaberichten, zo bleek onlangs uit onderzoek van de Volkskrant. De vraag is: hoe erg is dat?",
+   "source": "Digitale Overheid",
+   "title": "Weerbaarder worden in 3 stappen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/weerbaarder-worden-in-3-stappen/",
+   "date": "2026-11-18T10:49:16.000Z",
+   "desc": "Continuïteit van kritieke diensten houdt in dat bij een calamiteit het belangrijkste werk doorgaat. Ook met weinig budget, zegt programmamanager Marianne van den Boogaart.",
    "cats": [
-    "Data en AI",
-    "Ethiek"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "AI die hackt? Dat woord bestaat niet",
-   "link": "https://ibestuur.nl/data-en-ai/techniek/ai-die-hackt-dat-woord-bestaat-niet",
-   "date": "2026-09-29T11:00:00.000Z",
-   "desc": "AI lost problemen op, vasthoudender en geduldiger dan ons lief is, en loopt naar binnen via deuren die wijzelf op een kier laten staan.",
-   "cats": [
-    "Data en AI",
-    "Techniek"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Microsoft geeft geen garanties na delen namen ACM-medewerkers",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/microsoft-doet-geen-garanties-na-delen-namen-acm-medewerkers",
-   "date": "2026-09-29T08:48:31.000Z",
-   "desc": "Microsoft zei in het gesprek de zorgen en het ongenoegen van de ACM te begrijpen, maar deed ‘geen toezeggingen over de toekomst’",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
+    "NDS nieuws",
+    "BCM",
+    "Business Continuity Management",
+    "Crisis",
+    "digitale weerbaarheid",
+    "weerbaarheid"
    ]
   },
   {
@@ -1770,32 +1804,25 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Overheid oefent aanpak langdurige cybercrisis",
-   "link": "https://www.digitaleoverheid.nl/nieuws/overheid-oefent-aanpak-langdurige-cybercrisis/",
-   "date": "2026-11-04T08:44:59.000Z",
-   "desc": "Wat als belangrijke systemen uitvallen? Overheidsorganisaties oefenden met de gevolgen van een langdurige crisis. Ook desinformatie en communicatie kwamen aan bod.",
+   "source": "Binnenlands Bestuur",
+   "title": "Datacenters verbruikten vorig jaar 5 procent Nederlandse stroom",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/datacenters-verbruikten-in-2025-5-procent-nederlandse-stroom",
+   "date": "2026-11-18T09:13:45.000Z",
+   "desc": "Datacenters verbruikten vorig jaar 5 procent van alle elektriciteit in Nederland, tegenover 4,6 procent een jaar eerder. In totaal ging het om ruim 5600 gigawattuur. Nederland heeft daarmee na Ierland het hoogste aandeel elektriciteitsverbruik door datacenters binnen de Europese Unie, meldt het Centraal Bureau voor de Statistiek (CBS).",
    "cats": [
-    "Nieuws",
-    "crisiscommunicatie",
-    "Cybercrisis",
-    "cybersecurity",
-    "desinformatie",
-    "digitale weerbaarheid",
-    "nieuwsbrief-19-2026",
-    "overheidsbrede Cyberoefening"
+    "digitaal",
+    "duurzaamheid"
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Brede Welvaart Scan helpt gemeenten verder kijken",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/brede-welvaart-scan-helpt-gemeenten-verder-kijken/",
-   "date": "2026-11-03T10:15:00.000Z",
-   "desc": "Wat betekent een beleidskeuze voor de leefbaarheid, gezondheid of veiligheid van inwoners? Met de digitale Brede Welvaart Scan brengt de gemeente Amsterdam effecten in beeld.",
+   "source": "Binnenlands Bestuur",
+   "title": "In Doesburg neemt AI de telefoon op",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/in-doesburg-neemt-ai-de-telefoon-op",
+   "date": "2026-11-18T08:00:00.000Z",
+   "desc": "Wie de gemeente Doesburg belt, krijgt Iris aan de telefoon: een AI-agent. Kunstmatige intelligentie helpt de Gelderse gemeente om de werkdruk bij de receptie te verlagen en om inwoners beter van dienst te zijn.",
    "cats": [
-    "Achtergrond",
-    "innovatiebudget",
-    "nieuwsbrief-19-2026"
+    "digitaal",
+    "kunstmatige intelligentie"
    ]
   },
   {
@@ -2162,36 +2189,29 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Jeugdboa’s speuren online naar jongeren, maar waar ligt de grens?",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/jeugdboas-speuren-online-naar-jongeren-waar-ligt-de-grens",
-   "date": "2026-10-30T14:00:00.000Z",
-   "desc": "Jeugdboa’s kijken op Instagram wat er onder jongeren speelt, volgen ontwikkelingen binnen jeugdgroepen en gebruiken die informatie vervolgens bij hun werk op straat. Maar hoe ver mogen gemeentelijke handhavers daarin gaan? Uit nieuw onderzoek van de Thorbecke Academie van NHL Stenden Hogeschool blijkt dat jeugdboa’s ook actief zijn in de digitale leefwereld van jongeren, terwijl duidelijke afsprak",
+   "source": "Gemeente.nu",
+   "title": "Werkbegeleiding vanuit azc succesvol",
+   "link": "https://www.gemeente.nu/sociaal/werk/werkbegeleiding-vanuit-azc-succesvol/",
+   "date": "2026-11-18T07:38:13.000Z",
+   "desc": "Gerichte begeleiding door gemeenten helpt mensen in de asielprocedure bij het vinden van betaald werk. Uit een publicatie van Platform31 en het Stedennetwerk G40 blijkt dat bijna de helft van de 552 deelnemers aan pilots in vijf gemeenten een baan vond. Persoonlijke begeleiding, nauwe samenwerking en ondersteuning op de werkvloer blijken belangrijke succesfactoren. Gemeenten hebben ... lees verder",
    "cats": [
-    "digitaal",
-    "privacy"
+    "Werk",
+    "asielzoekers",
+    "azc",
+    "werk"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Autoriteit Persoonsgegevens heft verscherpt toezicht Zuid-Holland op",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/ap-heft-verscherpt-toezicht-zuid-holland-op",
-   "date": "2026-10-30T13:40:18.000Z",
-   "desc": "‘De provincie Zuid-Holland moest van ver komen’, schrijft de toezichthouder. ‘Dat was zeker in het begin van het traject goed te merken aan de hoeveelheid tijd die het kostte om de noodzakelijke verbeteringen door te voeren.’",
+   "source": "Gemeente.nu",
+   "title": "Gemeente mag vergunning voor McDonald’s met McDrive weigeren",
+   "link": "https://www.gemeente.nu/ruimte-milieu/leefomgeving/gemeente-mag-vergunning-voor-mcdonalds-met-mcdrive-weigeren/",
+   "date": "2026-11-18T05:56:00.000Z",
+   "desc": "De gemeenten Rheden en Zutphen hebben terecht geen toestemming gegeven voor de komst van nieuwe McDonald’s-restaurants met een McDrive. Dat heeft de rechtbank in twee afzonderlijke zaken geoordeeld. In beide gevallen is de drive-through de belangrijkste reden waarom de bouwplannen niet binnen het bestemmingsplan passen. Projectontwikkelaar Reggestede wilde aan de Arnhemsestraatweg in Rheden een Mc",
    "cats": [
-    "digitaal",
-    "privacy"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Ook ChatGPT-gesprekken van ambtenaren kunnen openbaar worden via Woo",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/gesprekken-van-ambtenaren-met-chatgpt-kunnen-openbaar-worden",
-   "date": "2026-10-30T11:00:00.000Z",
-   "desc": "Ambtenaren die ChatGPT of Copilot gebruiken bij het voorbereiden van beleid, moeten er rekening mee houden dat hun gesprekken openbaar kunnen worden. Ook het verwijderen van AI-chats kan juridische gevolgen hebben. De bestaande wetten bieden daarvoor grotendeels een juridisch kader, maar praktische richtlijnen voor overheidsorganisaties ontbreken nog.",
-   "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
+    "Leefomgeving",
+    "bestemmingsplan",
+    "bouwplan",
+    "horeca"
    ]
   },
   {
@@ -2286,26 +2306,33 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Verduurzaming woningen moet drie tot zes keer sneller",
-   "link": "https://www.gemeente.nu/ruimte-milieu/duurzaamheid/verduurzaming-woningen-moet-drie-tot-zes-keer-sneller/",
-   "date": "2026-11-16T10:58:49.000Z",
-   "desc": "De verduurzaming van de Nederlandse woningvoorraad verloopt veel te traag om de klimaatdoelen voor 2050 te halen. Het Rijk moet daarom meer regie nemen, strengere normen invoeren en langdurige financiële zekerheid bieden.",
+   "source": "Computable",
+   "title": "Kort: CBS ziet nieuwe piek in elektriciteitsverbruik datacenters, mailbeveiliging schiet tekort bij meeste .nl-domeinen (en meer)",
+   "link": "https://www.computable.nl/2026/11/18/kort-cbs-ziet-nieuwe-piek-in-elektriciteitsverbruik-datacenters-mailbeveiliging-schiet-tekort-bij-meeste-nl-domeinen-en-meer/",
+   "date": "2026-11-18T11:00:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Datacenters tikken grens 5 procent stroomverbruik aan, YVI Application Family in Noorse handen, Soverin lanceert Europees alternatief voor Microsoft 365, Justflows biedt modern opensource-cms en onderzoek Brandaris: vervalste e-mail vaak vrij spel op .nl-domeinen.",
    "cats": [
-    "Duurzaamheid",
-    "verduurzamen woningen"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Nota Ruimte: tien extra grote woningbouwlocaties",
-   "link": "https://www.gemeente.nu/ruimte-milieu/nota-ruimte-tien-extra-grote-woningbouwlocaties/",
-   "date": "2026-11-16T10:04:30.000Z",
-   "desc": "Het kabinet wil steviger bepalen hoe Nederland de komende decennia wordt ingericht. In de nieuwe Nota Ruimte, die minister Elanor Boekholt-O’Sullivan naar de Tweede Kamer heeft gestuurd, staan woningbouw, economische ontwikkeling, natuur en klimaatadaptatie centraal. Tien nieuwe grootschalige woningbouwlocaties moeten helpen de woningnood terug te dringen. Maar niet alles kan overal: het kabinet w",
-   "cats": [
-    "Ruimte & Milieu",
-    "Nota Ruimte",
-    "woningbouw"
+    "Datacenter & Infrastructure",
+    "Business Applications",
+    "Cloud & Infrastructure",
+    "Content management",
+    "CRM",
+    "ERP",
+    "IT Governance & Control",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Security & Risk",
+    "Soevereiniteit",
+    "Software & Development",
+    "CMS",
+    "Datacenter",
+    "E-mailmanagement",
+    "Energie",
+    "Kort",
+    "Opensource",
+    "Overname",
+    "Projectmanagement"
    ]
   },
   {
@@ -2393,55 +2420,6 @@
     "cloud",
     "Onderzoek",
     "soevereiniteit"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Hoe Russische hackers Navo- en EU-mails wilden on­der­schep­pen",
-   "link": "https://www.computable.nl/2026/11/16/hoe-russische-hackers-navo-en-eu-mails-wilden-onderscheppen/",
-   "date": "2026-11-16T12:00:00.000Z",
-   "desc": "De aan Rusland gelinkte hackersgroep Turla zou een nieuwe spionagetool inzetten om mails van overheden mee te lezen, waaronder berichten van of naar de Navo en de EU. Dat meldt beveiligingsbedrijf Eset, dat de toolset Cereal doopte. Turla wordt beschouwd als onderdeel van de Russische inlichtingendi",
-   "cats": [
-    "Security & Risk",
-    "Overheid",
-    "Cyberaanval",
-    "E-mailmanagement",
-    "geopolitiek",
-    "hack",
-    "spionage"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: VS trekt 50 miljard uit na ict-chaos luchtvaart, gps-jamming raakt Nederlands vliegverkeer (en meer)",
-   "link": "https://www.computable.nl/2026/11/16/kort-vs-trekt-50-miljard-uit-na-ict-chaos-luchtvaart-gps-jamming-raakt-nederlands-vliegverkeer-en-meer/",
-   "date": "2026-11-16T10:00:00.000Z",
-   "desc": "In dit nieuwsoverzicht: FAA krijgt miljarden voor modernisering vliegverkeer, onderzoek naar Russische gps-storing bij Schiphol, Wolters Kluwer ontfermt zich over ai-specialist AgileMD, Noord-Europees consortium wil netwerk van ai-datacenters en telecomaffaire kost Surinaamse minister de kop.",
-   "cats": [
-    "Backup & Recovery",
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Data Infrastructure",
-    "Datacenter & Infrastructure",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Security & Risk",
-    "Software & Development",
-    "Zorg",
-    "ai-fabriek",
-    "E health platforms",
-    "GPS",
-    "Kort",
-    "Legacy",
-    "Luchtvaart",
-    "minister",
-    "Nokia",
-    "Overname",
-    "radar",
-    "Storing",
-    "Telecom"
    ]
   },
   {
