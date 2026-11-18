@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:43:17.322Z",
+ "updated": "2026-11-18T21:44:42.727Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,17 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "AI in de politiek: democratische afweging mag geen taak van algoritmen worden",
+   "link": "https://ibestuur.nl/digitalisering-en-democratie/politiek-en-beleid/ai-democratie-belangenafweging-algoritmen",
+   "date": "2026-11-18T14:24:08.000Z",
+   "desc": "Wie bepaalt eigenlijk hoe de informatie wordt gefilterd en of en welk waardeoordeel hieraan wordt gegeven?",
+   "cats": [
+    "Digitalisering en Democratie",
+    "Politiek en beleid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Trots op Nederlandse digitale voorzieningen",
@@ -1650,17 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Snijden in de overheid begint niet bij de mensen",
-   "link": "https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/snijden-in-de-overheid-begint-niet-bij-de-mensen",
-   "date": "2026-09-30T08:00:00.000Z",
-   "desc": "Laten we op een intelligente manier gebruikmaken van onze IT-sector en de mogelijkheden die AI ons brengt. Alle ingrediënten zijn aanwezig.",
-   "cats": [
-    "Overheid in Transitie",
-    "Management en bedrijfsvoering"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Nieuwe techniek voor veiliger dataonderzoek",
    "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-techniek-voor-veiliger-dataonderzoek/",
@@ -1801,6 +1801,17 @@
     "nieuwsbrief-19-2026",
     "Online kinderrechten",
     "wetsvoorstel"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Gegevens duizend inwoners Dordrecht jarenlang onwettig gedeeld",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-1000-inwoners-dordrecht-jarenlang-onwettig-gedeeld",
+   "date": "2026-11-18T13:00:00.000Z",
+   "desc": "De gemeente Dordrecht heeft de persoonsgegevens van ruim duizend inwoners niet goed gedeeld, beschermd en bewaard. Om overlast aan te pakken werden gegevens van mensen die dit veroorzaakten door de gemeente tussen 2018 en 2025 gedeeld met partners. Uit onderzoek blijkt nu dat die gegevens niet zorgvuldig zijn verwerkt, meldt de Zuid-Hollandse gemeente in een persbericht.",
+   "cats": [
+    "digitaal",
+    "privacy"
    ]
   },
   {
@@ -2178,14 +2189,33 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Microsoft Edge browser scoort slechter op privacy dan alternatieven",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/browser-edge-scoort-slechter-op-privacy-dan-alternatieven",
-   "date": "2026-10-31T11:00:00.000Z",
-   "desc": "Het rijk liet een privacyonderzoek uitvoeren naar verschillende internetbrowsers. Microsoft Edge for Business komt daar niet goed uit. SLM Cloud adviseert de aanbieders van werkplekdiensten nu om te onderzoeken of Mozilla Firefox Enterprise als alternatief kan dienen. Voor de langere termijn is Vivaldi Browser een soevereine optie.",
+   "source": "Gemeente.nu",
+   "title": "Hoe Airbnb de stad verandert",
+   "link": "https://www.gemeente.nu/ruimte-milieu/leefomgeving/hoe-airbnb-de-stad-verandert/",
+   "date": "2026-11-18T16:16:41.000Z",
+   "desc": "Airbnb presenteert zich graag als een platform waarop gewone mensen hun huis delen. UvA-geograaf Jelke Bosma laat in zijn proefschrift zien dat dit beeld veel verbergt.",
    "cats": [
-    "digitaal",
-    "privacy"
+    "Leefomgeving",
+    "Wonen",
+    "Airbnb",
+    "leefbaarheid",
+    "vakantieverhuur"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Gemeenten staan er financieel goed voor, maar de investeringsruimte schiet tekort",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/gemeenten-staan-er-financieel-goed-voor-maar-de-investeringsruimte-schiet-tekort/",
+   "date": "2026-11-18T13:50:19.000Z",
+   "desc": "De financiële gezondheid van gemeenten is over het algemeen goed, maar dat beeld is niet het hele verhaal. Veel gemeenten moeten de komende jaren flink bezuinigen om noodzakelijke investeringen te kunnen blijven doen. Dat blijkt uit de nieuwe monitor financiële conditie gemeenten 2025 van de VNG.",
+   "cats": [
+    "Bedrijfsvoering",
+    "Financiën",
+    "begroting",
+    "bezuinigingen",
+    "gemeentefinanciën",
+    "investeringen",
+    "VNG"
    ]
   },
   {
@@ -2281,28 +2311,6 @@
    "cats": [
     "Agenda",
     "Bestuurs(proces)recht"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Basiscursus Algemene wet bestuursrecht",
-   "link": "https://www.gemeente.nu/agenda/basiscursus-algemene-wet-bestuursrecht-3/",
-   "date": "2026-11-16T11:28:05.000Z",
-   "desc": "Introductie in de belangrijkste aspecten van het bestuurs(proces)recht De Algemene wet bestuursrecht (Awb) vormtal meer dan25 jaar het fundament onder het totale bestuursrecht in Nederland en geldt daarom als de belangrijkste basiswet voor het overheidshandelen. Wil jij als beginnend advocaat, overheidsjurist of bedrijfsjurist beschikken over basiskennis van de Awb, omdat je in jouw werk hiermee .",
-   "cats": [
-    "Agenda",
-    "Bestuurs(proces)recht"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Overheidsaansprakelijkheid",
-   "link": "https://www.gemeente.nu/agenda/aansprakelijkheid-agenda/overheidsaansprakelijkheid-4/",
-   "date": "2026-11-16T11:22:07.000Z",
-   "desc": "Praktijkgerichte cursus over onrechtmatige overheidsbesluiten en aansprakelijkheid van de overheid uit onrechtmatige daad De overheid wordt steeds vaker aansprakelijk gesteld voor schade die het gevolg is van haar handelen. Dit handelen heeft allerlei verschillende verschijningsvormen, zoals onrechtmatige besluitvorming, onjuiste informatieverstrekking of het niet nakomen van toezeggingen. Ook het",
-   "cats": [
-    "Aansprakelijkheid",
-    "Agenda"
    ]
   },
   {
@@ -2553,6 +2561,30 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in F5 Networks NGINX: update nu",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-f5-networks-nginx-update-nu",
+   "date": "2026-11-18T16:40:27.000Z",
+   "desc": "Er zijn meerdere kwetsbaarheden gevonden in NGINX Plus en NGINX Open Source van F5 Networks, waaronder CVE-2026-123007 met een hoge ernst (CVSS 8.1). Het Nationaal Cyber Security Centrum (NCSC) beoordeelt de kans op misbruik en de mogelijke schade als groot. Er wordt verwacht dat er binnenkort proof of concept code beschikbaar komt, waardoor grootschalig misbruik waarschijnlijk is.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheid in Oracle Java compiler: update zo snel mogelijk",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-oracle-java-compiler-update-zo-snel-mogelijk",
+   "date": "2026-11-18T15:48:43.000Z",
+   "desc": "Er is een kwetsbaarheid gevonden in Oracle Java met het nummer CVE-2026-114938 met een CVSS-score van 8.1. Deze kwetsbaarheid heeft een middelgrote kans op misbruik en kan leiden tot ernstige schade. Het advies is om de beschikbare updates van Oracle zo snel mogelijk te installeren.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in Atlassian-producten: installeer de updates",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-atlassian-producten-installeer-de-updates",
+   "date": "2026-11-18T14:59:21.000Z",
+   "desc": "Er zijn meerdere kwetsbaarheden gevonden in Atlassian-producten zoals Bamboo, Bitbucket, Confluence, Jira, Crowd en Fisheye. De kans op misbruik wordt als gemiddeld beoordeeld, maar de mogelijke schade is groot. Het advies is om de beschikbare updates met voorrang te installeren, vooral op systemen die vanaf het internet bereikbaar zijn.",
+   "cats": []
   },
   {
    "source": "NCSC",
