@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:12:47.772Z",
+ "updated": "2026-11-19T23:26:54.812Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -1661,6 +1661,149 @@
    ]
   },
   {
+   "source": "Digitale Overheid",
+   "title": "Nieuwe techniek voor veiliger dataonderzoek",
+   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-techniek-voor-veiliger-dataonderzoek/",
+   "date": "2026-11-18T12:15:05.000Z",
+   "desc": "Het CBS, RIVM en Roseman Labs testten een methode om versleutelde gegevens te analyseren. De pilot laat zien hoe organisaties veilig kunnen samenwerken met data.",
+   "cats": [
+    "Nieuws",
+    "CBS",
+    "data",
+    "data delen",
+    "MPC",
+    "privacybescherming",
+    "RIVM",
+    "samenwerking",
+    "Secure Multi-Party Computation",
+    "verantwoordelijk"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Weerbaarder worden in 3 stappen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/weerbaarder-worden-in-3-stappen/",
+   "date": "2026-11-18T10:49:16.000Z",
+   "desc": "Continuïteit van kritieke diensten houdt in dat bij een calamiteit het belangrijkste werk doorgaat. Ook met weinig budget, zegt programmamanager Marianne van den Boogaart.",
+   "cats": [
+    "NDS nieuws",
+    "BCM",
+    "Business Continuity Management",
+    "Crisis",
+    "digitale weerbaarheid",
+    "weerbaarheid"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Samen werken aan een visie op digitaal vakmanschap",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/samen-werken-aan-een-visie-op-digitaal-vakmanschap/",
+   "date": "2026-11-17T13:00:36.000Z",
+   "desc": "Begin december verschijnt de gezamenlijke visie op digitaal vakmanschap binnen de NDS. Hoe werkten Rijk, gemeenten, waterschappen en publieke dienstverleners samen?",
+   "cats": [
+    "NDS nieuws",
+    "achtergrond",
+    "digitaal vakmanschap",
+    "NDS"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "1 digitale overheid? Alleen als we onze deskundigheid delen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/1-digitale-overheid-alleen-als-we-onze-deskundigheid-delen/",
+   "date": "2026-11-16T13:12:31.000Z",
+   "desc": "\"Als iedere overheidsorganisatie zich ontfermt over 1 onderdeel van de digitale leefomgeving, komen we echt tot 1 digitale overheid\". Een interview met Bert Jan Geveke.",
+   "cats": [
+    "NDS nieuws",
+    "1 overheid",
+    "Architectuur",
+    "Architectuurraad",
+    "NDS",
+    "Nederlandse Digitaliseringsstrategie"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Van digitale mogelijkheden naar concrete tijdwinst",
+   "link": "https://www.digitaleoverheid.nl/cio-rijk/van-digitale-mogelijkheden-naar-concrete-tijdwinst/",
+   "date": "2026-11-16T12:06:15.000Z",
+   "desc": "Hoe vertaal je de mogelijkheden van tijdbesparende technologie naar verbeteringen in de dagelijkse praktijk? Ontdek het op 26 november tijdens het nieuwe CIO-café.",
+   "cats": [
+    "CIO Rijk",
+    "CIO-café",
+    "tijdbesparende technologie"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Overheidsinformatie vraagt om beter archiefbeheer",
+   "link": "https://www.digitaleoverheid.nl/nieuws/overheidsinformatie-vraagt-om-beter-archiefbeheer/",
+   "date": "2026-11-16T07:48:20.000Z",
+   "desc": "De Inspectie Overheidsinformatie en Erfgoed roept op tot beter archiefbeheer bij overheidsorganisaties. Zo moet informatie ook in de toekomst toegankelijk blijven.",
+   "cats": [
+    "Nieuws",
+    "digitaal archiveren",
+    "informatiehuishouding",
+    "Inspectie Overheidsinformatie en Erfgoed"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Handreiking 'Digitaal overbrengen' aangevuld",
+   "link": "https://www.digitaleoverheid.nl/nieuws/handreiking-digitaal-overbrengen-in-de-praktijk-aangevuld/",
+   "date": "2026-11-13T13:47:48.000Z",
+   "desc": "De handreiking 'Digitaal overbrengen in de praktijk' geeft je handvatten bij het digitaal overbrengen van overheidsinformatie. Afgestemd op de vernieuwde Archiefwet.",
+   "cats": [
+    "Nieuws",
+    "Archiefwet",
+    "archiefwet 2026",
+    "informatiehuishouding",
+    "nationaal archief"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Positie van gemeenten en provincies rondom CADA",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/positie-van-gemeenten-en-provincies-rondom-cada/",
+   "date": "2026-11-11T13:07:21.000Z",
+   "desc": "Gemeenten en provincies steunen Europese plannen voor meer digitale autonomie, en zien ruimte om het wetsvoorstel voor de Cloud and AI Development Act te versterken.",
+   "cats": [
+    "NDS nieuws",
+    "AI",
+    "CADA",
+    "cloud",
+    "gemeenten",
+    "NDS",
+    "provincies"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
+   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
+   "date": "2026-11-10T07:43:08.000Z",
+   "desc": "Het kabinet kiest voor een visie op AI die bijdraagt aan een sterke economie, goede publieke dienstverlening en oplossingen voor maatschappelijke uitdagingen.",
+   "cats": [
+    "Nieuws",
+    "AI",
+    "nieuwsbrief-19-2026"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Steun voor EU KIDS Act, met extra aandacht voor privacy",
+   "link": "https://www.digitaleoverheid.nl/nieuws/ssteun-voor-eu-kids-act-met-extra-aandacht-voor-privacy/",
+   "date": "2026-11-09T09:01:35.000Z",
+   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet is positief en vraagt daarbij extra aandacht voor grondrechten en privacy.",
+   "cats": [
+    "Nieuws",
+    "EU KIDS Act",
+    "nieuwsbrief-19-2026",
+    "Online kinderrechten",
+    "wetsvoorstel"
+   ]
+  },
+  {
    "source": "Binnenlands Bestuur",
    "title": "Gegevens duizend inwoners Dordrecht jarenlang onwettig gedeeld",
    "link": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-1000-inwoners-dordrecht-jarenlang-onwettig-gedeeld",
@@ -2160,54 +2303,6 @@
     "Onderwijs",
     "Overheid",
     "Security & Risk",
-    "Computable Awards"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: CBS ziet nieuwe piek in elektriciteitsverbruik datacenters, mailbeveiliging schiet tekort bij meeste .nl-domeinen (en meer)",
-   "link": "https://www.computable.nl/2026/11/18/kort-cbs-ziet-nieuwe-piek-in-elektriciteitsverbruik-datacenters-mailbeveiliging-schiet-tekort-bij-meeste-nl-domeinen-en-meer/",
-   "date": "2026-11-18T11:00:00.000Z",
-   "desc": "In dit nieuwsoverzicht: Datacenters tikken grens 5 procent stroomverbruik aan, YVI Application Family in Noorse handen, Soverin lanceert Europees alternatief voor Microsoft 365, Justflows biedt modern opensource-cms en onderzoek Brandaris: vervalste e-mail vaak vrij spel op .nl-domeinen.",
-   "cats": [
-    "Datacenter & Infrastructure",
-    "Business Applications",
-    "Cloud & Infrastructure",
-    "Content management",
-    "CRM",
-    "ERP",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Security & Risk",
-    "Soevereiniteit",
-    "Software & Development",
-    "CMS",
-    "Datacenter",
-    "E-mailmanagement",
-    "Energie",
-    "Kort",
-    "Opensource",
-    "Overname",
-    "Projectmanagement"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Dit zijn de winnaars van de Computable Awards 2026",
-   "link": "https://www.computable.nl/2026/11/17/dit-zijn-de-winnaars-van-de-computable-awards-2026/",
-   "date": "2026-11-17T22:15:27.000Z",
-   "desc": "De winnaars van de Computable Awards 2026 zijn bekend. Tijdens een feestelijke gala-avond in Utrecht zijn op 17 november zeventien awards uitgereikt aan bedrijven, organisaties en ict-professionals die zich onderscheiden met innovatieve projecten en bijzondere prestaties. Dit zijn de winnaars.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Industry & OT",
-    "Onderwijs",
-    "Overheid",
-    "Zorg",
     "Computable Awards"
    ]
   },
