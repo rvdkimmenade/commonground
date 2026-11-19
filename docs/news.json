@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:44:42.727Z",
+ "updated": "2026-11-19T14:12:47.772Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,39 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Wetsvoorstel e-facturatie in consultatie: Belastingdienst moet er per 1 januari 2030 klaar voor zijn",
+   "link": "https://ibestuur.nl/overheid-in-transitie/wetgeving/wetsvoorstel-e-facturatie-in-consultatie-belastingdienst",
+   "date": "2026-11-19T10:29:11.000Z",
+   "desc": "Ministerie raamt invoering van de e-factuur op 3,6 tot 6,3 miljard, maar het moet een flinke besparing opleveren en btw-fraude tegengaan.",
+   "cats": [
+    "Overheid in Transitie",
+    "Wetgeving"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Privacywaakhond adviseert verbod op camerabrillen in gebouwen",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/privacywaakhond-adviseert-verbod-camerabrillen-in-gebouwen",
+   "date": "2026-11-19T08:59:33.000Z",
+   "desc": "De AP vindt de brillen nog onveilig vanwege de risico’s voor gebruikers en omstanders. Consumenten wordt afgeraden er een te kopen.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "CBS en RIVM testen techniek om vertrouwelijke data te combineren zonder gegevensuitwisseling",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/cbs-en-rivm-testen-techniek-met-vertrouwelijke-data",
+   "date": "2026-11-19T08:40:58.000Z",
+   "desc": "Met de techniek kunnen meerdere partijen berekeningen uitvoeren op versleutelde gegevens, zonder toegang tot elkaars databestanden.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "AI in de politiek: democratische afweging mag geen taak van algoritmen worden",
@@ -1628,182 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "CIO Rijk: ‘assume breach’ in Citrix Netscaler",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/cio-rijk-assume-breach-in-citrix-netscaler",
-   "date": "2026-09-30T09:39:00.000Z",
-   "desc": "Ga er voor de zekerheid van uit dat aanvallers de kwetsbaarheden hebben misbruikt, adviseert CIO Rijk na een hectisch weekend.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Kenniscentrum Europa Decentraal naar VNG",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/kenniscentrum-europa-decentraal-naar-vng",
-   "date": "2026-09-30T09:04:46.000Z",
-   "desc": "De stichting die kennis over Europees beleid deelt met medeoverheden wordt onderdeel van de Vereniging van Nederlandse Gemeenten (VNG).",
-   "cats": [
-    "Digitale Toekomst EU",
-    "EU-wetgeving"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/gratis-digitale-autonomie-zonder-digitale-dienst",
-   "date": "2026-09-30T08:51:00.000Z",
-   "desc": "Een oproep voor het commissiedebat Digitale Zaken van vandaag: geef aan dat de situatie op dit moment onacceptabel is.",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe techniek voor veiliger dataonderzoek",
-   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-techniek-voor-veiliger-dataonderzoek/",
-   "date": "2026-11-18T12:15:05.000Z",
-   "desc": "Het CBS, RIVM en Roseman Labs testten een methode om versleutelde gegevens te analyseren. De pilot laat zien hoe organisaties veilig kunnen samenwerken met data.",
-   "cats": [
-    "Nieuws",
-    "CBS",
-    "data",
-    "data delen",
-    "MPC",
-    "privacybescherming",
-    "RIVM",
-    "samenwerking",
-    "Secure Multi-Party Computation",
-    "verantwoordelijk"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Weerbaarder worden in 3 stappen",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/weerbaarder-worden-in-3-stappen/",
-   "date": "2026-11-18T10:49:16.000Z",
-   "desc": "Continuïteit van kritieke diensten houdt in dat bij een calamiteit het belangrijkste werk doorgaat. Ook met weinig budget, zegt programmamanager Marianne van den Boogaart.",
-   "cats": [
-    "NDS nieuws",
-    "BCM",
-    "Business Continuity Management",
-    "Crisis",
-    "digitale weerbaarheid",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Samen werken aan een visie op digitaal vakmanschap",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/samen-werken-aan-een-visie-op-digitaal-vakmanschap/",
-   "date": "2026-11-17T13:00:36.000Z",
-   "desc": "Begin december verschijnt de gezamenlijke visie op digitaal vakmanschap binnen de NDS. Hoe werkten Rijk, gemeenten, waterschappen en publieke dienstverleners samen?",
-   "cats": [
-    "NDS nieuws",
-    "achtergrond",
-    "digitaal vakmanschap",
-    "NDS"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "1 digitale overheid? Alleen als we onze deskundigheid delen",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/1-digitale-overheid-alleen-als-we-onze-deskundigheid-delen/",
-   "date": "2026-11-16T13:12:31.000Z",
-   "desc": "\"Als iedere overheidsorganisatie zich ontfermt over 1 onderdeel van de digitale leefomgeving, komen we echt tot 1 digitale overheid\". Een interview met Bert Jan Geveke.",
-   "cats": [
-    "NDS nieuws",
-    "1 overheid",
-    "Architectuur",
-    "Architectuurraad",
-    "NDS",
-    "Nederlandse Digitaliseringsstrategie"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Van digitale mogelijkheden naar concrete tijdwinst",
-   "link": "https://www.digitaleoverheid.nl/cio-rijk/van-digitale-mogelijkheden-naar-concrete-tijdwinst/",
-   "date": "2026-11-16T12:06:15.000Z",
-   "desc": "Hoe vertaal je de mogelijkheden van tijdbesparende technologie naar verbeteringen in de dagelijkse praktijk? Ontdek het op 26 november tijdens het nieuwe CIO-café.",
-   "cats": [
-    "CIO Rijk",
-    "CIO-café",
-    "tijdbesparende technologie"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Overheidsinformatie vraagt om beter archiefbeheer",
-   "link": "https://www.digitaleoverheid.nl/nieuws/overheidsinformatie-vraagt-om-beter-archiefbeheer/",
-   "date": "2026-11-16T07:48:20.000Z",
-   "desc": "De Inspectie Overheidsinformatie en Erfgoed roept op tot beter archiefbeheer bij overheidsorganisaties. Zo moet informatie ook in de toekomst toegankelijk blijven.",
-   "cats": [
-    "Nieuws",
-    "digitaal archiveren",
-    "informatiehuishouding",
-    "Inspectie Overheidsinformatie en Erfgoed"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Handreiking 'Digitaal overbrengen' aangevuld",
-   "link": "https://www.digitaleoverheid.nl/nieuws/handreiking-digitaal-overbrengen-in-de-praktijk-aangevuld/",
-   "date": "2026-11-13T13:47:48.000Z",
-   "desc": "De handreiking 'Digitaal overbrengen in de praktijk' geeft je handvatten bij het digitaal overbrengen van overheidsinformatie. Afgestemd op de vernieuwde Archiefwet.",
-   "cats": [
-    "Nieuws",
-    "Archiefwet",
-    "archiefwet 2026",
-    "informatiehuishouding",
-    "nationaal archief"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Positie van gemeenten en provincies rondom CADA",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/positie-van-gemeenten-en-provincies-rondom-cada/",
-   "date": "2026-11-11T13:07:21.000Z",
-   "desc": "Gemeenten en provincies steunen Europese plannen voor meer digitale autonomie, en zien ruimte om het wetsvoorstel voor de Cloud and AI Development Act te versterken.",
-   "cats": [
-    "NDS nieuws",
-    "AI",
-    "CADA",
-    "cloud",
-    "gemeenten",
-    "NDS",
-    "provincies"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
-   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
-   "date": "2026-11-10T07:43:08.000Z",
-   "desc": "Het kabinet kiest voor een visie op AI die bijdraagt aan een sterke economie, goede publieke dienstverlening en oplossingen voor maatschappelijke uitdagingen.",
-   "cats": [
-    "Nieuws",
-    "AI",
-    "nieuwsbrief-19-2026"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Steun voor EU KIDS Act, met extra aandacht voor privacy",
-   "link": "https://www.digitaleoverheid.nl/nieuws/ssteun-voor-eu-kids-act-met-extra-aandacht-voor-privacy/",
-   "date": "2026-11-09T09:01:35.000Z",
-   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet is positief en vraagt daarbij extra aandacht voor grondrechten en privacy.",
-   "cats": [
-    "Nieuws",
-    "EU KIDS Act",
-    "nieuwsbrief-19-2026",
-    "Online kinderrechten",
-    "wetsvoorstel"
-   ]
-  },
-  {
    "source": "Binnenlands Bestuur",
    "title": "Gegevens duizend inwoners Dordrecht jarenlang onwettig gedeeld",
    "link": "https://www.binnenlandsbestuur.nl/digitaal/gegevens-1000-inwoners-dordrecht-jarenlang-onwettig-gedeeld",
@@ -2134,58 +1991,40 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "AIVD: organisaties zien dreiging van binnenuit over het hoofd",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/organisaties-zien-dreiging-van-binnenuit-over-het-hoofd",
-   "date": "2026-11-03T12:40:24.000Z",
-   "desc": "Door alle consternatie over cryptohacks en op hol geslagen vrieskasten is het verleidelijk om extra waakzaam te zijn op dreigingen van buitenaf. Vaak zien organisaties veiligheidsrisico's van binnenuit echter over het hoofd, waarschuwt de Algemene Inlichtingen- en Veiligheidsdienst (AIVD). Denk aan spionage, of aan medewerkers die informatie doorspelen aan de georganiseerde misdaad.",
+   "source": "Gemeente.nu",
+   "title": "Strenger toezicht en vergunningplicht op komst voor Wmo-aanbieders",
+   "link": "https://www.gemeente.nu/sociaal/wmo/strenger-toezicht-en-vergunningplicht-op-komst-voor-wmo-aanbieders/",
+   "date": "2026-11-19T12:53:20.000Z",
+   "desc": "Het kabinet wil het toezicht op maatschappelijke ondersteuning versterken en fraude met zorggeld harder aanpakken. Wmo-aanbieders krijgen daarom te maken met een vergunningplicht en de positie van gemeentelijke toezichthouders moet wettelijk worden versterkt. In een Kamerbrief gaat minister Sterk in op de stand van zaken. Kwaliteit gemeentelijk toezicht blijft achter De aanleiding voor de maatrege",
    "cats": [
-    "digitaal",
-    "cyberveiligheid"
+    "Wmo",
+    "toezicht"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "AP kan overheden harder aanpakken als privacywaarschuwingen zijn genegeerd",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/ap-kan-overheden-harder-aanpakken-bij-negeren-waarschuwingen",
-   "date": "2026-11-03T09:56:18.000Z",
-   "desc": "Overheidsorganisaties die waarschuwingen van hun eigen privacyfunctionaris negeren, riskeren dat dit tegen hen wordt meegewogen wanneer zij de privacywet overtreden. Ook kunnen leidinggevenden persoonlijk worden beboet. Dat blijkt uit het handhavingsbeleid dat de Autoriteit Persoonsgegevens (AP) op 30 oktober heeft gepubliceerd.",
+   "source": "Gemeente.nu",
+   "title": "Nederland op achterstand bij uitvoering VN-verdrag Handicap",
+   "link": "https://www.gemeente.nu/sociaal/nederland-op-achterstand-bij-uitvoering-vn-verdrag-handicap/",
+   "date": "2026-11-19T06:30:58.000Z",
+   "desc": "Tien jaar na het ondertekenen van hetVN-verdrag Handicap loopt Nederland nog steeds achter met de uitvoering hiervan. Verbeteringen in het openbaar vervoer en meer woningaanpassingen, wegen niet op tegen hardnekkige achterstanden. Dat constateert het RIVM in de eerste uitvoeringsmonitor. In Nederland leven naar schatting ruim twee miljoen mensen met een beperking, variërend van slechtziendheid tot",
    "cats": [
-    "digitaal",
-    "privacy"
+    "Bestuur",
+    "Sociaal",
+    "mensenrechten",
+    "VN-Verdrag Handicap"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Negatieve reacties op X grote aanjager van bereik overheidscommunicatie",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/negatieve-reacties-aanjager-van-bereik-overheidscommunicatie",
-   "date": "2026-11-03T08:00:00.000Z",
-   "desc": "Voormalig staatssecretaris Alexandra van Huffelen stelde al in 2023 de vraag of de hele Rijksoverheid moest stoppen met X. Haar ambtenaren waarschuwden voor haatzaaiende berichten, desinformatie en de risico's voor overheidscommunicatie. Toch wilde de communicatieafdeling het platform behouden vanwege het grote bereik, dat opvallend genoeg vaak werd aangejaagd door negatieve reacties.",
+   "source": "Gemeente.nu",
+   "title": "Woningcorporaties bouwen meer woningen, financiële druk neemt toe",
+   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/woningcorporaties-bouwen-meer-woningen-maar-financiele-druk-neemt-toe/",
+   "date": "2026-11-19T06:27:42.000Z",
+   "desc": "Woningcorporaties hebben in 2025 bijna 24.000 nieuwe sociale huurwoningen gebouwd, ruim 2.000 meer dan een jaar eerder. Ook investeerden zij miljarden in onderhoud, woningverbetering en verduurzaming. Tegelijkertijd staat de financiële positie van corporaties onder druk, doordat de uitgaven hoger blijven dan de inkomsten.",
    "cats": [
-    "digitaal",
-    "ethiek"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Rijk legt de lat voor inzet sociale mediaplatforms hoger dan VNG",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/rijk-legt-lat-inzet-sociale-mediaplatforms-hoger-dan-vng",
-   "date": "2026-11-02T13:55:00.000Z",
-   "desc": "Het afwegingskader voor de inzet van sociale mediaplatforms waar de rijksoverheid aan werkt, wordt aanzienlijk strikter dan het afwegingskader dat de VNG eerder publiceerde. Dat blijkt uit een e-mailconversatie tussen ambtenaren, die is vrijgegeven als onderdeel van een Woo-dossier.",
-   "cats": [
-    "digitaal",
-    "autonomie"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Hoe de overheid jarenlang worstelde met Meta en uiteindelijk verloor",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/hoe-de-overheid-jarenlang-worstelde-met-meta-en-verloor",
-   "date": "2026-11-02T13:00:00.000Z",
-   "desc": "Staatssecretaris Alexandra van Huffelen (Digitalisering, D66) wilde in juni 2024 al een einde maken aan het gebruik van Facebook door haar ministerie. Meta weigerde de gevraagde informatie over privacyrisico's te verstrekken en stelde bovendien een opmerkelijke eis: de staatssecretaris moest vooraf schriftelijke toestemming vragen om over de onderhandelingen met het bedrijf te communiceren, zelfs ",
-   "cats": [
-    "digitaal",
-    "privacy"
+    "Wonen",
+    "woningbouw",
+    "woningcorporaties",
+    "woningnood"
    ]
   },
   {
@@ -2280,37 +2119,48 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Geadopteerden kunnen vijf jaar lang gratis hun naam laten wijzigen",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/burgerzaken/geadopteerden-kunnen-vijf-jaar-lang-gratis-hun-naam-laten-wijzigen/",
-   "date": "2026-11-16T12:52:37.000Z",
-   "desc": "Binnenlands en buitenlands geadopteerden krijgen de mogelijkheid om kosteloos hun voor- of achternaam te veranderen. Het kabinet wil daarvoor een tijdelijke regeling invoeren die in beginsel vijf jaar geldt. Daarmee erkent de overheid dat de huidige naam van geadopteerden verbonden kan zijn aan een pijnlijk verleden waarin de Nederlandse staat een rol heeft gespeeld.",
+   "source": "Computable",
+   "title": "Kort: Starfort Alliance opgericht voor vitale sector, cyberaanval treft krachtigste supercomputer van Japan (en meer)",
+   "link": "https://www.computable.nl/2026/11/19/kort-starfort-alliance-opgericht-voor-vitale-sector-cyberaanval-treft-krachtigste-supercomputer-van-japan-en-meer/",
+   "date": "2026-11-19T11:15:00.000Z",
+   "desc": "In dit nieuwsoverzicht: Starfort Alliance van start, Palo Alto Networks lijft Applied Compute in, MostWare nieuwe msp De Sleutels, Spie koopt Duflex en onderzoeksdata mogelijk buitgemaakt bij aanval op Fugaku.",
    "cats": [
-    "Burgerzaken",
-    "naamswijziging"
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Datacenter & Infrastructure",
+    "Digitale werkplek",
+    "Industry & OT",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Overheid",
+    "Security & Risk",
+    "ai=model",
+    "hack",
+    "Kort",
+    "MSP",
+    "Overname",
+    "Robotica",
+    "supercomputer",
+    "vitale sector",
+    "Woningcorporaties"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Aanpak overlastgevende asielzoekers aan: meer toezicht, snellere procedures en inzet op terugkeer",
-   "link": "https://www.gemeente.nu/veiligheid/aanpak-overlastgevende-asielzoekers-aan-meer-toezicht-snellere-procedures-en-inzet-op-terugkeer/",
-   "date": "2026-11-16T12:20:09.000Z",
-   "desc": "Het kabinet wil harder optreden tegen asielzoekers die overlast veroorzaken of strafbare feiten plegen. Er komt meer verscherpt toezicht, de samenwerking tussen politie en migratiediensten wordt geïntensiveerd en de mogelijkheden om overlastgevers sneller uit te zetten worden uitgebreid.",
+   "source": "Computable",
+   "title": "Computable Awards 2026 tonen innovatiekracht Nederlandse ict-sector",
+   "link": "https://www.computable.nl/2026/11/19/computable-awards-2026-vieren-de-kracht-van-nederlandse-it-sector/",
+   "date": "2026-11-19T06:15:00.000Z",
+   "desc": "De Computable Awards 2026, in de ‘volksmond’ bekend als de ict-Oscars van Nederland, zijn voor de eenentwintigste keer uitgereikt. In de Polar van Jaarbeurs Utrecht kwam de sector samen voor een inspirerende feestavond vol hoogtepunten.",
    "cats": [
-    "Veiligheid",
-    "overlastgevende asielzoekers",
-    "veiligheid"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Basiscursus Wet open overheid (Woo) online cursus",
-   "link": "https://www.gemeente.nu/agenda/basiscursus-wet-open-overheid-woo-online-cursus-2/",
-   "date": "2026-11-16T11:31:56.000Z",
-   "desc": "In 3 uur op de hoogte van de belangrijkste aspecten van de Woo! Wil jij als advocaat, overheidsjurist of bedrijfsjurist beschikken over basiskennis van de Wet open overheid (Woo), omdat je in jouw werk hiermee te maken hebt? Volg dan de nieuwe basiscursus Woo. In deze cursus komen alle voor de praktijk belangrijke onderwerpen, aan ... lees verder",
-   "cats": [
-    "Agenda",
-    "Bestuurs(proces)recht"
+    "Carrière",
+    "Cloud & Infrastructure",
+    "Data & AI",
+    "Industry & OT",
+    "IT Strategy & Governance",
+    "Onderwijs",
+    "Overheid",
+    "Security & Risk",
+    "Computable Awards"
    ]
   },
   {
@@ -2359,75 +2209,6 @@
     "Overheid",
     "Zorg",
     "Computable Awards"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Zo hebben jury en publiek gestemd bij de Computable Awards 2026",
-   "link": "https://www.computable.nl/2026/11/17/zo-hebben-jury-en-publiek-gestemd-bij-de-computable-awards-2026/",
-   "date": "2026-11-17T22:14:17.000Z",
-   "desc": "Bij de Computable Awards 2026 waren jury en publiek het in vijf categorieën eens over de winnaar. In tien categorieën liepen hun voorkeuren uiteen en gaf de beoordeling van een van beide groepen de doorslag.",
-   "cats": [
-    "IT Strategy & Governance",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Industry & OT",
-    "Overheid",
-    "Zorg",
-    "Computable Awards"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Google breidt ‘soevereine EU-cloud’ uit, topambtenaar Amsterdam taait af ondanks ict-crisis (en meer)",
-   "link": "https://www.computable.nl/2026/11/17/kort-google-breidt-soevereine-eu-cloud-uit-topambtenaar-amsterdam-taait-af-ondanks-ict-crisis-en-meer/",
-   "date": "2026-11-17T12:30:00.000Z",
-   "desc": "In dit nieuwsoverzicht: Google Cloud kondigt nieuwe, soevereine clouddiensten aan, Techleap: Nederland mist deeptech-ambitie, PharmaPartners benoemt nieuwe directieleden, Vlaamse ai-agents van Nabu komen naar Nederland en Amsterdam ziet topambtenaar vertrekken tijdens ict-crisis.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Carrière",
-    "Data & AI",
-    "Financiële dienstverlening",
-    "IT Careers",
-    "IT Governance & Control",
-    "IT Industry news",
-    "IT Leadership",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Overheid",
-    "Soevereiniteit",
-    "Zorg",
-    "ceo",
-    "cloud",
-    "EU-cloud",
-    "Fintech",
-    "innovatie",
-    "Investering",
-    "Kort",
-    "Projectmanagement",
-    "soevereiniteit",
-    "Startups"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "UvA-onderzoekers kritisch op EU-voorstel digitale autonomie",
-   "link": "https://www.computable.nl/2026/11/17/uva-onderzoekers-kritisch-op-eu-voorstel-digitale-autonomie/",
-   "date": "2026-11-17T06:15:00.000Z",
-   "desc": "Het Europese voorstel voor een Cloud and AI Development Act (Cada) is niet ambitieus genoeg om de digitale autonomie van Europa te vergroten. De onderzoekers van het Instituut voor Informatierecht (IViR) van de Universiteit van Amsterdam stellen dat na een analyse van de Cada.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Datacenter",
-    "Datacenter & Infrastructure",
-    "IT Governance & Control",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Soevereiniteit",
-    "AI",
-    "Cada",
-    "cloud",
-    "Onderzoek",
-    "soevereiniteit"
    ]
   },
   {
@@ -2561,6 +2342,14 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in Drupal core: update direct",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-drupal-core-update-direct",
+   "date": "2026-11-19T12:57:37.000Z",
+   "desc": "Er zijn twee kwetsbaarheden (CVE-2026-132165 en CVE-2026-132166) gevonden in Drupal core. De kans op misbruik wordt als gemiddeld beoordeeld, maar de mogelijke schade als groot. Het advies is om de beschikbare updates van Drupal zo snel mogelijk te installeren om risicos te beperken.",
+   "cats": []
   },
   {
    "source": "NCSC",
