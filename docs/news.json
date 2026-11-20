@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:54:25.802Z",
+ "updated": "2026-11-20T21:43:51.113Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,50 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/geen-boze-burgers-aan-de-balie-maar-boze-ai-agents",
+   "date": "2026-11-20T15:11:54.000Z",
+   "desc": "Wat betekent het als de burger nauwelijks begrijpt welke strategie zijn AI-agent heeft uitgestippeld?",
+   "cats": [
+    "Data en AI",
+    "Ethiek"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/geen-boze-burgers-aan-de-balie-maar-boze-ai-agents",
+   "date": "2026-11-20T15:11:54.000Z",
+   "desc": "Wat betekent het als de burger nauwelijks begrijpt welke strategie zijn AI-agent heeft uitgestippeld?",
+   "cats": [
+    "Data en AI",
+    "Ethiek"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/straks-krijgen-gemeenten-boze-ai-agents-aan-de-balie",
+   "date": "2026-11-20T15:11:54.000Z",
+   "desc": "Een AI-agent heeft geen last van tijdgebrek en hij raakt nooit uitgeput van een slepende bezwaarprocedure.",
+   "cats": [
+    "Data en AI",
+    "Ethiek"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Gerdine Keijzer-Baldé wordt directeur-generaal Digitaliseringsbeleid Samenleving en Overheid",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/gerdine-keijzer-balde-benoemd-tot-directeur-generaal",
+   "date": "2026-11-20T15:01:24.000Z",
+   "desc": "Keijzer-Baldé was sinds april al kwartiermaker en beoogd directeur-generaal.",
+   "cats": [
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Van wie is uw belastingsysteem eigenlijk?",
@@ -1617,50 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Frustraties in de Commissie Digitale Zaken: geen cijfers, wel afhankelijkheid",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/frustraties-in-de-commissie-digitale-zaken",
-   "date": "2026-10-01T09:34:12.000Z",
-   "desc": "De overheid is een van de grootste IT-kopers van het land, maar weet niet precies waar haar geld naartoe gaat.",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Amsterdam wil Nationaal Agentschap voor Disruptieve Innovatie naar zich toe trekken",
-   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/amsterdam-wil-nadi-naar-zich-toe-trekken",
-   "date": "2026-09-30T12:59:36.000Z",
-   "desc": "Het college van B&W van Amsterdam gaat onderzoeken hoe ruimte kan worden geboden, zowel letterlijk als in de vorm van proeftuinen.",
-   "cats": [
-    "Markt en Overheid",
-    "Innovatie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Datacenters zijn niet transparant over hun stroom- en waterverbruik",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/datacenters-niet-transparant-over-stroom-en-waterverbruik",
-   "date": "2026-09-30T12:13:25.000Z",
-   "desc": "Staatssecretaris Aerdts is gevraagd bij de voorbereiding van haar datacenterstrategie ook de klimaatimpact mee te nemen.",
-   "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Doorbraak voor automatisch toekennen van inkomensregelingen",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/doorbraak-voor-automatisch-toekennen-van-inkomensregelingen",
-   "date": "2026-09-30T11:25:43.000Z",
-   "desc": "De grote kans ligt nu in uitvoering met ambitie. Via pilots kunnen we leren welk type regelingen zich lenen voor automatische toekenning",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
    "title": "Dienstverlening dichtbij: 4 lessen uit Brugge",
    "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-dichtbij-4-lessen-uit-brugge/",
@@ -1802,6 +1802,17 @@
     "Nieuws",
     "AI",
     "nieuwsbrief-19-2026"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/geen-boze-burgers-aan-de-balie-maar-boze-ai-agents",
+   "date": "2026-11-20T14:00:00.000Z",
+   "desc": "In de Verenigde Staten heeft ondernemer Joe Thomas zichzelf gedegradeerd tot het hulpje van zijn eigen AI-agent. Die bepaalt zijn juridische strategie, deelt opdrachten uit en vertelt hem wie hij moet benaderen. Thomas gehoorzaamt. Zijn belangrijkste taak is inmiddels het dragen van een telefoon waarop zijn AI-agent BabyMia woont.",
+   "cats": [
+    "digitaal",
+    "kunstmatige intelligentie"
    ]
   },
   {
@@ -2244,6 +2255,33 @@
   },
   {
    "source": "Computable",
+   "title": "OM hackte computers van Tata Steel",
+   "link": "https://www.computable.nl/2026/11/20/om-hackte-computers-van-tata-steel/",
+   "date": "2026-11-20T16:03:49.000Z",
+   "desc": "Het Openbaar Ministerie (OM) heeft bij het strafrechtelijk onderzoek naar Tata Steel in IJmuiden hackers ingezet om heimelijk binnen te dringen in het digitale bedrijfsnetwerk van de staalproducent. Ook zijn telefoons afgeluisterd en video-opnames gemaakt.",
+   "cats": [
+    "Security & Risk",
+    "Cloud & Infrastructure",
+    "Overheid",
+    "hack",
+    "taps"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "UWV zit na miljoenenfiasco nog jaren zonder 'vacaturesoftware'",
+   "link": "https://www.computable.nl/2026/11/20/uwv-zit-na-miljoenenfiasco-nog-jaren-zonder-vacaturesoftware/",
+   "date": "2026-11-20T15:35:16.000Z",
+   "desc": "De modernisering van de arbeidsbemiddeling bij UWV laat nog jaren op zich wachten. Dat blijkt uit de antwoorden van minister Hans Vijlbrief (Sociale Zaken en Werkgelegenheid) op Kamervragen van D66-leden Stephan Neijenhuis en Sarah El Boujdaini.",
+   "cats": [
+    "Overheid",
+    "Software & Development",
+    "arbeidsmarkt",
+    "ict-vacatures"
+   ]
+  },
+  {
+   "source": "Computable",
    "title": "Rekenkamer kraakt innovatieregeling: weinig subsidie voor ict",
    "link": "https://www.computable.nl/2026/11/20/rekenkamer-kraakt-innovatieregeling-weinig-subsidie-voor-ict/",
    "date": "2026-11-20T13:00:00.000Z",
@@ -2305,33 +2343,6 @@
     "Chipmachine",
     "geopolitiek",
     "kabinet-Jetten"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Kort: Starfort Alliance opgericht voor vitale sector, cyberaanval treft krachtigste supercomputer van Japan (en meer)",
-   "link": "https://www.computable.nl/2026/11/19/kort-starfort-alliance-opgericht-voor-vitale-sector-cyberaanval-treft-krachtigste-supercomputer-van-japan-en-meer/",
-   "date": "2026-11-19T11:15:00.000Z",
-   "desc": "In dit nieuwsoverzicht: Starfort Alliance van start, Palo Alto Networks lijft Applied Compute in, MostWare nieuwe msp De Sleutels, Spie koopt Duflex en onderzoeksdata mogelijk buitgemaakt bij aanval op Fugaku.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Datacenter & Infrastructure",
-    "Digitale werkplek",
-    "Industry & OT",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Overheid",
-    "Security & Risk",
-    "ai=model",
-    "hack",
-    "Kort",
-    "MSP",
-    "Overname",
-    "Robotica",
-    "supercomputer",
-    "vitale sector",
-    "Woningcorporaties"
    ]
   },
   {
