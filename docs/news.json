@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:26:54.812Z",
+ "updated": "2026-11-20T13:54:25.802Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,17 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Van wie is uw belastingsysteem eigenlijk?",
+   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/van-wie-is-uw-belastingsysteem-eigenlijk",
+   "date": "2026-11-20T09:40:59.000Z",
+   "desc": "Met standaardisering binnen het lokale belastingdomein gaat het goed. Nu de digitale autonomie nog.",
+   "cats": [
+    "Markt en Overheid",
+    "Digitale infrastructuur"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Wetsvoorstel e-facturatie in consultatie: Belastingdienst moet er per 1 januari 2030 klaar voor zijn",
@@ -1650,14 +1661,18 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Van AI naar SI: Trump zet in op zelfregulering door techreuzen",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/van-ai-naar-si-trump-zet-in-op-zelfregulering",
-   "date": "2026-09-30T10:00:00.000Z",
-   "desc": "Sector juicht de zelfregulering toe, critici zien vooral een vrijblijvend document zonder handhaving.",
+   "source": "Digitale Overheid",
+   "title": "Dienstverlening dichtbij: 4 lessen uit Brugge",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-dichtbij-4-lessen-uit-brugge/",
+   "date": "2026-11-20T12:04:09.000Z",
+   "desc": "Vlaamse stad Brugge is voorloper in overheidsbrede dienstverlening dichtbij de inwoner. Ze was één van de pioniers in de ontwikkeling van het Draagbaar Loket.",
    "cats": [
-    "Data en AI",
-    "Ethiek"
+    "Achtergrond",
+    "Brugge",
+    "Dienstverlening",
+    "Loketfunctie",
+    "Loketten",
+    "overheidsbrede dienstverlening"
    ]
   },
   {
@@ -1790,17 +1805,14 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Steun voor EU KIDS Act, met extra aandacht voor privacy",
-   "link": "https://www.digitaleoverheid.nl/nieuws/ssteun-voor-eu-kids-act-met-extra-aandacht-voor-privacy/",
-   "date": "2026-11-09T09:01:35.000Z",
-   "desc": "De Europese Commissie wil kinderen online beter beschermen met nieuwe regels voor digitale diensten. Het kabinet is positief en vraagt daarbij extra aandacht voor grondrechten en privacy.",
+   "source": "Binnenlands Bestuur",
+   "title": "Provincies en waterschappen worstelen met archivering mails en chats",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/provincies-en-waterschappen-worstelen-met-mails-en-chats",
+   "date": "2026-11-20T12:00:00.000Z",
+   "desc": "Provincies en waterschappen hebben het beheer van e-mails en chatberichten vaak nog niet geregeld. Ook worden veel verzoeken op grond van de Wet open overheid (Woo) niet binnen de gestelde termijn afgehandeld. Dat blijkt uit nieuwe monitors vanhet Interprovinciaal Overleg (IPO) en de Unie van Waterschappen.",
    "cats": [
-    "Nieuws",
-    "EU KIDS Act",
-    "nieuwsbrief-19-2026",
-    "Online kinderrechten",
-    "wetsvoorstel"
+    "digitaal",
+    "informatiehuishouding"
    ]
   },
   {
@@ -2101,36 +2113,15 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "‘We draaien de wereld om: onze inwoners bepalen de focus’",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/we-draaien-de-wereld-om-onze-inwoners-bepalen-de-focus",
-   "date": "2026-11-04T12:00:00.000Z",
-   "desc": "Met de vervanging van het oude zaaksysteem loopt de gemeente Assen voorop op het gebied van het implementeren van Common Ground. ‘Maar het is niet altijd leuk om koploper te zijn’, zeggen Lisette Last en Efred Tolsma, respectievelijk programmamanager en projectleider van Podium D.",
+   "source": "Gemeente.nu",
+   "title": "Steeds meer gemeenten kiezen voor nascheiding van huishoudelijk afval",
+   "link": "https://www.gemeente.nu/ruimte-milieu/afval/steeds-meer-gemeenten-kiezen-voor-nascheiding-van-huishoudelijk-afval/",
+   "date": "2026-11-20T07:24:52.000Z",
+   "desc": "Gemeenten stappen massaal over op het nascheiden van huishoudelijk afval. In 2025 koos bijna 60 procent van de gemeenten ervoor om afval geheel of gedeeltelijk achteraf te scheiden, tegenover een kwart in 2023. Tegelijkertijd neemt de gescheiden inzameling van plastic, metalen verpakkingen en drankkartons (pmd) af.",
    "cats": [
-    "digitaal",
-    "informatiehuishouding"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Waarschuwing RDI: digitale infrastructuur niet altijd vanzelfsprekend beschikbaar",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/digitale-infrastructuur-niet-vanzelfsprekend-beschikbaar",
-   "date": "2026-11-04T11:00:00.000Z",
-   "desc": "In Nederland zijn we gewend dat kritieke infrastructuur werkt. De beschikbaarheid en bereikbaarheid is normaal gesproken bijna 100 procent (>99,98%). Maar door de sterke toename aan hybride dreigingen betwijfelt de RDI of dit in de toekomst ook het geval zal zijn, zo staat beschreven in de jaarlijkse trendradar.",
-   "cats": [
-    "digitaal",
-    "autonomie"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Stammenstrijd bedreigt digitale onafhankelijkheid",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/stammenstrijd-bedreigt-digitale-onafhankelijkheid",
-   "date": "2026-11-04T09:00:00.000Z",
-   "desc": "De plannen voor digitale autonomie leiden tot een fundamentele discussie over geld en zeggenschap. In december moeten gemeenten knopen doorhakken om vertraging te voorkomen.",
-   "cats": [
-    "digitaal",
-    "autonomie"
+    "Afval",
+    "afval",
+    "afval scheiden"
    ]
   },
   {
@@ -2252,13 +2243,68 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Kabinet brengt gemeentelijke en provinciale taken in kaart om financiële knelpunten zichtbaar te maken",
-   "link": "https://www.gemeente.nu/bestuur/kabinet-brengt-gemeentelijke-en-provinciale-taken-in-kaart-om-financiele-knelpunten-zichtbaar-te-maken/",
-   "date": "2026-11-17T07:00:39.000Z",
-   "desc": "Het kabinet wil beter inzicht krijgen in de verhouding tussen de wettelijke taken van gemeenten en provincies en de financiële middelen die zij daarvoor ontvangen. Een eerste inventarisatie van het takenpakket is inmiddels afgerond. Begin 2027 volgt een uitgebreider onderzoek naar de beleidsvrijheid en uitvoeringsmogelijkheden van medeoverheden.",
+   "source": "Computable",
+   "title": "Rekenkamer kraakt innovatieregeling: weinig subsidie voor ict",
+   "link": "https://www.computable.nl/2026/11/20/rekenkamer-kraakt-innovatieregeling-weinig-subsidie-voor-ict/",
+   "date": "2026-11-20T13:00:00.000Z",
+   "desc": "De PPS Innovatieregeling (PPS-i) van het ministerie van Economische Zaken en Klimaat (EZK) schiet zijn doel voorbij. De subsidie voor publiek-private samenwerking bij onderzoek en innovatie wordt niet doelmatig verdeeld en sluit onvoldoende aan op de innovatieprioriteiten van het kabinet.",
    "cats": [
-    "Bestuur"
+    "Overheid",
+    "Software & Development",
+    "ICT-budget",
+    "innovatie",
+    "subsidie"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Kort: AP waarschuwt voor ai-bril, Defensie en Iceye intensiveren 'space-samenwerking' (en meer)",
+   "link": "https://www.computable.nl/2026/11/20/kort-ap-waarschuwt-voor-ai-bril-defensie-en-iceye-intensiveren-space-samenwerking-en-meer/",
+   "date": "2026-11-20T11:30:00.000Z",
+   "desc": "AP waarschuwt voor privacy- en veiligheidsrisico’s ai-camerabrillen, Iceye investeert in Nederlandse productie van satelliettechnologie, Duitse cybersecurityleverancier Igel bereikt unicorn-status, Goldman Sachs waardeert fintechbedrijf Payhawk op twee miljard dollar, en promoties in de techsector.",
+   "cats": [
+    "IT Strategy & Governance",
+    "Data Privacy",
+    "Overheid",
+    "defense tech",
+    "Kort",
+    "smartbril"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "NLdigital: productiviteit moet centraal staan in digitale toekomst",
+   "link": "https://www.computable.nl/2026/11/20/nldigital-productiviteit-moet-centraal-staan-in-digitale-toekomst/",
+   "date": "2026-11-20T09:00:00.000Z",
+   "desc": "Met de toekomstvisie 'Nederland Digitaal 2035' presenteert NLdigital welke keuzes nodig zijn om Nederland digitaal sterk, productief en weerbaar te houden. De belangenvereniging wil hiermee de kennis en praktijkervaring van de digitale sector in het maatschappelijke en politieke debat inbrengen.",
+   "cats": [
+    "Overheid",
+    "AI & Automation",
+    "Digital Transformation",
+    "AI",
+    "Digital transformation",
+    "scale-ups",
+    "Startups"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Grote zorgen over Amerikaanse exportcontroles op chipmachines",
+   "link": "https://www.computable.nl/2026/11/20/grote-zorgen-over-amerikaanse-exportcontroles-op-chipmachines/",
+   "date": "2026-11-20T06:15:00.000Z",
+   "desc": "De Tweede Kamer, van links tot rechts, maakt zich ernstige zorgen over de Amerikaanse Match Act en de gevolgen daarvan voor chipmachine-maker ASML. Republikeinse en Democratische politici stellen daarin voor om de exportbeperkingen voor chipfabricage-machines naar China verder aan te scherpen.",
+   "cats": [
+    "Cloud & Infrastructure",
+    "Datacenter & Infrastructure",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Leadership & organisation",
+    "Overheid",
+    "China",
+    "Chip",
+    "Chipmachine",
+    "geopolitiek",
+    "kabinet-Jetten"
    ]
   },
   {
@@ -2286,24 +2332,6 @@
     "supercomputer",
     "vitale sector",
     "Woningcorporaties"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Computable Awards 2026 tonen innovatiekracht Nederlandse ict-sector",
-   "link": "https://www.computable.nl/2026/11/19/computable-awards-2026-vieren-de-kracht-van-nederlandse-it-sector/",
-   "date": "2026-11-19T06:15:00.000Z",
-   "desc": "De Computable Awards 2026, in de ‘volksmond’ bekend als de ict-Oscars van Nederland, zijn voor de eenentwintigste keer uitgereikt. In de Polar van Jaarbeurs Utrecht kwam de sector samen voor een inspirerende feestavond vol hoogtepunten.",
-   "cats": [
-    "Carrière",
-    "Cloud & Infrastructure",
-    "Data & AI",
-    "Industry & OT",
-    "IT Strategy & Governance",
-    "Onderwijs",
-    "Overheid",
-    "Security & Risk",
-    "Computable Awards"
    ]
   },
   {
@@ -2437,6 +2465,14 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheid in IBM Aspera Faspex 5.0.x met hoog risico: update nu",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-ibm-aspera-faspex-50x-met-hoog-risico-update-nu",
+   "date": "2026-11-20T13:41:50.000Z",
+   "desc": "Er is een ernstige kwetsbaarheid gevonden in IBM Aspera Faspex, een softwareproduct voor het veilig versturen van bestanden. Deze kwetsbaarheid heeft het nummer CVE-2026-123218 en een hoge CVSS-score van 9.8. De kans op misbruik is gemiddeld, maar de mogelijke schade is groot omdat een aanvaller volledige beheerdersrechten kan krijgen in geval van succesvol misbruik.",
+   "cats": []
   },
   {
    "source": "NCSC",
