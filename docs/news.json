@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:43:51.113Z",
+ "updated": "2026-11-23T15:46:01.624Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -12,10 +12,65 @@
  "items": [
   {
    "source": "iBestuur",
-   "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/geen-boze-burgers-aan-de-balie-maar-boze-ai-agents",
-   "date": "2026-11-20T15:11:54.000Z",
-   "desc": "Wat betekent het als de burger nauwelijks begrijpt welke strategie zijn AI-agent heeft uitgestippeld?",
+   "title": "Sturen op IT-kosten? Veel bestuurders hebben geen idee hoe",
+   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/sturen-op-it-kosten-veel-bestuurders-hebben-geen-idee-hoe",
+   "date": "2026-11-23T14:00:49.000Z",
+   "desc": "Bestuurders hebben moeite om grip te krijgen op IT-kosten. Maarten Jonker en Marc Welters schreven een boek om ze te helpen.",
+   "cats": [
+    "Markt en Overheid",
+    "Inkoop en aanbesteding"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "The Winner Takes It All. Of toch niet?",
+   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/the-winner-takes-it-all-of-toch-niet",
+   "date": "2026-11-23T13:30:57.000Z",
+   "desc": "Succesvolle startups ontstaan niet alleen dankzij goede ideeën, maar ook dankzij een ecosysteem waarin samenwerking vanzelfsprekend is.",
+   "cats": [
+    "Markt en Overheid",
+    "Innovatie"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Nederland krijgt Europees consortium voor digitale autonomie in het onderwijs",
+   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/europees-consortium-voor-digitale-autonomie-in-het-onderwijs",
+   "date": "2026-11-23T11:02:07.000Z",
+   "desc": "Nederland is voorzitter en gastland. Tot er een directeur is, coördineert Nederland het voorbereidende werk.",
+   "cats": [
+    "Markt en Overheid",
+    "Inkoop en aanbesteding"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Ombudsmannen wereldwijd steken koppen bijeen over digitalisering",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/ombudsmannen-steken-koppen-bijeen-over-digitalisering",
+   "date": "2026-11-23T09:54:30.000Z",
+   "desc": "Met de ‘Ombudsman Principles for Digital Dignity and Fairness’ bereiden ombudsmannen zich voor op de toekomst.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Innovatiesubsidies sluiten nauwelijks aan bij kabinetsprioriteit digitalisering",
+   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/innovatiesubsidies-sluiten-nauwelijks-aan-bij-digitalisering",
+   "date": "2026-11-23T09:49:43.000Z",
+   "desc": "Van het totale subsidiebudget werd in 2024 slechts 5 procent anders verdeeld dan in het voorgaande subsidiejaar.",
+   "cats": [
+    "Markt en Overheid",
+    "Innovatie"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Overheid, investeer in ethiek om AI-debacles te voorkomen",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/overheid-investeer-in-ethiek-om-ai-debacles-te-voorkomen",
+   "date": "2026-11-23T09:33:41.000Z",
+   "desc": "Het kabinet kiest voor verantwoorde AI, maar ministerie van BZK schrapt tegelijk het netwerk dat dat in de praktijk mogelijk moet maken.",
    "cats": [
     "Data en AI",
     "Ethiek"
@@ -23,24 +78,35 @@
   },
   {
    "source": "iBestuur",
-   "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/geen-boze-burgers-aan-de-balie-maar-boze-ai-agents",
-   "date": "2026-11-20T15:11:54.000Z",
-   "desc": "Wat betekent het als de burger nauwelijks begrijpt welke strategie zijn AI-agent heeft uitgestippeld?",
+   "title": "ICTU neemt afstand van term ‘vibecoder’ na kritiek op vacature",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/ictu-neemt-afstand-van-term-vibecoder",
+   "date": "2026-11-23T07:00:00.000Z",
+   "desc": "ICTU benadrukt dat het geen voorstander is van een werkwijze waarbij ontwikkelaars blindelings vertrouwen op door AI gegenereerde code.",
    "cats": [
-    "Data en AI",
-    "Ethiek"
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Stop met digitale brieven",
+   "link": "https://ibestuur.nl/digitalisering-en-democratie/digitale-inclusie/stop-met-digitale-brieven",
+   "date": "2026-11-23T05:00:00.000Z",
+   "desc": "De Week van Digitaal Meedoen is een mooie aanleiding voor een herwaardering van de papieren brief.",
+   "cats": [
+    "Digitalisering en Democratie",
+    "Digitale inclusie"
    ]
   },
   {
    "source": "iBestuur",
    "title": "Straks krijgen gemeenten geen boze burgers aan de balie, maar boze AI-agents",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/straks-krijgen-gemeenten-boze-ai-agents-aan-de-balie",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/geen-boze-burgers-aan-de-balie-maar-boze-ai-agents",
    "date": "2026-11-20T15:11:54.000Z",
-   "desc": "Een AI-agent heeft geen last van tijdgebrek en hij raakt nooit uitgeput van een slepende bezwaarprocedure.",
+   "desc": "Wat betekent het als de burger nauwelijks begrijpt welke strategie zijn AI-agent heeft uitgestippeld?",
    "cats": [
     "Data en AI",
-    "Ethiek"
+    "Toepassingen"
    ]
   },
   {
@@ -1595,69 +1661,32 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Bevolkingsregister Denemarken werd vorige maand gehackt",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/bevolkingsregister-denemarken-werd-vorige-maand-gehackt",
-   "date": "2026-10-05T08:08:25.000Z",
-   "desc": "Hackers kregen toegang tot de namen, adressen en persoonsgegevens van ongeveer 8,8 miljoen mensen.",
+   "source": "Digitale Overheid",
+   "title": "‘De NDS heeft ons anders leren werken en denken’",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/de-nds-heeft-ons-anders-leren-werken-en-denken/",
+   "date": "2026-11-23T14:27:59.000Z",
+   "desc": "Dick Jense neemt het stokje over van NDS-programmadirecteur Erik-Jan Boon. Tijdens zijn presentatie op het NL Digitaal Festival blikte Jense terug en vooruit.",
    "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
+    "NDS nieuws",
+    "Dick Jense",
+    "NDS",
+    "Nederlandse Digitaliseringsstrategie",
+    "soevereine cloud",
+    "Willemijn Aerdts"
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Waarom Europa moet investeren in een eigen AI-ontwikkelplatform",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/waarom-europa-moet-investeren-in-een-ai-ontwikkelplatform",
-   "date": "2026-10-02T13:43:27.000Z",
-   "desc": "Met de overname van Hugging Face komt een onafhankelijk ontwikkelaarsplatforms voor AI onder invloed van een groot Amerikaans bedrijf.",
+   "source": "Digitale Overheid",
+   "title": "Architectuur geeft richting digitalisering Rijksinkoop",
+   "link": "https://www.digitaleoverheid.nl/nieuws/architectuur-geeft-richting-digitalisering-rijksinkoop/",
+   "date": "2026-11-23T08:12:52.000Z",
+   "desc": "De Rijksinkoop Enterprise Architectuur (RIEA) is vastgesteld. Deze helpt de inkoop binnen het Rijk slimmer te organiseren en digitale systemen beter te verbinden.",
    "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Rondje om de wereld",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/europese-politiek-en-beleid/rondje-om-de-wereld",
-   "date": "2026-10-02T09:23:07.000Z",
-   "desc": "Met de leeftijdsgrens voor sociale media probeert de EC de platforms te dwingen om meer werk te maken van hun zorgplicht voor gebruikers.",
-   "cats": [
-    "Digitale Toekomst EU",
-    "Europese politiek en beleid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "‘Openheid is de digitale variant van de publieke tribune’",
-   "link": "https://ibestuur.nl/overheid-in-transitie/informatiehuishouding/openheid-is-de-digitale-variant-van-de-publieke-tribune",
-   "date": "2026-10-02T08:00:00.000Z",
-   "desc": "Rogier van der Sande, dijkgraaf van het Hoogheemraadschap van Rijnland, gelooft écht in de kracht van openbaarheid.",
-   "cats": [
-    "Overheid in Transitie",
-    "Informatiehuishouding"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Overheden en onderwijs spreken af meer open source te gaan werken",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/overheden-en-onderwijs-spreken-af-meer-open-source-te-werken",
-   "date": "2026-10-02T07:23:33.000Z",
-   "desc": "Staatssecretaris Aerdts: 'Open source is niet altijd de makkelijkste of goedkoopste optie, maar het maakt ons wel onafhankelijker.'",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Gemeenten leunen steeds zwaarder op SaaS, softwarekosten lopen op",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/gemeenten-leunen-steeds-zwaarder-op-saas",
-   "date": "2026-10-01T12:23:47.000Z",
-   "desc": "De kosten voor eigen infrastructuur dalen, maar goedkoper wordt gemeentelijke ICT niet.",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
+    "Nieuws",
+    "Architectuur",
+    "Digitaal zakendoen",
+    "Digitalisering Rijksinkoop",
+    "RIEA"
    ]
   },
   {
@@ -1777,31 +1806,36 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Positie van gemeenten en provincies rondom CADA",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/positie-van-gemeenten-en-provincies-rondom-cada/",
-   "date": "2026-11-11T13:07:21.000Z",
-   "desc": "Gemeenten en provincies steunen Europese plannen voor meer digitale autonomie, en zien ruimte om het wetsvoorstel voor de Cloud and AI Development Act te versterken.",
+   "source": "Binnenlands Bestuur",
+   "title": "Stop met digitale brieven",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/stop-met-digitale-brieven",
+   "date": "2026-11-23T05:00:00.000Z",
+   "desc": "Gemeenten communiceren steeds vaker digitaal met hun inwoners. Dat is niet voor iedereen een verbetering. Voor 3,3 miljoen laaggeletterde Nederlanders waren brieven altijd al een bron van stress. Digitale post werpt voor deze groep juist extra drempels op.",
    "cats": [
-    "NDS nieuws",
-    "AI",
-    "CADA",
-    "cloud",
-    "gemeenten",
-    "NDS",
-    "provincies"
+    "digitaal",
+    "informatiehuishouding"
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Kabinet kiest voor AI die Nederland vooruithelpt",
-   "link": "https://www.digitaleoverheid.nl/nieuws/kabinet-kiest-voor-ai-die-nederland-vooruithelpt/",
-   "date": "2026-11-10T07:43:08.000Z",
-   "desc": "Het kabinet kiest voor een visie op AI die bijdraagt aan een sterke economie, goede publieke dienstverlening en oplossingen voor maatschappelijke uitdagingen.",
+   "source": "Binnenlands Bestuur",
+   "title": "Ombudsmannen wereldwijd steken koppen bijeen over digitalisering",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/ombudsmannen-steken-koppen-bijeen-over-digitalisering",
+   "date": "2026-11-23T05:00:00.000Z",
+   "desc": "Hoe verandert de rol van de ombudsman in het digitale tijdperk? Op 10 december, de internationale dag van de mensenrechten, komen ombudsmannen uit allerlei landen bijeen in New York om die vraag te beantwoorden en om een samenwerking met de Verenigde Naties te verkennen.",
    "cats": [
-    "Nieuws",
-    "AI",
-    "nieuwsbrief-19-2026"
+    "digitaal",
+    "ethiek"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Essay: Vertrouw niet blind op de ‘grote kansen’ van AI",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/essay-vertrouw-niet-blind-op-de-grote-kansen-van-ai",
+   "date": "2026-11-22T09:00:00.000Z",
+   "desc": "Wie het eenmaal opvalt, kan het niet meer ontgaan: verklaringen over kunstmatige intelligentie beginnen opmerkelijk vaak met een vage toekomstbelofte. ‘AI biedt grote kansen’, wordt er dan gezegd, meestal gevolgd door een oproep tot grote investeringen in deze technologie. Vragen over hoe reëel die kansen eigenlijk zijn en hoe die te verzilveren, worden slechts mondjesmaat gesteld. De belofte word",
+   "cats": [
+    "digitaal",
+    "autonomie"
    ]
   },
   {
@@ -1820,7 +1854,7 @@
    "title": "Provincies en waterschappen worstelen met archivering mails en chats",
    "link": "https://www.binnenlandsbestuur.nl/digitaal/provincies-en-waterschappen-worstelen-met-mails-en-chats",
    "date": "2026-11-20T12:00:00.000Z",
-   "desc": "Provincies en waterschappen hebben het beheer van e-mails en chatberichten vaak nog niet geregeld. Ook worden veel verzoeken op grond van de Wet open overheid (Woo) niet binnen de gestelde termijn afgehandeld. Dat blijkt uit nieuwe monitors vanhet Interprovinciaal Overleg (IPO) en de Unie van Waterschappen.",
+   "desc": "Provincies en waterschappen hebben het beheer van e-mails en chatberichten vaak nog niet geregeld. Ook worden veel verzoeken op grond van de Wet open overheid (Woo) niet binnen de gestelde termijn afgehandeld. Dat blijkt uit nieuwe monitors van&nbsp;het Interprovinciaal Overleg (IPO) en de Unie van Waterschappen.",
    "cats": [
     "digitaal",
     "informatiehuishouding"
@@ -2125,6 +2159,43 @@
   },
   {
    "source": "Gemeente.nu",
+   "title": "Witwassen en drugshandel meest genoemde verdachte situaties in woonwijken",
+   "link": "https://www.gemeente.nu/veiligheid/witwassen-en-drugshandel-meest-genoemde-verdachte-situaties-in-woonwijken/",
+   "date": "2026-11-23T08:06:04.000Z",
+   "desc": "Bijna de helft van de Nederlanders van 15 jaar en ouder heeft in 2025 verdachte situaties in de eigen woonomgeving gezien of vermoed. Vooral mogelijke witwaspraktijken, zwart geld en drugshandel vallen op. In grote steden en grensgebieden worden dergelijke situaties vaker gesignaleerd dan op het platteland.",
+   "cats": [
+    "Veiligheid",
+    "drugscriminaliteit",
+    "veiligheid"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Van verplichtingen naar perspectief: minister wil Participatiewet vernieuwen",
+   "link": "https://www.gemeente.nu/sociaal/van-verplichtingen-naar-perspectief-minister-wil-participatiewet-vernieuwen/",
+   "date": "2026-11-23T07:24:41.000Z",
+   "desc": "Minister Aartsen van Werk en Participatie wil de Participatiewet verbeteren. Meer bijstandsgerechtigden moeten aan het werk kunnen, terwijl mensen die door ziekte of een beperking niet kunnen werken, minder verplichtingen krijgen. Op langere termijn onderzoekt de minister een aparte uitkering voor deze groep buiten de Participatiewet.",
+   "cats": [
+    "Sociaal",
+    "Participatiewet",
+    "werk"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Opinie Vragen kost niks. Antwoorden wel",
+   "link": "https://www.gemeente.nu/blog/vragen-kost-niks-antwoorden-wel/",
+   "date": "2026-11-23T05:27:00.000Z",
+   "desc": "Een raadslid stelt tientallen schriftelijke vragen per maand. Het college en de ambtelijke organisatie hebben er hun handen vol aan. Andere werkzaamheden blijven liggen. De irritaties lopen op. Mag dat allemaal? En wat als het raadslid stug doorgaat? Een aantal jaren geleden schreef ik voor Gemeente.nu een blog over raadsvragen. Ik vroeg mij af wat ... lees verder",
+   "cats": [
+    "Blog",
+    "Opinie",
+    "raadslid",
+    "raadsvragen"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
    "title": "Steeds meer gemeenten kiezen voor nascheiding van huishoudelijk afval",
    "link": "https://www.gemeente.nu/ruimte-milieu/afval/steeds-meer-gemeenten-kiezen-voor-nascheiding-van-huishoudelijk-afval/",
    "date": "2026-11-20T07:24:52.000Z",
@@ -2216,41 +2287,17 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Gemeente mag vergunning voor McDonald’s met McDrive weigeren",
-   "link": "https://www.gemeente.nu/ruimte-milieu/leefomgeving/gemeente-mag-vergunning-voor-mcdonalds-met-mcdrive-weigeren/",
-   "date": "2026-11-18T05:56:00.000Z",
-   "desc": "De gemeenten Rheden en Zutphen hebben terecht geen toestemming gegeven voor de komst van nieuwe McDonald’s-restaurants met een McDrive. Dat heeft de rechtbank in twee afzonderlijke zaken geoordeeld. In beide gevallen is de drive-through de belangrijkste reden waarom de bouwplannen niet binnen het bestemmingsplan passen. Projectontwikkelaar Reggestede wilde aan de Arnhemsestraatweg in Rheden een Mc",
+   "source": "Computable",
+   "title": "Imec opent rd-centrum in Finland en zet ook voet aan wal in Japan",
+   "link": "https://www.computable.nl/2026/11/23/imec-opent-rd-centrum-in-finland-en-zet-ook-voet-aan-wal-in-japan/",
+   "date": "2026-11-23T08:19:51.000Z",
+   "desc": "Imec opent een rd-centrum in Espoo, Finland. Vorige week kondigde het Belgische onderzoekscentrum aan ook een lokaal team op te bouwen in Japan. Beide initiatieven draaien om fotonica, een technologie die volgens Imec cruciaal wordt om de datastromen van ai-systemen efficiënter te verwerken.",
    "cats": [
-    "Leefomgeving",
-    "bestemmingsplan",
-    "bouwplan",
-    "horeca"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Minister onderzoekt aanpassing nauwelijks gebruikte baatbelasting",
-   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/minister-onderzoekt-aanpassing-nauwelijks-gebruikte-baatbelasting/",
-   "date": "2026-11-17T14:45:10.000Z",
-   "desc": "De opbrengsten uit de onroerendezaakbelasting (ozb) zijn onvoldoende om de gemeentelijke kosten van gebiedsontwikkeling te financieren. Minister Boekholt-O’Sullivan van Volkshuisvesting en Ruimtelijke Ordening benadrukt daarom het belang van kostenverhaal en de Woningbouwimpuls. Ook onderzoekt zij aanpassingen van de baatbelasting, die door juridische en uitvoeringstechnische problemen nauwelijks ",
-   "cats": [
-    "Belastingen",
-    "Wonen",
-    "baatbelasting",
-    "woningbouw"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Al 75 gemeenten geholpen door ondersteuningsteam asiel",
-   "link": "https://www.gemeente.nu/sociaal/al-75-gemeenten-geholpen-door-ondersteuningsteam-asiel/",
-   "date": "2026-11-17T09:07:17.000Z",
-   "desc": "Het ondersteuningsteam asiel (OTA) voorziet in een concrete behoefte en externe adviseurs worden uitsluitend aanvullend ingezet wanneer dat nodig is. De VNG wil de pilot graag verlengen.",
-   "cats": [
-    "Sociaal",
-    "asielopvang",
-    "asielopvang; spreidingswet"
+    "Overheid",
+    "Chips",
+    "fotonica",
+    "Geheugenchips",
+    "R&D"
    ]
   },
   {
@@ -2295,54 +2342,14 @@
    ]
   },
   {
-   "source": "Computable",
-   "title": "Kort: AP waarschuwt voor ai-bril, Defensie en Iceye intensiveren 'space-samenwerking' (en meer)",
-   "link": "https://www.computable.nl/2026/11/20/kort-ap-waarschuwt-voor-ai-bril-defensie-en-iceye-intensiveren-space-samenwerking-en-meer/",
-   "date": "2026-11-20T11:30:00.000Z",
-   "desc": "AP waarschuwt voor privacy- en veiligheidsrisico’s ai-camerabrillen, Iceye investeert in Nederlandse productie van satelliettechnologie, Duitse cybersecurityleverancier Igel bereikt unicorn-status, Goldman Sachs waardeert fintechbedrijf Payhawk op twee miljard dollar, en promoties in de techsector.",
+   "source": "AG Connect",
+   "title": "Innovatiesubsidies sluiten nauwelijks aan bij kabinetsprioriteit digitalisering",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/innovatiesubsidies-sluiten-nauwelijks-aan-bij-digitalisering",
+   "date": "2026-11-23T10:42:43.000Z",
+   "desc": "Van het totale subsidiebudget werd in 2024 slechts 5 procent anders verdeeld dan in het voorgaande subsidiejaar.",
    "cats": [
-    "IT Strategy & Governance",
-    "Data Privacy",
-    "Overheid",
-    "defense tech",
-    "Kort",
-    "smartbril"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "NLdigital: productiviteit moet centraal staan in digitale toekomst",
-   "link": "https://www.computable.nl/2026/11/20/nldigital-productiviteit-moet-centraal-staan-in-digitale-toekomst/",
-   "date": "2026-11-20T09:00:00.000Z",
-   "desc": "Met de toekomstvisie 'Nederland Digitaal 2035' presenteert NLdigital welke keuzes nodig zijn om Nederland digitaal sterk, productief en weerbaar te houden. De belangenvereniging wil hiermee de kennis en praktijkervaring van de digitale sector in het maatschappelijke en politieke debat inbrengen.",
-   "cats": [
-    "Overheid",
-    "AI & Automation",
-    "Digital Transformation",
-    "AI",
-    "Digital transformation",
-    "scale-ups",
-    "Startups"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Grote zorgen over Amerikaanse exportcontroles op chipmachines",
-   "link": "https://www.computable.nl/2026/11/20/grote-zorgen-over-amerikaanse-exportcontroles-op-chipmachines/",
-   "date": "2026-11-20T06:15:00.000Z",
-   "desc": "De Tweede Kamer, van links tot rechts, maakt zich ernstige zorgen over de Amerikaanse Match Act en de gevolgen daarvan voor chipmachine-maker ASML. Republikeinse en Democratische politici stellen daarin voor om de exportbeperkingen voor chipfabricage-machines naar China verder aan te scherpen.",
-   "cats": [
-    "Cloud & Infrastructure",
-    "Datacenter & Infrastructure",
-    "IT Industry news",
-    "IT Strategy & Governance",
-    "Leadership & organisation",
-    "Overheid",
-    "China",
-    "Chip",
-    "Chipmachine",
-    "geopolitiek",
-    "kabinet-Jetten"
+    "Maatschappij",
+    "Overheid"
    ]
   },
   {
