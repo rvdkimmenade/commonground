@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:12:11.160Z",
+ "updated": "2026-11-24T15:38:12.232Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,61 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Waterschappen maken samen afspraken over datastrategie",
+   "link": "https://ibestuur.nl/data-en-ai/datagedreven-werken/waterschappen-maken-afspraken-over-data",
+   "date": "2026-11-24T14:46:19.000Z",
+   "desc": "Elk waterschap blijft zelf zelf verantwoordelijk voor de uitvoering van de strategie, aan een overkoepelend uitvoeringsplan wordt gewerkt.",
+   "cats": [
+    "Data en AI",
+    "Datagedreven werken"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Essay: Vertrouw niet blind op de ‘grote kansen’ van AI",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/essay-vertrouw-niet-blind-op-de-grote-kansen-van-ai",
+   "date": "2026-11-24T14:00:00.000Z",
+   "desc": "Volgens Ilyaz Nasrullah zijn de plannen voor een slagvaardige overheid onrealistisch en rusten ze op het AI-denken van Silicon Valley.",
+   "cats": [
+    "Data en AI",
+    "Ethiek"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "AI geeft de overheid niet vanzelf meer lucht",
+   "link": "https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/ai-geeft-de-overheid-niet-vanzelf-meer-lucht",
+   "date": "2026-11-24T13:24:30.000Z",
+   "desc": "In Londen en in Nederlandse raadszalen levert het gebruik van kunstmatige intelligentie voorlopig vooral extra werk op.",
+   "cats": [
+    "Overheid in Transitie",
+    "Management en bedrijfsvoering"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Zuid-Holland publiceert monitor digitale ontwikkelingen",
+   "link": "https://ibestuur.nl/overheid-in-transitie/informatiehuishouding/zuid-holland-publiceert-monitor-digitale-ontwikkelingen",
+   "date": "2026-11-24T13:09:24.000Z",
+   "desc": "De monitor is in het bijzonder bedoeld als hulpmiddel voor Provinciale Staten, voor een goed geïnformeerd debat over digitalisering.",
+   "cats": [
+    "Overheid in Transitie",
+    "Informatiehuishouding"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Kabinet: seksuele deepfakes bedreigen democratie",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/kabinet-seksuele-deepfakes-bedreigen-democratie",
+   "date": "2026-11-24T08:55:18.000Z",
+   "desc": "Vanaf 2027 extra budget vrij om online seksuele misdrijven aan te pakken.",
+   "cats": [
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Sturen op IT-kosten? Veel bestuurders hebben geen idee hoe",
@@ -1606,58 +1661,18 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Tweede Kamer stemt in met verder verbod op ‘gluurbrillen’",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/tweede-kamer-stemt-in-met-verder-verbod-op-gluurbrillen",
-   "date": "2026-10-05T14:31:36.000Z",
-   "desc": "De Kamer wil laten onderzoeken welke juridische mogelijkheden er zijn om het dragen van gluurbrillen verder te verbieden.",
+   "source": "Digitale Overheid",
+   "title": "DATAPRO112 bewijst waarde datadeling bij incidenten",
+   "link": "https://www.digitaleoverheid.nl/nieuws/datapro112-bewijst-waarde-datadeling-bij-incidenten/",
+   "date": "2026-11-24T10:08:54.000Z",
+   "desc": "Project DATAPRO112 laat zien hoe data-analyse en AI bijdragen aan een betere incidentbestrijding. Mede dankzij het Innovatiebudget konden veiligheidsregio's aan de slag.",
    "cats": [
-    "Data en AI",
-    "Ethiek"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Den Haag ondervindt hoe AI het securitvak verandert",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/den-haag-ondervindt-hoe-ai-het-securitvak-verandert",
-   "date": "2026-10-05T13:00:00.000Z",
-   "desc": "120 hackers zetten - onder meer - AI in om zwakke plekken te vinden in de systemen van de gemeente.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Wat is er terecht gekomen van al die Living Labs in ons land?",
-   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/wat-is-er-terecht-gekomen-van-al-die-living-labs",
-   "date": "2026-10-05T10:13:49.000Z",
-   "desc": "Living Labs zouden het ultieme antwoord zijn op de traditionele, trage beleidscultuur. Het blijkt vooral een sociaal leerproces.",
-   "cats": [
-    "Markt en Overheid",
-    "Innovatie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Hoe beveilig je een overheid die haar eigen IT niet overziet?",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/hoe-beveilig-je-een-overheid-die-eigen-it-niet-overziet",
-   "date": "2026-10-05T10:05:17.000Z",
-   "desc": "Een ontbrekend overzicht van de IT-contracten van het Rijk is meer dan alleen een financieel probleem.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Techreuzen trekken miljoenen extra uit voor lobby in Brussel",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/europese-politiek-en-beleid/techreuzen-trekken-miljoenen-extra-uit-voor-lobby-in-brussel",
-   "date": "2026-10-05T08:32:17.000Z",
-   "desc": "Microsoft en Meta verhoogden hun lobbybudget ieder met ongeveer 2 miljoen euro. Bij Amazon bedroeg de stijging ruim 4 miljoen euro.",
-   "cats": [
-    "Digitale Toekomst EU",
-    "Europese politiek en beleid"
+    "Nieuws",
+    "AI",
+    "cybersecurity",
+    "data",
+    "Innovatie",
+    "nieuwsbrief-20-2026"
    ]
   },
   {
@@ -1686,6 +1701,7 @@
     "Architectuur",
     "Digitaal zakendoen",
     "Digitalisering Rijksinkoop",
+    "nieuwsbrief-20-2026",
     "RIEA"
    ]
   },
@@ -1701,6 +1717,7 @@
     "Dienstverlening",
     "Loketfunctie",
     "Loketten",
+    "nieuwsbrief-20-2026",
     "overheidsbrede dienstverlening"
    ]
   },
@@ -1716,6 +1733,7 @@
     "data",
     "data delen",
     "MPC",
+    "nieuwsbrief-20-2026",
     "privacybescherming",
     "RIVM",
     "samenwerking",
@@ -1788,21 +1806,30 @@
     "Nieuws",
     "digitaal archiveren",
     "informatiehuishouding",
-    "Inspectie Overheidsinformatie en Erfgoed"
+    "Inspectie Overheidsinformatie en Erfgoed",
+    "nieuwsbrief-20-2026"
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Handreiking 'Digitaal overbrengen' aangevuld",
-   "link": "https://www.digitaleoverheid.nl/nieuws/handreiking-digitaal-overbrengen-in-de-praktijk-aangevuld/",
-   "date": "2026-11-13T13:47:48.000Z",
-   "desc": "De handreiking 'Digitaal overbrengen in de praktijk' geeft je handvatten bij het digitaal overbrengen van overheidsinformatie. Afgestemd op de vernieuwde Archiefwet.",
+   "source": "Binnenlands Bestuur",
+   "title": "Zuid-Holland publiceert monitor digitale ontwikkelingen",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/zuid-holland-publiceert-monitor-digitale-ontwikkelingen",
+   "date": "2026-11-24T12:58:51.000Z",
+   "desc": "Welke digitale ontwikkelingen spelen er momenteel en welke beleidskeuzes maakt onze organisatie? Het zijn vragen waarop de meeste overheden hooguit gedeeltelijk antwoord kunnen geven. De provincie Zuid-Holland doet een poging om meer transparantie over digitalisering te bewerkstelligen met behulp van een open monitor.",
    "cats": [
-    "Nieuws",
-    "Archiefwet",
-    "archiefwet 2026",
-    "informatiehuishouding",
-    "nationaal archief"
+    "digitaal",
+    "informatiehuishouding"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Sturen op IT-kosten? Veel bestuurders hebben geen idee hoe",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/sturen-op-it-kosten-veel-bestuurders-hebben-geen-idee-hoe",
+   "date": "2026-11-24T05:00:00.000Z",
+   "desc": "Als econoom en IT’er merkt Maarten Jonker dat IT een lastig dossier vormt in de bestuurskamer. Als CTO en CIO bij de overheid en in het bedrijfsleven zag hij bestuurders keer op keer worstelen met het omlaag brengen van IT-kosten. Hij besloot er samen met Marc Welters, voorzitter van NOREA, de beroepsorganisatie van IT-auditors, een boek over te schrijven, met de toepasselijke titel&nbsp;‘Grip op ",
+   "cats": [
+    "digitaal",
+    "informatiehuishouding"
    ]
   },
   {
@@ -2114,47 +2141,53 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Zwolle wacht op toestemming voor AI-collega's Joop Inkoop en Mike Rosoft",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/zwolle-wacht-op-toestemming-voor-joop-inkoop-en-mike-rosoft",
-   "date": "2026-11-06T12:00:00.000Z",
-   "desc": "De gemeente Zwolle zet steeds vaker AI-agents in om ambtenaren te ondersteunen bij hun dagelijkse werkzaamheden. Zo helpt een digitale assistent met de naam ‘Joop Inkoop’ bij het selecteren van Europese inkoopcodes en het aanmaken van inkoopverzoeken. Een andere agent, ‘Mike Rosoft’, ondersteunt medewerkers bij vragen over Microsoft-toepassingen. Dat meldt Computable.",
+   "source": "Gemeente.nu",
+   "title": "Hof: voormalig gemeenteambtenaar aansprakelijk voor fraude met facturen",
+   "link": "https://www.gemeente.nu/organisatie/hof-voormalig-gemeenteambtenaar-aansprakelijk-voor-fraude-met-facturen/",
+   "date": "2026-11-24T12:29:39.000Z",
+   "desc": "Een voormalig ambtenaar van de gemeente Lopik is volgens het gerechtshof Arnhem-Leeuwarden betrokken geweest bij een frauduleuze constructie waardoor de gemeente voor werkzaamheden veel te veel betaalde. De man beriep zich op zijn positie als klokkenluider, maar volgens het hof beschermt die status hem niet tegen aansprakelijkheid voor fraude.",
    "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
+    "Organisatie",
+    "ambtenaar",
+    "fraude"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "College voor de Rechten van de Mens mist geld voor toezicht op AI-systemen",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/mensenrechtencollege-mist-geld-voor-toezicht-op-ai-systemen",
-   "date": "2026-11-06T11:00:00.000Z",
-   "desc": "Het College voor de Rechten van de Mens maakt zich ernstige zorgen over de financiering van zijn grondrechtentoezicht op AI. Het College krijgt maar de helft van wat er nodig is en kan daardoor minder dan de helft van de benodigde specialisten aan het werk zetten.",
+   "source": "Gemeente.nu",
+   "title": "Gebruik AI in gemeentepolitiek verhoogt werkdruk ambtenaren",
+   "link": "https://www.gemeente.nu/bestuur/gemeenteraad/gebruik-ai-in-gemeentepolitiek-verhoogt-werkdruk-ambtenaren/",
+   "date": "2026-11-24T06:26:11.000Z",
+   "desc": "Generatieve AI wordt steeds vaker gebruikt in de gemeentepolitiek. Hoewel chatbots als ChatGPT, Claude en Copilot tijd besparen, leiden ze volgens onderzoek van BNR Nieuwsradio ook tot een hogere werkdruk bij ambtenaren. Uit enquêtes van BNR onder gemeenteraadsleden, wethouders, griffiers en gemeentesecretarissen blijkt dat een ruime meerderheid generatieve AI gebruikt. Chatbots worden vooral inge",
    "cats": [
-    "digitaal",
-    "inclusie"
+    "Gemeenteraad",
+    "ai",
+    "gemeenteraad",
+    "raadsleden"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Lokale overheden eisen 40 miljoen euro voor soevereine overheidscloud",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/lokale-overheden-eisen-40-miljoen-euro-voor-overheidscloud",
-   "date": "2026-11-06T09:50:19.000Z",
-   "desc": "Gemeenten, provincies en waterschappen willen dat het Rijk minimaal 40 miljoen euro vrijmaakt voor de ontwikkeling van een soevereine overheidscloud. Ze zijn bereid zelf mee te betalen en willen dat de eerste overheidsorganisaties al in 2027 gebruik kunnen maken van de voorziening. Volgens de medeoverheden dreigt Nederland anders afhankelijk te blijven van grote niet-Europese IT-leveranciers.",
+   "source": "Gemeente.nu",
+   "title": "CDA wil bezwaarprocedures bij woningbouw beperken om vertraging tegen te gaan",
+   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/cda-wil-bezwaarprocedures-bij-woningbouw-beperken-om-vertraging-tegen-te-gaan/",
+   "date": "2026-11-24T06:05:00.000Z",
+   "desc": "Het CDA wil de mogelijkheden om bezwaar te maken tegen nieuwbouwprojecten beperken. Volgens de partij zorgen langdurige bezwaar- en beroepsprocedures ervoor dat de bouw van woningen soms jarenlang vertraging oploopt Dit meldt RTL nieuws.",
    "cats": [
-    "digitaal",
-    "autonomie"
+    "Wonen",
+    "nieuwbouw",
+    "woningbouw",
+    "woningnood"
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "De samenleving is de sterkste verdediging tegen online onrust",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/de-samenleving-is-sterkste-verdediging-tegen-online-onrust",
-   "date": "2026-11-06T09:37:19.000Z",
-   "desc": "In verschillende West-Europese steden zien we hoe online oproepen tot rellen zich razendsnel verspreiden en soms leiden tot vernielingen en confrontaties met de politie. De politieke reflex is vaak dezelfde: meer online monitoring, daders identificeren en streng optreden. Wie zitten er achter deze oproepen? Zijn het jongeren die op zoek zijn naar sensatie, mensen die hun onvrede willen uiten of pa",
+   "source": "Gemeente.nu",
+   "title": "Buitenlandse jeugdhulpplaatsingen aan banden gelegd",
+   "link": "https://www.gemeente.nu/sociaal/jeugdzorg/buitenlandse-jeugdhulpplaatsingen-aan-banden-gelegd/",
+   "date": "2026-11-24T05:03:00.000Z",
+   "desc": "Jeugdhulp moet in principe alleen nog in Nederland plaatsvinden. Minister Sterk (Langdurige Zorg, Jeugd en Sport) werkt aan regelgeving die buitenlandse plaatsingen slechts onder strenge voorwaarden toestaat.",
    "cats": [
-    "digitaal",
-    "privacy"
+    "Jeugdzorg",
+    "jeugdzorg",
+    "uithuisplaatsing"
    ]
   },
   {
@@ -2231,100 +2264,43 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Woningcorporaties bouwen meer woningen, financiële druk neemt toe",
-   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/woningcorporaties-bouwen-meer-woningen-maar-financiele-druk-neemt-toe/",
-   "date": "2026-11-19T06:27:42.000Z",
-   "desc": "Woningcorporaties hebben in 2025 bijna 24.000 nieuwe sociale huurwoningen gebouwd, ruim 2.000 meer dan een jaar eerder. Ook investeerden zij miljarden in onderhoud, woningverbetering en verduurzaming. Tegelijkertijd staat de financiële positie van corporaties onder druk, doordat de uitgaven hoger blijven dan de inkomsten.",
-   "cats": [
-    "Wonen",
-    "woningbouw",
-    "woningcorporaties",
-    "woningnood"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Hoe Airbnb de stad verandert",
-   "link": "https://www.gemeente.nu/ruimte-milieu/leefomgeving/hoe-airbnb-de-stad-verandert/",
-   "date": "2026-11-18T16:16:41.000Z",
-   "desc": "Airbnb presenteert zich graag als een platform waarop gewone mensen hun huis delen. UvA-geograaf Jelke Bosma laat in zijn proefschrift zien dat dit beeld veel verbergt.",
-   "cats": [
-    "Leefomgeving",
-    "Wonen",
-    "Airbnb",
-    "leefbaarheid",
-    "vakantieverhuur"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Gemeenten staan er financieel goed voor, maar de investeringsruimte schiet tekort",
-   "link": "https://www.gemeente.nu/bedrijfsvoering/gemeenten-staan-er-financieel-goed-voor-maar-de-investeringsruimte-schiet-tekort/",
-   "date": "2026-11-18T13:50:19.000Z",
-   "desc": "De financiële gezondheid van gemeenten is over het algemeen goed, maar dat beeld is niet het hele verhaal. Veel gemeenten moeten de komende jaren flink bezuinigen om noodzakelijke investeringen te kunnen blijven doen. Dat blijkt uit de nieuwe monitor financiële conditie gemeenten 2025 van de VNG.",
-   "cats": [
-    "Bedrijfsvoering",
-    "Financiën",
-    "begroting",
-    "bezuinigingen",
-    "gemeentefinanciën",
-    "investeringen",
-    "VNG"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Werkbegeleiding vanuit azc succesvol",
-   "link": "https://www.gemeente.nu/sociaal/werk/werkbegeleiding-vanuit-azc-succesvol/",
-   "date": "2026-11-18T07:38:13.000Z",
-   "desc": "Gerichte begeleiding door gemeenten helpt mensen in de asielprocedure bij het vinden van betaald werk. Uit een publicatie van Platform31 en het Stedennetwerk G40 blijkt dat bijna de helft van de 552 deelnemers aan pilots in vijf gemeenten een baan vond. Persoonlijke begeleiding, nauwe samenwerking en ondersteuning op de werkvloer blijken belangrijke succesfactoren. Gemeenten hebben ... lees verder",
-   "cats": [
-    "Werk",
-    "asielzoekers",
-    "azc",
-    "werk"
-   ]
-  },
-  {
    "source": "Computable",
-   "title": "Imec opent rd-centrum in Finland en zet ook voet aan wal in Japan",
-   "link": "https://www.computable.nl/2026/11/23/imec-opent-rd-centrum-in-finland-en-zet-ook-voet-aan-wal-in-japan/",
-   "date": "2026-11-23T08:19:51.000Z",
-   "desc": "Imec opent een rd-centrum in Espoo, Finland. Vorige week kondigde het Belgische onderzoekscentrum aan ook een lokaal team op te bouwen in Japan. Beide initiatieven draaien om fotonica, een technologie die volgens Imec cruciaal wordt om de datastromen van ai-systemen efficiënter te verwerken.",
+   "title": "Kort: Zuid-Holland deelt digitale monitor, BumaStemra dreigt met rechtszaak tegen ai-muziek (en meer)",
+   "link": "https://www.computable.nl/2026/11/24/kort-zuid-holland-deelt-digitale-monitor-bumastemra-dreigt-met-rechtszaak-tegen-ai-muziek-en-meer/",
+   "date": "2026-11-24T11:11:53.000Z",
+   "desc": "Zuid-Holland deelt openbare monitor digitalisering, Verzekeraar QBE ziet forse stijging ransomware-slachtoffers, veel softwareontwikkelaars keuren ai-gegenereerde code goed zonder die te begrijpen, Workday ziet groei van ai-agents en Europese klanten, BumaStemra dreigt met rechstzaak tegen ai",
    "cats": [
+    "Data & AI",
     "Overheid",
-    "Chips",
-    "fotonica",
-    "Geheugenchips",
-    "R&D"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "OM hackte computers van Tata Steel",
-   "link": "https://www.computable.nl/2026/11/20/om-hackte-computers-van-tata-steel/",
-   "date": "2026-11-20T16:03:49.000Z",
-   "desc": "Het Openbaar Ministerie (OM) heeft bij het strafrechtelijk onderzoek naar Tata Steel in IJmuiden hackers ingezet om heimelijk binnen te dringen in het digitale bedrijfsnetwerk van de staalproducent. Ook zijn telefoons afgeluisterd en video-opnames gemaakt.",
-   "cats": [
     "Security & Risk",
-    "Cloud & Infrastructure",
-    "Overheid",
-    "hack",
-    "taps"
+    "ai-agents",
+    "ai-code",
+    "ai-monitor",
+    "ai-muziek",
+    "Ransomware",
+    "Rechtszaak"
    ]
   },
   {
-   "source": "Computable",
-   "title": "UWV zit na miljoenenfiasco nog jaren zonder 'vacaturesoftware'",
-   "link": "https://www.computable.nl/2026/11/20/uwv-zit-na-miljoenenfiasco-nog-jaren-zonder-vacaturesoftware/",
-   "date": "2026-11-20T15:35:16.000Z",
-   "desc": "De modernisering van de arbeidsbemiddeling bij UWV laat nog jaren op zich wachten. Dat blijkt uit de antwoorden van minister Hans Vijlbrief (Sociale Zaken en Werkgelegenheid) op Kamervragen van D66-leden Stephan Neijenhuis en Sarah El Boujdaini.",
+   "source": "AG Connect",
+   "title": "Kabinet: seksuele deepfakes bedreigen democratie",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/kabinet-seksuele-deepfakes-bedreigen-democratie",
+   "date": "2026-11-24T13:30:00.000Z",
+   "desc": "Vanaf 2027 extra budget vrij om online seksuele misdrijven aan te pakken.",
    "cats": [
-    "Overheid",
-    "Software & Development",
-    "arbeidsmarkt",
-    "ict-vacatures"
+    "Maatschappij",
+    "Overheid"
+   ]
+  },
+  {
+   "source": "AG Connect",
+   "title": "Werkdruk ambtenaren stijgt door groeiende inzet AI",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/werkdruk-ambtenaren-stijgt-door-groeiende-inzet-ai",
+   "date": "2026-11-24T11:27:00.000Z",
+   "desc": "Alle lagen in de gemeentepolitiek maken gretig gebruik van generatieve AI. Dit blijkt uit onderzoek van BNR Nieuwsradio.",
+   "cats": [
+    "Maatschappij",
+    "Overheid"
    ]
   },
   {
@@ -2454,17 +2430,6 @@
    "link": "https://www.agconnect.nl/maatschappij/overheid/bezwaarprocedure-solvinity-afgerond-besluit-ongewijzigd",
    "date": "2026-10-13T14:01:54.000Z",
    "desc": "De staatssecretaris heeft opnieuw naar alle relevante feiten gekeken en er is extra onderzoek gedaan, maar de uitkomst is hetzelfde.",
-   "cats": [
-    "Maatschappij",
-    "Overheid"
-   ]
-  },
-  {
-   "source": "AG Connect",
-   "title": "Microsoft 365 formeel van tafel bij Belastingdienst",
-   "link": "https://www.agconnect.nl/maatschappij/overheid/microsoft-365-formeel-van-tafel-bij-belastingdienst",
-   "date": "2026-10-08T12:18:32.000Z",
-   "desc": "De Belastingdienst stapt niet over naar Microsoft 365, en kiest voor een on-premises oplossing in combinatie met open source.",
    "cats": [
     "Maatschappij",
     "Overheid"
