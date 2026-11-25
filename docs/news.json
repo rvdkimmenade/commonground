@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:17:34.939Z",
+ "updated": "2026-11-25T15:22:49.995Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,149 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Martijn Snoep (ACM): ‘Wie 20 procent minder ambtenaren wil, moet wetten schrappen’",
+   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/wie-minder-ambtenaren-wil-moet-wetten-schrappen",
+   "date": "2026-11-25T13:46:25.000Z",
+   "desc": "De ACM heeft nu al te weinig mensen voor standaardcontroles en kiest onderzoeken op basis van maatschappelijke impact en risico.",
+   "cats": [
+    "Overheid in Transitie",
+    "Politiek en beleid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Regionale aanpak AI Leiden legt de focus op de medewerker",
+   "link": "https://ibestuur.nl/data-en-ai/datagedreven-werken/regionale-aanpak-ai-leiden-legt-de-focus-op-de-medewerker",
+   "date": "2026-11-25T10:57:56.000Z",
+   "desc": "De gemeenten bieden vangrails waarbinnen medewerkers vrij kunnen bewegen, in de vorm van kaders, richtlijnen en randvoorwaarden.",
+   "cats": [
+    "Data en AI",
+    "Datagedreven werken"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Met Robin wil het ministerie van Justitie en Veiligheid meer grip krijgen op AI-gebruik",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/met-robin-wil-jenv-meer-grip-krijgen-op-ai-gebruik",
+   "date": "2026-11-25T10:57:22.000Z",
+   "desc": "Het hulpje van ambtenaren van JenV heet Robin. De AI-assistent dient als veilig en betrouwbaar alternatief voor andere generatieve AI.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "AP: 'Meer systemen vallen onder de AI-verordening dan je denkt'",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/ap-meer-systemen-vallen-onder-de-ai-verordening",
+   "date": "2026-11-25T10:56:37.000Z",
+   "desc": "De meeste verplichtingen liggen bij aanbieders. Maar overheidsorganisaties blijven eindverantwoordelijk voor producten die ze gebruiken.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "‘Beheersbaarheid van AI is cruciaal’",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/beheersbaarheid-van-ai-is-cruciaal",
+   "date": "2026-11-25T10:55:52.000Z",
+   "desc": "Challenge officer Pallas Agterberg van Alliander: 'Hebben we als samenleving wel voldoende grip op deze ‘superpower’?'",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Nederland in de middenmoot bij invoering AI-verordening",
+   "link": "https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/nederland-in-de-middenmoot-bij-invoering-ai-verordening",
+   "date": "2026-11-25T10:55:28.000Z",
+   "desc": "Beleidsdocumenten, richtsnoeren, actieplannen en deadlines: de AI-verordening legt veel op het bord van overheden.",
+   "cats": [
+    "Digitale Toekomst EU",
+    "EU-wetgeving"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Rijkswaterstaat: overtuigd volger van AI",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/rijkswaterstaat-overtuigd-volger-van-ai",
+   "date": "2026-11-25T10:55:01.000Z",
+   "desc": "CIO Ron Kolkman: 'Ondanks alle bezuinigingen zullen we daar veel geld in gaan investeren, omdat we er echt in geloven.'",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "‘Samen gaan we sneller’: sAIdkick bundelt AI-bouwblokken van de overheid",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/saidkick-markplaats-bundelt-ai-bouwblokken-van-de-overheid",
+   "date": "2026-11-25T10:54:38.000Z",
+   "desc": "Van chatbot tot FinDocs: op de AI-marktplaats sAIdkick delen overheden hun bouwblokken. In maart 2027 moet die voor iedereen open zijn.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "ODI brengt risico’s van AI bij het programmeren in kaart",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/odi-brengt-risicos-van-ai-bij-het-programmeren-in-kaart",
+   "date": "2026-11-25T10:54:01.000Z",
+   "desc": "‘Als je ontwikkelaars geen AI geeft, betekent dat ook iets. Bovendien experimenteren veel ontwikkelaars thuis al met AI-tools.'",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "AI moet overheid helpen van ‘ouwe shit’ af te komen",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/ai-moet-overheid-helpen-van-ouwe-shit-af-te-komen",
+   "date": "2026-11-25T10:53:40.000Z",
+   "desc": "Het AI4-Legacy Lab wil met AI de verouderde IT-systemen van de overheid toekomstbestendig maken. Het Openbaar Ministerie bijt het spits af.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Studenten TU Delft laten AI de woningnood te lijf gaan",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/studenten-tu-delft-laten-ai-de-woningnood-te-lijf-gaan",
+   "date": "2026-11-25T10:53:18.000Z",
+   "desc": "AI Dream Team Epoch bouwde de Policy Pipeline Simulator: AI-agents tonen waar woondeals vastlopen en hoe ze weer vlot komen.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Evaluatie BIO2: overheden worstelen met de basis, terwijl de lat hoger komt te liggen",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/evaluatie-bio2-overheden-worstelen-met-de-basis",
+   "date": "2026-11-25T10:46:54.000Z",
+   "desc": "Voor veel organisaties is niet helder wat ze moeten aantonen om aan de BIO2 te voldoen en hoe dit zich verhoudt tot de Cyberbeveiligingswet.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Vraag eens wat vaker ‘wat bedoel je met AI?’",
+   "link": "https://ibestuur.nl/data-en-ai/ethiek/vraag-eens-wat-vaker-wat-bedoel-je-met-ai",
+   "date": "2026-11-25T09:30:09.000Z",
+   "desc": "Cynthia Liem: 'We hebben als mensheid de neiging om de ‘super obvious dingen’ door te automatiseren, in plaats van breder te kijken.'",
+   "cats": [
+    "Data en AI",
+    "Ethiek"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Waterschappen maken samen afspraken over datastrategie",
@@ -52,6 +195,17 @@
    "cats": [
     "Overheid in Transitie",
     "Informatiehuishouding"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Suzie Kewal: ‘Kijk naar de fundamentele vragen achter de AI-technologie’",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/suzie-kewal-kijk-naar-de-fundamentele-vragen-achter-de-ai",
+   "date": "2026-11-24T10:33:00.000Z",
+   "desc": "Derde conferentie AI & Overheid zet bewustwording en samenwerking tussen overheid, wetenschap en bedrijven in de schijnwerpers.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
    ]
   },
   {
@@ -415,17 +569,6 @@
    "cats": [
     "Markt en Overheid",
     "Digitale infrastructuur"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Suzie Kewal: ‘Kijk naar de fundamentele vragen achter de AI-technologie’",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/suzie-kewal-kijk-naar-de-fundamentele-vragen-achter-de-ai",
-   "date": "2026-11-12T10:33:02.000Z",
-   "desc": "Derde conferentie AI & Overheid zet bewustwording en samenwerking tussen overheid, wetenschap en bedrijven in de schijnwerpers.",
-   "cats": [
-    "Data en AI",
-    "Ethiek"
    ]
   },
   {
@@ -844,6 +987,17 @@
    "cats": [
     "Markt en Overheid",
     "Inkoop en aanbesteding"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "De kracht van collectieve intelligentie",
+   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/de-kracht-van-collectieve-intelligentie",
+   "date": "2026-11-01T10:52:00.000Z",
+   "desc": "Bij LEF Future Centers ontstaan nieuwe perspectieven op vastgelopen dossiers en complexe maatschappelijke vraagstukken.",
+   "cats": [
+    "Markt en Overheid",
+    "Innovatie"
    ]
   },
   {
@@ -1507,157 +1661,19 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "ACM publiceert handreiking digitale autonomie",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/acm-publiceert-handreiking-digitale-autonomie",
-   "date": "2026-10-09T14:31:10.000Z",
-   "desc": "Hoe ver kun je gaan als je als organisatie minder digitaal afhankelijk wil worden? De markttoezichthouder geeft advies.",
+   "source": "Digitale Overheid",
+   "title": "Evaluatie BIO2: uitvoering grootste uitdaging",
+   "link": "https://www.digitaleoverheid.nl/nieuws/evaluatie-bio2-uitvoering-grootste-uitdaging/",
+   "date": "2026-11-25T08:15:19.000Z",
+   "desc": "De inhoud van de BIO2 voldoet grotendeels. De toepassing vraagt nog wel aandacht. De resultaten van de evaluatie dragen bij aan de ontwikkeling van versie 2.0.",
    "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Aerdts roept op om beelden executie te melden",
-   "link": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/aerdts-roept-op-om-beelden-executie-te-melden",
-   "date": "2026-10-09T10:19:37.000Z",
-   "desc": "De staatssecretaris vreest dat nietsvermoedende kinderen met de beelden worden geconfronteerd.",
-   "cats": [
-    "Overheid in Transitie",
-    "Politiek en beleid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Van Weel: OM moet grote ict-inhaalslag maken",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/van-weel-om-moet-grote-ict-inhaalslag-maken",
-   "date": "2026-10-09T09:26:22.000Z",
-   "desc": "De informatiebeveiliging van het OM was jarenlang onvoldoende, blijkt uit onderzoek.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Europa geeft jaarlijks zo'n 264 miljard euro uit aan gesloten IT",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/eu-landen/europa-geeft-jaarlijks-264-miljard-euro-uit-aan-gesloten-it",
-   "date": "2026-10-08T09:00:00.000Z",
-   "desc": "'Veel Europese organisaties hebben geen formeel beleid voor het beheer van open source.'",
-   "cats": [
-    "Digitale Toekomst EU",
-    "EU-landen"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Kabinet betrekt burgers bij aanpak online discriminatie",
-   "link": "https://ibestuur.nl/digitalisering-en-democratie/burgerparticipatie/kabinet-betrekt-burgers-bij-aanpak-online-discriminatie",
-   "date": "2026-10-08T08:03:21.000Z",
-   "desc": "Zorgen over de toenemende normalisering van discriminerend en kwetsend gedrag op internet.",
-   "cats": [
-    "Digitalisering en Democratie",
-    "Burgerparticipatie"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Inlichtingendiensten waarschuwen voor Chinese cyberaanvallen",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/inlichtingendiensten-waarschuwen-voor-chinese-cyberaanvallen",
-   "date": "2026-10-07T13:32:02.000Z",
-   "desc": "Chinese cyberactoren hebben het volgens de AIVD en de MIVD gemunt op edgeapparaten, zoals firewalls, vpn-servers en routers.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "VNG en provincies vrezen gaten in Europese eisen voor soevereine cloud",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/vng-en-provincies-vrezen-gaten-in-europese-cloud",
-   "date": "2026-10-07T12:18:47.000Z",
-   "desc": "'Bouwen van meer datacenters in Europa gaat niet automatisch leiden tot meer digitale autonomie.'",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "De obesitas van overheidsinformatie. Is er ook Ozempic?",
-   "link": "https://ibestuur.nl/overheid-in-transitie/informatiehuishouding/de-obesitas-van-overheidsinformatie-is-er-ook-ozempic",
-   "date": "2026-10-07T09:25:09.000Z",
-   "desc": "De overheid zal de steeds maar uitdijende hoeveel informatie actief moeten beheren, anders raakt zij haar eigen geheugen kwijt.",
-   "cats": [
-    "Overheid in Transitie",
-    "Informatiehuishouding"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Aerdts: AI-ontwikkelaars verantwoordelijk bij incidenten",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/aerdts-ai-ontwikkelaars-verantwoordelijk-bij-incidenten",
-   "date": "2026-10-07T07:00:00.000Z",
-   "desc": "AI-bedrijven zijn verantwoordelijk voor de activiteiten van de AI-modellen die ze trainen. Ook als die modellen uit hacken gaan.",
-   "cats": [
-    "Data en AI",
-    "Ethiek"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Overheid en bedrijfsleven werken samen aan de cloud, maar hoe?",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/overheid-en-bedrijfsleven-samen-in-de-cloud-maar-hoe",
-   "date": "2026-10-06T14:19:59.000Z",
-   "desc": "Ron Kolkman, Aik van Eemeren, Teun van der Vorm en Ludo Baauw over de wijze waarop de overheid de regie terugpakt en kennis in huis houdt.",
-   "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Belastingdienst stopt met de migratie naar de Microsoft 365-cloud",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/belastingdienst-stopt-migratie-naar-microsoft-365-cloud",
-   "date": "2026-10-06T12:02:02.000Z",
-   "desc": "Financiën kiest voor eigen of door de Belastingdienst gecontroleerde servers, gecombineerd met Europese open sourceoplossingen",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "‘Ik heb lang moeten praten voor we geld kregen voor een DevOps-team’",
-   "link": "https://ibestuur.nl/overheid-in-transitie/dienstverlening/ik-heb-lang-moeten-praten-voor-een-devops-team",
-   "date": "2026-10-06T11:48:37.000Z",
-   "desc": "Constance Boogers, voormalig CIO van Nijmegen, over AI, digitale autonomie en landelijk samenwerken.",
-   "cats": [
-    "Overheid in Transitie",
-    "Dienstverlening"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Verouderde beeldvorming over open source",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/verouderde-beeldvorming-over-open-source",
-   "date": "2026-10-06T09:57:04.000Z",
-   "desc": "Er lijken onjuiste beelden over open source te bestaan, terwijl ze niet waar hoeven zijn. Je moet er wel een beetje moeite in willen steken.",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Kabinet wil afhankelijkheid van niet-Europese quantumtechnologie voorkomen",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/kabinet-wil-afhankelijkheid-quantumtechnologie-voorkomen",
-   "date": "2026-10-06T07:56:14.000Z",
-   "desc": "Het kabinet wil economische kansen benutten en tegelijkertijd voorkomen dat er nieuwe strategische afhankelijkheden ontstaan.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
+    "Nieuws",
+    "AI",
+    "BIO2",
+    "cybersecurity",
+    "digitale autonomie",
+    "digitale weerbaarheid",
+    "Quantumveilige cryptografie"
    ]
   },
   {
@@ -1797,17 +1813,36 @@
    ]
   },
   {
-   "source": "Digitale Overheid",
-   "title": "Overheidsinformatie vraagt om beter archiefbeheer",
-   "link": "https://www.digitaleoverheid.nl/nieuws/overheidsinformatie-vraagt-om-beter-archiefbeheer/",
-   "date": "2026-11-16T07:48:20.000Z",
-   "desc": "De Inspectie Overheidsinformatie en Erfgoed roept op tot beter archiefbeheer bij overheidsorganisaties. Zo moet informatie ook in de toekomst toegankelijk blijven.",
+   "source": "Binnenlands Bestuur",
+   "title": "Evaluatie BIO2: overheden worstelen met de basis, terwijl de lat hoger komt te liggen",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/evaluatie-bio2-overheden-worstelen-met-de-basis",
+   "date": "2026-11-25T14:00:00.000Z",
+   "desc": "De invoering van de Baseline Informatiebeveiliging Overheid 2 (BIO2) blijkt een lastige klus voor veel overheidsorganisaties. Ze lopen vast op vragen over toepassing, toetsbaarheid en de samenhang met de Cyberbeveiligingswet. Tegelijk ligt er een reeks wijzigingsvoorstellen klaar voor BIO2 versie 2.0, met onder meer een verplichte overstap naar post-quantumcryptografie.",
    "cats": [
-    "Nieuws",
-    "digitaal archiveren",
-    "informatiehuishouding",
-    "Inspectie Overheidsinformatie en Erfgoed",
-    "nieuwsbrief-20-2026"
+    "digitaal",
+    "cyberveiligheid"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Toezichthouder wil dat gemeenten bedreigde inwoners meer wijzen op een briefadres",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/ap-wil-dat-gemeenten-inwoners-meer-wijzen-op-een-briefadres",
+   "date": "2026-11-25T13:00:00.000Z",
+   "desc": "Kwetsbare inwoners lopen volgens de Autoriteit Persoonsgegevens onnodig veiligheidsrisico’s doordat gemeenten hen niet actief informeren over briefadressen. De Autoriteit Persoonsgegevens (AP) roept gemeenten op inwoners actief te informeren over de mogelijkheid om een briefadres te krijgen.",
+   "cats": [
+    "digitaal",
+    "privacy"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Gemeenten ontvingen vorig jaar ruim 13.000 Woo-verzoeken",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/gemeenten-ontvingen-vorig-jaar-ruim-13000-woo-verzoeken",
+   "date": "2026-11-25T11:55:49.000Z",
+   "desc": "Het aantal Woo-verzoeken neemt toe, terwijl gemeenten nog altijd grote moeite hebben om hun informatiehuishouding op orde te brengen. Gemeenten slagen er slechts in 62 procent van de Woo-verzoeken binnen de beslistermijn af te handelen en zijn daarmee nog ver verwijderd van de doelstelling om in 2026 90 procent van de verzoeken tijdig af te handelen.",
+   "cats": [
+    "digitaal",
+    "informatiehuishouding"
    ]
   },
   {
@@ -2130,14 +2165,39 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Mooi dat onze overheid achterloopt met AI",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/mooi-dat-onze-overheid-achterloopt-met-ai",
-   "date": "2026-11-09T05:00:00.000Z",
-   "desc": "De lijst met bedrijven die massaal medewerkers ontslaan omdat ze hopen dat ze vervangen kunnen worden door AI, is schier oneindig. Het kabinet wil zelfs 25.000 ambtenaren wegbezuinigen door in te zetten op AI. Maar is AI een bezuiniging-tool? Is het slim om AI daarvoor in te zetten? Is het slim om mensen weg te bezuinigen met AI? En kan het goed nieuws zijn dat onze overheid achterloopt qua AI?",
+   "source": "Gemeente.nu",
+   "title": "Bezwaar tegen parkeerboete bewust naar verkeerde gemeente gestuurd: rechter wijst beroep af",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/belastingen/bezwaar-tegen-parkeerboete-bewust-naar-verkeerde-gemeente-gestuurd-rechter-wijst-beroep-af/",
+   "date": "2026-11-25T07:47:50.000Z",
+   "desc": "Een automobilist die bezwaar maakte tegen een parkeerboete in Haarlem, heeft bij de rechter nul op het rekest gekregen. Zijn juridisch adviseur stuurde het bezwaarschrift naar de gemeente Almere. Volgens de rechtbank Noord-Holland gebeurde dat vermoedelijk bewust, om de behandeling van het bezwaar te bemoeilijken.",
    "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
+    "Belastingen",
+    "parkeerapp",
+    "parkeerboete; naheffing"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Minder jongeren in jeugdzorg, maar hogere kosten: kabinet bereidt hervormingen voor",
+   "link": "https://www.gemeente.nu/sociaal/jeugdzorg/minder-jongeren-in-jeugdzorg-maar-hogere-kosten-kabinet-bereidt-hervormingen-voor/",
+   "date": "2026-11-25T07:32:31.000Z",
+   "desc": "Het kabinet werkt aan nieuwe maatregelen om de jeugdzorg beter betaalbaar te maken en kwetsbare jongeren sneller passende hulp te bieden. Daarbij moet eenvoudige ondersteuning vaker dichtbij huis en op school worden georganiseerd, terwijl de overheid meer grip wil krijgen op specialistische jeugdzorg.",
+   "cats": [
+    "Jeugdzorg",
+    "jeugdhulp",
+    "jeugdzorg"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Armoede in Nederland blijft stabiel, maar steeds meer werkenden komen in de knel",
+   "link": "https://www.gemeente.nu/sociaal/armoede-in-nederland-blijft-stabiel-maar-steeds-meer-werkenden-komen-in-de-knel/",
+   "date": "2026-11-25T06:47:20.000Z",
+   "desc": "Het aandeel Nederlanders dat in armoede leeft, is in 2025 gelijk gebleven op 3 procent. Toch laten nieuwe cijfers van het Centraal Bureau voor de Statistiek (CBS) dat vooral onder werkenden en zelfstandigen de armoede toeneemt. Bovendien is het inkomenstekort van mensen in armoede de afgelopen jaren fors groter geworden. In 2025 leefden 521.000 mensen ... lees verder",
+   "cats": [
+    "Sociaal",
+    "armoede",
+    "armoedebeleid"
    ]
   },
   {
@@ -2228,39 +2288,17 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Steeds meer gemeenten kiezen voor nascheiding van huishoudelijk afval",
-   "link": "https://www.gemeente.nu/ruimte-milieu/afval/steeds-meer-gemeenten-kiezen-voor-nascheiding-van-huishoudelijk-afval/",
-   "date": "2026-11-20T07:24:52.000Z",
-   "desc": "Gemeenten stappen massaal over op het nascheiden van huishoudelijk afval. In 2025 koos bijna 60 procent van de gemeenten ervoor om afval geheel of gedeeltelijk achteraf te scheiden, tegenover een kwart in 2023. Tegelijkertijd neemt de gescheiden inzameling van plastic, metalen verpakkingen en drankkartons (pmd) af.",
+   "source": "Computable",
+   "title": "Stijn Grove vertrekt bij Dutch Data Center Association",
+   "link": "https://www.computable.nl/2026/11/25/stijn-grove-vertrekt-bij-dutch-data-center-association/",
+   "date": "2026-11-25T12:43:14.000Z",
+   "desc": "Stijn Grove treedt op 1 maart 2027 terug als directeur van de Dutch Data Center Association (DDA). Grove stond aan de wieg van deze brancheorganisatie voor datacenters en bouwde haar uit tot een herkenbare gesprekspartner voor overheid, politiek, media en maatschappelijke organisaties.",
    "cats": [
-    "Afval",
-    "afval",
-    "afval scheiden"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Strenger toezicht en vergunningplicht op komst voor Wmo-aanbieders",
-   "link": "https://www.gemeente.nu/sociaal/wmo/strenger-toezicht-en-vergunningplicht-op-komst-voor-wmo-aanbieders/",
-   "date": "2026-11-19T12:53:20.000Z",
-   "desc": "Het kabinet wil het toezicht op maatschappelijke ondersteuning versterken en fraude met zorggeld harder aanpakken. Wmo-aanbieders krijgen daarom te maken met een vergunningplicht en de positie van gemeentelijke toezichthouders moet wettelijk worden versterkt. In een Kamerbrief gaat minister Sterk in op de stand van zaken. Kwaliteit gemeentelijk toezicht blijft achter De aanleiding voor de maatrege",
-   "cats": [
-    "Wmo",
-    "toezicht"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Nederland op achterstand bij uitvoering VN-verdrag Handicap",
-   "link": "https://www.gemeente.nu/sociaal/nederland-op-achterstand-bij-uitvoering-vn-verdrag-handicap/",
-   "date": "2026-11-19T06:30:58.000Z",
-   "desc": "Tien jaar na het ondertekenen van hetVN-verdrag Handicap loopt Nederland nog steeds achter met de uitvoering hiervan. Verbeteringen in het openbaar vervoer en meer woningaanpassingen, wegen niet op tegen hardnekkige achterstanden. Dat constateert het RIVM in de eerste uitvoeringsmonitor. In Nederland leven naar schatting ruim twee miljoen mensen met een beperking, variërend van slechtziendheid tot",
-   "cats": [
-    "Bestuur",
-    "Sociaal",
-    "mensenrechten",
-    "VN-Verdrag Handicap"
+    "Carrière",
+    "Datacenter",
+    "Datacenter & Infrastructure",
+    "Overheid",
+    "Loopbaan"
    ]
   },
   {
@@ -2434,6 +2472,14 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheid in OTRS Survey endpoint: update nodig",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-otrs-survey-endpoint-update-nodig",
+   "date": "2026-11-25T09:06:40.000Z",
+   "desc": "Er is een kwetsbaarheid gevonden in OTRS met het nummer CVE-2026-93584. Deze kwetsbaarheid heeft een gemiddelde kans op misbruik en kan leiden tot grote schade. Het gaat om een probleem in de Survey endpoint van OTRS, versies 2024.3.1 tot en met 2026.8.1, waarbij een aanvaller zonder inloggegevens schadelijke acties kan uitvoeren.",
+   "cats": []
   },
   {
    "source": "NCSC",
@@ -5000,7 +5046,7 @@
    "title": "Productie poliovaccin in Bilthoven komt bijna tot stilstand na cyberaanval",
    "link": "https://www.ncsc.nl/ondernemersverhalen/productie-poliovaccin-komt-bijna-tot-stilstand-na-cyberaanval",
    "date": "2023-03-16T13:27:25.000Z",
-   "desc": "Een ochtend in september vorig jaar op het Utrecht Science Park/Bilthoven. In het gebouw van Bilthoven Biologicals (BBio) starten medewerkers hun computer op. Meerdere collega’s merken op dat het intranet niet laadt. Ook andere applicaties starten niet zoals gebruikelijk. De servicedesk raakt overspoeld met telefoontjes. En dan wordt al vrij snel duidelijk dat er iets goed mis is.",
+   "desc": "",
    "cats": []
   },
   {
@@ -5096,7 +5142,7 @@
    "title": "Zo kwam Giro555 in actie tegen nepmails",
    "link": "https://www.ncsc.nl/ondernemersverhalen/zo-kwam-giro555-in-actie-tegen-nepmails",
    "date": "2022-06-27T12:33:06.000Z",
-   "desc": "\"Wij dachten nog naïef: de goededoelensector zullen ze toch wel besparen?\", zegt Titia Wenneker, coördinator online en innovatie van de Stichting Samenwerkende Hulporganisaties (SHO). Maar inmiddels weet ze beter. Cybercriminelen maken op geen enkel vlak onderscheid.",
+   "desc": "\"Wij dachten nog naïef: de goededoelensector zullen ze toch wel besparen?\", zegt Titia Wenneker, coördinator online en innovatie van de Stichting Samenwerkende Hulporganisaties (SHO). Maar inmiddels weet ze beter. Cybercriminelen maken op geen enkel vlak onderscheid. Dat ondervond SHO – beter bekend als Giro555 - vlak na de start van hun inzamelingsactie voor de mensen uit Oekraïne. Binnen korte t",
    "cats": []
   },
   {
@@ -5120,7 +5166,7 @@
    "title": "Voedingsmiddelenbedrijf Royal Smilde betrapt hackers op heterdaad",
    "link": "https://www.ncsc.nl/ondernemersverhalen/voedingsmiddelenbedrijf-royal-smilde-betrapt-hackers-op-heterdaad",
    "date": "2022-06-12T12:31:31.000Z",
-   "desc": "Het is 13 februari 2022 - vroeg in de nacht van zaterdag op zondag – als bij ICT-manager Richard Elsinga van Royal Smilde de telefoon gaat. Het is een van zijn IT-leveranciers aan de andere kant van de lijn. Die ziet dat er verdachte activiteit op een van de servers gaande is. Misschien een ransomware-aanval?",
+   "desc": "Het is 13 februari 2022 - vroeg in de nacht van zaterdag op zondag – als bij ICT-manager Richard Elsinga van Royal Smilde de telefoon gaat. Het is een van zijn IT-leveranciers aan de andere kant van de lijn. Die ziet dat er verdachte activiteit op een van de servers gaande is. Misschien een ransomware-aanval?<br /> <br /> Richard belt onmiddellijk met zijn collega’s. Gelukkig is iedereen bereikbaa",
    "cats": []
   },
   {
@@ -5405,7 +5451,7 @@
   },
   {
    "source": "NCSC",
-   "title": "Back-up redt family office na ransomware-aanval",
+   "title": "Back-up redt family office na ransomeware-aanval",
    "link": "https://www.ncsc.nl/ondernemersverhalen/back-up-redt-family-office-na-ransomware-aanval",
    "date": "2020-09-08T11:47:55.000Z",
    "desc": "Gerke van de Ven is samen met Ester Böinck oprichter en eigenaar van Boven en Dean. Boven is een family office voor vermogende klanten in het bedrijfsleven, topsport en entertainmentwereld. Dean ontzorgt klanten administratief als persoonlijk secretaris. Beide bedrijven werken met zeer persoonlijke gegevens. Ze verwerken bijvoorbeeld alle fysieke en digitale post van cliënten. Van bankafschriften ",
@@ -5560,7 +5606,7 @@
    "title": "Studenten maken Zuivelhoeve digitaal veilig",
    "link": "https://www.ncsc.nl/ondernemersverhalen/studenten-maken-zuivelhoeve-digitaal-veilig",
    "date": "2019-10-22T12:28:52.000Z",
-   "desc": "Anton Klapwijk is de trotse eigenaar van Zuivelhoeve, een kaas- en worstenwinkel in de levendige Korte Kerkstraat in Leeuwarden. Oorspronkelijk was dit alleen een kaaswinkel maar recentelijk is hier een worstenwinkel bijgekomen, pal tegenover de kaaswinkel. \"Als ondernemer ben je vooral bezig met de inkoop en verkoop van je producten. Ik wist dat (cyber)security steeds belangrijker wordt, maar dat",
+   "desc": "",
    "cats": []
   },
   {
