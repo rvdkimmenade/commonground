@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:38:12.232Z",
+ "updated": "2026-11-25T01:17:34.939Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -1812,6 +1812,28 @@
   },
   {
    "source": "Binnenlands Bestuur",
+   "title": "Waterschappen maken samen afspraken over datastrategie",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/waterschappen-maken-afspraken-over-data",
+   "date": "2026-11-24T17:00:00.000Z",
+   "desc": "De 21 waterschappen hebben 20 november jl. hun gezamenlijke datastrategie vastgesteld. Sectorbreed hebben ze afspraken gemaakt over volwassenheid, datadelen en digitale autonomie. Of die afspraken ook landen, moet nog wel blijken: elk waterschap is zelf verantwoordelijk voor de uitvoering, een overkoepelendd uitvoeringsplan ontbreekt nog. Daar wordt het komende jaar aan gewerkt.",
+   "cats": [
+    "digitaal",
+    "informatiehuishouding"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Onderzoek: ambtenaren ervaren meer werkdruk door inzet AI",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/onderzoek-ambtenaren-ervaren-meer-werkdruk-door-ai",
+   "date": "2026-11-24T16:00:00.000Z",
+   "desc": "Het was de ultieme belofte van generatieve AI: efficiënter werken en dus meer tijd om je bezig te houden met de niet-routinematige klussen. Voor gemeenteambtenaren blijkt de realiteit een andere:&nbsp;de inzet van chatbots levert méér werk op, dat al dan niet met behulp van AI moet worden opgepakt.&nbsp;",
+   "cats": [
+    "digitaal",
+    "kunstmatige intelligentie"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
    "title": "Zuid-Holland publiceert monitor digitale ontwikkelingen",
    "link": "https://www.binnenlandsbestuur.nl/digitaal/zuid-holland-publiceert-monitor-digitale-ontwikkelingen",
    "date": "2026-11-24T12:58:51.000Z",
@@ -2119,28 +2141,6 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Kabinet wil eigen AI-koers, maar de VS en China zijn nooit ver weg",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/kabinet-wil-eigen-ai-koers-maar-de-vs-is-nooit-ver-weg",
-   "date": "2026-11-06T17:00:00.000Z",
-   "desc": "Het kabinet-Jetten presenteert vrijdag een visie op AI. Die visie luidt dat Nederland zich weliswaar inzet om open strategische autonomie te bereiken, maar dat er tegelijkertijd via ‘gerichte AI-diplomatie’ wordt ingezet om de Nederlandse toegang tot geavanceerde AI-capaciteiten veilig te stellen.",
-   "cats": [
-    "digitaal",
-    "autonomie"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "NCTV ziet dat AI steeds grotere rol speelt bij de uitvoering van aanvallen",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/nctv-ziet-dat-ai-steeds-grotere-rol-speelt-bij-aanvallen",
-   "date": "2026-11-06T15:11:43.000Z",
-   "desc": "Hackers gebruiken AI om hun cyberaanvallen sneller, groter en efficiënter te maken. Daarvoor waarschuwt antiterrorismecoördinator NCTV. Marc Kuipers, hoofd van de organisatie, zegt dat bestuurders snel de bescherming op orde moeten brengen. 'Door AI komt cyberdreiging in een stroomversnelling en we moeten nu actie ondernemen.'",
-   "cats": [
-    "digitaal",
-    "cyberveiligheid"
-   ]
-  },
-  {
    "source": "Gemeente.nu",
    "title": "Hof: voormalig gemeenteambtenaar aansprakelijk voor fraude met facturen",
    "link": "https://www.gemeente.nu/organisatie/hof-voormalig-gemeenteambtenaar-aansprakelijk-voor-fraude-met-facturen/",
@@ -2267,7 +2267,7 @@
    "source": "Computable",
    "title": "Kort: Zuid-Holland deelt digitale monitor, BumaStemra dreigt met rechtszaak tegen ai-muziek (en meer)",
    "link": "https://www.computable.nl/2026/11/24/kort-zuid-holland-deelt-digitale-monitor-bumastemra-dreigt-met-rechtszaak-tegen-ai-muziek-en-meer/",
-   "date": "2026-11-24T11:11:53.000Z",
+   "date": "2026-11-24T11:00:00.000Z",
    "desc": "Zuid-Holland deelt openbare monitor digitalisering, Verzekeraar QBE ziet forse stijging ransomware-slachtoffers, veel softwareontwikkelaars keuren ai-gegenereerde code goed zonder die te begrijpen, Workday ziet groei van ai-agents en Europese klanten, BumaStemra dreigt met rechstzaak tegen ai",
    "cats": [
     "Data & AI",
@@ -2276,7 +2276,7 @@
     "ai-agents",
     "ai-code",
     "ai-monitor",
-    "ai-muziek",
+    "Kort",
     "Ransomware",
     "Rechtszaak"
    ]
