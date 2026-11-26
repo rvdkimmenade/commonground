@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:52:20.232Z",
+ "updated": "2026-11-26T14:50:29.915Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,50 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Technologie digitaal soevereine werkplek beproefd in brede praktijkverkenning",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/technologie-digitaal-soevereine-werkplek-beproefd",
+   "date": "2026-11-26T11:21:25.000Z",
+   "desc": "Vier gemeenten beproefden DAWO en MijnBureau als alternatief voor Microsoft 365. Wat leerden ze van de soevereine werkplek?",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Wordt de Wet open overheid beter uitvoerbaar?",
+   "link": "https://ibestuur.nl/overheid-in-transitie/informatiehuishouding/wordt-de-wet-open-overheid-beter-uitvoerbaar",
+   "date": "2026-11-26T10:30:00.000Z",
+   "desc": "In afwachting van de evaluatie kiest het kabinet voor best practices en een standaardproces, de aanpak van misbruik en de inzet van AI.",
+   "cats": [
+    "Overheid in Transitie",
+    "Informatiehuishouding"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Leeftijdsgrens sociale media pakt kern van probleem niet aan",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/leeftijdsgrens-sociale-media-pakt-kern-van-probleem-niet-aan",
+   "date": "2026-11-26T09:32:01.000Z",
+   "desc": "Maatschappelijke rganisaties pleiten voor duidelijke en afdwingbare eisen aan het ontwerp van sociale media.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Het gesprek: Wie beschermt slachtoffers wanneer hun data op straat liggen?",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/bescherming-slachtoffers-bij-datadiefstal",
+   "date": "2026-11-26T07:22:55.000Z",
+   "desc": "Digitale Dolle mina Chantal Stekelenburg in gesprek met BBB-leider Henk Vermeer over de gevolgen van datadiefstal voor kwetsbare mensen.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Martijn Snoep (ACM): ‘Wie 20 procent minder ambtenaren wil, moet wetten schrappen’",
@@ -1617,202 +1661,6 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Meta weigert camerabrillen uit verkoop te halen, stichtingen stappen naar rechter",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/meta-weigert-camerabrillen-uit-verkoop-te-halen",
-   "date": "2026-10-13T09:00:00.000Z",
-   "desc": "Meta-topman vergelijkt de kritiek met de maatschappelijke ophef bij de introductie van smartphones met camera's.",
-   "cats": [
-    "Data en AI",
-    "Ethiek"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "AI-bezwaarschriften bezorgen gemeenten extra werk",
-   "link": "https://ibestuur.nl/overheid-in-transitie/dienstverlening/ai-bezwaarschriften-bezorgen-gemeenten-extra-werk",
-   "date": "2026-10-13T08:29:53.000Z",
-   "desc": "Teksten van inwoners zijn 'wolliger, stelliger, langer en onduidelijker' en verwijzen naar jurisprudentie die helemaal niet bestaat.",
-   "cats": [
-    "Overheid in Transitie",
-    "Dienstverlening"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Europees alternatief voor veel Amerikaanse software beschikbaar",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/europees-alternatief-voor-veel-amerikaanse-software",
-   "date": "2026-10-12T13:31:50.000Z",
-   "desc": "Gebruikers kunnen hun eigen softwarelandschap invoeren en krijgen vervolgens een overzicht van mogelijke Europese alternatieven.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "AP richt directie voor AI-toezicht op, maar er is nog altijd geen bevoegdheid",
-   "link": "https://ibestuur.nl/data-en-ai/ethiek/ap-richt-nieuwe-directie-voor-ai-toezicht-op",
-   "date": "2026-10-12T08:32:00.000Z",
-   "desc": "Nederland heeft de Europese deadline voor het aanwijzen van AI-toezichthouders inmiddels ruim een jaar overschreden.",
-   "cats": [
-    "Data en AI",
-    "Ethiek"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Evaluatie BIO2: uitvoering grootste uitdaging",
-   "link": "https://www.digitaleoverheid.nl/nieuws/evaluatie-bio2-uitvoering-grootste-uitdaging/",
-   "date": "2026-11-25T08:15:19.000Z",
-   "desc": "De inhoud van de BIO2 voldoet grotendeels. De toepassing vraagt nog wel aandacht. De resultaten van de evaluatie dragen bij aan de ontwikkeling van versie 2.0.",
-   "cats": [
-    "Nieuws",
-    "AI",
-    "BIO2",
-    "cybersecurity",
-    "digitale autonomie",
-    "digitale weerbaarheid",
-    "Quantumveilige cryptografie"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "DATAPRO112 bewijst waarde datadeling bij incidenten",
-   "link": "https://www.digitaleoverheid.nl/nieuws/datapro112-bewijst-waarde-datadeling-bij-incidenten/",
-   "date": "2026-11-24T10:08:54.000Z",
-   "desc": "Project DATAPRO112 laat zien hoe data-analyse en AI bijdragen aan een betere incidentbestrijding. Mede dankzij het Innovatiebudget konden veiligheidsregio's aan de slag.",
-   "cats": [
-    "Nieuws",
-    "AI",
-    "cybersecurity",
-    "data",
-    "Innovatie",
-    "nieuwsbrief-20-2026"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "‘De NDS heeft ons anders leren werken en denken’",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/de-nds-heeft-ons-anders-leren-werken-en-denken/",
-   "date": "2026-11-23T14:27:59.000Z",
-   "desc": "Dick Jense neemt het stokje over van NDS-programmadirecteur Erik-Jan Boon. Tijdens zijn presentatie op het NL Digitaal Festival blikte Jense terug en vooruit.",
-   "cats": [
-    "NDS nieuws",
-    "Dick Jense",
-    "NDS",
-    "Nederlandse Digitaliseringsstrategie",
-    "soevereine cloud",
-    "Willemijn Aerdts"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Architectuur geeft richting digitalisering Rijksinkoop",
-   "link": "https://www.digitaleoverheid.nl/nieuws/architectuur-geeft-richting-digitalisering-rijksinkoop/",
-   "date": "2026-11-23T08:12:52.000Z",
-   "desc": "De Rijksinkoop Enterprise Architectuur (RIEA) is vastgesteld. Deze helpt de inkoop binnen het Rijk slimmer te organiseren en digitale systemen beter te verbinden.",
-   "cats": [
-    "Nieuws",
-    "Architectuur",
-    "Digitaal zakendoen",
-    "Digitalisering Rijksinkoop",
-    "nieuwsbrief-20-2026",
-    "RIEA"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Dienstverlening dichtbij: 4 lessen uit Brugge",
-   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-dichtbij-4-lessen-uit-brugge/",
-   "date": "2026-11-20T12:04:09.000Z",
-   "desc": "Vlaamse stad Brugge is voorloper in overheidsbrede dienstverlening dichtbij de inwoner. Ze was één van de pioniers in de ontwikkeling van het Draagbaar Loket.",
-   "cats": [
-    "Achtergrond",
-    "Brugge",
-    "Dienstverlening",
-    "Loketfunctie",
-    "Loketten",
-    "nieuwsbrief-20-2026",
-    "overheidsbrede dienstverlening"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Nieuwe techniek voor veiliger dataonderzoek",
-   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-techniek-voor-veiliger-dataonderzoek/",
-   "date": "2026-11-18T12:15:05.000Z",
-   "desc": "Het CBS, RIVM en Roseman Labs testten een methode om versleutelde gegevens te analyseren. De pilot laat zien hoe organisaties veilig kunnen samenwerken met data.",
-   "cats": [
-    "Nieuws",
-    "CBS",
-    "data",
-    "data delen",
-    "MPC",
-    "nieuwsbrief-20-2026",
-    "privacybescherming",
-    "RIVM",
-    "samenwerking",
-    "Secure Multi-Party Computation",
-    "verantwoordelijk"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Weerbaarder worden in 3 stappen",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/weerbaarder-worden-in-3-stappen/",
-   "date": "2026-11-18T10:49:16.000Z",
-   "desc": "Continuïteit van kritieke diensten houdt in dat bij een calamiteit het belangrijkste werk doorgaat. Ook met weinig budget, zegt programmamanager Marianne van den Boogaart.",
-   "cats": [
-    "NDS nieuws",
-    "BCM",
-    "Business Continuity Management",
-    "Crisis",
-    "digitale weerbaarheid",
-    "weerbaarheid"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Samen werken aan een visie op digitaal vakmanschap",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/samen-werken-aan-een-visie-op-digitaal-vakmanschap/",
-   "date": "2026-11-17T13:00:36.000Z",
-   "desc": "Begin december verschijnt de gezamenlijke visie op digitaal vakmanschap binnen de NDS. Hoe werkten Rijk, gemeenten, waterschappen en publieke dienstverleners samen?",
-   "cats": [
-    "NDS nieuws",
-    "achtergrond",
-    "digitaal vakmanschap",
-    "NDS"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "1 digitale overheid? Alleen als we onze deskundigheid delen",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/1-digitale-overheid-alleen-als-we-onze-deskundigheid-delen/",
-   "date": "2026-11-16T13:12:31.000Z",
-   "desc": "\"Als iedere overheidsorganisatie zich ontfermt over 1 onderdeel van de digitale leefomgeving, komen we echt tot 1 digitale overheid\". Een interview met Bert Jan Geveke.",
-   "cats": [
-    "NDS nieuws",
-    "1 overheid",
-    "Architectuur",
-    "Architectuurraad",
-    "NDS",
-    "Nederlandse Digitaliseringsstrategie"
-   ]
-  },
-  {
-   "source": "Digitale Overheid",
-   "title": "Van digitale mogelijkheden naar concrete tijdwinst",
-   "link": "https://www.digitaleoverheid.nl/cio-rijk/van-digitale-mogelijkheden-naar-concrete-tijdwinst/",
-   "date": "2026-11-16T12:06:15.000Z",
-   "desc": "Hoe vertaal je de mogelijkheden van tijdbesparende technologie naar verbeteringen in de dagelijkse praktijk? Ontdek het op 26 november tijdens het nieuwe CIO-café.",
-   "cats": [
-    "CIO Rijk",
-    "CIO-café",
-    "tijdbesparende technologie"
-   ]
-  },
-  {
    "source": "Binnenlands Bestuur",
    "title": "Evaluatie BIO2: overheden worstelen met de basis, terwijl de lat hoger komt te liggen",
    "link": "https://www.binnenlandsbestuur.nl/digitaal/evaluatie-bio2-overheden-worstelen-met-de-basis",
@@ -2166,6 +2014,52 @@
   },
   {
    "source": "Gemeente.nu",
+   "title": "Gemeenten onveranderd kritisch op falend DSO",
+   "link": "https://www.gemeente.nu/ruimte-milieu/omgevingswet/gemeenten-onveranderd-kritisch-op-falend-dso/",
+   "date": "2026-11-26T07:09:53.000Z",
+   "desc": "Gemeenten zijn nog altijd slecht te spreken over het weinig toegankelijke en ongebruiksvriendelijke DSO. Niet alleen inwoners maar ook professionals kunnen er nauwelijks mee werken. ‘Het is alsof je een raket moet besturen.’",
+   "cats": [
+    "Omgevingswet",
+    "dso"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Kabinet werkt aan één loket voor slachtoffers van seksueel geweld",
+   "link": "https://www.gemeente.nu/sociaal/kabinet-werkt-aan-een-loket-voor-slachtoffers-van-seksueel-geweld/",
+   "date": "2026-11-26T05:33:00.000Z",
+   "desc": "Slachtoffers van seksueel geweld moeten nu nog langs te veel loketten om een melding te doen. Het kabinet onderzoekt een nieuwe werkwijze die moet zorgen voor ‘een goed georganiseerd hulplandschap voor slachtoffers van seksueel misbruik en geweld’. Een eerste pilot in Oost-Brabant en Zuid-Holland was positief, hoewel er nog wel enkele belemmeringen zijn.",
+   "cats": [
+    "Sociaal",
+    "slachtoffers seksueel geweld"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Gemeenten krijgen jaarlijks 261 miljoen euro voor sport en bewegen",
+   "link": "https://www.gemeente.nu/sociaal/gemeenten-krijgen-jaarlijks-261-miljoen-euro-voor-sport-en-bewegen/",
+   "date": "2026-11-26T04:04:00.000Z",
+   "desc": "Het kabinet en gemeenten hebben nieuwe afspraken gemaakt om sport, bewegen en cultuur toegankelijker te maken. Vanaf 2027 worden twee bestaande subsidieregelingen samengevoegd tot één specifieke uitkering. Daarmee komt jaarlijks 261 miljoen euro beschikbaar voor gemeenten om sportvoorzieningen te ondersteunen en professionals zoals buurtsportcoaches in te zetten.",
+   "cats": [
+    "Sociaal",
+    "cultuurbeleid",
+    "sportbeleid"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Nieuwe aanpak moet uitvoering Wet open overheid eenvoudiger maken",
+   "link": "https://www.gemeente.nu/bedrijfsvoering/nieuwe-aanpak-moet-uitvoering-wet-open-overheid-eenvoudiger-maken/",
+   "date": "2026-11-26T03:40:00.000Z",
+   "desc": "Het kabinet wil de Wet open overheid (Woo) eenvoudiger en efficiënter maken. Overheidsorganisaties moeten informatieverzoeken sneller kunnen afhandelen, terwijl misbruik van de wet wordt tegengegaan. Ook wordt onderzocht hoe kunstmatige intelligentie (AI) de uitvoering kan verbeteren. Het aantal Woo-verzoeken neemt jaarlijks toe. Vooral omvangrijke verzoeken zorgen volgens het kabinet voor hoge ko",
+   "cats": [
+    "Bedrijfsvoering",
+    "ai",
+    "WOO"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
    "title": "Briefadres als schild: gemeenten moeten bedreigde inwoners actief informeren",
    "link": "https://www.gemeente.nu/bedrijfsvoering/briefadres-als-schild-gemeenten-moeten-bedreigde-inwoners-actief-informeren/",
    "date": "2026-11-25T16:00:00.000Z",
@@ -2242,52 +2136,44 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "CDA wil bezwaarprocedures bij woningbouw beperken om vertraging tegen te gaan",
-   "link": "https://www.gemeente.nu/ruimte-milieu/wonen/cda-wil-bezwaarprocedures-bij-woningbouw-beperken-om-vertraging-tegen-te-gaan/",
-   "date": "2026-11-24T06:05:00.000Z",
-   "desc": "Het CDA wil de mogelijkheden om bezwaar te maken tegen nieuwbouwprojecten beperken. Volgens de partij zorgen langdurige bezwaar- en beroepsprocedures ervoor dat de bouw van woningen soms jarenlang vertraging oploopt Dit meldt RTL nieuws.",
+   "source": "Computable",
+   "title": "Discussie over NS en Microsoft barst los",
+   "link": "https://www.computable.nl/2026/11/26/discussie-over-ns-en-microsoft-barst-los/",
+   "date": "2026-11-26T14:26:25.000Z",
+   "desc": "De beslissing van de Nederlandse Spoorwegen (NS) om applicaties naar Microsoft Azure te verplaatsen maakt een felle discussie los over cybersecurity, digitale soevereiniteit en afhankelijkheid van Amerikaanse techbedrijven.",
    "cats": [
-    "Wonen",
-    "nieuwbouw",
-    "woningbouw",
-    "woningnood"
+    "Cloud & Infrastructure",
+    "AWS",
+    "Cloud Native",
+    "Datacenter & Infrastructure",
+    "Overheid",
+    "Public Cloud",
+    "Security & Risk",
+    "Azure",
+    "cloud",
+    "Public cloud",
+    "soevereiniteit"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Buitenlandse jeugdhulpplaatsingen aan banden gelegd",
-   "link": "https://www.gemeente.nu/sociaal/jeugdzorg/buitenlandse-jeugdhulpplaatsingen-aan-banden-gelegd/",
-   "date": "2026-11-24T05:03:00.000Z",
-   "desc": "Jeugdhulp moet in principe alleen nog in Nederland plaatsvinden. Minister Sterk (Langdurige Zorg, Jeugd en Sport) werkt aan regelgeving die buitenlandse plaatsingen slechts onder strenge voorwaarden toestaat.",
+   "source": "Computable",
+   "title": "Europese ai-opensource-modellen nog vaak strijdig met publieke waarden",
+   "link": "https://www.computable.nl/2026/11/26/europese-ai-opensource-modellen-nog-vaak-strijdig-met-publieke-waarden/",
+   "date": "2026-11-26T08:00:00.000Z",
+   "desc": "Ai-modellen van Europese bodem zijn vooralsnog niet zo geschikt voor de overheid. Ze houden zich relatief slecht aan de Nederlandse publieke waarden zoals het niet-selecteren van mensen op basis van hun afkomst. Dit blijkt uit onderzoek dat is uitgevoerd door UTF.ai, een ai-bedrijf uit Tilburg.",
    "cats": [
-    "Jeugdzorg",
-    "jeugdzorg",
-    "uithuisplaatsing"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Witwassen en drugshandel meest genoemde verdachte situaties in woonwijken",
-   "link": "https://www.gemeente.nu/veiligheid/witwassen-en-drugshandel-meest-genoemde-verdachte-situaties-in-woonwijken/",
-   "date": "2026-11-23T08:06:04.000Z",
-   "desc": "Bijna de helft van de Nederlanders van 15 jaar en ouder heeft in 2025 verdachte situaties in de eigen woonomgeving gezien of vermoed. Vooral mogelijke witwaspraktijken, zwart geld en drugshandel vallen op. In grote steden en grensgebieden worden dergelijke situaties vaker gesignaleerd dan op het platteland.",
-   "cats": [
-    "Veiligheid",
-    "drugscriminaliteit",
-    "veiligheid"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Van verplichtingen naar perspectief: minister wil Participatiewet vernieuwen",
-   "link": "https://www.gemeente.nu/sociaal/van-verplichtingen-naar-perspectief-minister-wil-participatiewet-vernieuwen/",
-   "date": "2026-11-23T07:24:41.000Z",
-   "desc": "Minister Aartsen van Werk en Participatie wil de Participatiewet verbeteren. Meer bijstandsgerechtigden moeten aan het werk kunnen, terwijl mensen die door ziekte of een beperking niet kunnen werken, minder verplichtingen krijgen. Op langere termijn onderzoekt de minister een aparte uitkering voor deze groep buiten de Participatiewet.",
-   "cats": [
-    "Sociaal",
-    "Participatiewet",
-    "werk"
+    "IT Strategy & Governance",
+    "AI Governance",
+    "Data & AI",
+    "Data & AI Governance",
+    "IT Industry news",
+    "IT Strategy & Transformation",
+    "Overheid",
+    "Software & Development",
+    "AI",
+    "llm",
+    "Onderzoek",
+    "Opensource"
    ]
   },
   {
@@ -2305,21 +2191,25 @@
    ]
   },
   {
-   "source": "Computable",
-   "title": "Kort: Zuid-Holland deelt digitale monitor, BumaStemra dreigt met rechtszaak tegen ai-muziek (en meer)",
-   "link": "https://www.computable.nl/2026/11/24/kort-zuid-holland-deelt-digitale-monitor-bumastemra-dreigt-met-rechtszaak-tegen-ai-muziek-en-meer/",
-   "date": "2026-11-24T11:00:00.000Z",
-   "desc": "Zuid-Holland deelt openbare monitor digitalisering, Verzekeraar QBE ziet forse stijging ransomware-slachtoffers, veel softwareontwikkelaars keuren ai-gegenereerde code goed zonder die te begrijpen, Workday ziet groei van ai-agents en Europese klanten, BumaStemra dreigt met rechstzaak tegen ai",
+   "source": "AG Connect",
+   "title": "Stichting LibreKAT vraagt om hergebruik van securityscantool KAT voor het NCSC",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/librekat-vraagt-om-hergebruik-van-openkat-bij-het-ncsc",
+   "date": "2026-11-26T13:17:42.000Z",
+   "desc": "Stichting LibreKAT heeft minister Van Weel gevraagd te onderzoeken welke onderdelen van OpenKAT kunnen worden hergebruikt bij NCSC.",
    "cats": [
-    "Data & AI",
-    "Overheid",
-    "Security & Risk",
-    "ai-agents",
-    "ai-code",
-    "ai-monitor",
-    "Kort",
-    "Ransomware",
-    "Rechtszaak"
+    "Maatschappij",
+    "Overheid"
+   ]
+  },
+  {
+   "source": "AG Connect",
+   "title": "Wil de minister zijn kat ophalen in de ballenbak?",
+   "link": "https://www.agconnect.nl/maatschappij/overheid/wil-de-minister-zijn-kat-ophalen-in-de-ballenbak",
+   "date": "2026-11-26T12:33:46.000Z",
+   "desc": "Het kabinet verkent hoe het NCSC een landelijke scanvoorziening kan inrichten. Maar wat is er met OpenKAT gebeurd, dat al beschikbaar is?",
+   "cats": [
+    "Maatschappij",
+    "Overheid"
    ]
   },
   {
@@ -2466,15 +2356,20 @@
    ]
   },
   {
-   "source": "AG Connect",
-   "title": "Bezwaarprocedure Solvinity afgerond; besluit ongewijzigd",
-   "link": "https://www.agconnect.nl/maatschappij/overheid/bezwaarprocedure-solvinity-afgerond-besluit-ongewijzigd",
-   "date": "2026-10-13T14:01:54.000Z",
-   "desc": "De staatssecretaris heeft opnieuw naar alle relevante feiten gekeken en er is extra onderzoek gedaan, maar de uitkomst is hetzelfde.",
-   "cats": [
-    "Maatschappij",
-    "Overheid"
-   ]
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in Adobe Campaign Classic: update zo snel mogelijk",
+   "link": "https://www.ncsc.nl/alerts/kwetsbaarheden-in-adobe-campaign-classic-update-zo-snel-mogelijk",
+   "date": "2026-11-26T12:10:16.000Z",
+   "desc": "Er zijn meerdere kwetsbaarheden gevonden in Adobe Campaign Classic, waaronder CVE-2026-123342 en CVE-2026-123721. De kans op misbruik is gemiddeld en de mogelijke schade wordt als hoog beoordeeld. Het Nationaal Cyber Security Centrum (NCSC) adviseert om de beschikbare updates zo snel mogelijk te installeren om risicos te beperken.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Meerdere kwetsbaarheden in Joomla! Core en componenten: update zo snel mogelijk",
+   "link": "https://www.ncsc.nl/alerts/meerdere-kwetsbaarheden-in-joomla-core-en-componenten-update-zo-snel-mogelijk",
+   "date": "2026-11-26T12:04:19.000Z",
+   "desc": "Er zijn meerdere kwetsbaarheden gevonden in Joomla! Core en diverse onderdelen zoals com_newsfeeds en com_contact. De kans op misbruik is gemiddeld en de mogelijke schade wordt als hoog beoordeeld. Het Nationaal Cyber Security Centrum (NCSC) adviseert om de beschikbare updates zo snel mogelijk te installeren om risicos te beperken.",
+   "cats": []
   },
   {
    "source": "NCSC",
