@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:58:02.909Z",
+ "updated": "2026-11-27T14:48:49.067Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,39 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "Oproep aan kabinet om OpenKAT te hergebruiken voor securityscanner",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/oproep-aan-kabinet-om-openkat-te-hergebruiken",
+   "date": "2026-11-27T13:50:23.000Z",
+   "desc": "Hergebruik van OpenKAT sluit volgens de stichting aan bij de ambities van het kabinet op het gebied van digitale soevereiniteit.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Het succesvolle Fieldlab van de Nederlandse Digitale Dienst",
+   "link": "https://ibestuur.nl/markt-en-overheid/innovatie/het-succesvolle-fieldlab-van-de-nederlandse-digitale-dienst",
+   "date": "2026-11-27T12:45:52.000Z",
+   "desc": "Bert Hubert, van nature geen optimist, werd zowaar 'een beetje hoopvol' van het Fieldlab dat de Nederlandse Digitale Dienst organiseerde.",
+   "cats": [
+    "Markt en Overheid",
+    "Innovatie"
+   ]
+  },
+  {
+   "source": "iBestuur",
+   "title": "Op kantoor zitten geen gratis clickworkers, dus de bezuinigingen met AI gaan heel hard falen",
+   "link": "https://ibestuur.nl/data-en-ai/toepassingen/de-bezuinigingen-met-ai-gaan-heel-hard-falen",
+   "date": "2026-11-27T10:03:50.000Z",
+   "desc": "De Nederlandse chatbots voor Nederlandse overheidsorganisaties moeten we toch echt zelf aan de praat houden. Met mensen.",
+   "cats": [
+    "Data en AI",
+    "Toepassingen"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Technologie digitaal soevereine werkplek beproefd in brede praktijkverkenning",
@@ -48,7 +81,7 @@
    "title": "Het gesprek: Wie beschermt slachtoffers wanneer hun data op straat liggen?",
    "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/bescherming-slachtoffers-bij-datadiefstal",
    "date": "2026-11-26T07:22:55.000Z",
-   "desc": "Digitale Dolle mina Chantal Stekelenburg in gesprek met BBB-leider Henk Vermeer over de gevolgen van datadiefstal voor kwetsbare mensen.",
+   "desc": "Digitale Dolle Mina Chantal Stekelenburg in gesprek met BBB-leider Henk Vermeer over de gevolgen van datadiefstal voor kwetsbare mensen.",
    "cats": [
     "Digitale Weerbaarheid",
     "Digitale veiligheid"
@@ -1628,46 +1661,19 @@
    ]
   },
   {
-   "source": "iBestuur",
-   "title": "Bezwaarprocedure Solvinity afgerond; besluit ongewijzigd",
-   "link": "https://ibestuur.nl/markt-en-overheid/digitale-infrastructuur/bezwaarprocedure-solvinity-afgerond-besluit-ongewijzigd",
-   "date": "2026-10-13T13:16:35.000Z",
-   "desc": "De staatssecretaris heeft opnieuw naar alle relevante feiten gekeken en er is extra onderzoek gedaan, maar de uitkomst is hetzelfde.",
-   "cats": [
-    "Markt en Overheid",
-    "Digitale infrastructuur"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Shadow banning: krijgt u uw boodschap langs de techbazen?",
-   "link": "https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/shadow-banning-krijgt-u-uw-boodschap-langs-de-techbazen",
-   "date": "2026-10-13T11:16:26.000Z",
-   "desc": "Met een petitie en een kunstzinnige installatie vragen burgerrechtenorganisaties aandacht voor het probleem van online onzichtbaarheid.",
-   "cats": [
-    "Digitale Toekomst EU",
-    "EU-wetgeving"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Handreiking voor software-updates met AI-toevoegingen",
-   "link": "https://ibestuur.nl/markt-en-overheid/inkoop-en-aanbesteding/handreiking-voor-software-updates-met-ai-toevoegingen",
-   "date": "2026-10-13T09:32:41.000Z",
-   "desc": "Wat te doen als er in lopende contracten, met name voor software, onaangekondigd ineens een AI-component is verwerkt?",
-   "cats": [
-    "Markt en Overheid",
-    "Inkoop en aanbesteding"
-   ]
-  },
-  {
    "source": "Digitale Overheid",
-   "title": "Verandering komt door samen te doen",
-   "link": "https://www.digitaleoverheid.nl/nieuws-nds/verandering-komt-door-samen-te-doen/",
+   "title": "Beluister de nieuwe IPO-podcast over digitale autonomie",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/beluister-de-nieuwe-ipo-podcast-over-digitale-autonomie/",
    "date": "2026-11-26T10:24:32.000Z",
    "desc": "Hoe komen we van de bestuurlijke dynamiek rondom digitale autonomie tot veranderingen in de praktijk? Je hoort het in deze podcast van het Interprovinciaal Overleg.",
    "cats": [
-    "NDS nieuws"
+    "NDS nieuws",
+    "digitale autonomie",
+    "Interprovenciaal Overleg",
+    "IPO",
+    "ndsnieuwsbrief-5-2026",
+    "podcast",
+    "provincies"
    ]
   },
   {
@@ -1703,7 +1709,7 @@
   },
   {
    "source": "Digitale Overheid",
-   "title": "‘De NDS heeft ons anders leren werken en denken’",
+   "title": "\"De NDS heeft ons anders leren werken en denken\"",
    "link": "https://www.digitaleoverheid.nl/nieuws-nds/de-nds-heeft-ons-anders-leren-werken-en-denken/",
    "date": "2026-11-23T14:27:59.000Z",
    "desc": "Dick Jense neemt het stokje over van NDS-programmadirecteur Erik-Jan Boon. Tijdens zijn presentatie op het NL Digitaal Festival blikte Jense terug en vooruit.",
@@ -1711,6 +1717,7 @@
     "NDS nieuws",
     "Dick Jense",
     "NDS",
+    "ndsnieuwsbrief-5-2026",
     "Nederlandse Digitaliseringsstrategie",
     "soevereine cloud",
     "Willemijn Aerdts"
@@ -1779,6 +1786,7 @@
     "Business Continuity Management",
     "Crisis",
     "digitale weerbaarheid",
+    "ndsnieuwsbrief-5-2026",
     "weerbaarheid"
    ]
   },
@@ -1792,7 +1800,8 @@
     "NDS nieuws",
     "achtergrond",
     "digitaal vakmanschap",
-    "NDS"
+    "NDS",
+    "ndsnieuwsbrief-5-2026"
    ]
   },
   {
@@ -1807,7 +1816,30 @@
     "Architectuur",
     "Architectuurraad",
     "NDS",
+    "ndsnieuwsbrief-5-2026",
     "Nederlandse Digitaliseringsstrategie"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Hack bij 82 Vlaamse gemeenten leidt tot roep om collectieve cyberveiligheid",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/hack-bij-82-vlaamse-gemeenten-leidt-tot-oproep",
+   "date": "2026-11-27T12:00:00.000Z",
+   "desc": "Een grootschalige cyberaanval bij een ICT-leverancier van 82 Vlaamse gemeenten heeft geleid tot de diefstal van persoonsgegevens van naar schatting 1,2 miljoen inwoners. De Vereniging van Vlaamse Steden en Gemeenten (VVSG) grijpt het incident aan om bij de Vlaamse overheid aan te dringen op een collectieve aanpak van cyberveiligheid. Gemeenten zijn volgens de vereniging onvoldoende in staat om zel",
+   "cats": [
+    "digitaal",
+    "cyberveiligheid"
+   ]
+  },
+  {
+   "source": "Binnenlands Bestuur",
+   "title": "Wie beschermt slachtoffers wanneer hun data op straat liggen?",
+   "link": "https://www.binnenlandsbestuur.nl/digitaal/bescherming-slachtoffers-bij-datadiefstal",
+   "date": "2026-11-27T09:06:55.000Z",
+   "desc": "Tweede Kamerlid Henk Vermeer volgt de technologische ontwikkelingen met bovengemiddelde belangstelling.&nbsp;Chantal Stekelenburg is als cybersecurityspecialist dagelijks bezig met de nadelen van digitalisering, maar ze is zich ook sterk bewust van al het moois dat technologie brengt.",
+   "cats": [
+    "digitaal",
+    "cyberveiligheid"
    ]
   },
   {
@@ -2130,14 +2162,42 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Gezichtsscanner rukt op, maar cijfers over omvang fraude ontbreken",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/gezichtsscanner-rukt-op-omvang-fraude-onbekend",
-   "date": "2026-11-10T13:47:53.000Z",
-   "desc": "Het kabinet werkt aan een wettelijke grondslag voor de inzet van gezichtsscanners bij aanvragen van een reisdocument of identiteitskaart. Meer dan de helft van de gemeenten zet op eigen initiatief al automatische gezichtsvergelijking in bij de identiteitsvaststelling. Maar hoe groot het probleem van fraude met paspoortaanvragen aan de gemeentebalie werkelijk is, weet niemand.",
+   "source": "Gemeente.nu",
+   "title": "Minister Heerma zet in op strengere aanpak van daders van agressie tegen politici",
+   "link": "https://www.gemeente.nu/bestuur/gemeenteraad/minister-heerma-zet-in-op-strengere-aanpak-van-daders-van-agressie-tegen-politici/",
+   "date": "2026-11-27T08:15:17.000Z",
+   "desc": "Bijna de helft van de decentrale politieke ambtsdragers heeft het afgelopen jaar agressie, bedreiging of intimidatie meegemaakt. Minister Pieter Heerma van Binnenlandse Zaken wil daarom de aanpak van daders intensiveren en de bescherming van bestuurders en volksvertegenwoordigers verbeteren.",
    "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
+    "Gemeenteraad",
+    "agressie",
+    "gemeenteraad",
+    "lokaal bestuur"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Vervuilers betalen te weinig voor schoon water",
+   "link": "https://www.gemeente.nu/ruimte-milieu/vervuilers-betalen-te-weinig-voor-schoon-water/",
+   "date": "2026-11-27T07:07:00.000Z",
+   "desc": "Bedrijven die afvalwater lozen, betalen maar een fractie van de schade die ze veroorzaken. Dat blijkt uit nieuw onderzoek van Arcadis in opdracht van Natuur Milieu. De rekening komt voor een belangrijk deel terecht bij burgers, overheden, drinkwaterbedrijven en de natuur.",
+   "cats": [
+    "Ruimte & Milieu",
+    "afvalstoffen",
+    "gevaarlijke stoffen",
+    "vervuiling",
+    "water"
+   ]
+  },
+  {
+   "source": "Gemeente.nu",
+   "title": "Harmonisatie betaalmomenten inkomensondersteuning stap dichterbij",
+   "link": "https://www.gemeente.nu/sociaal/kabinet-werkt-harmonisatie-betaalmomenten-inkomensondersteuning-uit/",
+   "date": "2026-11-27T06:24:00.000Z",
+   "desc": "Eén vast inkomstenmoment en één vast uitgavenmoment in de maand kan mensen financieel weerbaarder maken. Minister Vijlbrief van Sociale Zaken en Werkgelegenheid informeert de Kamer over de mogelijkheden om uitbetalingsmomenten van inkomensondersteunende regelingen en incassomomenten van vaste lasten te harmoniseren. Momenten waarop inkomsten binnenkomen en vaste lasten uitgaan, zijn niet altijd op",
+   "cats": [
+    "Sociaal",
+    "incasso",
+    "Participatiewet"
    ]
   },
   {
@@ -2227,40 +2287,37 @@
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Armoede in Nederland blijft stabiel, maar steeds meer werkenden komen in de knel",
-   "link": "https://www.gemeente.nu/sociaal/armoede-in-nederland-blijft-stabiel-maar-steeds-meer-werkenden-komen-in-de-knel/",
-   "date": "2026-11-25T06:47:20.000Z",
-   "desc": "Het aandeel Nederlanders dat in armoede leeft, is in 2025 gelijk gebleven op 3 procent. Toch laten nieuwe cijfers van het Centraal Bureau voor de Statistiek (CBS) dat vooral onder werkenden en zelfstandigen de armoede toeneemt. Bovendien is het inkomenstekort van mensen in armoede de afgelopen jaren fors groter geworden. In 2025 leefden 521.000 mensen ... lees verder",
+   "source": "Computable",
+   "title": "Kabinet zint op harde reactie op US Match Act",
+   "link": "https://www.computable.nl/2026/11/27/kabinet-zint-op-harde-reactie-op-us-match-act/",
+   "date": "2026-11-27T09:11:34.000Z",
+   "desc": "Nederland zint op forse tegenmaatregelen als de VS ons land scherpere beperkingen oplegt voor de export van ASML’s chipfabricage-machines naar China. Het aannemen van de Amerikaanse Match Act vraagt om een tegenreactie, aldus minister Sjoerd Sjoerdsma.",
    "cats": [
-    "Sociaal",
-    "armoede",
-    "armoedebeleid"
+    "Overheid",
+    "Cloud & Infrastructure",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "Chips",
+    "geopolitiek",
+    "kabinet-Jetten"
    ]
   },
   {
-   "source": "Gemeente.nu",
-   "title": "Hof: voormalig gemeenteambtenaar aansprakelijk voor fraude met facturen",
-   "link": "https://www.gemeente.nu/organisatie/hof-voormalig-gemeenteambtenaar-aansprakelijk-voor-fraude-met-facturen/",
-   "date": "2026-11-24T12:29:39.000Z",
-   "desc": "Een voormalig ambtenaar van de gemeente Lopik is volgens het gerechtshof Arnhem-Leeuwarden betrokken geweest bij een frauduleuze constructie waardoor de gemeente voor werkzaamheden veel te veel betaalde. De man beriep zich op zijn positie als klokkenluider, maar volgens het hof beschermt die status hem niet tegen aansprakelijkheid voor fraude.",
+   "source": "Computable",
+   "title": "Politieacademie werkt aan slimme databank voor cold cases",
+   "link": "https://www.computable.nl/2026/11/27/politieacademie-werkt-aan-slimme-databank-voor-cold-cases/",
+   "date": "2026-11-27T06:00:00.000Z",
+   "desc": "Onderzoekers van de Politieacademie, Hogeschool Saxion en de Universiteit Twente werken aan een nieuwe databank die rechercheurs moet helpen bij het reconstrueren van misdrijven en het oplossen van oude moordzaken (cold cases) en zware misdrijven. Met ai moeten de scenario's worden gemaakt.",
    "cats": [
-    "Organisatie",
-    "ambtenaar",
-    "fraude"
-   ]
-  },
-  {
-   "source": "Gemeente.nu",
-   "title": "Gebruik AI in gemeentepolitiek verhoogt werkdruk ambtenaren",
-   "link": "https://www.gemeente.nu/bestuur/gemeenteraad/gebruik-ai-in-gemeentepolitiek-verhoogt-werkdruk-ambtenaren/",
-   "date": "2026-11-24T06:26:11.000Z",
-   "desc": "Generatieve AI wordt steeds vaker gebruikt in de gemeentepolitiek. Hoewel chatbots als ChatGPT, Claude en Copilot tijd besparen, leiden ze volgens onderzoek van BNR Nieuwsradio ook tot een hogere werkdruk bij ambtenaren. Uit enquêtes van BNR onder gemeenteraadsleden, wethouders, griffiers en gemeentesecretarissen blijkt dat een ruime meerderheid generatieve AI gebruikt. Chatbots worden vooral inge",
-   "cats": [
-    "Gemeenteraad",
-    "ai",
-    "gemeenteraad",
-    "raadsleden"
+    "Data & AI",
+    "Business Intelligence",
+    "Data Analytics",
+    "Data Visualization",
+    "Insights & BI",
+    "Overheid",
+    "Security & Risk",
+    "database",
+    "politie"
    ]
   },
   {
@@ -2324,20 +2381,6 @@
     "llm",
     "Onderzoek",
     "Opensource"
-   ]
-  },
-  {
-   "source": "Computable",
-   "title": "Stijn Grove vertrekt bij Dutch Data Center Association",
-   "link": "https://www.computable.nl/2026/11/25/stijn-grove-vertrekt-bij-dutch-data-center-association/",
-   "date": "2026-11-25T12:43:14.000Z",
-   "desc": "Stijn Grove treedt op 1 maart 2027 terug als directeur van de Dutch Data Center Association (DDA). Grove stond aan de wieg van deze brancheorganisatie voor datacenters en bouwde haar uit tot een herkenbare gesprekspartner voor overheid, politiek, media en maatschappelijke organisaties.",
-   "cats": [
-    "Carrière",
-    "Datacenter",
-    "Datacenter & Infrastructure",
-    "Overheid",
-    "Loopbaan"
    ]
   },
   {
@@ -2495,15 +2538,28 @@
    ]
   },
   {
-   "source": "AG Connect",
-   "title": "AI Lab for Cybersecurity ontwikkelt landelijke AI-inkooprichtlijn voor gemeenten",
-   "link": "https://www.agconnect.nl/maatschappij/overheid/ai-lab-ontwikkelt-landelijke-ai-inkooprichtlijn",
-   "date": "2026-10-14T09:38:18.000Z",
-   "desc": "Het initiatief moet een integraal beslis- en toetsingsinstrument opleveren waarmee gemeenten AI-software beter kunnen beoordelen.",
-   "cats": [
-    "Maatschappij",
-    "Overheid"
-   ]
+   "source": "NCSC",
+   "title": "Meerdere kwetsbaarheden in GeoServer met hoog risico: installeer de updates",
+   "link": "https://www.ncsc.nl/alerts/meerdere-kwetsbaarheden-in-geoserver-met-hoog-risico-installeer-de-updates",
+   "date": "2026-11-27T14:45:43.000Z",
+   "desc": "Er zijn meerdere kwetsbaarheden gevonden in GeoServer, een software voor het delen van geografische data. Eén van deze kwetsbaarheden, CVE-2026-129245, is kritisch. Het NCSC beoordeelt de kans op misbruik als medium en de mogelijke schade als hoog.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Meerdere kwetsbaarheden in Linux kernel: update aanbevolen",
+   "link": "https://www.ncsc.nl/alerts/meerdere-kwetsbaarheden-in-linux-kernel-update-aanbevolen",
+   "date": "2026-11-27T14:24:18.000Z",
+   "desc": "Er zijn diverse kwetsbaarheden gevonden in de Linux kernel, waaronder de ernstige CVE-2026-99362. Het NCSC beoordeelt de kans op misbruik van deze kwetsbaarheid als medium en de mogelijke schade als hoog. Het advies is om zo snel mogelijk de nieuwste updates van de Linux kernel te installeren.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "AI-gestuurde frameworks versnellen en vergroten digitale aanvallen",
+   "link": "https://www.ncsc.nl/nieuws/ai-gestuurde-frameworks-versnellen-en-vergroten-digitale-aanvallen",
+   "date": "2026-11-27T13:39:22.000Z",
+   "desc": "Organisaties krijgen te maken met digitale aanvallen die sneller, groter en goedkoper worden uitgevoerd met Artificial Intelligence (AI)-gestuurde frameworks (zoals ARTEX). Aanvallen die eerst dagen duurden, gebeuren nu binnen minuten. Daardoor is er minder tijd om in te grijpen en raken verdedigingsprocessen sneller overbelast. Het Nationaal Cyber Security Centrum (NCSC) heeft hier onderzoek naar",
+   "cats": []
   },
   {
    "source": "NCSC",
@@ -2543,6 +2599,14 @@
    "link": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-otrs-survey-endpoint-update-nodig",
    "date": "2026-11-25T09:06:40.000Z",
    "desc": "Er is een kwetsbaarheid gevonden in OTRS met het nummer CVE-2026-93584. Deze kwetsbaarheid heeft een gemiddelde kans op misbruik en kan leiden tot grote schade. Het gaat om een probleem in de Survey endpoint van OTRS, versies 2024.3.1 tot en met 2026.8.1, waarbij een aanvaller zonder inloggegevens schadelijke acties kan uitvoeren.",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Kwetsbaarheden in 2026: meer CVEs, maar wat vertellen de cijfers ons?",
+   "link": "https://www.ncsc.nl/expertblogs/kwetsbaarheden-in-2026-meer-cves-maar-wat-vertellen-de-cijfers-ons",
+   "date": "2026-11-20T15:06:04.000Z",
+   "desc": "Het aantal geregistreerde kwetsbaarheden blijft toenemen. De CVE-teller is in 2026 inmiddels de grens van 100.000 gepasseerd. Ook heeft het NCSC dit jaar al meer High/High-advisories gepubliceerd dan in heel 2024 en 2025 bij elkaar. Tegelijkertijd lijkt de tijd tussen het beschikbaar komen van een beveiligingsupdate (patch) en het daadwerkelijke misbruik van een kwetsbaarheid steeds kleiner te wor",
    "cats": []
   },
   {
