@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:50:29.915Z",
+ "updated": "2026-11-27T00:58:02.909Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -1661,6 +1661,156 @@
    ]
   },
   {
+   "source": "Digitale Overheid",
+   "title": "Verandering komt door samen te doen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/verandering-komt-door-samen-te-doen/",
+   "date": "2026-11-26T10:24:32.000Z",
+   "desc": "Hoe komen we van de bestuurlijke dynamiek rondom digitale autonomie tot veranderingen in de praktijk? Je hoort het in deze podcast van het Interprovinciaal Overleg.",
+   "cats": [
+    "NDS nieuws"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Evaluatie BIO2: uitvoering grootste uitdaging",
+   "link": "https://www.digitaleoverheid.nl/nieuws/evaluatie-bio2-uitvoering-grootste-uitdaging/",
+   "date": "2026-11-25T08:15:19.000Z",
+   "desc": "De inhoud van de BIO2 voldoet grotendeels. De toepassing vraagt nog wel aandacht. De resultaten van de evaluatie dragen bij aan de ontwikkeling van versie 2.0.",
+   "cats": [
+    "Nieuws",
+    "AI",
+    "BIO2",
+    "cybersecurity",
+    "digitale autonomie",
+    "digitale weerbaarheid",
+    "Quantumveilige cryptografie"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "DATAPRO112 bewijst waarde datadeling bij incidenten",
+   "link": "https://www.digitaleoverheid.nl/nieuws/datapro112-bewijst-waarde-datadeling-bij-incidenten/",
+   "date": "2026-11-24T10:08:54.000Z",
+   "desc": "Project DATAPRO112 laat zien hoe data-analyse en AI bijdragen aan een betere incidentbestrijding. Mede dankzij het Innovatiebudget konden veiligheidsregio's aan de slag.",
+   "cats": [
+    "Nieuws",
+    "AI",
+    "cybersecurity",
+    "data",
+    "Innovatie",
+    "nieuwsbrief-20-2026"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "‘De NDS heeft ons anders leren werken en denken’",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/de-nds-heeft-ons-anders-leren-werken-en-denken/",
+   "date": "2026-11-23T14:27:59.000Z",
+   "desc": "Dick Jense neemt het stokje over van NDS-programmadirecteur Erik-Jan Boon. Tijdens zijn presentatie op het NL Digitaal Festival blikte Jense terug en vooruit.",
+   "cats": [
+    "NDS nieuws",
+    "Dick Jense",
+    "NDS",
+    "Nederlandse Digitaliseringsstrategie",
+    "soevereine cloud",
+    "Willemijn Aerdts"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Architectuur geeft richting digitalisering Rijksinkoop",
+   "link": "https://www.digitaleoverheid.nl/nieuws/architectuur-geeft-richting-digitalisering-rijksinkoop/",
+   "date": "2026-11-23T08:12:52.000Z",
+   "desc": "De Rijksinkoop Enterprise Architectuur (RIEA) is vastgesteld. Deze helpt de inkoop binnen het Rijk slimmer te organiseren en digitale systemen beter te verbinden.",
+   "cats": [
+    "Nieuws",
+    "Architectuur",
+    "Digitaal zakendoen",
+    "Digitalisering Rijksinkoop",
+    "nieuwsbrief-20-2026",
+    "RIEA"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Dienstverlening dichtbij: 4 lessen uit Brugge",
+   "link": "https://www.digitaleoverheid.nl/achtergrondartikelen/dienstverlening-dichtbij-4-lessen-uit-brugge/",
+   "date": "2026-11-20T12:04:09.000Z",
+   "desc": "Vlaamse stad Brugge is voorloper in overheidsbrede dienstverlening dichtbij de inwoner. Ze was één van de pioniers in de ontwikkeling van het Draagbaar Loket.",
+   "cats": [
+    "Achtergrond",
+    "Brugge",
+    "Dienstverlening",
+    "Loketfunctie",
+    "Loketten",
+    "nieuwsbrief-20-2026",
+    "overheidsbrede dienstverlening"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Nieuwe techniek voor veiliger dataonderzoek",
+   "link": "https://www.digitaleoverheid.nl/nieuws/nieuwe-techniek-voor-veiliger-dataonderzoek/",
+   "date": "2026-11-18T12:15:05.000Z",
+   "desc": "Het CBS, RIVM en Roseman Labs testten een methode om versleutelde gegevens te analyseren. De pilot laat zien hoe organisaties veilig kunnen samenwerken met data.",
+   "cats": [
+    "Nieuws",
+    "CBS",
+    "data",
+    "data delen",
+    "MPC",
+    "nieuwsbrief-20-2026",
+    "privacybescherming",
+    "RIVM",
+    "samenwerking",
+    "Secure Multi-Party Computation",
+    "verantwoordelijk"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Weerbaarder worden in 3 stappen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/weerbaarder-worden-in-3-stappen/",
+   "date": "2026-11-18T10:49:16.000Z",
+   "desc": "Continuïteit van kritieke diensten houdt in dat bij een calamiteit het belangrijkste werk doorgaat. Ook met weinig budget, zegt programmamanager Marianne van den Boogaart.",
+   "cats": [
+    "NDS nieuws",
+    "BCM",
+    "Business Continuity Management",
+    "Crisis",
+    "digitale weerbaarheid",
+    "weerbaarheid"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "Samen werken aan een visie op digitaal vakmanschap",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/samen-werken-aan-een-visie-op-digitaal-vakmanschap/",
+   "date": "2026-11-17T13:00:36.000Z",
+   "desc": "Begin december verschijnt de gezamenlijke visie op digitaal vakmanschap binnen de NDS. Hoe werkten Rijk, gemeenten, waterschappen en publieke dienstverleners samen?",
+   "cats": [
+    "NDS nieuws",
+    "achtergrond",
+    "digitaal vakmanschap",
+    "NDS"
+   ]
+  },
+  {
+   "source": "Digitale Overheid",
+   "title": "1 digitale overheid? Alleen als we onze deskundigheid delen",
+   "link": "https://www.digitaleoverheid.nl/nieuws-nds/1-digitale-overheid-alleen-als-we-onze-deskundigheid-delen/",
+   "date": "2026-11-16T13:12:31.000Z",
+   "desc": "\"Als iedere overheidsorganisatie zich ontfermt over 1 onderdeel van de digitale leefomgeving, komen we echt tot 1 digitale overheid\". Een interview met Bert Jan Geveke.",
+   "cats": [
+    "NDS nieuws",
+    "1 overheid",
+    "Architectuur",
+    "Architectuurraad",
+    "NDS",
+    "Nederlandse Digitaliseringsstrategie"
+   ]
+  },
+  {
    "source": "Binnenlands Bestuur",
    "title": "Evaluatie BIO2: overheden worstelen met de basis, terwijl de lat hoger komt te liggen",
    "link": "https://www.binnenlandsbestuur.nl/digitaal/evaluatie-bio2-overheden-worstelen-met-de-basis",
@@ -1991,28 +2141,6 @@
    ]
   },
   {
-   "source": "Binnenlands Bestuur",
-   "title": "Toenemend gemor in Kamer over gebrekkige digitale regie",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/toenemend-gemor-in-kamer-over-gebrekkige-digitale-regie",
-   "date": "2026-11-10T09:57:31.000Z",
-   "desc": "Kamerbreed is er veel behoefte aan coördinatie en regie op digitaal gebied, vooral bij cyberweerbaarheid. Een passage over AI-camerabrillen was exemplarisch voor de versnippering, zo bleek tijdens het uitgebreide wetgevingsdebat.",
-   "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
-   ]
-  },
-  {
-   "source": "Binnenlands Bestuur",
-   "title": "Computer says no en de ambtenaar knikt (niet meer)",
-   "link": "https://www.binnenlandsbestuur.nl/digitaal/computer-says-no-en-de-ambtenaar-knikt-niet-meer",
-   "date": "2026-11-10T09:34:39.000Z",
-   "desc": "In het debat over de toepassing van AI in beleids- en beoordelingsprocessen wordt nog weleens vergeten dat het menselijk oordeel niet de veilige standaard is, maar net zo feilbaar is als een AI-oordeel. AI wordt dan in de verdachte en onbetrouwbare hoek gezet, terwijl AI en de mens niet verschillen in de vraag óf ze falen. Ze verschillen enkel in de manier waarop ze falen.",
-   "cats": [
-    "digitaal",
-    "kunstmatige intelligentie"
-   ]
-  },
-  {
    "source": "Gemeente.nu",
    "title": "Gemeenten onveranderd kritisch op falend DSO",
    "link": "https://www.gemeente.nu/ruimte-milieu/omgevingswet/gemeenten-onveranderd-kritisch-op-falend-dso/",
@@ -2133,6 +2261,28 @@
     "ai",
     "gemeenteraad",
     "raadsleden"
+   ]
+  },
+  {
+   "source": "Computable",
+   "title": "Overheid mist elk zicht op omvang van verouderde software",
+   "link": "https://www.computable.nl/2026/11/26/overheid-mist-elk-zicht-op-omvang-van-verouderde-software/",
+   "date": "2026-11-26T16:00:00.000Z",
+   "desc": "De overheid heeft totaal geen zicht op de omvang van verouderde software, ondanks nieuwe cybersecurity-regels. Het Rijk beschikt niet over een centraal overzicht van systemen die draaien op software zonder beveiligingsupdates.",
+   "cats": [
+    "Overheid",
+    "IT Industry news",
+    "IT Strategy & Governance",
+    "IT Strategy & Transformation",
+    "Leadership & organisation",
+    "Regulatory Compliance",
+    "Security & Risk",
+    "Software & Development",
+    "Sourcing & Vendor Management",
+    "Vendor Management",
+    "CRA",
+    "Legacy",
+    "PHP"
    ]
   },
   {
@@ -2354,6 +2504,22 @@
     "Maatschappij",
     "Overheid"
    ]
+  },
+  {
+   "source": "NCSC",
+   "title": "AI-gebruik door bedrijven ruim verdubbeld",
+   "link": "https://www.ncsc.nl/nieuws/ai-gebruik-door-bedrijven-ruim-verdubbeld",
+   "date": "2026-11-26T15:44:23.000Z",
+   "desc": "Het Centraal Bureau voor de Statistiek (CBS) heeft nieuwe cijfers gepubliceerd over het gebruik van kunstmatige intelligentie (AI). Het AI-gebruik door bedrijven is ruim verdubbeld ten opzichte van een jaar eerder, met de sterkste toename binnen het mkb. Bovendien wordt AI vaker ingezet in bedrijfskritische processen, zoals bedrijfsadministratie en bestuur, onderzoek en innovatie (R&amp;D) en ICT-",
+   "cats": []
+  },
+  {
+   "source": "NCSC",
+   "title": "Actief misbruik van kwetsbaarheid in Drupal core: update direct",
+   "link": "https://www.ncsc.nl/alerts/actief-misbruik-van-kwetsbaarheid-in-drupal-core-update-direct",
+   "date": "2026-11-26T15:23:37.000Z",
+   "desc": "Er is een kwetsbaarheid gevonden in Drupal core, specifiek in het bestand install.php en in versies tot en met 10.6.22 en van 11.0.0 tot en met 11.4.13. Deze kwetsbaarheid wordt actief misbruikt en kan leiden tot ongeautoriseerde toegang tot je website. De kans op misbruik en de mogelijke schade worden beide als hoog beoordeeld. Het Nationaal Cyber Security Centrum (NCSC) adviseert om de beschikba",
+   "cats": []
   },
   {
    "source": "NCSC",
