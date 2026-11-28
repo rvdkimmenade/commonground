@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:48:49.067Z",
+ "updated": "2026-11-28T00:23:55.693Z",
  "sources": [
   "iBestuur",
   "Digitale Overheid",
@@ -10,6 +10,17 @@
   "NCSC"
  ],
  "items": [
+  {
+   "source": "iBestuur",
+   "title": "NCSC: 'Wapen je tegen AI-aanvallen'",
+   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/ncsc-wapen-je-tegen-ai-aanvallen",
+   "date": "2026-11-27T15:36:50.000Z",
+   "desc": "Niet de aard van de aanvallen, maar wel de snelheid en de kosten veranderen enorm door de inzet van AI-gestuurde frameworks.",
+   "cats": [
+    "Digitale Weerbaarheid",
+    "Digitale veiligheid"
+   ]
+  },
   {
    "source": "iBestuur",
    "title": "Oproep aan kabinet om OpenKAT te hergebruiken voor securityscanner",
@@ -1644,17 +1655,6 @@
    "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/nrc-defensiebedrijven-kwetsbaar-voor-cyberaanvallen",
    "date": "2026-10-14T08:21:34.000Z",
    "desc": "Volgens experts besteden bedrijven nog te weinig aandacht aan het daadwerkelijk opsporen van indringers.",
-   "cats": [
-    "Digitale Weerbaarheid",
-    "Digitale veiligheid"
-   ]
-  },
-  {
-   "source": "iBestuur",
-   "title": "Balans tussen nationale veiligheid en privacy onder druk",
-   "link": "https://ibestuur.nl/digitale-weerbaarheid/digitale-veiligheid/balans-tussen-nationale-veiligheid-en-privacy-onder-druk",
-   "date": "2026-10-14T07:30:38.000Z",
-   "desc": "Privacy First en Bits of Freedom waarschuwen dat nieuwe Wet bescherming nationale veiligheid te veel ruimte geeft aan veiligheidsdiensten.",
    "cats": [
     "Digitale Weerbaarheid",
     "Digitale veiligheid"
